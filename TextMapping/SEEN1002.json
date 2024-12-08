@@ -123,7 +123,7 @@
     {
       "JP": "`小毬@「あれですよ、私とごーですよ」",
       "EN": "`Komari@❝Well it's that, you and I GO.❞",
-      "Translation": "`小毬@「是那个啦，和我这—样的」"
+      "Translation": "`小毬@「是那个啦，和我这～样的」"
     },
     {
       "JP": "`理樹@「どれですか」",
@@ -213,7 +213,7 @@
     {
       "JP": "`小毬@「えーとね…」",
       "EN": "`Komari@❝Well...❞",
-      "Translation": "`小毬@「那个呢—…」"
+      "Translation": "`小毬@「那个呢～…」"
     },
     {
       "JP": "`小毬@「みずうみ」",
@@ -263,7 +263,7 @@
     {
       "JP": "土曜日。",
       "EN": "On Saturday.",
-      "Translation": "星期六"
+      "Translation": "星期六。"
     },
     {
       "JP": "小毬さんと校門前で待ち合わせをして、駅に向かうことになっていた。",
@@ -283,7 +283,7 @@
     {
       "JP": "`理樹@「えーと、ちょっと遊びに、かな」",
       "EN": "`Riki@❝Well, just out to have fun, I guess...❞",
-      "Translation": "`理树@「那个—，稍稍出去玩一下，算是吧」"
+      "Translation": "`理树@「那个～，稍稍出去玩一下，算是吧」"
     },
     {
       "JP": "…デートとか言うのも気恥ずかしい。",
@@ -303,7 +303,7 @@
     {
       "JP": "`真人@「うああぁあぁぁあぁぁあぁぁぁーーっ！」",
       "EN": "`Masato@❝Uwahhhhhhhhhhhhhhhhhhhhhhhhhhh!❞",
-      "Translation": "`真人@「呜啊啊啊啊啊啊啊啊啊啊啊啊啊——！」"
+      "Translation": "`真人@「呜啊啊啊啊啊啊啊啊啊啊啊啊啊！！！」"
     },
     {
       "JP": "`理樹@「真人には筋トレがあるじゃん？」",
@@ -383,7 +383,7 @@
     {
       "JP": "`理樹@「えーと、五分前にはつくな」",
       "EN": "`Riki@❝I seem to be five minutes ahead of the appointed time.❞",
-      "Translation": "`理树@「那么—，能提前五分钟到吧」"
+      "Translation": "`理树@「那么～，能提前五分钟到吧」"
     },
     {
       "JP": "携帯で時間を確認しながら校門に向かう。",
@@ -453,7 +453,7 @@
     {
       "JP": "`小毬@「よかったー」",
       "EN": "`Komari@❝Glad to hear that!❞",
-      "Translation": "`小毬@「太好了—」"
+      "Translation": "`小毬@「太好了～」"
     },
     {
       "JP": "`小毬@「一生懸命おめかししてきたんだよ」",
@@ -578,7 +578,7 @@
     {
       "JP": "`小毬@「うーん？」",
       "EN": "`Komari@❝Hmm?❞",
-      "Translation": "`小毬@「嗯—？」"
+      "Translation": "`小毬@「嗯～？」"
     },
     {
       "JP": "`理樹@「まあ、大抵みんなが一緒だったし、ふたりでどっか行ってもデートって言うかどうか」",
@@ -613,7 +613,7 @@
     {
       "JP": "`小毬@「とりあえずホームメイドなクッキーでもどうぞー」",
       "EN": "`Komari@❝Want some cookies? I made them.❞",
-      "Translation": "`小毬@「总之先来吃点自制的曲奇吧—」"
+      "Translation": "`小毬@「总之先来吃点自制的曲奇吧～」"
     },
     {
       "JP": "`小毬@「本当はこういうところで物とか食べちゃいけないから、ちょっと悪いこと」",
@@ -668,7 +668,7 @@
     {
       "JP": "`小毬@「うーん、そうかな？」",
       "EN": "`Komari@❝Hmm, are you sure?❞",
-      "Translation": "`小毬@「嗯—，是这样吗？」"
+      "Translation": "`小毬@「嗯～，是这样吗？」"
     },
     {
       "JP": "`理樹@「小毬さんの気にしすぎだよ」",
@@ -763,12 +763,12 @@
     {
       "JP": "`小毬@「うーん？」",
       "EN": "`Komari@❝Hmm?❞",
-      "Translation": "`小毬@「嗯—？」"
+      "Translation": "`小毬@「嗯～？」"
     },
     {
       "JP": "`小毬@「それはえーと、なんだっけ」",
       "EN": "`Komari@❝I think I know what it is.❞",
-      "Translation": "`小毬@「就是说那个—，什么来着的」"
+      "Translation": "`小毬@「就是说那个～，什么来着的」"
     },
     {
       "JP": "`小毬@「でかぷー？」",
@@ -833,7 +833,7 @@
     {
       "JP": "`理樹@「んー…タイミング悪かったみたいだね」",
       "EN": "`Riki@❝Hmm, bad timing, apparently.❞",
-      "Translation": "`理树@「嗯—…好像时机不好呢」"
+      "Translation": "`理树@「嗯～…好像时机不好呢」"
     },
     {
       "JP": "`小毬@「それじゃ、歩こうか」",
@@ -958,7 +958,7 @@
     {
       "JP": "`理樹@（小次郎さんは、あの施設を『ここ』って言ってたな）",
       "EN": "`Riki@(Because Kojirou-san implied that her brother used to be held at the facility he, Kojirou-san, was now staying at.)",
-      "Translation": "理树（小次郎说过，那座设施是在『这里』的）"
+      "Translation": "`理树@（小次郎说过，那座设施是在『这里』的）"
     },
     {
       "JP": "ということは、あの場所で…？",
@@ -1038,7 +1038,7 @@
     {
       "JP": "`小毬@「うーん？　でも、ここには何度か来てるから」",
       "EN": "`Komari@❝Hmm. But I've come here a couple of times before.❞",
-      "Translation": "`小毬@「嗯—？但是，来过这里好几次了」"
+      "Translation": "`小毬@「嗯～？但是，来过这里好几次了」"
     },
     {
       "JP": "`小毬@「その時は何か思い出そうなんて、全然考えてなかったけどね」",
@@ -1188,7 +1188,7 @@
     {
       "JP": "`小毬@「ふんふんふーん～」",
       "EN": "`Komari@❝Hun hun hun～.❞",
-      "Translation": "`小毬@「哼哼哼—～」"
+      "Translation": "`小毬@「哼哼哼～」"
     },
     {
       "JP": "小毬さんは何やらご機嫌な様子で鼻歌にあわせてリズムを取っていた。",
@@ -1368,7 +1368,7 @@
     {
       "JP": "`小毬@「ほわー、いっぱいいる～…」",
       "EN": "`Komari@❝Howah, there are lots of them～...❞",
-      "Translation": "`小毬@「呼哇—，有好多～…」"
+      "Translation": "`小毬@「呼哇～，有好多～…」"
     },
     {
       "JP": "…だいぶ夢中になってみているようだった。",
@@ -1558,7 +1558,7 @@
     {
       "JP": "`小毬@「あーうん、でもやっぱり会ってみたいのかもしれない」",
       "EN": "`Komari@❝Ah, but I think I want to meet him after all.❞",
-      "Translation": "`小毬@「啊呜—，但是果然还是想见一面也说不定」"
+      "Translation": "`小毬@「啊呜～，但是果然还是想见一面也说不定」"
     },
     {
       "JP": "`小毬@「よくわかんないや、そのあたりは」",
@@ -1678,7 +1678,7 @@
     {
       "JP": "`小毬@「うわあー、どうしよどうしよっ、ホントになんかわかんないけどものすごい嬉しいよ～」",
       "EN": "`Komari@❝Uwah, what should I do? What should I do? I really don't know, but I'm just so happy～.❞",
-      "Translation": "`小毬@「呜哇—，怎么办怎么办，虽然不知道但真的非常开心呢～」"
+      "Translation": "`小毬@「呜哇～，怎么办怎么办，虽然不知道但真的非常开心呢～」"
     },
     {
       "JP": "`理樹@「いや、なんか結構頑張ってカッコいいこと言ったつもりなんだけどさ…」",
@@ -1788,7 +1788,7 @@
     {
       "JP": "`小毬@「うーん…なんか理樹君に迷惑かけてばっかりだよ…」",
       "EN": "`Komari@❝Hmm... somehow it feels like I keep giving you trouble...❞",
-      "Translation": "`小毬@「嗯—…好像净是给理树君添麻烦了…」"
+      "Translation": "`小毬@「嗯～…好像净是给理树君添麻烦了…」"
     },
     {
       "JP": "`理樹@「別にそこは気にしないでいいけどさ」",
@@ -1943,7 +1943,7 @@
     {
       "JP": "だー、と走り去っていく。",
       "EN": "She dashed away.",
-      "Translation": "踏踏—，跑掉了。"
+      "Translation": "踏踏～，跑掉了。"
     },
     {
       "JP": "`理樹@「………」",
@@ -2393,7 +2393,7 @@
     {
       "JP": "`小毬@「うーん？　なんかよく覚えてないけど…」",
       "EN": "`Komari@❝Hmm. I don't remember well...❞",
-      "Translation": "`小毬@「嗯—？好像不是很记得了…」"
+      "Translation": "`小毬@「嗯～？好像不是很记得了…」"
     },
     {
       "JP": "`老人@「…そうね、小毬ちゃんは小さかったから」",
@@ -2458,7 +2458,7 @@
     {
       "JP": "うーん、と思わず考え込んでしまう。",
       "EN": "I pondered.",
-      "Translation": "嗯—，这样思考了起来。"
+      "Translation": "嗯～，这样思考了起来。"
     },
     {
       "JP": "`小毬@「理樹君？」",
