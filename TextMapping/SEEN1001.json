@@ -3818,12 +3818,12 @@
     {
       "JP": "`図書委員@「現在サーバーのメンテナンス中でネットは使用できません」",
       "EN": "`Librarian@❝The server is under maintenance. You can't use the Internet.❞",
-      "Translation": "图书委员@「服务器正在维护，现在不能上网呢」"
+      "Translation": "`图书委员@「服务器正在维护，现在不能上网呢」"
     },
     {
       "JP": "`図書委員@「ネットが…出来ないんです…」",
       "EN": "`Librarian@❝You... can't... use... the... Internet...❞",
-      "Translation": "图书委员@「现在…不能…上网……」"
+      "Translation": "`图书委员@「现在…不能…上网……」"
     },
     {
       "JP": "言い終えると、机に向かい前のめりに崩れ落ちる。",
@@ -5183,7 +5183,7 @@
     {
       "JP": "`小毬@「とりあえず、スイートポテトパイでもどうぞ～」",
       "EN": "`Komari@❝Anyways, try some sweet potato pie～!❞",
-      "Translation": "`小毬@「总而言之，来吃甜土豆派吧～」"
+      "Translation": "`小毬@「总而言之，来吃红薯派吧～」"
     },
     {
       "JP": "`理樹@「うん、貰おうかな」",
@@ -5483,7 +5483,7 @@
     {
       "JP": "`小次郎@「くわあああああああああああああああああああああああああああああああああああああああああああああああああああああっ!!」",
       "EN": "`Kojirou@❝KUWAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!❞",
-      "Translation": "`小次郎@「哦啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！」"
+      "Translation": "`小次郎@「哦啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！」"
     },
     {
       "JP": "`理樹@「ひいっ!?」",
