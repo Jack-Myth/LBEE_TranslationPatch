@@ -1275,7 +1275,7 @@
     {
       "JP": "`鈴@「こら、ダメだろ」",
       "EN": "`Rin@❝Hey, stop that.❞",
-      "Translation": "铃@「嘿，停下」"
+      "Translation": "`铃@「嘿，停下」"
     },
     {
       "JP": "にゃー！",
@@ -1290,12 +1290,12 @@
     {
       "JP": "`鈴@「爪折れちゃうと大変だろ」",
       "EN": "`Rin@❝It'll be awful if you break your claws.❞",
-      "Translation": "铃@「爪子弄坏了就麻烦了」"
+      "Translation": "`铃@「爪子弄坏了就麻烦了」"
     },
     {
       "JP": "`鈴@「爪研ぎは中庭の樹とかにしろ」",
       "EN": "`Rin@❝Go sharpen your claws on a tree in the courtyard.❞",
-      "Translation": "铃@「去中庭的树上磨爪子」"
+      "Translation": "`铃@「去中庭的树上磨爪子」"
     },
     {
       "JP": "にゃにゃ。",
@@ -1310,7 +1310,7 @@
     {
       "JP": "`鈴@「めっ」",
       "EN": "`Rin@❝Bad!❞",
-      "Translation": "铃@「不行」"
+      "Translation": "`铃@「不行」"
     },
     {
       "JP": "人差し指を立てて叱る。",
@@ -1320,7 +1320,7 @@
     {
       "JP": "`鈴@「わかったか？」",
       "EN": "`Rin@❝Got it?❞",
-      "Translation": "铃@「明白了吗？」"
+      "Translation": "`铃@「明白了吗？」"
     },
     {
       "JP": "にゃう。",
@@ -1335,7 +1335,7 @@
     {
       "JP": "`鈴@「もう行っていいぞ」",
       "EN": "`Rin@❝Okay, you can go now.❞",
-      "Translation": "铃@「好了，你可以走了」"
+      "Translation": "`铃@「好了，你可以走了」"
     },
     {
       "JP": "にゃー。",
@@ -1345,7 +1345,7 @@
     {
       "JP": "`鈴@「なんだ。遊んでほしいのか？」",
       "EN": "`Rin@❝What? Do you want to play?❞",
-      "Translation": "铃@「什么？想和我玩吗？」"
+      "Translation": "`铃@「什么？想和我玩吗？」"
     },
     {
       "JP": "にゃう。",
@@ -1355,7 +1355,7 @@
     {
       "JP": "`鈴@「甘えてもダメだ」",
       "EN": "`Rin@❝I can't spoil you.❞",
-      "Translation": "铃@「撒娇也不行哦」"
+      "Translation": "`铃@「撒娇也不行哦」"
     },
     {
       "JP": "にゃーー。",
@@ -1365,7 +1365,7 @@
     {
       "JP": "`鈴@「ダメだ…」",
       "EN": "`Rin@❝I can't...❞",
-      "Translation": "铃@「不行…」"
+      "Translation": "`铃@「不行…」"
     },
     {
       "JP": "にゃーーーー。",
@@ -1375,7 +1375,7 @@
     {
       "JP": "`鈴@「…ダメだけどしょーがないな…」",
       "EN": "`Rin@❝...I can't, but I have no choice...❞",
-      "Translation": "铃@「…虽然不行但没办法呢…」"
+      "Translation": "`铃@「…虽然不行但没办法呢…」"
     },
     {
       "JP": "甘っ！",
@@ -1385,17 +1385,17 @@
     {
       "JP": "`鈴@「お？　おまえの耳、なんか変わったな…」",
       "EN": "`Rin@❝Huh? Your ear looks a bit odd...❞",
-      "Translation": "铃@「哦？你的耳朵，好像变了…」"
+      "Translation": "`铃@「哦？你的耳朵，好像变了…」"
     },
     {
       "JP": "`鈴@「右に倒せなかっただろ。前」",
       "EN": "`Rin@❝Isn't it kinda bent to the right?❞",
-      "Translation": "铃@「以前不是向右弯的，对吧？」"
+      "Translation": "`铃@「以前不是向右弯的，对吧？」"
     },
     {
       "JP": "`鈴@「練習したのか？」",
       "EN": "`Rin@❝Have you been practicing?❞",
-      "Translation": "铃@「练习过吗？」"
+      "Translation": "`铃@「练习过吗？」"
     },
     {
       "JP": "にゃぉ。",
@@ -1405,7 +1405,7 @@
     {
       "JP": "`鈴@「おー。えらいな。練習は大事だ」",
       "EN": "`Rin@❝Oh, that's great. Practice is important.❞",
-      "Translation": "铃@「哦，很厉害嘛。练习很重要哦」"
+      "Translation": "`铃@「哦，很厉害嘛。练习很重要哦」"
     },
     {
       "JP": "にゃあ。",
@@ -1415,7 +1415,7 @@
     {
       "JP": "`鈴@「そうだな。次は耳でアクロバット飛行を見せてくれ」",
       "EN": "`Rin@❝Okay. Show me how you do aerobatics with your ears next time.❞",
-      "Translation": "铃@「好，下次用耳朵秀个特技飞行给我看」"
+      "Translation": "`铃@「好，下次用耳朵秀个特技飞行给我看」"
     },
     {
       "JP": "無理だからそれ。",
@@ -1425,7 +1425,7 @@
     {
       "JP": "`鈴@「…こら、柱に昇るなっ！」",
       "EN": "`Rin@❝...Hey, don't climb up the column!❞",
-      "Translation": "铃@「…喂，不要爬柱子！」"
+      "Translation": "`铃@「…喂，不要爬柱子！」"
     },
     {
       "JP": "鈴が一匹に構っている間に他の猫たちがわらわらと柱に群がる。",
@@ -1435,12 +1435,12 @@
     {
       "JP": "`鈴@「わぷっ！　尻尾振るなっ尻尾の樹みたいだろっ」",
       "EN": "`Rin@❝Wapu! Don't swing your tail, it's like a tree branch.❞",
-      "Translation": "铃@「哇！不要甩尾巴，像树枝一样了吧」"
+      "Translation": "`铃@「哇！不要甩尾巴，像树枝一样了吧」"
     },
     {
       "JP": "`鈴@「おりろっ」",
       "EN": "`Rin@❝Get down!❞",
-      "Translation": "铃@「下来！」"
+      "Translation": "`铃@「下来！」"
     },
     {
       "JP": "一匹一匹捕まえては丁寧に地面に下ろす鈴。",
@@ -1450,17 +1450,17 @@
     {
       "JP": "`鈴@「こういうときだけどうして言うこときかないんだおまえたちは…」",
       "EN": "`Rin@❝Why is it at times like this that you won't listen to me...❞",
-      "Translation": "铃@「为什么你们只有在这种时候不听话呢…」"
+      "Translation": "`铃@「为什么你们只有在这种时候不听话呢…」"
     },
     {
       "JP": "`鈴@「尻尾まみれになるところだった…」",
       "EN": "`Rin@❝You were about to get your tail dirty...❞",
-      "Translation": "铃@「尾巴差点就被缠住了…」"
+      "Translation": "`铃@「尾巴差点就被缠住了…」"
     },
     {
       "JP": "`鈴@「って、尻尾？」",
       "EN": "`Rin@❝Huh, tail?❞",
-      "Translation": "铃@「说起来，尾巴？」"
+      "Translation": "`铃@「说起来，尾巴？」"
     },
     {
       "JP": "鈴は小首をかしげた。",
@@ -1480,7 +1480,7 @@
     {
       "JP": "`鈴@「…みぎみぎひだりみぎみぎひだりっ」",
       "EN": "`Rin@❝...Right, right, left, right, right, left.❞",
-      "Translation": "铃@「…右右左右左右」"
+      "Translation": "`铃@「…右右左右左右」"
     },
     {
       "JP": "中庭の一角を占める猫の群れ。",
@@ -1490,7 +1490,7 @@
     {
       "JP": "`鈴@「ちがう、そこは右っ」",
       "EN": "`Rin@❝Wrong, it should be a right, there.❞",
-      "Translation": "铃@「不对，那边是右边」"
+      "Translation": "`铃@「不对，那边是右边」"
     },
     {
       "JP": "`理樹@（なにしてるんだろ？）",
@@ -1505,12 +1505,12 @@
     {
       "JP": "`鈴@「もっかいいくぞ」",
       "EN": "`Rin@❝One more time.❞",
-      "Translation": "铃@「再来一次哦」"
+      "Translation": "`铃@「再来一次哦」"
     },
     {
       "JP": "`鈴@「みぎみぎひだりみぎひだりみぎっ」",
       "EN": "`Rin@❝Right, right, left, right, left, right.❞",
-      "Translation": "铃@「右右左右右左右」"
+      "Translation": "`铃@「右右左右右左右」"
     },
     {
       "JP": "にゃーにゃー。",
@@ -1535,7 +1535,7 @@
     {
       "JP": "`鈴@「ひっかかったらだめだろ、おまえ」",
       "EN": "`Rin@❝Hey now, you can't grab it.❞",
-      "Translation": "铃@「抓住了可不行哦，你这家伙」"
+      "Translation": "`铃@「抓住了可不行哦，你这家伙」"
     },
     {
       "JP": "最後だけ方向を入れ替えたせいか、しましま猫がひっくり返った。",
@@ -1550,12 +1550,12 @@
     {
       "JP": "`鈴@「そしてもーどーでもよくなってるだろ…」",
       "EN": "`Rin@❝You don't care anymore...❞",
-      "Translation": "铃@「然后就变得无所谓了吧…」"
+      "Translation": "`铃@「然后就变得无所谓了吧…」"
     },
     {
       "JP": "`鈴@「あっ！」",
       "EN": "`Rin@❝Ah!❞",
-      "Translation": "铃@「啊！」"
+      "Translation": "`铃@「啊！」"
     },
     {
       "JP": "にゃー！",
@@ -1570,12 +1570,12 @@
     {
       "JP": "`鈴@「な、なんだやるきかー！」",
       "EN": "`Rin@❝What the... Looking for a fight!?❞",
-      "Translation": "铃@「什么…想打架吗！」"
+      "Translation": "`铃@「什么…想打架吗！」"
     },
     {
       "JP": "`鈴@「しゅっしゅ」",
       "EN": "`Rin@❝Shoo, shoo.❞",
-      "Translation": "铃@「嘘嘘」"
+      "Translation": "`铃@「嘘嘘」"
     },
     {
       "JP": "右右左右左右アッパー。",
@@ -1600,7 +1600,7 @@
     {
       "JP": "`鈴@「…おまえらに学習能力はないのか…」",
       "EN": "`Rin@❝...You never learn, do you...?❞",
-      "Translation": "铃@「…你们没有学习能力吗…」"
+      "Translation": "`铃@「…你们没有学习能力吗…」"
     },
     {
       "JP": "うなうな。ごろごろ。",
@@ -1610,7 +1610,7 @@
     {
       "JP": "`鈴@「やっぱりどーでもよくなってるんだろ…」",
       "EN": "`Rin@❝You don't care at all anymore, after all...❞",
-      "Translation": "铃@「果然还是无所谓了吧…」"
+      "Translation": "`铃@「果然还是无所谓了吧…」"
     },
     {
       "JP": "鈴は腰に両手をあててため息をついた。",
@@ -1620,12 +1620,12 @@
     {
       "JP": "`鈴@「いいけど」",
       "EN": "`Rin@❝It's okay, though.❞",
-      "Translation": "铃@「不过也好」"
+      "Translation": "`铃@「不过也好」"
     },
     {
       "JP": "`鈴@「続きやるから返せ」",
       "EN": "`Rin@❝Give it back so I can keep going.❞",
-      "Translation": "铃@「还要继续，快还给我」"
+      "Translation": "`铃@「还要继续，快还给我」"
     },
     {
       "JP": "にゃー！",
@@ -1635,7 +1635,7 @@
     {
       "JP": "`鈴@「あ、こら、逃げるな馬鹿っ」",
       "EN": "`Rin@❝Uh, hey, don't run, stupid!❞",
-      "Translation": "铃@「啊，喂，不要跑笨蛋」"
+      "Translation": "`铃@「啊，喂，不要跑笨蛋」"
     },
     {
       "JP": "走り出した猫は昼寝していた群れに突っ込む。",
