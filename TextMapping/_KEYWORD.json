@@ -28,17 +28,17 @@
       "JP1": "バラン",
       "JP2": "【バラン】$dお弁当などにおいて、食べ物を区切ったり、装飾のために入れる草を模した緑色のプラスチックシート。食べることはできません。",
       "EN1": "Baran sheet",
-      "Translation1": "Baran sheet",
+      "Translation1": "巴兰（バラン）",
       "EN2": "Baran sheet$dA small, green plastic sheet that is used to separate different types of food in a bento box. You may have seen them before in sushi bento boxes. Do not eat.",
-      "Translation2": "Baran sheet$dA small, green plastic sheet that is used to separate different types of food in a bento box. You may have seen them before in sushi bento boxes. Do not eat."
+      "Translation2": "巴兰（バラン）$d在便当之类的东西中，为了将食物分开或装饰而放入的模仿草的绿色塑料薄膜。不能吃。"
     },
     {
       "JP1": "麦茶",
       "JP2": "【麦茶】$d焙煎した大麦の種子を煎じて作るミネラルが豊富な飲料。茶とはいうが、茶葉は使わないためカフェインが含まれていない。",
       "EN1": "Barley tea",
-      "Translation1": "Barley tea",
+      "Translation1": "麦茶",
       "EN2": "Barley tea$dA type of tea made from roasted barley grains. Although called a tea, it does not contain any actual tea leaves and therefore contains no caffeine.",
-      "Translation2": "Barley tea$dA type of tea made from roasted barley grains. Although called a tea, it does not contain any actual tea leaves and therefore contains no caffeine."
+      "Translation2": "麦茶$用由烘焙过的大麦种子煎制而成的富含矿物质的饮料。虽说是茶，但因为不使用茶叶，所以不含咖啡因。"
     },
     {
       "JP1": "ぶらっくほわいと",
@@ -46,15 +46,15 @@
       "EN1": "Black-and-white",
       "Translation1": "Black-and-white",
       "EN2": "Black-and-white$dA wordplay from the Japanese word for confession, ❝kokuhaku❞ (告白). The pun is produced by replacing the character ❝koku❞ (告) with a homonym that stands for black (黒) and retaining the character ❝haku❞ (白), which stands for white. Translating this gives us the English phrase ❝burakku howaito❞.",
-      "Translation2": "Black-and-white$dA wordplay from the Japanese word for confession, ❝kokuhaku❞ (告白). The pun is produced by replacing the character ❝koku❞ (告) with a homonym that stands for black (黒) and retaining the character ❝haku❞ (白), which stands for white. Translating this gives us the English phrase ❝burakku howaito❞."
+      "Translation2": "Black-and-white$d将向喜欢的人传达心情的“告白”（こくはく），用与“告”（こく）同音异语的“黑”（こく）来混淆成“黑白”，再直接翻译成英语。"
     },
     {
       "JP1": "若山牧水",
       "JP2": "【若山牧水】$d19世紀後半から20世紀前半の明治、大正、昭和と3つの時代で活躍した短歌の作家。短歌は決まった五句体の合計31拍の言葉で作る詩。",
       "EN1": "Bokusui Wakayama",
-      "Translation1": "Bokusui Wakayama",
+      "Translation1": "若山牧水",
       "EN2": "Bokusui Wakayama$dA Japanese tanka author who was active during the Meiji, Taisho, and Showa periods in the late 19th and early 20th century. ",
-      "Translation2": "Bokusui Wakayama$dA Japanese tanka author who was active during the Meiji, Taisho, and Showa periods in the late 19th and early 20th century. "
+      "Translation2": "若山牧水$d活跃于19世纪后半期到20世纪前半期的明治、大正、昭和三个时代的短歌作家。短歌（たんか）是和歌（わか）的一个形式，有五句、三十一个音节。"
     },
     {
       "JP1": "玄米茶",
@@ -62,7 +62,7 @@
       "EN1": "Brown rice tea",
       "Translation1": "Brown rice tea",
       "EN2": "Brown rice tea$dA Japanese tea made from a blend of roasted brown rice and green tea. It has a light taste and a fragrant aroma, and unlike green tea, it is brown in color. Another example of a green tea that's brown in color is houjicha, the roasted green tea.",
-      "Translation2": "Brown rice tea$dA Japanese tea made from a blend of roasted brown rice and green tea. It has a light taste and a fragrant aroma, and unlike green tea, it is brown in color. Another example of a green tea that's brown in color is houjicha, the roasted green tea."
+      "Translation2": "玄米茶$d日本茶的一种。有清淡的味道和香味。与绿茶不同，玄米茶茶水的颜色不是绿色而是茶色。茶水同样为茶色的茶还有焙茶（ほうじ茶）等。"
     },
     {
       "JP1": "コールドゲーム",
@@ -70,71 +70,71 @@
       "EN1": "Called game",
       "Translation1": "Called game",
       "EN2": "Called game$dA baseball term that refers to a game where the umpire calls the game off for reasons such as weather.",
-      "Translation2": "Called game$dA baseball term that refers to a game where the umpire calls the game off for reasons such as weather."
+      "Translation2": "Called game$d指棒球等运动中因某些原因被裁判中止的比赛。在日本「凍結ゲーム」的意思是Cold Game。"
     },
     {
       "JP1": "筆ペン",
       "JP2": "【筆ペン】$dアジアの伝統的なペンの毛筆のような書き文字をインクで実現させるため開発されたペン。毎回毛筆に墨をつける必要なく、手軽に使える。",
       "EN1": "Calligraphy pen",
-      "Translation1": "Calligraphy pen",
+      "Translation1": "新式毛笔",
       "EN2": "Calligraphy pen$dA pen with a calligraphy brush-like tip designed to make writing using it resemble traditional Asian calligraphy. Unlike traditional calligraphy brushes, which need to be dipped in ink every few strokes, the calligraphy pen has an internal ink reservoir, making it easier and more convenient to use.",
-      "Translation2": "Calligraphy pen$dA pen with a calligraphy brush-like tip designed to make writing using it resemble traditional Asian calligraphy. Unlike traditional calligraphy brushes, which need to be dipped in ink every few strokes, the calligraphy pen has an internal ink reservoir, making it easier and more convenient to use."
+      "Translation2": "新式毛笔$d为了实现与传统的毛笔一样的书写效果而开发的笔，是毛笔和钢笔的结合体。不需要每次书写都蘸墨水，使用起来很方便。"
     },
     {
       "JP1": "カステラ",
       "JP2": "【カステラ】$d16世紀にポルトガルより日本の長崎に伝来した洋菓子を、日本独自に発展させた和菓子。スポンジ状の焼き菓子である。",
       "EN1": "Castella",
-      "Translation1": "Castella",
+      "Translation1": "长崎蛋糕",
       "EN2": "Castella$dA Japanese sponge cake influenced by the cakes that were first brought to the country by Portuguese merchants in the 16th century. The cake is speciality of Nagasaki.",
-      "Translation2": "Castella$dA Japanese sponge cake influenced by the cakes that were first brought to the country by Portuguese merchants in the 16th century. The cake is speciality of Nagasaki."
+      "Translation2": "长崎蛋糕$d长崎蛋糕是一种海绵状的烤点心。原型是16世纪由葡萄牙传入日本长崎的西式点心，之后在日本独立发展成日式点心。"
     },
     {
       "JP1": "チャーシュー",
       "JP2": "【チャーシュー】$d中国料理としては、豚肉に下ごしらえをしオーブンなどで焼いたもの。しかし日本のラーメンなどの具は、豚肉を醤油などのスープで煮込んだものが主になっている。",
       "EN1": "Char siu",
-      "Translation1": "Char siu",
+      "Translation1": "叉烧",
       "EN2": "Char siu$dA Chinese pork dish where the pork is roasted in an oven. However, the char siu used in ramen is generally simmered in soy sauce soup instead of roasted.",
-      "Translation2": "Char siu$dA Chinese pork dish where the pork is roasted in an oven. However, the char siu used in ramen is generally simmered in soy sauce soup instead of roasted."
+      "Translation2": "叉烧$d中国料理中叉烧的做法是先腌制猪肉再用烤箱等工具烤熟，而日本拉面中作为配菜的叉烧通常是用酱油汤煮制而成的。"
     },
     {
       "JP1": "ちーかま",
       "JP2": "【ちーかま】$dソーセージの様な見た目をしている魚肉を練った食べ物の「かまぼこ」の一種。なかにチーズが入っている。",
       "EN1": "Chikama",
-      "Translation1": "Chikama",
+      "Translation1": "起司鱼肠",
       "EN2": "Chikama$dA variant of a type of Japanese fish cake known as Kamaboko, chikama contains cheese and is shaped to resemble a sausage. Frequently eaten as a snack.",
-      "Translation2": "Chikama$dA variant of a type of Japanese fish cake known as Kamaboko, chikama contains cheese and is shaped to resemble a sausage. Frequently eaten as a snack."
+      "Translation2": "起司鱼肠$d用鱼肉做成的外观类似香肠的食物，里面添加了奶酪。原名ちーかま是チーズ（奶酪）和かまぼこ（鱼糕）的缩写。"
     },
     {
       "JP1": "元服",
       "JP2": "【元服】$d日本における成人を示す儀式。一般的には1900年に入る前に、法律で成人は20歳と決められ、行わなくなった。しかし一部の地域や職業では現在でも行われている。",
       "EN1": "Coming of age ceremony",
-      "Translation1": "Coming of age ceremony",
+      "Translation1": "元服",
       "EN2": "Coming of age ceremony$dThe genpuku is a coming of age ceremony that marks the cultural transition of a person from child to adult. The practice has mostly been abandoned after the age of majority was set at 20 in the late 19th century, but it is still celebrated in certain locales or occupations.",
-      "Translation2": "Coming of age ceremony$dThe genpuku is a coming of age ceremony that marks the cultural transition of a person from child to adult. The practice has mostly been abandoned after the age of majority was set at 20 in the late 19th century, but it is still celebrated in certain locales or occupations."
+      "Translation2": "元服$d日本的成人仪式，参与人年龄范围大概为12岁到16岁。一般认为20世纪之前，在法定成人年龄改为了20岁后，人们便不再进行元服了。但是日本的一些地区和职业现在仍然在进行这种仪式。"
     },
     {
       "JP1": "コロッケそば",
       "JP2": "【コロッケそば】$d茹でたジャガイモをつぶしたものをベースにつくられる日本の洋食「コロッケ」と、穀物のソバの実を原料とした日本の麺類「そば」が融合したメニュー。そばのコロッケトッピング。",
       "EN1": "Croquette soba",
-      "Translation1": "Croquette soba",
+      "Translation1": "炸肉饼荞麦面",
       "EN2": "Croquette soba$dA Japanese dish that combines Japanese-style deep-fried croquettes, made with a mashed potato base, and Japanese buckwheat soba noodles. Is the main component the croquette or the soba? The answer is yes.",
-      "Translation2": "Croquette soba$dA Japanese dish that combines Japanese-style deep-fried croquettes, made with a mashed potato base, and Japanese buckwheat soba noodles. Is the main component the croquette or the soba? The answer is yes."
+      "Translation2": "炸肉饼荞麦面$d以煮好的土豆泥为基础制作的日式西餐「炸肉饼」和以谷物荞麦为原料的日本面类「荞麦面」融合而成的菜品。"
     },
     {
       "JP1": "だし巻き玉子",
       "JP2": "【だし巻き玉子】$d溶き卵に出汁を混ぜて作る玉子料理。スクランブルエッグのように崩さずに固めたもの。また、日本での目玉焼きはサニーサイドアップが基本。",
       "EN1": "Dashimaki tamago",
-      "Translation1": "Dashimaki tamago",
+      "Translation1": "玉子烧",
       "EN2": "Dashimaki tamago$dAn egg dish made by mixing dashi soup stock into beaten eggs. Unlike scrambled eggs, the eggs are firm and rigid. Also relevant is the fact that sunny side up is the only proper way to fry an egg in Japan.",
-      "Translation2": "Dashimaki tamago$dAn egg dish made by mixing dashi soup stock into beaten eggs. Unlike scrambled eggs, the eggs are firm and rigid. Also relevant is the fact that sunny side up is the only proper way to fry an egg in Japan."
+      "Translation2": "玉子烧$d一种用搅拌好的蛋液和出汁混合制作的鸡蛋料理。与炒鸡蛋不同，玉子烧是一块一块的，口感比较绵密。另外，在日本「Sunny side up」（只煎鸡蛋的一面）是煎鸡蛋最常见的方法。"
     },
     {
       "JP1": "般若の面",
       "JP2": "【般若の面】$d舞踊の「能楽」や「神楽」で使われる仮面で、嫉妬や妬みを持つ女の顔をイメージ化したもの。",
       "EN1": "Demon mask",
-      "Translation1": "Demon mask",
+      "Translation1": "般若之面",
       "EN2": "Demon mask$dA mask used in Noh and Kagura theater. The face of the mask symbolizes jealousy and is used to represent jealous women.",
-      "Translation2": "Demon mask$dA mask used in Noh and Kagura theater. The face of the mask symbolizes jealousy and is used to represent jealous women."
+      "Translation2": "般若之面$d日本艺术表演「能乐」和「神乐」中以嫉妒的女人为原型的面具，表达的是嫉妒的感情。"
     },
     {
       "JP1": "どきどき",
@@ -142,55 +142,55 @@
       "EN1": "Dokidoki",
       "Translation1": "Dokidoki",
       "EN2": "Dokidoki$dA Japanese onomatopoeia that imitates the sound of rapid heartbeats as induced by exercise, fright, or anxiety. It can also be used as a verb.",
-      "Translation2": "Dokidoki$dA Japanese onomatopoeia that imitates the sound of rapid heartbeats as induced by exercise, fright, or anxiety. It can also be used as a verb."
+      "Translation2": "Dokidoki$d由于运动、恐惧、不安等原因而心跳加速时产生的声音。是日本的拟声词，也可以用作动词。"
     },
     {
       "JP1": "浮世絵",
       "JP2": "【浮世絵】$d絵画のジャンルのひとつ。さまざまな絵師が、さまざまなものを仕上げた。19世紀にヨーロッパに伝わり、「ジャポニズム」のひとつとして、作家たちに大きな影響を与えた。",
       "EN1": "Edo period print",
-      "Translation1": "Edo period print",
+      "Translation1": "浮世绘",
       "EN2": "Edo period print$dA form of Japanese art, also known as ukiyo-e, that features a variety of Japanese subjects such as people, scenery, or folk tales. In the 19th century, the art form spread to Europe and influenced many artists as a form of Japonism.",
-      "Translation2": "Edo period print$dA form of Japanese art, also known as ukiyo-e, that features a variety of Japanese subjects such as people, scenery, or folk tales. In the 19th century, the art form spread to Europe and influenced many artists as a form of Japonism."
+      "Translation2": "浮世绘$d一种绘画的类型。浮世绘描绘的内容包罗万象，如人物、风景、花鸟等。浮世绘于19世纪传入欧洲，作为「日本主义」（法语Japonism）的内容之一，对欧洲艺术家产生了很大的影响。"
     },
     {
       "JP1": "うなぎパイ",
       "JP2": "【うなぎパイ】$d日本ではとてもポピュラーなお土産品。うなぎという魚のエキスを生地に練り込んだパイ。うなぎをぶつ切りにした「Eel pie」とは少し異なる。",
       "EN1": "Eel pie",
-      "Translation1": "Eel pie",
+      "Translation1": "鳗鱼派",
       "EN2": "Eel pie$dA popular Japanese souvenir. Unlike the eel pies found in west, which generally use chunks of eel as a filling, the Japanese eel pie is made with dough that has been mixed with eel extract.",
-      "Translation2": "Eel pie$dA popular Japanese souvenir. Unlike the eel pies found in west, which generally use chunks of eel as a filling, the Japanese eel pie is made with dough that has been mixed with eel extract."
+      "Translation2": "鳗鱼派$d一种很受欢迎的日本特产，是鳗鱼提取物与面团混合后烤制而成的脆饼干，与英国的将鳗鱼切块后放在面团上烤的「Eel pie」（类似仰望星空派）稍有不同。"
     },
     {
       "JP1": "演歌",
       "JP2": "【演歌】$d歌謡曲のジャンルのひとつ。日本人独特な感覚や情念を基にした歌詞が多い。",
       "EN1": "Enka",
-      "Translation1": "Enka",
+      "Translation1": "演歌",
       "EN2": "Enka$dA genre of traditional Japanese music. The genre's lyrics often reflect unique Japanese sentiments and passions.",
-      "Translation2": "Enka$dA genre of traditional Japanese music. The genre's lyrics often reflect unique Japanese sentiments and passions."
+      "Translation2": "演歌$d一种日本传统音乐，歌词主要以日本人独特的情感和感受为基础。"
     },
     {
       "JP1": "為せば成る、為さねば成らぬ何ごとも",
       "JP2": "【為せば成る、為さねば成らぬ何ごとも】$d19世紀、上杉鷹山という名君の言葉で、「何事も意志を持てばできる、意志がなければ成功しない」という意味。16世紀の武田信玄という武将の言葉を言い換えている。",
       "EN1": "Everything is impossible until you try",
-      "Translation1": "Everything is impossible until you try",
+      "Translation1": "为则成，不为则不成",
       "EN2": "Everything is impossible until you try$dA quote by the 19th century daimyo Uesugi Youzan, itself a rewording of a quote by the 16th century daimyo Takeda Shingen.",
-      "Translation2": "Everything is impossible until you try$dA quote by the 19th century daimyo Uesugi Youzan, itself a rewording of a quote by the 16th century daimyo Takeda Shingen."
+      "Translation2": "为则成，不为则不成$d19世纪的明君上杉鹰山的名言，意思是「任何事只要有意志就可以做到，没有意志的人是不会成功的」。这句话是由16世纪著名政治家武田信玄的话化用而来的。"
     },
     {
       "JP1": "花札",
       "JP2": "【花札】$d日本のカードゲーム。12か月、さまざまな花や動物などが描かれたカードを2人や3人で遊ぶ。",
       "EN1": "Flower cards [hanafuda]",
-      "Translation1": "Flower cards [hanafuda]",
+      "Translation1": "花札",
       "EN2": "Flower cards [hanafuda]$dA Japanese card game known as hanafuda that features cards with illustrations of each month of the year, flowers, and animals. Generally played with two or three players.",
-      "Translation2": "Flower cards [hanafuda]$dA Japanese card game known as hanafuda that features cards with illustrations of each month of the year, flowers, and animals. Generally played with two or three players."
+      "Translation2": "花札$d一种日本纸牌游戏，是2到3名玩家使用画着12个月份中的各种花朵、动物等图案的卡片进行的游戏。"
     },
     {
       "JP1": "布団",
       "JP2": "【布団】$d日本では広く使われる寝具のひとつ。部屋の床などの上に直接敷き、不要な時はたたんでしまうこともできる。いつでも寝られるように、敷きっぱなしにしている人もいる。",
       "EN1": "Futon",
-      "Translation1": "Futon",
+      "Translation1": "被褥",
       "EN2": "Futon$dA piece of Japanese furniture used for sleeping. A futon is comprised of a thin cotton or wool mattress and a blanket. In Japan, the futon is usually laid directly on the floor and stowed away during the day. There are also people who don't put the futon away so they can sleep at any time.",
-      "Translation2": "Futon$dA piece of Japanese furniture used for sleeping. A futon is comprised of a thin cotton or wool mattress and a blanket. In Japan, the futon is usually laid directly on the floor and stowed away during the day. There are also people who don't put the futon away so they can sleep at any time."
+      "Translation2": "被褥$d日本使用最广泛的寝具之一，通常由薄棉或羊毛的床垫以及毯子构成。它可以直接放在房间的地板上，不用时可以折叠后收纳起来。有些人把它放在外面是为了能随时睡觉。"
     },
     {
       "JP1": "ゴゴティー",
@@ -198,47 +198,47 @@
       "EN1": "Go-Go tea",
       "Translation1": "Go-Go tea",
       "EN2": "Go-Go tea$dA nickname given to a popular Japanese bottled tea brand.",
-      "Translation2": "Go-Go tea$dA nickname given to a popular Japanese bottled tea brand."
+      "Translation2": "Go-Go tea$d对日本的一种瓶装红茶的爱称。"
     },
     {
       "JP1": "囲碁",
       "JP2": "【囲碁】$d中国伝来のボードゲームで、2人で勝負を行う。白と黒の石を交互に配置し、より広い範囲を確保した方が勝ち。",
       "EN1": "Go",
-      "Translation1": "Go",
+      "Translation1": "围棋",
       "EN2": "Go$dA board game that originated from China. In go, two players, playing the black or white pieces, take turns to place stones to surround a larger total area of the board.",
-      "Translation2": "Go$dA board game that originated from China. In go, two players, playing the black or white pieces, take turns to place stones to surround a larger total area of the board."
+      "Translation2": "围棋$d一种起源于中国的双人棋类游戏，两个人分别往棋盘上放置白子和黑子，最终占据最大面积的玩家获胜。"
     },
     {
       "JP1": "鶴の恩返し",
       "JP2": "【鶴の恩返し】$d日本の民話。罠にかかった鶴を助けた老人にもとに、その鶴が女性の姿に変えて、恩を返すという物語。",
       "EN1": "Grateful Crane",
-      "Translation1": "Grateful Crane",
+      "Translation1": "鹤的报恩",
       "EN2": "Grateful Crane$dA Japanese folk tale of an elderly man who rescued a crane from a hunter's trap. The crane later transformed into a young woman to return the favor to the man and his wife.",
-      "Translation2": "Grateful Crane$dA Japanese folk tale of an elderly man who rescued a crane from a hunter's trap. The crane later transformed into a young woman to return the favor to the man and his wife."
+      "Translation2": "鹤的报恩$d一个日本民间故事。是一只落入陷阱的鹤因为被老人救起而化身为一名女子报答老人的故事。"
     },
     {
       "JP1": "青汁",
       "JP2": "【青汁】$d緑葉野菜などを絞った健康飲料。名前に「青」と付いているが、実際は緑色である。",
       "EN1": "Green juice [aojiru]",
-      "Translation1": "Green juice [aojiru]",
+      "Translation1": "青汁（あおじる）",
       "EN2": "Green juice [aojiru]$dA vegetable-based juice often drunk as a health beverage. The literal meaning of the Japanese name, aojiru, is actually blue juice, but it's very, very green.",
-      "Translation2": "Green juice [aojiru]$dA vegetable-based juice often drunk as a health beverage. The literal meaning of the Japanese name, aojiru, is actually blue juice, but it's very, very green."
+      "Translation2": "青汁（あおじる）$d用绿叶蔬菜榨的汁制成的健康饮料。虽然名字里有「蓝」（あお的意思是蓝色的），但其实它是绿色的。"
     },
     {
       "JP1": "餃子",
       "JP2": "【餃子】$d小麦粉を原料にした皮で、肉やエビ、野菜で作った具を包、焼いたりした食べ物。",
       "EN1": "Gyoza",
-      "Translation1": "Gyoza",
+      "Translation1": "饺子",
       "EN2": "Gyoza$dA pan-fried dumpling that contains ingredients such as meat, shrimp, or vegetables wrapped in a flour dough skin.",
-      "Translation2": "Gyoza$dA pan-fried dumpling that contains ingredients such as meat, shrimp, or vegetables wrapped in a flour dough skin."
+      "Translation2": "饺子$d用面皮和肉、菜、虾等馅料包成的食物。日本的饺子一般指煎饺。"
     },
     {
       "JP1": "袴",
       "JP2": "【袴】$d日本古来の衣服の一種。主に礼装や、剣道などの日本武術などで着用される。また巫女装束の緋袴はとくに有名。いろいろな種類や色がある。",
       "EN1": "Hakama",
-      "Translation1": "Hakama",
+      "Translation1": "袴",
       "EN2": "Hakama$dA traditional Japanese pants tied at the waist and worn over a kimono. It is a ceremonial dress often worn in martial art settings. Hakama come in many varieties and colors; the red hakama worn by shrine maidens are particularly well-known.",
-      "Translation2": "Hakama$dA traditional Japanese pants tied at the waist and worn over a kimono. It is a ceremonial dress often worn in martial art settings. Hakama come in many varieties and colors; the red hakama worn by shrine maidens are particularly well-known."
+      "Translation2": "袴$d一种日本传统服装。主要用作正式场合的礼服和剑道等日本武术的演出服，有许多不同类型和颜色。日本的巫女所穿的朱红色袴尤为有名。"
     },
     {
       "JP1": "ハラキリ",
