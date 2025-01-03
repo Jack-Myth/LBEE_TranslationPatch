@@ -3,129 +3,129 @@
     {
       "JP1": "$(3,0)ＶＳ$(4,0)　バトル中　　　",
       "EN1": "$(3,1) VS $(4,1). Battle rages on$I0{630} ",
-      "Translation1": "$(3,1) VS $(4,1). Battle rages on$I0{630} "
+      "Translation1": "$(3,1) VS $(4,1)  战斗中 "
     },
     {
       "JP1": "$(3,0)ＶＳ$(4,0)　バトル中…　　",
       "EN1": "$(3,1) VS $(4,1). Battle rages on...$I0{630} ",
-      "Translation1": "$(3,1) VS $(4,1). Battle rages on...$I0{630} "
+      "Translation1": "$(3,1) VS $(4,1)  战斗中… "
     },
     {
       "JP1": "$(3,0)ＶＳ$(4,0)　バトル中……　",
       "EN1": "$(3,1) VS $(4,1). Battle rages on......$I0{630} ",
-      "Translation1": "$(3,1) VS $(4,1). Battle rages on......$I0{630} "
+      "Translation1": "$(3,1) VS $(4,1)  战斗中…… "
     },
     {
       "JP1": "$(3,0)ＶＳ$(4,0)　バトル中………",
       "EN1": "$(3,1) VS $(4,1). Battle rages on.........$I0{630} ",
-      "Translation1": "$(3,1) VS $(4,1). Battle rages on.........$I0{630} "
+      "Translation1": "$(3,1) VS $(4,1)  战斗中……… "
     },
     {
       "JP1": "$(3,0)は$(4,0)に勝利した！",
       "EN1": "$(3,1) has beaten $(4,1)!",
-      "Translation1": "$(3,1) has beaten $(4,1)!"
+      "Translation1": "$(3,1)击败了$(4,1)！"
     },
     {
       "JP1": "$(4,0)は$(3,0)に勝利した！",
       "EN1": "$(4,1) has beaten $(3,1)!",
-      "Translation1": "$(4,1) has beaten $(3,1)!"
+      "Translation1": "$(4,1)击败了$(3,1)！"
     },
     {
       "JP1": "$(3,0)と$(4,0)は引き分けた！",
       "EN1": "$(3,1)'s battle with $(4,1) ends in a draw!",
-      "Translation1": "$(3,1)'s battle with $(4,1) ends in a draw!"
+      "Translation1": "$(3,1)和$(4,1)的战斗平局了！"
     }
   ],
   "MESSAGE": [
     {
       "JP": "よし、強い相手を求めて、校内をさまよってみよう。",
       "EN": "Seeking a strong opponent, I wander around the campus.",
-      "Translation": "Seeking a strong opponent, I wander around the campus."
+      "Translation": "好，在学校里逛一圈，找个强大的对手吧。"
     },
     {
       "JP": "よし、強い相手を求めて、あてなくさまよってみよう。",
       "EN": "Looking around for a strong opponent, I wander aimlessly.",
-      "Translation": "Looking around for a strong opponent, I wander aimlessly."
+      "Translation": "好，漫无目的地逛一圈，找个强大的对手吧。"
     },
     {
       "JP": "乗り気はしないけど、仕方なく謙吾を探す。",
       "EN": "Unthrilled about it, I reluctantly search for Kengo.",
-      "Translation": "Unthrilled about it, I reluctantly search for Kengo."
+      "Translation": "虽然不太愿意，但还是不得不去找谦吾。"
     },
     {
       "JP": "鈴《$V(#6451+1)位》が現れた。",
       "EN": "Rin《Rank $v(#6451+1)》appeared.",
-      "Translation": "Rin《Rank $v(#6451+1)》appeared."
+      "Translation": "铃《Rank $v(#6451+1)》出现了。"
     },
     {
       "JP": "小毬《$V(#6452+1)位》が現れた。",
       "EN": "Komari《Rank $v(#6452+1)》appeared.",
-      "Translation": "Komari《Rank $v(#6452+1)》appeared."
+      "Translation": "小毬《Rank $v(#6452+1)》出现了。"
     },
     {
       "JP": "来ヶ谷《$V(#6453+1)位》が現れた。",
       "EN": "Kurugaya《Rank $v(#6453+1)》appeared.",
-      "Translation": "Kurugaya《Rank $v(#6453+1)》appeared."
+      "Translation": "来谷《Rank $v(#6453+1)》出现了。"
     },
     {
       "JP": "クド《$V(#6454+1)位》が現れた。",
       "EN": "Kud《Rank $v(#6454+1)》appeared.",
-      "Translation": "Kud《Rank $v(#6454+1)》appeared."
+      "Translation": "库特《Rank $v(#6454+1)》出现了。"
     },
     {
       "JP": "葉留佳《$V(#6455+1)位》が現れた。",
       "EN": "Haruka《Rank $v(#6455+1)》appeared.",
-      "Translation": "Haruka《Rank $v(#6455+1)》appeared."
+      "Translation": "叶留佳《Rank $v(#6455+1)》出现了。"
     },
     {
       "JP": "美魚《$V(#6456+1)位》が現れた。",
       "EN": "Mio《Rank $v(#6456+1)》appeared.",
-      "Translation": "Mio《Rank $v(#6456+1)》appeared."
+      "Translation": "美鱼《Rank $v(#6456+1)》出现了。"
     },
     {
       "JP": "理樹《$V(#6457+1)位》が現れた。",
       "EN": "Riki《Rank $v(#6457+1)》appeared.",
-      "Translation": "Riki《Rank $v(#6457+1)》appeared."
+      "Translation": "理树《Rank $v(#6457+1)》出现了。"
     },
     {
       "JP": "真人《$V(#6458+1)位》が現れた。",
       "EN": "Masato《Rank $v(#6458+1)》appeared.",
-      "Translation": "Masato《Rank $v(#6458+1)》appeared."
+      "Translation": "真人《Rank $v(#6458+1)》出现了。"
     },
     {
       "JP": "謙吾《$V(#6459+1)位》が現れた。",
       "EN": "Kengo《Rank $v(#6459+1)》appeared.",
-      "Translation": "Kengo《Rank $v(#6459+1)》appeared."
+      "Translation": "谦吾《Rank $v(#6459+1)》出现了。"
     },
     {
       "JP": "恭介《$V(#6460+1)位》が現れた。",
       "EN": "Kyousuke《Rank $v(#6460+1)》appeared.",
-      "Translation": "Kyousuke《Rank $v(#6460+1)》appeared."
+      "Translation": "恭介《Rank $v(#6460+1)》出现了。"
     },
     {
       "JP": "マスクザ斉藤《$V(#6461+1)位》が現れた。",
       "EN": "Mask the Saito《Rank $v(#6461+1)》appeared.",
-      "Translation": "Mask the Saito《Rank $v(#6461+1)》appeared."
+      "Translation": "假面齐藤《Rank $v(#6461+1)》出现了。"
     },
     {
       "JP": "佐々美《$V(#6462+1)位》が現れた。",
       "EN": "Sasami《Rank $v(#6462+1)》appeared.",
-      "Translation": "Sasami《Rank $v(#6462+1)》appeared."
+      "Translation": "佐佐美《Rank $v(#6462+1)》出现了。"
     },
     {
       "JP": "ソフト部員《$V(#6463+1)位》が現れた。",
       "EN": "Club Member《Rank $v(#6463+1)》appeared.",
-      "Translation": "Club Member《Rank $v(#6463+1)》appeared."
+      "Translation": "Club成员《Rank $v(#6463+1)》出现了。"
     },
     {
       "JP": "謎の生命体《$V(#6464+1)位》が現れた。",
       "EN": "Unknown Lifeform《Rank $v(#6464+1)》appeared.",
-      "Translation": "Unknown Lifeform《Rank $v(#6464+1)》appeared."
+      "Translation": "谜之生物《Rank $v(#6464+1)》出现了。"
     },
     {
       "JP": "他４《$V(#6465+1)位》が現れた。",
       "EN": "Other 4《Rank $v(#6465+1)》appeared.",
-      "Translation": "Other 4《Rank $v(#6465+1)》appeared."
+      "Translation": "他4《Rank $v(#6465+1)》出现了。"
     },
     {
       "JP": "`恭介@「武器には様々な攻撃特性がある。出来るだけ有利な武器で戦いたいもんだな」",
@@ -170,232 +170,232 @@
     {
       "JP": "そう言い残して、恭介は立ち去った。",
       "EN": "Kyousuke left me with these words.",
-      "Translation": "Kyousuke left me with these words."
+      "Translation": "说完，恭介转身离开了。"
     },
     {
       "JP": "鈴は立ち去った。",
       "EN": "Rin leaves.",
-      "Translation": "Rin leaves."
+      "Translation": "铃走开了。"
     },
     {
       "JP": "小毬は立ち去った。",
       "EN": "Komari leaves.",
-      "Translation": "Komari leaves."
+      "Translation": "小毬走开了。"
     },
     {
       "JP": "来ヶ谷は立ち去った。",
       "EN": "Kurugaya leaves.",
-      "Translation": "Kurugaya leaves."
+      "Translation": "来谷走开了。"
     },
     {
       "JP": "クドは立ち去った。",
       "EN": "Kud leaves.",
-      "Translation": "Kud leaves."
+      "Translation": "库特走开了、"
     },
     {
       "JP": "葉留佳は立ち去った。",
       "EN": "Haruka leaves.",
-      "Translation": "Haruka leaves."
+      "Translation": "叶留佳走开了。"
     },
     {
       "JP": "美魚は立ち去った。",
       "EN": "Mio leaves.",
-      "Translation": "Mio leaves."
+      "Translation": "美鱼走开了。"
     },
     {
       "JP": "理樹は立ち去った。",
       "EN": "Riki leaves.",
-      "Translation": "Riki leaves."
+      "Translation": "理树走开了。"
     },
     {
       "JP": "真人は立ち去った。",
       "EN": "Masato leaves.",
-      "Translation": "Masato leaves."
+      "Translation": "真人走开了。"
     },
     {
       "JP": "謙吾は立ち去った。",
       "EN": "Kengo leaves.",
-      "Translation": "Kengo leaves."
+      "Translation": "谦吾走开了。"
     },
     {
       "JP": "恭介は立ち去った。",
       "EN": "Kyousuke leaves.",
-      "Translation": "Kyousuke leaves."
+      "Translation": "恭介走开了。"
     },
     {
       "JP": "マスクザ斉藤は立ち去った。",
       "EN": "Mask the Saito leaves.",
-      "Translation": "Mask the Saito leaves."
+      "Translation": "假面齐藤走开了。"
     },
     {
       "JP": "佐々美は立ち去った。",
       "EN": "Sasami leaves.",
-      "Translation": "Sasami leaves."
+      "Translation": "佐佐美走开了。"
     },
     {
       "JP": "ソフト部員は立ち去った。",
       "EN": "Club Member leaves.",
-      "Translation": "Club Member leaves."
+      "Translation": "Club成员走开了。"
     },
     {
       "JP": "謎の生命体は立ち去った。",
       "EN": "Unknown Lifeform leaves.",
-      "Translation": "Unknown Lifeform leaves."
+      "Translation": "谜之生物走开了。"
     },
     {
       "JP": "他４は立ち去った。",
       "EN": "Other 4 leaves.",
-      "Translation": "Other 4 leaves."
+      "Translation": "他4走开了。"
     },
     {
       "JP": "鈴は立ち去った。",
       "EN": "Rin leaves.",
-      "Translation": "Rin leaves."
+      "Translation": "铃走开了。"
     },
     {
       "JP": "小毬は立ち去った。",
       "EN": "Komari leaves.",
-      "Translation": "Komari leaves."
+      "Translation": "小毬走开了。"
     },
     {
       "JP": "来ヶ谷は立ち去った。",
       "EN": "Kurugaya leaves.",
-      "Translation": "Kurugaya leaves."
+      "Translation": "来谷走开了。"
     },
     {
       "JP": "クドは立ち去った。",
       "EN": "Kud leaves.",
-      "Translation": "Kud leaves."
+      "Translation": "库特走开了。"
     },
     {
       "JP": "葉留佳は立ち去った。",
       "EN": "Haruka leaves.",
-      "Translation": "Haruka leaves."
+      "Translation": "叶留佳走开了。"
     },
     {
       "JP": "美魚は立ち去った。",
       "EN": "Mio leaves.",
-      "Translation": "Mio leaves."
+      "Translation": "美鱼走开了。"
     },
     {
       "JP": "理樹は立ち去った。",
       "EN": "Riki leaves.",
-      "Translation": "Riki leaves."
+      "Translation": "理树走开了。"
     },
     {
       "JP": "真人は立ち去った。",
       "EN": "Masato leaves.",
-      "Translation": "Masato leaves."
+      "Translation": "真人走开了。"
     },
     {
       "JP": "謙吾は立ち去った。",
       "EN": "Kengo leaves.",
-      "Translation": "Kengo leaves."
+      "Translation": "谦吾走开了。"
     },
     {
       "JP": "恭介は立ち去った。",
       "EN": "Kyousuke leaves.",
-      "Translation": "Kyousuke leaves."
+      "Translation": "恭介走开了。
     },
     {
       "JP": "マスクザ斉藤は立ち去った。",
       "EN": "Mask the Saito leaves.",
-      "Translation": "Mask the Saito leaves."
+      "Translation": "假面齐藤走开了。"
     },
     {
       "JP": "佐々美は立ち去った。",
       "EN": "Sasami leaves.",
-      "Translation": "Sasami leaves."
+      "Translation": "佐佐美走开了。"
     },
     {
       "JP": "ソフト部員は立ち去った。",
       "EN": "Club Member leaves.",
-      "Translation": "Club Member leaves."
+      "Translation": "Club成员走开了。"
     },
     {
       "JP": "謎の生命体は立ち去った。",
       "EN": "Unknown Lifeform leaves.",
-      "Translation": "Unknown Lifeform leaves."
+      "Translation": "谜之生物走开了。"
     },
     {
       "JP": "他４は立ち去った。",
       "EN": "Other 4 leaves.",
-      "Translation": "Other 4 leaves."
+      "Translation": "他4走开了。"
     },
     {
       "JP": "鈴は立ち去った。",
       "EN": "Rin leaves.",
-      "Translation": "Rin leaves."
+      "Translation": "铃走开了。"
     },
     {
       "JP": "小毬は立ち去った。",
       "EN": "Komari leaves.",
-      "Translation": "Komari leaves."
+      "Translation": "小毬走开了。"
     },
     {
       "JP": "来ヶ谷は立ち去った。",
       "EN": "Kurugaya leaves.",
-      "Translation": "Kurugaya leaves."
+      "Translation": "来谷走开了。"
     },
     {
       "JP": "クドは立ち去った。",
       "EN": "Kud leaves.",
-      "Translation": "Kud leaves."
+      "Translation": "库特走开了。"
     },
     {
       "JP": "葉留佳は立ち去った。",
       "EN": "Haruka leaves.",
-      "Translation": "Haruka leaves."
+      "Translation": "叶留佳走开了。"
     },
     {
       "JP": "美魚は立ち去った。",
       "EN": "Mio leaves.",
-      "Translation": "Mio leaves."
+      "Translation": "美鱼走开了。"
     },
     {
       "JP": "理樹は立ち去った。",
       "EN": "Riki leaves.",
-      "Translation": "Riki leaves."
+      "Translation": "理树走开了。"
     },
     {
       "JP": "真人は立ち去った。",
       "EN": "Masato leaves.",
-      "Translation": "Masato leaves."
+      "Translation": "真人走开了。"
     },
     {
       "JP": "謙吾は立ち去った。",
       "EN": "Kengo leaves.",
-      "Translation": "Kengo leaves."
+      "Translation": "谦吾走开了。"
     },
     {
       "JP": "恭介は立ち去った。",
       "EN": "Kyousuke leaves.",
-      "Translation": "Kyousuke leaves."
+      "Translation": "恭介走开了。"
     },
     {
       "JP": "マスクザ斉藤は立ち去った。",
       "EN": "Mask the Saito leaves.",
-      "Translation": "Mask the Saito leaves."
+      "Translation": "假面齐藤走开了。"
     },
     {
       "JP": "佐々美は立ち去った。",
       "EN": "Sasami leaves.",
-      "Translation": "Sasami leaves."
+      "Translation": "佐佐美走开了。"
     },
     {
       "JP": "ソフト部員は立ち去った。",
       "EN": "Club Member leaves.",
-      "Translation": "Club Member leaves."
+      "Translation": "Club成员走开了。"
     },
     {
       "JP": "謎の生命体は立ち去った。",
       "EN": "Unknown Lifeform leaves.",
-      "Translation": "Unknown Lifeform leaves."
+      "Translation": "谜之生物走开了。"
     },
     {
       "JP": "他４は立ち去った。",
       "EN": "Other 4 leaves.",
-      "Translation": "Other 4 leaves."
+      "Translation": "他4走开了。"
     },
     {
       "JP": "ブルルルル…　ブルルルル…",
