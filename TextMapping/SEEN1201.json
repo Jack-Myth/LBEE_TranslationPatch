@@ -18,7 +18,7 @@
     {
       "JP": "…これまでこの世界のことを知ってる人が、僕らの前に出てこないって事は…。",
       "EN": "Being that we hadn't discovered anyone who knew the secret of the world meant...",
-      "Translation": "…到现在为止，知道这个世界的事的人还没有出现在我们面前，那就意味着…。"
+      "Translation": "…到现在为止，知道这个世界的事的人还没有出现在我们面前，那就意味着…"
     },
     {
       "JP": "その人は、隠れる理由があるってことだから。",
@@ -58,7 +58,7 @@
     {
       "JP": "`理樹@「うん。リトルバスターズのみんな」",
       "EN": "`Riki@❝Yeah. We call ourselves the Little Busters.❞",
-      "Translation": "`理树@「嗯。的那些人」"
+      "Translation": "`理树@「嗯。Little Busters的那些人」"
     },
     {
       "JP": "`理樹@「リーダーの恭介はいないけど、力になってくれる人はいると思うんだ」",
@@ -118,7 +118,7 @@
     {
       "JP": "`理樹@「マッスル・エクササイザー…!!」",
       "EN": "`Riki@❝Muscle Exerciser...!!❞",
-      "Translation": "`理树@「…！！」"
+      "Translation": "`理树@「Muscle Exerciser…！！」"
     },
     {
       "JP": "`佐々美@「は？」",
@@ -127,8 +127,8 @@
     },
     {
       "JP": "瞬間、僕の脳裏に悪夢がよぎる…。",
-      "EN": "I briefly recalled that nightmare...",
-      "Translation": "瞬间，那个恶梦在我脑中觉醒了…。"
+      "EN": "I briefly recalled that nightmare…。",
+      "Translation": "瞬间，那个恶梦在我脑中觉醒了…"
     },
     {
       "JP": "`理樹@「大丈夫？　笹瀬川さん、マッスルになってたりしない!?」",
@@ -358,7 +358,7 @@
     {
       "JP": "…瞬間、猫になった…。",
       "EN": "...She turned into a cat as soon as the door opened.",
-      "Translation": "…瞬间就变成了猫…"
+      "Translation": "…瞬间就变成了猫…。"
     },
     {
       "JP": "`小毬@「ふえ？　さーちゃんはどこ？」",
@@ -1012,7 +1012,7 @@
     },
     {
       "JP": "そうしたら、次に考えることは。",
-      "EN": "What we had to think about next was...",
+      "EN": "What we had to think about next was…。",
       "Translation": "那样的话，接下来应该思考的问题是。"
     },
     {
@@ -1197,13 +1197,13 @@
     },
     {
       "JP": "疑うべきは事件の渦の中心、もしくはその付近にいる人物のはずだ…。",
-      "EN": "The biggest suspects are always those most involved in the case...",
-      "Translation": "那应该是要聚集在这个事件的中心，或者是在那周围的可疑人物才对的…。"
+      "EN": "The biggest suspects are always those most involved in the case…。",
+      "Translation": "那应该是要聚集在这个事件的中心，或者是在那周围的可疑人物才对的…"
     },
     {
       "JP": "とすると…。",
       "EN": "In other words...",
-      "Translation": "那样的话…。"
+      "Translation": "那样的话…"
     },
     {
       "JP": "`理樹@「笹瀬川さん、犯人は僕かもしれない!!」",
@@ -1338,7 +1338,7 @@
     {
       "JP": "……と。",
       "EN": "...Just when I thought that.",
-      "Translation": "……。"
+      "Translation": "……"
     },
     {
       "JP": "廊下からどたどたと足音が聞こえてくる。",
@@ -1448,7 +1448,7 @@
     {
       "JP": "同時にトラウマまで鮮明によみがえってしまった…。",
       "EN": "Looks like he recalled last night's trauma quite vividly...",
-      "Translation": "同时鲜明地揭开了他心灵的伤疤…。"
+      "Translation": "同时鲜明地揭开了他心灵的伤疤…"
     },
     {
       "JP": "`佐々美@「なんですの、この筋肉男は…」",
@@ -1578,7 +1578,7 @@
     {
       "JP": "ど、どうしよう…。",
       "EN": "W-What am I supposed to do...",
-      "Translation": "怎，怎么办…。"
+      "Translation": "怎，怎么办…"
     },
     {
       "JP": "今の笹瀬川さんの発言をそのまま真人に伝えたら、きっと真人は深く傷付いてしまう。",
@@ -1608,7 +1608,7 @@
     {
       "JP": "けど、真人に出て行けなんて、僕には言えない…。",
       "EN": "However, telling Masato to go away... I just can't do that...",
-      "Translation": "但是，我还是无法说真人你给我出去这样的话…。"
+      "Translation": "但是，我还是无法说真人你给我出去这样的话…"
     },
     {
       "JP": "真人は入学からずっと一緒だったルームメイトじゃないか。",
@@ -1623,17 +1623,17 @@
     {
       "JP": "…なんだかんだ言っても、ずっと猫の姿なんてのは精神的にもキツいものがあるだろう…。",
       "EN": "...It must be mentally taxing to be a cat for so long...",
-      "Translation": "…怎么说，一直保持着猫的样子的话，对精神上也不好吧…。"
+      "Translation": "…怎么说，一直保持着猫的样子的话，对精神上也不好吧…"
     },
     {
       "JP": "ああっ、どうしたらいいんだ…。",
       "EN": "Geez, what should I do...",
-      "Translation": "啊啊，怎么办才好…。"
+      "Translation": "啊啊，怎么办才好…"
     },
     {
       "JP": "そんなのストレートに言えるわけないじゃないか…。",
       "EN": "I can't just tell him point-blank...",
-      "Translation": "不能说的那么直白啊…。"
+      "Translation": "不能说的那么直白啊…"
     },
     {
       "JP": "そうだ、何とかふたりは共存できないかな？",
@@ -1643,7 +1643,7 @@
     {
       "JP": "部屋に囲いを作るとか…。",
       "EN": "Like setting up a partition, or...",
-      "Translation": "要在房里搭起围墙吗…。"
+      "Translation": "要在房里搭起围墙吗…"
     },
     {
       "JP": "`理樹@「ねえっ、ささすっ…」",
@@ -1703,7 +1703,7 @@
     {
       "JP": "共存は不可能なようだ…。",
       "EN": "So a peaceful coexistence was but a dream...",
-      "Translation": "共存好像是不可能的…。"
+      "Translation": "共存好像是不可能的…"
     },
     {
       "JP": "既に決裂した関係を少しでも修復すべく、三者会談を開く。",
@@ -1713,7 +1713,7 @@
     {
       "JP": "とは言ったものの…。",
       "EN": "However...",
-      "Translation": "话虽然是这么说…。"
+      "Translation": "话虽然是这么说…"
     },
     {
       "JP": "`理樹@「真人…」",
@@ -2128,7 +2128,7 @@
     {
       "JP": "なんか突然喜んだり苦悩したりしている…。",
       "EN": "It was hard to tell, but she seemed torn between happiness and anguish...",
-      "Translation": "她突然一下高兴一下苦恼起来了…。"
+      "Translation": "她突然一下高兴一下苦恼起来了…"
     },
     {
       "JP": "ひとまず、僕らは角に隠れて様子を伺うことにした。",
@@ -2398,7 +2398,7 @@
     {
       "JP": "オトメゴコロというやつなんだろう…。",
       "EN": "That must be her maiden's heart speaking...",
-      "Translation": "这就是所谓的少女的心思吗…。"
+      "Translation": "这就是所谓的少女的心思吗…"
     },
     {
       "JP": "`理樹@（直接はとりあえず避けて、笹瀬川さんの名前とかも出さないで話をする、ってのがいいかなぁ…）",
@@ -2513,7 +2513,7 @@
     {
       "JP": "言っててだんだん悲しくなってきたらしい…。",
       "EN": "His own words were bringing him down...",
-      "Translation": "他越说越悲伤了…。"
+      "Translation": "他越说越悲伤了…"
     },
     {
       "JP": "`理樹@「いやいやいやいやっ、そんなことないからっ。やむにやまれぬ事情でそうなっただけだってばっ」",
@@ -2618,7 +2618,7 @@
     {
       "JP": "うわ、バレた…。",
       "EN": "Crap, busted...",
-      "Translation": "呜哇，露馅了…。"
+      "Translation": "呜哇，露馅了…"
     },
     {
       "JP": "`佐々美@「……!!!」",
@@ -2718,7 +2718,7 @@
     {
       "JP": "…笹瀬川さんの手前、黙っておく方がいいんだろうけど…。",
       "EN": "...For Sasasegawa-san's sake, I should try to avoid mentioning her name...",
-      "Translation": "…笹濑川的事情，还是不要说比较好吧…。"
+      "Translation": "…笹濑川的事情，还是不要说比较好吧…"
     },
     {
       "JP": "`理樹@「…困ってる猫なんだ。僕の部屋から、あんまり出られない事情があって」",
@@ -2798,7 +2798,7 @@
     {
       "JP": "でも、やっぱりふたりには悪いことをしてるよなぁ…。",
       "EN": "I couldn't help but feel terrible for what I was doing to them...",
-      "Translation": "但是，果然我还是对他们两个做了过分的事情啊…。"
+      "Translation": "但是，果然我还是对他们两个做了过分的事情啊…"
     },
     {
       "JP": "`理樹@「ごめんね…手伝ってもらいたいときは、すぐにお願いするから」",
@@ -3203,12 +3203,12 @@
     {
       "JP": "ずるー、と麺をすする音が寂しげに響く…。",
       "EN": "The sound of her slurping noodles echoed sadly in the room...",
-      "Translation": "嘶－，只有她吸面的声音很寂寞地响着…。"
+      "Translation": "嘶－，只有她吸面的声音很寂寞地响着…"
     },
     {
       "JP": "なんか、笹瀬川さんっていいとこのお嬢様っぽいからなぁ…。",
       "EN": "She somehow looked like the young lady of a wealthy family...",
-      "Translation": "总觉得，笹濑川好像是什么名家里的大小姐一样…。"
+      "Translation": "总觉得，笹濑川好像是什么名家里的大小姐一样…"
     },
     {
       "JP": "`理樹@「そういえば、笹瀬川さんって何でここに進学してきたの？」",
@@ -3233,7 +3233,7 @@
     {
       "JP": "…そんなに言われるほどヘンじゃないと思うけど…。",
       "EN": "...I don't think I'm as weird as you're making me out to be...",
-      "Translation": "…我觉得没有奇怪到要你特意这么说的地步吧…。"
+      "Translation": "…我觉得没有奇怪到要你特意这么说的地步吧…"
     },
     {
       "JP": "`佐々美@「ま、いいですわ…」",
@@ -3443,7 +3443,7 @@
     {
       "JP": "なんか、笹瀬川さんも意外に、単純明快ないい人だったんだなぁ…。",
       "EN": "That is how I found out that she is an unexpectedly kind and honest person...",
-      "Translation": "意外的，笹濑川好像是个很单纯明快的好人啊…。"
+      "Translation": "意外的，笹濑川好像是个很单纯明快的好人啊…"
     },
     {
       "JP": "他愛ない話をしてるうちに食べ終え、片付けることにする。",
@@ -3483,7 +3483,7 @@
     {
       "JP": "あ、トイレとか…。",
       "EN": "Ah, bathroom...",
-      "Translation": "啊，厕所什么的吧…。"
+      "Translation": "啊，厕所什么的吧…"
     },
     {
       "JP": "`理樹@「じゃあ、せっかく鈴が用意してくれたんだし…」",
@@ -3553,7 +3553,7 @@
     {
       "JP": "改めて考えると、本当に妙なことになったよなぁ…。",
       "EN": "Thinking back on it, things really turned out to be strange...",
-      "Translation": "仔细一想的话，这还真是变成了很奇妙的事情了啊…。"
+      "Translation": "仔细一想的话，这还真是变成了很奇妙的事情了啊…"
     },
     {
       "JP": "食器を片付けると。",
@@ -3593,7 +3593,7 @@
     {
       "JP": "もう一本はどうしよう…。",
       "EN": "What else should I get her...?",
-      "Translation": "另一瓶买什么呢…。"
+      "Translation": "另一瓶买什么呢…"
     },
     {
       "JP": "`理樹@（スポーツやってるならポカリかなぁ）",
@@ -3778,7 +3778,7 @@
     {
       "JP": "いや、小毬さんらしいと言えばらしいんだけど…。",
       "EN": "That was so very like Komari-san...",
-      "Translation": "不，说起来还真是像小毬的作风啊…。"
+      "Translation": "不，说起来还真是像小毬的作风啊…"
     },
     {
       "JP": "`理樹@「え、じゃあどうするの？」",
@@ -3903,7 +3903,7 @@
     {
       "JP": "`佐々美@「？　どうしましたの？」",
       "EN": "`Sasami@❝What is the matter?❞",
-      "Translation": "`佐佐美@「？怎么了吗？」"
+      "Translation": "`佐佐美@「嗯？怎么了吗？」"
     },
     {
       "JP": "`理樹@「うん？　別に」",
@@ -4013,7 +4013,7 @@
     {
       "JP": "まあ、しょうがないかぁ…。",
       "EN": "Not that there was anything I could do about it.",
-      "Translation": "不过，还真是没办法啊…。"
+      "Translation": "不过，还真是没办法啊…"
     },
     {
       "JP": "荷物の整理がすむと、笹瀬川さんはストレッチ運動を始めていた。",
@@ -4088,7 +4088,7 @@
     {
       "JP": "なんか、変にドキドキする…。",
       "EN": "My heart was beating fast...",
-      "Translation": "总觉得很奇怪的开始心跳加速…。"
+      "Translation": "总觉得很奇怪的开始心跳加速…"
     },
     {
       "JP": "`佐々美@「にじゅくっ、さんじゅっ…」",
@@ -4153,7 +4153,7 @@
     {
       "JP": "だって見えちゃいそうなんだもん…。",
       "EN": "But I just couldn't help it...",
-      "Translation": "因为就差一点就看得见了啊…。"
+      "Translation": "因为就差一点就看得见了啊…"
     },
     {
       "JP": "筋トレを終えると、笹瀬川さんが部屋を出て行った。",
@@ -4178,7 +4178,7 @@
     {
       "JP": "トイレにしては長すぎるし…。",
       "EN": "If it was the bathroom, she should be back already...",
-      "Translation": "以上厕所来说的话太长了…。"
+      "Translation": "以上厕所来说的话太长了…"
     },
     {
       "JP": "なんかあったんじゃ。",
@@ -4523,7 +4523,7 @@
     {
       "JP": "怒りのオーラが下から昇って来るのがわかる…。",
       "EN": "I could sense the flames of rage licking me...",
-      "Translation": "我能感觉到有一股愤怒的力量传了上来…。"
+      "Translation": "我能感觉到有一股愤怒的力量传了上来…"
     },
     {
       "JP": "`理樹@「ごめんなさい、言い方がまずかったです」",
@@ -4633,7 +4633,7 @@
     {
       "JP": "話題を変えよう…。",
       "EN": "I decided to change the subject.",
-      "Translation": "换个话题吧…。"
+      "Translation": "换个话题吧…"
     },
     {
       "JP": "`理樹@「でも、何で猫なんだろうね」",
@@ -4668,7 +4668,7 @@
     {
       "JP": "まあ、明日でもいいか…。",
       "EN": "But well, it can wait...",
-      "Translation": "算了，明天再说也可以吧…。"
+      "Translation": "算了，明天再说也可以吧…"
     },
     {
       "JP": "どれだけの時間が過ぎただろう。",
@@ -4703,7 +4703,7 @@
     {
       "JP": "『誰か』は、まだなにも伝えられずにいる。",
       "EN": "That ❜someone❜ had not yet told anyone anything.",
-      "Translation": "`还有@『谁』，直到现在，也什么都没能传达。"
+      "Translation": "还有『谁』，直到现在，也什么都没能传达。"
     },
     {
       "JP": "…ねえ。",
@@ -4723,12 +4723,12 @@
     {
       "JP": "ただ、それだけ…。",
       "EN": "That's all...",
-      "Translation": "仅此而已…。"
+      "Translation": "仅此而已…"
     },
     {
       "JP": "それだけ、なのに…。",
       "EN": "That's all there is to it, but...",
-      "Translation": "明明，只是仅此而已的…。"
+      "Translation": "明明，只是仅此而已的…"
     },
     {
       "JP": "ゆさゆさ。",
@@ -4803,7 +4803,7 @@
     {
       "JP": "ま、いいか…。",
       "EN": "Well, it's fine either way...",
-      "Translation": "算了，也好…。"
+      "Translation": "算了，也好…"
     },
     {
       "JP": "梯子に立っている笹瀬川さんにどいてもらって、下りる事にする。",
@@ -4928,12 +4928,12 @@
     {
       "JP": "顔、近い…。",
       "EN": "Her face was so close to mine...",
-      "Translation": "脸靠得太近了…。"
+      "Translation": "脸靠得太近了…"
     },
     {
       "JP": "デリカシーって意味じゃ、笹瀬川さんも相当無い気がするけど…。",
       "EN": "Talk about delicacy. She didn't have a shred of it either...",
-      "Translation": "要说粗神经的话，笹濑川也不比我好多少吧…。"
+      "Translation": "要说粗神经的话，笹濑川也不比我好多少吧…"
     },
     {
       "JP": "`佐々美@「戻りませんわね」",
@@ -5148,7 +5148,7 @@
     {
       "JP": "うらやましいらしい。",
       "EN": "She appeared to be jealous of him.",
-      "Translation": "她好像很怨念。"
+      "Translation": "她好像充满了怨念。"
     },
     {
       "JP": "教室に入る。",
@@ -5163,7 +5163,7 @@
     {
       "JP": "`クド@「ぐっどもーにんぐですー」",
       "EN": "`Kud@❝Guddo mo-ningu-!❞",
-      "Translation": "`库特@「的说」"
+      "Translation": "`库特@「Guddo mo-ningu-的说」"
     },
     {
       "JP": "`鈴@「みんな、おはよう」",
@@ -5248,7 +5248,7 @@
     {
       "JP": "本当は、小毬さんも一緒に探して欲しかったんだけど、今日は休みらしい…。",
       "EN": "It would have been helpful to have had Komari-san with me, but she ended up being absent.",
-      "Translation": "本来，我是想要小毬也和我一起找的，但是她今天好像请假了…。"
+      "Translation": "本来，我是想要小毬也和我一起找的，但是她今天好像请假了…"
     },
     {
       "JP": "`理樹@「………」",
@@ -5283,7 +5283,7 @@
     {
       "JP": "ただ歩き回っただけで終わってしまった…。",
       "EN": "I just ended up walking around...",
-      "Translation": "结果只是空转了几圈就结束了…。"
+      "Translation": "结果只是空转了几圈就结束了…"
     },
     {
       "JP": "三時間目。",
@@ -5353,7 +5353,7 @@
     {
       "JP": "もう一度やってみよう…。",
       "EN": "I gave it another try.",
-      "Translation": "再试一次吧…。"
+      "Translation": "再试一次吧…"
     },
     {
       "JP": "結果は同じだった。",
@@ -5363,7 +5363,7 @@
     {
       "JP": "何かに押し戻されるような、方向を捻じ曲げられるような…。",
       "EN": "It was like there was some force pushing me back or twisting the direction I was heading.",
-      "Translation": "好像是被什么推回来了一样，或者是方向被扭曲了一样…。"
+      "Translation": "好像是被什么推回来了一样，或者是方向被扭曲了一样…"
     },
     {
       "JP": "`理樹@「ど、どうなってるんだ…？」",
@@ -5378,7 +5378,7 @@
     {
       "JP": "けど…。",
       "EN": "But...",
-      "Translation": "但是…。"
+      "Translation": "但是…"
     },
     {
       "JP": "どうして、あそこだけなんだろう…？",
@@ -5428,12 +5428,12 @@
     {
       "JP": "ここは『あの時』の世界と同じ物だって、なんとなく考えてたけど…。",
       "EN": "I'd been thinking that like this was more or less the same as ❛that world❜...",
-      "Translation": "我曾经想过这里和『那时候』的世界是一样的…。"
+      "Translation": "我曾经想过这里和『那时候』的世界是一样的…"
     },
     {
       "JP": "何か、決定的に違う気がする…。",
       "EN": "However, it felt like there was a definite difference...",
-      "Translation": "但是，我觉得有什么决定性的不同点…。"
+      "Translation": "但是，我觉得有什么决定性的不同点…"
     },
     {
       "JP": "`理樹@「………」",
@@ -5448,7 +5448,7 @@
     {
       "JP": "それが、きっと核心に繋がる物のような気がするんだけど…。",
       "EN": "Still, I had the feeling that the difference lay at the heart of this entire matter...",
-      "Translation": "我觉得，那一定是直逼核心的东西…。"
+      "Translation": "我觉得，那一定是直逼核心的东西…"
     },
     {
       "JP": "昼休みになった。",
@@ -5478,7 +5478,7 @@
     {
       "JP": "飲み物は昨日のがあるから、多分必要はないだろう。",
       "EN": "I didn't buy any drinks this time, since there were still some in the fridge from yesterday.",
-      "Translation": "昨天也买了饮料了，应该不要再买了吧。"
+      "Translation": "昨天也买了饮料了，应该不用再买了吧。"
     },
     {
       "JP": "`理樹@「…？」",
@@ -5488,7 +5488,7 @@
     {
       "JP": "なんか、いいにおいが…。",
       "EN": "Something smelled good...",
-      "Translation": "好像有一股香味…。"
+      "Translation": "好像有一股香味…"
     },
     {
       "JP": "`佐々美@「ふんふんふーん♪」",
@@ -5508,12 +5508,12 @@
     {
       "JP": "何をしてるんだろう…。",
       "EN": "Just what was she doing...",
-      "Translation": "她在干什么啊…。"
+      "Translation": "她在干什么啊…"
     },
     {
       "JP": "そしてあのエプロンは一体なんだろう…。",
       "EN": "And that apron, just what on earth...?",
-      "Translation": "而且这个围裙到底是什么…。"
+      "Translation": "而且这个围裙到底是什么…"
     },
     {
       "JP": "`佐々美@「あら、お帰りなさいませ」",
@@ -5528,7 +5528,7 @@
     {
       "JP": "返答に困る…。",
       "EN": "I didn't know what to say.",
-      "Translation": "我不知道该怎么回答了…。"
+      "Translation": "我不知道该怎么回答了…"
     },
     {
       "JP": "`理樹@「…楽しそうだね」",
@@ -5573,7 +5573,7 @@
     {
       "JP": "改めて、エプロンを見る…。",
       "EN": "I looked at her apron once more...",
-      "Translation": "我又重新看着她的围裙…。"
+      "Translation": "我又重新看着她的围裙…"
     },
     {
       "JP": "一体何を思って笹瀬川さんはあのエプロンをつけているのだろう…？",
@@ -5628,7 +5628,7 @@
     {
       "JP": "いや、なんか楽しそうだからいいけどさ…。",
       "EN": "I guess I should just let her do her thing since she seemed to be having such a great time of it...",
-      "Translation": "不过，她既然高兴那就这样也好吧…。"
+      "Translation": "不过，她既然高兴那就这样也好吧…"
     },
     {
       "JP": "`佐々美@「というわけで、出来ましてよ」",
@@ -5743,7 +5743,7 @@
     {
       "JP": "………。",
       "EN": ".........",
-      "Translation": "………。"
+      "Translation": "………"
     },
     {
       "JP": "`佐々美@「って何をわたくしはこんなに和んでるんですのーっ!?」",
@@ -5818,7 +5818,7 @@
     {
       "JP": "だってなんかそれっぽかったんだもん…。",
       "EN": "But I had just given my honest impression...",
-      "Translation": "因为确实很像啊…。"
+      "Translation": "因为确实很像啊…"
     },
     {
       "JP": "でも、ご飯は美味しい。",
@@ -5878,7 +5878,7 @@
     {
       "JP": "いや…。",
       "EN": "Well...",
-      "Translation": "不…。"
+      "Translation": "不…"
     },
     {
       "JP": "はたしてこのエプロンは突っ込んでいいものだろうか？",
@@ -5903,7 +5903,7 @@
     {
       "JP": "いや…。",
       "EN": "No...",
-      "Translation": "不…。"
+      "Translation": "不…"
     },
     {
       "JP": "もしかして、見間違えで、実はごく普通のエプロンだったりしないだろうか。",
@@ -6003,7 +6003,7 @@
     {
       "JP": "デザインについて、これ以上は突っ込まないけど…。",
       "EN": "I decided not to ask any further about the design.",
-      "Translation": "那就不能再关于服装的设计吐槽了啊…。"
+      "Translation": "那就不能再关于服装的设计吐槽了啊…"
     },
     {
       "JP": "`理樹@「でも、笹瀬川さん、猫嫌いなんじゃなかったっけ？」",
@@ -6073,7 +6073,7 @@
     {
       "JP": "なんか、変な感じだけど…。",
       "EN": "I suddenly noticed something seemed off...",
-      "Translation": "这感觉好像很奇怪…。"
+      "Translation": "这感觉好像很奇怪…"
     },
     {
       "JP": "`佐々美@「どうしましたの？」",
@@ -6208,7 +6208,7 @@
     {
       "JP": "しょうがないな…。",
       "EN": "I gave up and decided to do what she wanted.",
-      "Translation": "真没办法啊…。"
+      "Translation": "真没办法啊…"
     },
     {
       "JP": "`理樹@「………」",
@@ -6503,7 +6503,7 @@
     {
       "JP": "しまった。ただ鈴を不安にさせただけだったかもしれない…。",
       "EN": "Shoot, I might've just put her on edge...",
-      "Translation": "不好。也许这样说只会让铃感到不安而已…。"
+      "Translation": "不好。也许这样说只会让铃感到不安而已…"
     },
     {
       "JP": "`鈴@「…でも、だいじょうぶだろ」",
@@ -6548,7 +6548,7 @@
     {
       "JP": "僕らは、リトルバスターズだった。",
       "EN": "We are the Little Busters.",
-      "Translation": "我们是，。"
+      "Translation": "我们是，Little Busters。"
     },
     {
       "JP": "リトルバスターズは悪いやつらを成敗する、正義の味方だ。",
@@ -6613,7 +6613,7 @@
     {
       "JP": "………。",
       "EN": ".........",
-      "Translation": "………。"
+      "Translation": "………"
     },
     {
       "JP": "`理樹@「そういえば…」",
@@ -6718,7 +6718,7 @@
     {
       "JP": "あれは…。",
       "EN": "When...",
-      "Translation": "那是…。"
+      "Translation": "那是…"
     },
     {
       "JP": "いつだっけ…。",
@@ -6968,7 +6968,7 @@
     {
       "JP": "…世界を作るほどの、なんて…。",
       "EN": "A wish strong enough to create this world...",
-      "Translation": "…强烈到能够制造出这个世界的东西…。"
+      "Translation": "…强烈到能够制造出这个世界的东西…"
     },
     {
       "JP": "`理樹@「あー…ちょっと自信付いたのになぁ」",
@@ -6978,7 +6978,7 @@
     {
       "JP": "僕と違う視点から切り返されると、甘いところが色々と見えてくる…。",
       "EN": "Thanks to her opinion, I was starting to lose the conviction I'd had in my theory...",
-      "Translation": "只是稍微换了个和我不一样的视点，就发现了我的想法里有很多天真的地方…。"
+      "Translation": "只是稍微换了个和我不一样的视点，就发现了我的想法里有很多天真的地方…"
     },
     {
       "JP": "`佐々美@「結論を急いでもしょうがない、って言ったのはあなたでしょう？」",
@@ -6993,7 +6993,7 @@
     {
       "JP": "名探偵への道はまだまだ遠い…。",
       "EN": "The road to becoming a great detective was long and thorny.",
-      "Translation": "果然我和名侦探还差很远…。"
+      "Translation": "果然我和名侦探还差很远…"
     },
     {
       "JP": "`鈴@「りき!!!」",
@@ -7013,7 +7013,7 @@
     {
       "JP": "不意に鈴が部屋に飛び込んできて、また笹瀬川さんが猫化した…。",
       "EN": "Out of the blue, Rin stormed into the room, and Sasasegawa-san turned into a cat once again...",
-      "Translation": "突然铃冲进了房里，笹濑川又猫化了…。"
+      "Translation": "突然铃冲进了房里，笹濑川又猫化了…"
     },
     {
       "JP": "`佐々美@「ま、またですのっ!!」",
@@ -7298,7 +7298,7 @@
     {
       "JP": "これは、また雷が落ちるかもしれない…。",
       "EN": "I was worried that she might pounce on me yet again...",
-      "Translation": "说不定又要打雷了…。"
+      "Translation": "说不定又要打雷了…"
     },
     {
       "JP": "`理樹@「あの、笹瀬川さん…」",
@@ -7348,7 +7348,7 @@
     {
       "JP": "良かった、その程度ですんで…。",
       "EN": "Thank god, she wasn't as mad as I expected...",
-      "Translation": "太好了，这样就结束了…。"
+      "Translation": "太好了，这样就结束了…"
     },
     {
       "JP": "…と、昼休み終了５分前の鐘が鳴る。",
@@ -7383,7 +7383,7 @@
     {
       "JP": "なんか、毎回毎回いろんな事が起こりすぎだなぁ…。",
       "EN": "So many things have been happening that I've had little time to rest these days...",
-      "Translation": "总觉得，每次每次都发生了很多不得了的事情啊…。"
+      "Translation": "总觉得，每次每次都发生了很多不得了的事情啊…"
     },
     {
       "JP": "放課後。",
@@ -7758,7 +7758,7 @@
     {
       "JP": "意識してれば、おかしな事には気付くはずだけど…。",
       "EN": "I should've been attentive enough to notice if there was anything weird somewhere...",
-      "Translation": "如果有意识的去找的话，应该能够注意到奇怪的事情才对…。"
+      "Translation": "如果有意识的去找的话，应该能够注意到奇怪的事情才对…"
     },
     {
       "JP": "ひとまず、合流場所に戻った。",
@@ -7803,7 +7803,7 @@
     {
       "JP": "なんだこれ…。",
       "EN": "What is this...?",
-      "Translation": "这是什么啊…。"
+      "Translation": "这是什么啊…"
     },
     {
       "JP": "出るべきかどうか、一瞬迷う。",
@@ -7943,7 +7943,7 @@
     {
       "JP": "けど、なんでこんな…。",
       "EN": "But why like this...?",
-      "Translation": "但是，为什么是这样…。"
+      "Translation": "但是，为什么是这样…"
     },
     {
       "JP": "レノンを追う。",
@@ -7993,7 +7993,7 @@
     {
       "JP": "起きるはずの、ない…。",
       "EN": "That couldn't be happening...",
-      "Translation": "这不可能…。"
+      "Translation": "这不可能…"
     },
     {
       "JP": "でも、これは。",
@@ -8003,7 +8003,7 @@
     {
       "JP": "いつか見た、誰かの…。",
       "EN": "...just like that time I...",
-      "Translation": "我曾经看见过的，谁的…。"
+      "Translation": "我曾经看见过的，谁的…"
     },
     {
       "JP": "…誰かの夢を見たときと、同じなんだ。",
@@ -8013,7 +8013,7 @@
     {
       "JP": "………。",
       "EN": ".........",
-      "Translation": "………。"
+      "Translation": "………"
     },
     {
       "JP": "`声@「…り……きこえ…」",
@@ -8358,7 +8358,7 @@
     {
       "JP": "………。",
       "EN": ".........",
-      "Translation": "………。"
+      "Translation": "………"
     },
     {
       "JP": "`理樹@「退場した人たちには…」",
@@ -8508,7 +8508,7 @@
     {
       "JP": "どうして僕なんだろう…。",
       "EN": "Why me...?",
-      "Translation": "为什么是我呢…。"
+      "Translation": "为什么是我呢…"
     },
     {
       "JP": "でも。",
@@ -8548,7 +8548,7 @@
     {
       "JP": "儚い。",
       "EN": "Fragile.",
-      "Translation": "`儚い@（虚幻）。"
+      "Translation": "虚幻（儚）。"
     },
     {
       "JP": "その字は…人の、夢。",
