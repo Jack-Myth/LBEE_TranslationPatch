@@ -1533,7 +1533,7 @@
   },
   {
     "Source": "Papercraft Mobile Battleship",
-    "Target": "纸工移动战舰"
+    "Target": "纸制移动战舰"
   },
   {
     "Source": "Quick save can not be used.",
@@ -1705,7 +1705,7 @@
   },
   {
     "Source": "Papercraft Himeji Castle",
-    "Target": "纸工姬路城"
+    "Target": "纸制姬路城"
   },
   {
     "Source": "Watch and be surprised～.",
@@ -1821,7 +1821,7 @@
   },
   {
     "Source": "Papercraft Stegosaurus",
-    "Target": "纸工剑龙"
+    "Target": "纸制剑龙"
   },
   {
     "Source": "Industrial Liquid Glue",
@@ -1945,7 +1945,7 @@
   },
   {
     "Source": "I'm trying my best～.",
-    "Target": "我正在尽力～。"
+    "Target": "我会努力的～。"
   },
   {
     "Source": "Haha, can't help it.",
@@ -2049,7 +2049,7 @@
   },
   {
     "Source": "I'm trying my best.",
-    "Target": "我在尽力。"
+    "Target": "我会加油的。"
   },
   {
     "Source": "It's an afterimage.",
@@ -2261,7 +2261,7 @@
   },
   {
     "Source": "Papercraft Plane",
-    "Target": "纸工飞机"
+    "Target": "纸制飞机"
   },
   {
     "Source": "Superalloy Robot",
@@ -2321,7 +2321,7 @@
   },
   {
     "Source": "Unknown Lifeform",
-    "Target": "未知生命体"
+    "Target": "迷之生命体"
   },
   {
     "Source": "How about that?",
@@ -2333,7 +2333,7 @@
   },
   {
     "Source": "Now I did it...",
-    "Target": "这次我完了…"
+    "Target": "糟糕…"
   },
   {
     "Source": "It's a miracle!",
@@ -3796,7 +3796,7 @@
   },
   {
     "Source": "Gofu!",
-    "Target": "噶夫！"
+    "Target": "噶呜！"
   },
   {
     "Source": "Good!",
@@ -3804,7 +3804,7 @@
   },
   {
     "Source": "Gufu!",
-    "Target": "噶乎！"
+    "Target": "噶呜！"
   },
   {
     "Source": "Broom",

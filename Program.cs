@@ -376,6 +376,10 @@
                 }
                 string AllNewChar = new string(AllNewCharArray.ToArray());
                 string AllNewCharFile = Path.Combine(TMPPath, "AllNewChar.txt");
+                if(AllNewChar.Length==0)
+                {
+                    continue;
+                }
                 File.WriteAllText(AllNewCharFile, AllNewChar);
                 // 针对Template进行重绘，然后复制到各个字体
                 // 如果每个字体都进行重绘，那么重绘后的游戏会崩溃，但只用一份的话就正常，很奇怪，不清楚原因
@@ -642,8 +646,8 @@
             var FontSize = new int[]
             {
                 // 这些字体貌似有点问题,重绘后会导致游戏崩溃，先放着不动
-                //36,72
-                12,14,16,18,20,24,28,30,32
+                //36,72,12,14
+                16,18,20,24,28,30,32
                 //28
             };
 
