@@ -82,6 +82,8 @@ void DoHook(HINSTANCE hinstDLL)
         {
             continue;
         }
+        bool Strict = TranslationItemArray[i].HasMember("Strict") ? TranslationItemArray[i]["Strict"].GetBool() : false;
+        bool SkipSingleByteStr = TranslationItemArray[i].HasMember("SkipSingleByte") ? TranslationItemArray[i]["SkipSingleByte"].GetBool() : false;
         // 逐字节扫描UTF16
         // 将Source转换为UTF16编码的字节数组
         int SourceU16Len = MultiByteToWideChar(CP_UTF8, 0, Source, -1, nullptr, 0);
@@ -110,7 +112,7 @@ void DoHook(HINSTANCE hinstDLL)
                             break;
                         }
                     }
-                    if (Matched)
+                    if (Matched && (!Strict||(RDataStart[j-1]==0&& RDataStart[j - 2] == 0)))
                     {
                         DWORD OldProtect;
                         VirtualProtect(&RDataStart[j], TargetU16Len * 2, PAGE_READWRITE, &OldProtect);
@@ -123,40 +125,47 @@ void DoHook(HINSTANCE hinstDLL)
         {
 			std::cout << "Translation Error: Target is longer than Source:"<< Source << std::endl;
         }
-        for (DWORD j = 0; j < SectionHeader->Misc.VirtualSize; j++)
+        if (!SkipSingleByteStr)
         {
-            bool Matched = true;
-            for (int k = 0; k < SourceLen; k++)
+            for (DWORD j = 0; j < SectionHeader->Misc.VirtualSize; j++)
             {
-                if (RDataStart[j + k] != Source[k])
+                bool Matched = true;
+                for (int k = 0; k < SourceLen; k++)
                 {
-                    Matched = false;
-                    break;
-                }
-            }
-            if (Matched)
-            {
-                if (TargetLen > SourceLen)
-                {
-                    // 检查多出来的字节是否都为00
-                    // 如果都是00的话，直接覆写大概也OK
-                    bool AllEmpty = true;
-                    for (int overFlowIndex = SourceLen; overFlowIndex < TargetLen; overFlowIndex++)
+                    if (RDataStart[j + k] != Source[k])
                     {
-                        if (RDataStart[j + overFlowIndex] != '\0')
-                        {
-                            AllEmpty = false;
-                            break;
-                        }
-                    }
-                    if (!AllEmpty)
-                    {
+                        Matched = false;
                         break;
                     }
                 }
-                DWORD OldProtect;
-                VirtualProtect(&RDataStart[j], TargetLen, PAGE_READWRITE, &OldProtect);
-                memcpy(&RDataStart[j], Target, TargetLen);
+                if (Matched && (!Strict || RDataStart[j - 1] == 0))
+                {
+                    if (TargetLen > SourceLen)
+                    {
+                        if (Strict)
+                        {
+                            break;
+                        }
+                        // 检查多出来的字节是否都为00
+                        // 如果都是00的话，直接覆写大概也OK
+                        bool AllEmpty = true;
+                        for (int overFlowIndex = SourceLen; overFlowIndex < TargetLen; overFlowIndex++)
+                        {
+                            if (RDataStart[j + overFlowIndex] != '\0')
+                            {
+                                AllEmpty = false;
+                                break;
+                            }
+                        }
+                        if (!AllEmpty)
+                        {
+                            break;
+                        }
+                    }
+                    DWORD OldProtect;
+                    VirtualProtect(&RDataStart[j], TargetLen, PAGE_READWRITE, &OldProtect);
+                    memcpy(&RDataStart[j], Target, TargetLen);
+                }
             }
         }
     }
