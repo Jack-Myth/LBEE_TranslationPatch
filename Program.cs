@@ -441,7 +441,8 @@
             Console.Write("大概率导致现有存档损坏");
             Console.ResetColor();
             Console.WriteLine("，请使用新存档进行游戏。\n");
-            Console.WriteLine("如果需要恢复原版，请删除游戏文件夹下的dxgi.dll，并使用Steam验证游戏文件完整性，会自动还原被修改的文件。\n");
+            Console.WriteLine("如果需要恢复原版，请删除游戏文件夹下的dxgi.dll，并使用Steam验证游戏文件完整性，会自动还原被修改的文件。");
+            Console.WriteLine("如果之前安装过汉化补丁，建议先还原，再进行安装，避免出现奇怪的问题。\n");
             for (int i = DescriptionWaitingTime; i>0;i--)
             {
                 char[] TimerIcon = ['-', '\\', '|', '/'];
@@ -669,7 +670,7 @@
                         PendingAddChar.Add(c);
                     }
                 }
-                string AllNewChar36 = new string(PendingAddChar.ToArray());
+                string AllNewChar36 = new string(PendingAddChar.Order().ToArray());
                 string AllNewCharFile36 = Path.Combine(TMPPath, "AllNewChar36.txt");
                 File.WriteAllText(AllNewCharFile36, AllNewChar36);
                 Process.Start("Files\\lucksystem.exe", $"font edit -s \"{ExtractedFontPath}\\{FontTemplate}36\" -i {Charset36.Length} -S \"{ExtractedFontPath}\\info36\" -f \"{TargetFontPath}\" -c \"{AllNewCharFile36}\" -o \"{Path.Combine(PendingReplacePath, $"{FontTemplate}36.png")}\" -O \"{Path.Combine(PendingReplacePath, $"info36")}\"").WaitForExit();
