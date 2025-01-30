@@ -83,7 +83,7 @@ void DoHook(HINSTANCE hinstDLL)
             continue;
         }
         bool Strict = TranslationItemArray[i].HasMember("Strict") ? TranslationItemArray[i]["Strict"].GetBool() : false;
-        bool SkipSingleByteStr = TranslationItemArray[i].HasMember("SkipSingleByte") ? TranslationItemArray[i]["SkipSingleByte"].GetBool() : false;
+        const char* SingleByteStr = TranslationItemArray[i].HasMember("SingleByteString") ? TranslationItemArray[i]["SingleByteString"].GetString() : nullptr;
         // 逐字节扫描UTF16
         // 将Source转换为UTF16编码的字节数组
         int SourceU16Len = MultiByteToWideChar(CP_UTF8, 0, Source, -1, nullptr, 0);
@@ -95,6 +95,11 @@ void DoHook(HINSTANCE hinstDLL)
         wchar_t* TargetU16 = new wchar_t[TargetU16Len];
         char* TargetU16SBPtr = (char*)TargetU16;
         MultiByteToWideChar(CP_UTF8, 0, Target, -1, TargetU16, TargetU16Len);
+        if (SingleByteStr != nullptr)
+        {
+            Target = SingleByteStr;
+			TargetLen = strlen(Target) + 1;
+        }
         // 扫描.rdata段
         if (TargetU16Len <= SourceU16Len)
         {
@@ -125,47 +130,44 @@ void DoHook(HINSTANCE hinstDLL)
         {
 			std::cout << "Translation Error: Target is longer than Source:"<< Source << std::endl;
         }
-        if (!SkipSingleByteStr)
+        for (DWORD j = 0; j < SectionHeader->Misc.VirtualSize; j++)
         {
-            for (DWORD j = 0; j < SectionHeader->Misc.VirtualSize; j++)
+            bool Matched = true;
+            for (int k = 0; k < SourceLen; k++)
             {
-                bool Matched = true;
-                for (int k = 0; k < SourceLen; k++)
+                if (RDataStart[j + k] != Source[k])
                 {
-                    if (RDataStart[j + k] != Source[k])
+                    Matched = false;
+                    break;
+                }
+            }
+            if (Matched && (!Strict || RDataStart[j - 1] == 0))
+            {
+                if (TargetLen > SourceLen)
+                {
+                    if (Strict)
                     {
-                        Matched = false;
+                        break;
+                    }
+                    // 检查多出来的字节是否都为00
+                    // 如果都是00的话，直接覆写大概也OK
+                    bool AllEmpty = true;
+                    for (int overFlowIndex = SourceLen; overFlowIndex < TargetLen; overFlowIndex++)
+                    {
+                        if (RDataStart[j + overFlowIndex] != '\0')
+                        {
+                            AllEmpty = false;
+                            break;
+                        }
+                    }
+                    if (!AllEmpty)
+                    {
                         break;
                     }
                 }
-                if (Matched && (!Strict || RDataStart[j - 1] == 0))
-                {
-                    if (TargetLen > SourceLen)
-                    {
-                        if (Strict)
-                        {
-                            break;
-                        }
-                        // 检查多出来的字节是否都为00
-                        // 如果都是00的话，直接覆写大概也OK
-                        bool AllEmpty = true;
-                        for (int overFlowIndex = SourceLen; overFlowIndex < TargetLen; overFlowIndex++)
-                        {
-                            if (RDataStart[j + overFlowIndex] != '\0')
-                            {
-                                AllEmpty = false;
-                                break;
-                            }
-                        }
-                        if (!AllEmpty)
-                        {
-                            break;
-                        }
-                    }
-                    DWORD OldProtect;
-                    VirtualProtect(&RDataStart[j], TargetLen, PAGE_READWRITE, &OldProtect);
-                    memcpy(&RDataStart[j], Target, TargetLen);
-                }
+                DWORD OldProtect;
+                VirtualProtect(&RDataStart[j], TargetLen, PAGE_READWRITE, &OldProtect);
+                memcpy(&RDataStart[j], Target, TargetLen);
             }
         }
     }

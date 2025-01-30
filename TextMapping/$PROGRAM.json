@@ -2852,6 +2852,10 @@
     "Target": "缩放"
   },
   {
+    "Source": "Select BGM",
+    "Target": "选择BGM"
+  },
+  {
     "Source": "Club Member",
     "Target": "俱乐部成员"
   },
@@ -3582,7 +3586,8 @@
   },
   {
     "Source": "Haruka",
-    "Target": "三枝"
+    "Target": "叶留佳",
+    "SingleByteString": "三枝"
   },
   {
     "Source": "5 Cats",
@@ -3670,7 +3675,8 @@
   },
   {
     "Source": "Kanata",
-    "Target": "二木"
+    "Target": "佳奈多",
+    "SingleByteString": "二木"
   },
   {
     "Source": "Bucket",
