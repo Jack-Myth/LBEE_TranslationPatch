@@ -1449,11 +1449,11 @@
   },
   {
     "Source": "Even Haruchin makes mistakes!",
-    "Target": "连小叶子也会犯错！"
+    "Target": "小叶子也会犯错的！"
   },
   {
     "Source": "I'm brimming with enthusiasm!",
-    "Target": "我充满热情！"
+    "Target": "热情满满哦！"
   },
   {
     "Source": "My clothes are getting dirty.",
@@ -1505,7 +1505,7 @@
   },
   {
     "Source": "`Kyousuke@❝Here next, Riki!❞",
-    "Target": "`恭介@「下一站这边，理树！」"
+    "Target": "`恭介@「下一次这边，理树！」"
   },
   {
     "Source": "It's so peaceful out there..",
@@ -1966,6 +1966,10 @@
   {
     "Source": "Do you want to exit?",
     "Target": "是否退出？"
+  },
+  {
+    "Source": "Do you Give Up?",
+    "Target": "要放弃吗？"
   },
   {
     "Source": "Thank you, everyone!",
