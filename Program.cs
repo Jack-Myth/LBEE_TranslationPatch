@@ -92,8 +92,6 @@
         static string LBEEGamePath = @"E:\SteamLibrary\steamapps\common\Little Busters! English Edition";
 #endif
         static string LBEE_EXE = "";
-        static string LBEECharset = @".\Files\Charset.txt";
-        static string LBEECharset36 = @".\Files\Charset36.txt";
         static string TMPPath = Path.GetFullPath(@".\.tmp");
         static string TextMappingPath = Path.GetFullPath(@".\TextMapping");
         static string ImageMappingPath = Path.GetFullPath(@".\ImageMapping");
@@ -294,7 +292,7 @@
             ScriptNameContext.Pop();
         }
 
-        public static void ProcessFont(int[] FontSize,HashSet<char> FullCharset)
+        public static void ProcessFont(int[] FontSize,HashSet<char> FullCharset,bool AddMode)
         {
             foreach (var fSize in FontSize)
             {
@@ -319,61 +317,74 @@
                 {
                     CurCharset.Remove(oldChar);
                 }
-                bool OverrideOriginalChar = true;
-                int LastCharsetIndex = Charset.Length;
-                HashSet<char> ExistedChars = new HashSet<char>();
-                while (OverrideOriginalChar)
+                List<char>? AllNewCharArray = null;
+                int FontReplaceIndex = 0;
+                int AddOffset = 0;
+                if (!AddMode)
                 {
-                    OverrideOriginalChar = false;
-                    var PendingOverrideChars = Charset[(Charset.Length - CurCharset.Count)..LastCharsetIndex];
-                    LastCharsetIndex = Charset.Length - CurCharset.Count;
-                    foreach (char PendingOverrideChar in PendingOverrideChars)
+                    bool OverrideOriginalChar = true;
+                    int LastCharsetIndex = Charset.Length;
+                    HashSet<char> ExistedChars = new HashSet<char>();
+                    while (OverrideOriginalChar)
                     {
-                        if (OriginalCharCollection.Contains(PendingOverrideChar))
+                        OverrideOriginalChar = false;
+                        var PendingOverrideChars = Charset[(Charset.Length - CurCharset.Count)..LastCharsetIndex];
+                        LastCharsetIndex = Charset.Length - CurCharset.Count;
+                        foreach (char PendingOverrideChar in PendingOverrideChars)
                         {
-                            CurCharset.Add(PendingOverrideChar);
-                            ExistedChars.Add(PendingOverrideChar);
-                            OverrideOriginalChar = true;
+                            if (OriginalCharCollection.Contains(PendingOverrideChar))
+                            {
+                                CurCharset.Add(PendingOverrideChar);
+                                ExistedChars.Add(PendingOverrideChar);
+                                OverrideOriginalChar = true;
+                            }
+                        }
+                    }
+
+                    // 对字符集中已有的字符进行重排序，放在最后
+                    // LuckSystem对已有字符的替换有bug，如果如果已有字符在新字符集中的位置在原字符集中的位置之前
+                    // 那么导致后面的字符将前面的字符清除，会出现字符丢失的情况
+                    // 这里将已有字符全都放在最后面，这样就不会出现这个问题
+                    // 如果要从根源解决，需要魔改LuckSystem，不过不是很有必要，先做个标记，之后如果有需要再说。
+                    // TODO: LuckSystem/font/info.go:203
+                    FontReplaceIndex = Charset.Length - CurCharset.Count;
+                    AllNewCharArray = CurCharset.ToArray().Order().ToList();
+                    foreach (var ExistedChar in ExistedChars)
+                    {
+                        AllNewCharArray.Remove(ExistedChar);
+                        AllNewCharArray.Add(ExistedChar);
+                    }
+                    for (int i = 0; i < Charset.Length; i++)
+                    {
+                        int NewCharIndex = AllNewCharArray.FindIndex(0, (A) => A == Charset[i]);
+                        if (NewCharIndex != -1 && NewCharIndex + FontReplaceIndex <= i)
+                        {
+                            // 新字符集中的字符会在原字符集之前，不能接受，要把这个字符放到最后
+                            AllNewCharArray.Remove(Charset[i]);
+                            AllNewCharArray.Add(Charset[i]);
+                        }
+                    }
+                    AddOffset = 0;
+                    for (int i = AllNewCharArray.Count - 1; i >= 0; i--)
+                    {
+                        int OldCharIndex = Charset.ToList().FindIndex(0, (A) => A == AllNewCharArray[i]);
+                        if (OldCharIndex >= i + FontReplaceIndex + AddOffset)
+                        {
+                            AddOffset++;
+                        }
+                        else
+                        {
+                            break;
                         }
                     }
                 }
+                else
+                {
+                    AllNewCharArray = CurCharset.ToList().Order().ToList();
+                    FontReplaceIndex = Charset.Length;
+                    AddOffset = 0;
+                }
 
-                // 对字符集中已有的字符进行重排序，放在最后
-                // LuckSystem对已有字符的替换有bug，如果如果已有字符在新字符集中的位置在原字符集中的位置之前
-                // 那么导致后面的字符将前面的字符清除，会出现字符丢失的情况
-                // 这里将已有字符全都放在最后面，这样就不会出现这个问题
-                // 如果要从根源解决，需要魔改LuckSystem，不过不是很有必要，先做个标记，之后如果有需要再说。
-                // TODO: LuckSystem/font/info.go:203
-                int FontReplaceIndex = Charset.Length - CurCharset.Count;
-                var AllNewCharArray = CurCharset.ToArray().Order().ToList();
-                foreach (var ExistedChar in ExistedChars)
-                {
-                    AllNewCharArray.Remove(ExistedChar);
-                    AllNewCharArray.Add(ExistedChar);
-                }
-                for (int i = 0; i < Charset.Length; i++)
-                {
-                    int NewCharIndex = AllNewCharArray.FindIndex(0, (A) => A == Charset[i]);
-                    if (NewCharIndex != -1 && NewCharIndex + FontReplaceIndex <= i)
-                    {
-                        // 新字符集中的字符会在原字符集之前，不能接受，要把这个字符放到最后
-                        AllNewCharArray.Remove(Charset[i]);
-                        AllNewCharArray.Add(Charset[i]);
-                    }
-                }
-                int AddOffset = 0;
-                for (int i = AllNewCharArray.Count - 1; i >= 0; i--)
-                {
-                    int OldCharIndex = Charset.ToList().FindIndex(0, (A) => A == AllNewCharArray[i]);
-                    if (OldCharIndex >= i + FontReplaceIndex + AddOffset)
-                    {
-                        AddOffset++;
-                    }
-                    else
-                    {
-                        break;
-                    }
-                }
                 string AllNewChar = new string(AllNewCharArray.ToArray());
                 string AllNewCharFile = Path.Combine(TMPPath, "AllNewChar.txt");
                 if(AllNewChar.Length==0)
@@ -402,7 +413,6 @@
             // 检查必须的组件
             if (!(File.Exists(".\\Files\\lucksystem.exe") && 
                 File.Exists(".\\Files\\czutil.exe")&&
-                File.Exists(".\\Files\\Charset36.txt")&&
                 File.Exists(".\\Files\\OPCODE.txt")))
             {
                 string Notice = "组件缺失，你是否将补丁文件夹完整解压出来了？";
@@ -652,10 +662,10 @@
                 //28
             };
 
-            ProcessFont(FontSize, InstructionProcessor.CharCollection);
-            // ProcessFont([36], TitleUsedCharset);
+            ProcessFont(FontSize, InstructionProcessor.CharCollection, false);
+            ProcessFont([36], TitleUsedCharset, true);
 
-            {
+            /*{
                 string Charset36 = File.ReadAllText(LBEECharset36);
                 HashSet<char> Charset36Set = new HashSet<char>();
                 foreach (char c in Charset36)
@@ -684,7 +694,7 @@
                         File.Copy(Path.Combine(PendingReplacePath, $"{FontTemplate}36"), Path.Combine(PendingReplacePath, $"{fName}36"));
                     }
                 }
-            }
+            }*/
 
             Process.Start("Files\\lucksystem.exe", $"pak replace -s \"{TemplateLBEEFontPak}\" -i \"{PendingReplacePath}\" -o \"{LBEEFontPak}\"").WaitForExit();
 
