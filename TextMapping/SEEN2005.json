@@ -48,7 +48,7 @@
     {
       "JP": "すると相手はいっせいに「シャッフルタイム」について考え始める。$d「スタート」と宣言したからには、その「シャッフルタイム」が始まっていると思うからだ。$d周りを見回す奴もいるだろう。手に持った得物を確認する奴もいるだろう。$d一体何が変わっているのか、何が今『シャッフル』されているのか…それを必死に見極めようとする。$d（あるいは自分たちが自ら能動的にその「シャッフル」を行わなければならないと思うかもしれない。実際シャッフルを始めようと隣の奴と入れ替わろうとしている奴を見たことがある）",
       "EN": " The phrase ❛Shuffle Time❜ itself is the finishing move.\n They will get the impression that a ❛Shuffle Time❜ has started, since you so said.\n Some of them will start looking around. Some will start inspecting the weapons they have at hand. \n They will ponder what exactly is going on, what exactly is being shuffled...\n (I've even seen some start changing places with people around them.)",
-      "Translation": "这样一来，对方就会开始思考「Shuffle Time」。$d既然宣布了「Start」，我认为那个「Shuffle Time」已经开始了。有些人会环顾周围。$d应该有人会确认手上的武器吧。$d到底发生了什么，什么现在正在「Shuffle」……拼命想知道那个。$d(或者我们可能认为我们必须主动进行这种「Shuffle」。实际上我也见过为了和旁边的人交换而开始「Shuffle Time」的人)"
+      "Translation": "这样一来，对方就会开始思考「Shuffle Time」。$d既然宣布了「Start」，我认为那个「Shuffle Time」已经开始了。有些人会环顾周围。$d应该有人会确认手上的武器吧。$d到底发生了什么，什么现在正在「Shuffle」…拼命想知道那个。$d(或者我们可能认为我们必须主动进行这种「Shuffle」。实际上我也见过为了和旁边的人交换而开始「Shuffle Time」的人)"
     },
     {
       "JP": "そうして奴らが「シャッフルタイム」に惑わされている隙をついて、その場から立ち去ればいい。$d奴らが実は何もシャッフルされていないことに気づいた頃には、こっちは家でゆっくりシャワーでも浴びている、という寸法さ。",
@@ -1738,7 +1738,7 @@
     {
       "JP": "かつて海外を旅行した際…仲が良くなったホテルのボーイに『ニホンゴオシエテクダッサーイ』と言われた事があるんだ。$dそして俺はその時、お邪魔しますの挨拶は『コンドウデース！』、そしてさよならの挨拶は『ニシムラデシタ～』だと教えてしまったんだ…。",
       "EN": "One time, when I was overseas... There was a hotel boy I became friends with, and he asked me to teach him Japanese. \n So I told him that when he goes inside a room he should say ❝I'm Kondou!❞, and when he leaves he should use ❝I was Nishimura!❞.",
-      "Translation": "有一次，我在国外旅行时……有一个我和酒店男孩成为朋友的经历，他要求我教他日语。$d于是我告诉他，当他进入房间时应该说『我是Kondou！』离开时应该说『我是Nishimura～』。"
+      "Translation": "有一次，我在国外旅行时…有一个我和酒店男孩成为朋友的经历，他要求我教他日语。$d于是我告诉他，当他进入房间时应该说『我是Kondou！』离开时应该说『我是Nishimura～』。"
     },
     {
       "JP": "おそらく今でもそのボーイは、日本人の客が泊まる度に『コンドウデース！』『ニシムラデシタ～』と言い続けていることだろう。$dそれを思うたびに、俺の心は痛むのさ。",
@@ -1988,7 +1988,7 @@
     {
       "JP": "魚人は人型の魚だな。$d半漁人は…字から察するに夜から朝にかけては漁に出て、午後からはスーツとか着て普通に営業に回ってる、そんな二足のわらじを履くサラリーマンとかじゃねぇのか。少なくともそっちは人間だよな。$dこのふたつには、とりあえず人間か、人間じゃないか、という明らかな違いはあるわな。",
       "EN": "Fishman is a fish in a human shape.\n Half-merman... Judging by the morphology, it's someone who is a fish from dusk till dawn, and from dawn till dusk he's just a normal office worker in straw sandals. At least, this one is a human.\n The most obvious difference, as you can see, is that one of them is a human and the other is not.",
-      "Translation": "鱼人是人形的鱼。$d半人鱼……从字面上看，他们是从晚上到早上出海捕鱼，从下午开始穿着西装正常地去上班的，这种穿着两种鞋子的上班族。至少，这个是人类。$d你可以看到，这两者之间最明显的区别是一个是人类，另一个不是。"
+      "Translation": "鱼人是人形的鱼。$d半人鱼…从字面上看，他们是从晚上到早上出海捕鱼，从下午开始穿着西装正常地去上班的，这种穿着两种鞋子的上班族。至少，这个是人类。$d你可以看到，这两者之间最明显的区别是一个是人类，另一个不是。"
     },
     {
       "JP": "$C[60ff40]No.053$C[]\n",
@@ -4118,7 +4118,7 @@
     {
       "JP": "ああ、俺も噂には聞いてるぜ。なんでも飯は、立ち食いそばで、ホップしながら食べるって話だ（こいつはホップをやめると死んでしまうのか？）。$dその割に名前がありふれていて忘れたがな…。田中…鈴木…佐藤…なんかそんな感じの奴だ。気を付けろ。",
       "EN": "Yeah, I've heard the rumors. Apparently, they always eat at ❛stand-and-eat❜ soba restaurants, never ceasing their hopping for a second (it makes one wonder if they will die if they ever quit hopping).\n But their names are so common that I forgot... Tanaka... Suzuki... Satou... Well something like that. Watch out.",
-      "Translation": "是的，我也听说过这个传闻。据说他们总是在立吃蕎麦的时候吃饭，一边吃一边跳（让人怀疑他们如果停止跳跃会死吗？）。但是他们的名字太普通了，我忘了……田中……铃木……佐藤……总之差不多。小心点。"
+      "Translation": "是的，我也听说过这个传闻。据说他们总是在立吃蕎麦的时候吃饭，一边吃一边跳（让人怀疑他们如果停止跳跃会死吗？）。但是他们的名字太普通了，我忘了…田中…铃木…佐藤…总之差不多。小心点。"
     },
     {
       "JP": "$C[60ff40]No.097$C[]\n",

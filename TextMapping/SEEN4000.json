@@ -3573,7 +3573,7 @@
     {
       "JP": "この人はチップス感覚でカツをつまむんだ…。",
       "EN": "He actually considers pork cutlet similar to potato chips...",
-      "Translation": "这人居然把炸猪排当成薯片来吃……"
+      "Translation": "这人居然把炸猪排当成薯片来吃…"
     },
     {
       "JP": "`クド@「なんか私もお腹すいてきました」",
@@ -3918,7 +3918,7 @@
     {
       "JP": "`理樹@「二木さん…か」",
       "EN": "`Riki@❝Futaki-san...?❞",
-      "Translation": "`理树@「二木同学……吗？」"
+      "Translation": "`理树@「二木同学…吗？」"
     },
     {
       "JP": "`クド@「昨日も問題集開いてたら、教えてくれましたし」",
@@ -3928,7 +3928,7 @@
     {
       "JP": "`理樹@「へぇ、そうなんだ…」",
       "EN": "`Riki@❝Wow, really...?❞",
-      "Translation": "`理树@「诶，是吗……？」"
+      "Translation": "`理树@「诶，是吗…？」"
     },
     {
       "JP": "ちょっと意外。",
@@ -3948,7 +3948,7 @@
     {
       "JP": "`クド@「では私が連絡しますね。えーと、教えてくれませんか、っと」",
       "EN": "`Kud@❝I'll contact her. Umm, ❛Will you teach me?❜❞",
-      "Translation": "`库特@「那我来联系吧。嗯……‘可以教教我吗’，这样发过去就好了」"
+      "Translation": "`库特@「那我来联系吧。嗯…‘可以教教我吗’，这样发过去就好了」"
     },
     {
       "JP": "`クド@「送信送信」",
@@ -3973,7 +3973,7 @@
     {
       "JP": "…変な着信音だ…。",
       "EN": "...that was a weird notification sound...",
-      "Translation": "……好奇怪的铃声……。"
+      "Translation": "…好奇怪的铃声…。"
     },
     {
       "JP": "`クド@「『おーけー・ほえあー』だそうです」",
@@ -4243,7 +4243,7 @@
     {
       "JP": "`クド@「…？　何かおかしいこと、言いましたか？」",
       "EN": "`Kud@❝...? Did I say something weird?❞",
-      "Translation": "`库特@「……？我说了什么奇怪的话吗？」"
+      "Translation": "`库特@「…？我说了什么奇怪的话吗？」"
     },
     {
       "JP": "`二木@「別に。…あなたも化学でいいの？」",
@@ -4278,7 +4278,7 @@
     {
       "JP": "あれ？　苗字呼び捨てにされた…？",
       "EN": "What? She's calling me by just my family name with no honorific now?",
-      "Translation": "咦？她直接叫我的姓了……？"
+      "Translation": "咦？她直接叫我的姓了…？"
     },
     {
       "JP": "`二木@「主体性がないのね」",
@@ -4543,7 +4543,7 @@
     {
       "JP": "`理樹@（さんかくぶい？　…違うか。これはデルタブイ？）",
       "EN": "`Riki@(Triangle V? ...no. Delta V?)",
-      "Translation": "`理树@（三角V？……不对。这是ΔV？）"
+      "Translation": "`理树@（三角V？…不对。这是ΔV？）"
     },
     {
       "JP": "『Новый Спутник План（新スプートニク計画）』",
@@ -9593,7 +9593,7 @@
     {
       "JP": "…すごく不機嫌そうだ。というか怒ってる…。",
       "EN": "...Her temper seemed to be flaring. No, it was totally on fire...",
-      "Translation": "……她看起来非常不高兴。不如说，她已经在生气了…"
+      "Translation": "…她看起来非常不高兴。不如说，她已经在生气了…"
     },
     {
       "JP": "`クド@「わふーっ、わ、わかっていてやっていたわけではないのです、ですよーっ」",
@@ -11833,7 +11833,7 @@
     {
       "JP": "`理樹@「……はい」",
       "EN": "`Riki@❝......Right.❞",
-      "Translation": "`理树@「…是」"
+      "Translation": "`理树@「……是」"
     },
     {
       "JP": "`真人@「待ってくれよ…理樹は悪くねえんだよ…」",
@@ -12198,7 +12198,7 @@
     {
       "JP": "`二木@「………ふぅん」",
       "EN": "`Futaki@❝.........I see.❞",
-      "Translation": "`二木@「…是吗」"
+      "Translation": "`二木@「………是吗」"
     },
     {
       "JP": "`理樹@「な、なにか？」",
@@ -14473,7 +14473,7 @@
     {
       "JP": "`クド@「でーと…でーと？」",
       "EN": "`Kud@❝Date... date?❞",
-      "Translation": "`库特@「约会……约－会？」"
+      "Translation": "`库特@「约会…约－会？」"
     },
     {
       "JP": "なぜ疑問形？",
@@ -15548,12 +15548,12 @@
     {
       "JP": "`教師@「…以上でＨＲの連絡を終わる」",
       "EN": "`Teacher@❝...That's it. Let's finish the homeroom.❞",
-      "Translation": "`教师@「……以上是班会的通知内容」"
+      "Translation": "`教师@「…以上是班会的通知内容」"
     },
     {
       "JP": "`教師@「そうそう先日の模試の結果だが…自己採点の結果赤点のものは補習に出るように」",
       "EN": "`Teacher@❝Ah, one more thing about the test... If you've got any failed subjects in self-grading, you must come join remedial classes.❞",
-      "Translation": "`教师@「对了，还有之前模拟考试的成绩……凡是自评不及格的同学请参加补习」"
+      "Translation": "`教师@「对了，还有之前模拟考试的成绩…凡是自评不及格的同学请参加补习」"
     },
     {
       "JP": "`教師@「日直、号令」",
@@ -15588,7 +15588,7 @@
     {
       "JP": "`クド@「ごめんなさい…こんな私はう゛ぉーみっとこめっとで特訓ですー…」",
       "EN": "`Kud@❝I'm so sorry... Someone like me has to train in the Vomit Comet...❞",
-      "Translation": "`库特@「对不起……像这样的我只能去「呕吐彗星」特训了——…」"
+      "Translation": "`库特@「对不起…像这样的我只能去「呕吐彗星」特训了——…」"
     },
     {
       "JP": "クドはぺこぺこ頭を下げた。",
@@ -15653,7 +15653,7 @@
     {
       "JP": "`鈴@「…う」",
       "EN": "`Rin@❝...uh.❞",
-      "Translation": "`铃@「……呃」"
+      "Translation": "`铃@「…呃」"
     },
     {
       "JP": "`葉留佳@「う？」",
@@ -15843,7 +15843,7 @@
     {
       "JP": "すごい…一言も発さずに葉留佳さんのあらゆるツッコミどころに対応している…!!",
       "EN": "Amazing... she countered Haruka-san's so-called comedy act without saying a word!!",
-      "Translation": "太厉害了……完全没有说一句话，就应对了叶留佳的所有笑点…！"
+      "Translation": "太厉害了…完全没有说一句话，就应对了叶留佳的所有笑点…！"
     },
     {
       "JP": "あんな芸当はこの僕にも出来ない…。",
@@ -16113,7 +16113,7 @@
     {
       "JP": "`小毬@「うーん？　どうだろう…りんちゃんも赤点だったの？」",
       "EN": "`Komari@❝Hmm? I wonder... did you fail too, Rin-chan?❞",
-      "Translation": "`小毬@「嗯？不知道呢……小铃你也不及格了吗？」"
+      "Translation": "`小毬@「嗯？不知道呢…小铃你也不及格了吗？」"
     },
     {
       "JP": "`鈴@「ちがう」",
