@@ -205,7 +205,7 @@
   },
   {
     "Source": "%s returned the title ❝%s❞ and became the ❝Provisional Ruler of the Battle Rankings❞",
-    "Target": "%s归还了称号❝%s❞，成为了『战斗排位赛的暂定王者』"
+    "Target": "%s归还了称号『%s』，成为了『战斗排位赛暂定王者』"
   },
   {
     "Source": "Give it a rest already, think about those lifeforms with 8 or 10 feet sometimes too.",
