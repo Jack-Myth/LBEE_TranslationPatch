@@ -2189,7 +2189,7 @@
   },
   {
     "Source": "Belka and Strelka",
-    "Target": "贝尔卡和斯特列卡"
+    "Target": "威尔卡和斯特勒鲁卡"
   },
   {
     "Source": "Vinyl Hero Figure",
@@ -3313,7 +3313,7 @@
   },
   {
     "Source": "Strelka",
-    "Target": "斯特列卡"
+    "Target": "斯特勒鲁卡"
   },
   {
     "Source": "Yessir!",
@@ -3381,6 +3381,10 @@
   },
   {
     "Source": "\t Off\t ",
+    "Target": "关闭"
+  },
+  {
+    "Source": "     Off     ",
     "Target": "关闭"
   },
   {
@@ -3852,7 +3856,7 @@
   },
   {
     "Source": "Belka",
-    "Target": "贝尔卡"
+    "Target": "威尔卡"
   },
   {
     "Source": "Fuee!",

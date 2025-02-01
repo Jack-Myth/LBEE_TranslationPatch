@@ -1548,7 +1548,7 @@
     {
       "JP": "`葉留佳@「理樹くん、What are you talking about？（冗談は顔だけにしてよー）」",
       "EN": "`Haruka@❝Riki-kun, What Are You Talking About?❞",
-      "Translation": "`叶留佳@「理树君、？（开玩笑只要开在脸上就够了—）」"
+      "Translation": "`叶留佳@「理树君、What are you talking about？（开玩笑只要开在脸上就够了—）」"
     },
     {
       "JP": "`葉留佳@「真面目じゃないよ、私は」",
@@ -3418,7 +3418,7 @@
     {
       "JP": "`理樹@（『委員会室で待つ。　ｈｓ』――だって）",
       "EN": "`Riki@([I'll be waiting in the meeting room. -HS] ――it says.)",
-      "Translation": "`理树（@『在委员会室等你。ｈｓ』——这样写着）"
+      "Translation": "`理树@（『在委员会室等你。ｈｓ』——这样写着）"
     },
     {
       "JP": "やれやれ、どうしようか？",
@@ -4593,7 +4593,7 @@
     {
       "JP": "`葉留佳@「暗幕を略奪して回るのは伝統なのです。いっつ・あ・とらでぃしょなー」",
       "EN": "`Haruka@❝Plundering blackout curtains is a tradition. Ittsu a toradishyona～.❞",
-      "Translation": "`叶留佳@「到处掠夺黑窗帘是传统哦。Ｉｔ’ｓａ取走不是吗—」"
+      "Translation": "`叶留佳@「到处掠夺黑窗帘是传统哦。Ittsu a toradishyona～」"
     },
     {
       "JP": "`理樹@「そんな伝統聞いたことないけどさ…」",
@@ -17315,7 +17315,7 @@
     {
       "JP": "うん$dううん",
       "EN": "Yes$dNo",
-      "Translation": "是的$d不是"
+      "Translation": "有$d没有"
     },
     {
       "JP": "わかりました$dやっぱりちょっと…",
