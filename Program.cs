@@ -412,8 +412,9 @@
         {
             // 检查必须的组件
             if (!(File.Exists(".\\Files\\lucksystem.exe") && 
-                File.Exists(".\\Files\\czutil.exe")&&
-                File.Exists(".\\Files\\OPCODE.txt")))
+                File.Exists(".\\Files\\czutil.exe") &&
+                File.Exists(".\\Files\\OPCODE.txt") &&
+                File.Exists(".\\Files\\DxHook.base")))
             {
                 string Notice = "组件缺失，你是否将补丁文件夹完整解压出来了？";
                 Console.Error.WriteLine(Notice);
