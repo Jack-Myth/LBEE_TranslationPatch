@@ -13,6 +13,8 @@ BOOL WINAPI DllMain(HINSTANCE hinstDLL, DWORD fdwReason, LPVOID lpvReserved)
         {
 #if _DEBUG
             UPD::OpenDebugTerminal();
+#else
+            UPD::MuteLogging();
 #endif
             UPD::CreateProxy(hinstDLL);
             DoHook(hinstDLL);
