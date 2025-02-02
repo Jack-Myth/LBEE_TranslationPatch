@@ -7594,12 +7594,12 @@
     {
       "JP": "`理樹@「いや、今ご飯食べてるし、その後さすらいたいんだ」",
       "EN": "`Riki@❝No, I'm having my lunch right now, and after that I'll be wandering around.❞",
-      "Translation": "`理树@「不，我在吃午饭，之后我还要去巡游」"
+      "Translation": "`理树@「不，我在吃午饭，之后我还要去徘徊」"
     },
     {
       "JP": "`葉留佳@「さすらうんだったら、仕方ないデスネ」",
       "EN": "`Haruka@❝I guess it can't be helped then, if you're going wandering.❞",
-      "Translation": "`叶留佳@「那就没办法了，如果你要去巡游的话」"
+      "Translation": "`叶留佳@「那就没办法了，如果你要去徘徊的话」"
     },
     {
       "JP": "`葉留佳@「ま、来た道戻るだけだから、ひとりでもだいじょうぶかなぁ～」",
@@ -11899,12 +11899,12 @@
     {
       "JP": "`葉留佳@「そして掃除をしている事はおそうじんぐといいます」",
       "EN": "`Haruka@❝And, 'osoujing' is how you say ❛cleaning❜ in English.❞",
-      "Translation": "`叶留佳@「然后在打扫的话就是Osoujin好了」"
+      "Translation": "`叶留佳@「然后在打扫的话就是大扫除（Osoujin）好了」"
     },
     {
       "JP": "`クド@「はいっ、勉強になりますっ。れっつおそうじんぐですっ」",
       "EN": "`Kud@❝Yes, I'll remember that. Rettsu osoujing!❞",
-      "Translation": "`库特@「嗯，受指教了。Osoujin的说」"
+      "Translation": "`库特@「嗯，受指教了。大扫除的说」"
     },
     {
       "JP": "`来ヶ谷@「ちなみにcleaningだ」",
@@ -11949,7 +11949,7 @@
     {
       "JP": "`来ヶ谷@「cleaningだ」",
       "EN": "`Kurugaya@❝Cleaning.❞",
-      "Translation": "`来谷@「是」"
+      "Translation": "`来谷@「是Cleaning」"
     },
     {
       "JP": "`葉留佳@「というわけでふたりともぞうきなーでヨロシク」",
@@ -11959,12 +11959,12 @@
     {
       "JP": "`来ヶ谷@「雑巾はdustclothだ」",
       "EN": "`Kurugaya@❝That's called a ❛dustcloth.❜❞",
-      "Translation": "`来谷@「抹布是」"
+      "Translation": "`来谷@「抹布是dustcloth」"
     },
     {
       "JP": "`葉留佳@「ダストクロサーでヨロシクっ!!」",
       "EN": "`Haruka@❝Be dustclothers then!!❞",
-      "Translation": "`叶留佳@「拜托做下吧！！」"
+      "Translation": "`叶留佳@「拜托做下dustclothers吧！！」"
     },
     {
       "JP": "`クド@「だすとくろさーはとてもかっこいいですっ」",
@@ -12299,7 +12299,7 @@
     {
       "JP": "`理樹@「ごめん、ちょっとさすらってくるよ」",
       "EN": "`Riki@❝Sorry, but I'll wander for a bit.❞",
-      "Translation": "`理树@「抱歉，但我现在正在去巡游」"
+      "Translation": "`理树@「抱歉，但我现在正在去徘徊」"
     },
     {
       "JP": "`恭介@「おう、気をつけてな」",

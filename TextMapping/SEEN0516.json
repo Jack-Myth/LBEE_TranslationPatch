@@ -725,7 +725,7 @@
     {
       "JP": "少し疑問に思わないでも、ない。",
       "EN": "There was some tingling doubt in my mind.",
-      "Translation": "没有，连一点疑问都没有。"
+      "Translation": "心里总有一种隐隐的不安。"
     },
     {
       "JP": "鈴のことが気になる。",
@@ -1680,7 +1680,7 @@
     {
       "JP": "さて、どうしよう…と考え始めたところで僕は昨日の夜の出来事を思い出す。",
       "EN": "When I thought of what to do next, I remembered what had happened last night.",
-      "Translation": "AI润色"
+      "Translation": "当我想着下一步该怎么办时，我想起了昨晚发生的事。"
     },
     {
       "JP": "そうだ。女生徒の生徒手帳を拾ったんだ。返しにいってあげなくちゃ…。",
@@ -2430,7 +2430,7 @@
     {
       "JP": "情けない話だが、絶体絶命のこのピンチを救えるのは彼女しかいない。",
       "EN": "I felt pathetic, but in that dire situation only she could save me.",
-      "Translation": "乞求帮助自己想办法上去虽然很不情愿，在如此危险的情况下能救我的只有她了"
+      "Translation": "虽然很不情愿，在如此危险的情况下能救我的只有她了"
     },
     {
       "JP": "`理樹@「助けてっ」",
@@ -14297,7 +14297,7 @@
     {
       "JP": "ＱＲコードを携帯で読み込んでおく$d先を急ぐ",
       "EN": "Read the QR code with my cellphone$dHurry forward",
-      "Translation": "用手机拍下QR碼$d快点追上"
+      "Translation": "用手机拍下QR碼$d着急找人"
     },
     {
       "JP": "さすらう$d休んでおく",
