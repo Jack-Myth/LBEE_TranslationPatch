@@ -422,6 +422,14 @@
                 return;
             }
 
+            if(!File.Exists(TargetFontPath))
+            {
+                string Notice = "你的电脑中没有\"黑体(simhei.ttf)\"，请下载黑体字体并安装至C:\\Windows\\Fonts下，之后再运行补丁。";
+                Console.Error.WriteLine(Notice);
+                MessageBox(IntPtr.Zero, Notice, "LBEE_TranslationPatch", 0);
+                return;
+            }
+
             int DescriptionWaitingTime = 20;
             for (int i = 0; i < args.Count(); i++)
             {
