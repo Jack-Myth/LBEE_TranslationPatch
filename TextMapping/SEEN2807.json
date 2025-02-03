@@ -823,7 +823,7 @@
     {
       "JP": "`朱鷺戸@「そうよ、てんぱって、第六の感覚器官がおかしくなってるのよっ、混乱してるのよっ、噛み噛みなのよっ、惑いまくりなのよ、滑稽ね、滑稽でしょ？　笑いなさいよ、ほら、笑っちゃいなさいよ」",
       "EN": "`Tokido@$S024❝Yeah, that's right. I was so flustered that my sixth sense missed them. I was confused, I was bewildered, I'm a joke, right? Don't you think I'm a complete joke? Laugh if you want! Come on, I don't hear you laughing!❞",
-      "Translation": "`朱鹭户@「是啊，第六感觉器官突然变得奇怪了，混乱了啊，失灵了啊，不知所措了啊，滑稽吧，很滑稽吧？嘲　笑我吧，来吧，快嘲笑我吧！」"
+      "Translation": "`朱鹭户@「是啊，第六感觉器官突然变得奇怪了，混乱了啊，失灵了啊，不知所措了啊，滑稽吧，很滑稽吧？嘲笑我吧，来吧，快嘲笑我吧！」"
     },
     {
       "JP": "`朱鷺戸@「あーっはっはっはっ！」",
@@ -2550,17 +2550,17 @@
     {
       "JP": "手を握る$d大人しくしている",
       "EN": "Hold her hand$dDon't do it",
-      "Translation": "握住手$d乖乖待着"
+      "Translation": "握住朱鷺戸的手$d乖乖待着"
     },
     {
       "JP": "腕に触れてみる$d大人しくしている",
       "EN": "Try to touch her arm$dStay put",
-      "Translation": "試着触摸手臂$d乖乖待着"
+      "Translation": "試着摸朱鷺戸的手$d乖乖待着"
     },
     {
       "JP": "頭を撫でてみる$d大人しくしている",
       "EN": "Try patting her head$dStay put",
-      "Translation": "試着摸摸頭$d乖乖待着"
+      "Translation": "試着摸朱鷺戸的頭$d乖乖待着"
     }
   ],
   "TASK": []
