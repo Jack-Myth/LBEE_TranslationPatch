@@ -2,1043 +2,1043 @@
   "MESSAGE": [
     {
       "JP": "`鈴@「なんかいいもん持ってるか？」",
-      "EN": "`铃@「那是什么好东西？」",
+      "EN": "`Rin@❝What's that nice thing you have there?❞",
       "Translation": "`铃@「那是什么好东西？」"
     },
     {
       "JP": "`鈴@「なんかだせ」",
-      "EN": "`铃@「让我看看！」",
+      "EN": "`Rin@❝Lemme see!❞",
       "Translation": "`铃@「让我看看！」"
     },
     {
       "JP": "`小毬@「よかったらこうかんこしませんかー」",
-      "EN": "`小毬@「要不要交换一下？」",
+      "EN": "`Komari@❝Would you like to trade?❞",
       "Translation": "`小毬@「要不要交换一下？」"
     },
     {
       "JP": "`小毬@「これ使わないかなぁ？」",
-      "EN": "`小毬@「这个你用得上吗？」",
+      "EN": "`Komari@❝Would that be useful to you?❞",
       "Translation": "`小毬@「这个你用得上吗？」"
     },
     {
       "JP": "`小毬@「とれーどしましょー」",
-      "EN": "`小毬@「来交换吧。」",
+      "EN": "`Komari@❝Let's trade.❞",
       "Translation": "`小毬@「来交换吧。」"
     },
     {
       "JP": "`来ヶ谷@「なんだ、おねーさんのこれと交換したいか？」",
-      "EN": "`来谷@「怎么了，想和姐姐交换吗？」",
+      "EN": "`Kurugaya@❝Are you saying you want to trade with Onee-san?❞",
       "Translation": "`来谷@「怎么了，想和姐姐交换吗？」"
     },
     {
       "JP": "`来ヶ谷@「交換か？　いやいやわかっている仕方がない交換してやろう」",
-      "EN": "`来谷@「交换吗？好吧好吧，没办法，交换吧。」",
+      "EN": "`Kurugaya@❝A trade? No, no, I understand, let's do it.❞",
       "Translation": "`来谷@「交换吗？好吧好吧，没办法，交换吧。」"
     },
     {
       "JP": "`来ヶ谷@「ふむ、どうかねトレードは」",
-      "EN": "`来谷@「嗯，交换怎么样？」",
+      "EN": "`Kurugaya@❝Hmph, which one should I trade?❞",
       "Translation": "`来谷@「嗯，交换怎么样？」"
     },
     {
       "JP": "`クド@「れっつ・ごー・ばーたー、なのです」",
-      "EN": "`库特@「来吧，交换吧！」",
+      "EN": "`Kud@❝Rettsu go- baataa!❞",
       "Translation": "`库特@「来吧，交换吧！」"
     },
     {
       "JP": "`クド@「備えあれば憂い無し！　こちらと交換はいかがでしょう」",
-      "EN": "`库特@「有备无患！要不要交换一下？」",
+      "EN": "`Kud@❝Forewarned is forearmed. How about a trade?❞",
       "Translation": "`库特@「有备无患！要不要交换一下？」"
     },
     {
       "JP": "`クド@「ぱじゃーるすたー（これをどうぞ）」",
-      "EN": "`库特@「请收下这个。」",
+      "EN": "`Kud@❝Pozhaluista (Please accept this).❞",
       "Translation": "`库特@「请收下这个。」"
     },
     {
       "JP": "`クド@「センパイっ！　ボクと交換してくださいっ！　…趣向を変えてみました」",
-      "EN": "`库特@「前辈！和我交换吧！…我试着换了种说法。」",
+      "EN": "`Kud@❝Senpai! Let's trade! ...I tried saying it for a change.❞",
       "Translation": "`库特@「前辈！和我交换吧！…我试着换了种说法。」"
     },
     {
       "JP": "`クド@「直枝先輩！　お願いしますっ！　体育会系で攻めてみるのですっ」",
-      "EN": "`库特@「直枝前辈！拜托了！我试着用体育会系的方式说。」",
+      "EN": "`Kud@❝Naoe-senpai! Thank you very much! ...I tried speaking like an underling.❞",
       "Translation": "`库特@「直枝前辈！拜托了！我试着用体育会系的方式说。」"
     },
     {
       "JP": "`葉留佳@「ねぇねぇっ！　交換しようヨっ」",
-      "EN": "`叶留佳@「嘿嘿！来交换吧！」",
+      "EN": "`Haruka@❝Hey, hey! Let's trade!❞",
       "Translation": "`叶留佳@「嘿嘿！来交换吧！」"
     },
     {
       "JP": "`葉留佳@「んっ！　いいもの持ってるねっ！　取りかえっこしよっ」",
-      "EN": "`叶留佳@「哦！你有好东西！来交换吧！」",
+      "EN": "`Haruka@❝Oh! You have something nice! Let's make an exchange!❞",
       "Translation": "`叶留佳@「哦！你有好东西！来交换吧！」"
     },
     {
       "JP": "`葉留佳@「それ欲しいから変えてくんないかなー」",
-      "EN": "`叶留佳@「我想要那个，能不能交换一下？」",
+      "EN": "`Haruka@❝I want that, how about a trade?❞",
       "Translation": "`叶留佳@「我想要那个，能不能交换一下？」"
     },
     {
       "JP": "`葉留佳@「私は交換を要求する！」",
-      "EN": "`叶留佳@「我要求交换！」",
+      "EN": "`Haruka@❝I demand a trade!❞",
       "Translation": "`叶留佳@「我要求交换！」"
     },
     {
       "JP": "`西園@「何も失わずに、何かを手に入れることはできないのです」",
-      "EN": "`西园@「不失去什么就得不到什么。」",
+      "EN": "`Nishizono@❝You can't get something for nothing.❞",
       "Translation": "`西园@「不失去什么就得不到什么。」"
     },
     {
       "JP": "`西園@「世の中、ギブアンドテイクです」",
-      "EN": "`西园@「世上都是互惠互利的。」",
+      "EN": "`Nishizono@❝It's all about give and take.❞",
       "Translation": "`西园@「世上都是互惠互利的。」"
     },
     {
       "JP": "`西園@「そ、それは幻の…い、いえ、なんでもありません。…要らないのなら、わたしに下さい」",
-      "EN": "`西园@「那是幻影…不，没什么。如果你不需要，请给我。」",
+      "EN": "`Nishizono@❝Th, that's the phantom... N, no, never mind... If you don't need it, please give it to me.❞",
       "Translation": "`西园@「那是幻影…不，没什么。如果你不需要，请给我。」"
     },
     {
       "JP": "`真人@「オレの筋肉グッズはいかがかな？」",
-      "EN": "`真人@「要不要我的肌肉补品？」",
+      "EN": "`Masato@❝Do you want my muscle supplements?❞",
       "Translation": "`真人@「要不要我的肌肉补品？」"
     },
     {
       "JP": "`真人@「強くなりたいなら、オレの筋肉グッズが手っ取り早いぜ？」",
-      "EN": "`真人@「想变强的话，用我的肌肉补品最快了。」",
+      "EN": "`Masato@❝If you want to get stronger, it'd be faster to use my muscle supplements, y'know?❞",
       "Translation": "`真人@「想变强的话，用我的肌肉补品最快了。」"
     },
     {
       "JP": "`真人@「はい、今日も筋肉です」",
-      "EN": "`真人@「好，今天也是肌肉。」",
+      "EN": "`Masato@❝Alright, it's muscle today too.❞",
       "Translation": "`真人@「好，今天也是肌肉。」"
     },
     {
       "JP": "`謙吾@「はは、意外とおしゃれだろ。何かと交換したいか？」",
-      "EN": "`谦吾@「哈哈，意外地时尚吧。想交换什么吗？」",
+      "EN": "`Kengo@❝Haha, I didn't think you had all this stuff. Do you want to trade?❞",
       "Translation": "`谦吾@「哈哈，意外地时尚吧。想交换什么吗？」"
     },
     {
       "JP": "`謙吾@「なにか物欲しそうだな。何か交換するか？」",
-      "EN": "`谦吾@「你看起来很想要什么。要不要交换一下？」",
+      "EN": "`Kengo@❝You have something I want. Will you trade with me?❞",
       "Translation": "`谦吾@「你看起来很想要什么。要不要交换一下？」"
     },
     {
       "JP": "`恭介@「らっしゃい、何か交換してくかい」",
-      "EN": "`恭介@「欢迎，想交换什么吗？」",
+      "EN": "`Kyousuke@❝Welcome, how about trading something?❞",
       "Translation": "`恭介@「欢迎，想交换什么吗？」"
     },
     {
       "JP": "`恭介@「どうだい、いいもの揃えてるぜ」",
-      "EN": "`恭介@「怎么样，我这里有好东西。」",
+      "EN": "`Kyousuke@❝What do you think? I have some awesome stuff here.❞",
       "Translation": "`恭介@「怎么样，我这里有好东西。」"
     },
     {
       "JP": "`マスクザ斉藤@「うまうー？」",
-      "EN": "`假面・齐藤@「唔姆ー？」",
+      "EN": "`Mask the Saito@❝Umauu?❞",
       "Translation": "`假面・齐藤@「唔姆ー？」"
     },
     {
       "JP": "どれを交換しようか？",
-      "EN": "哪一个要交换？",
+      "EN": "Which one do you want to trade?",
       "Translation": "哪一个要交换？"
     },
     {
       "JP": "`鈴@「ふふふ…ナイストレードだ…笑いが止まらない…」",
-      "EN": "`铃@「呵呵呵…好交易…笑得停不下来…」",
+      "EN": "`Rin@❝Fufufu... Nice trade... I can't stop laughing...❞",
       "Translation": "`铃@「呵呵呵…好交易…笑得停不下来…」"
     },
     {
       "JP": "`鈴@「あいつすげー馬鹿じゃないか？　あんなもんと交換してくれるなんて」",
-      "EN": "`铃@「那家伙真笨，竟然愿意用那种东西交换。」",
+      "EN": "`Rin@❝Are you stupid? Why did you trade something like this?❞",
       "Translation": "`铃@「那家伙真笨，竟然愿意用那种东西交换。」"
     },
     {
       "JP": "`小毬@「ありがとうー」",
-      "EN": "`小毬@「谢谢～」",
+      "EN": "`Komari@❝Thaaanks.❞",
       "Translation": "`小毬@「谢谢～」"
     },
     {
       "JP": "`小毬@「うん、役に立ててよかったよー」",
-      "EN": "`小毬@「嗯，能帮上忙真好。」",
+      "EN": "`Komari@❝Yeah, I'm glad if it's of use to you.❞",
       "Translation": "`小毬@「嗯，能帮上忙真好。」"
     },
     {
       "JP": "`小毬@「大切に使ってねー」",
-      "EN": "`小毬@「好好珍惜哦。」",
+      "EN": "`Komari@❝Take good care of it, okay?❞",
       "Translation": "`小毬@「好好珍惜哦。」"
     },
     {
       "JP": "`小毬@「べりべりさんきゅーだよー」",
-      "EN": "`小毬@「非常感谢～」",
+      "EN": "`Komari@❝Berry, berry thank you.❞",
       "Translation": "`小毬@「非常感谢～」"
     },
     {
       "JP": "`来ヶ谷@「大切に使うといい」",
-      "EN": "`来谷@「好好珍惜吧。」",
+      "EN": "`Kurugaya@❝You must take good care of it.❞",
       "Translation": "`来谷@「好好珍惜吧。」"
     },
     {
       "JP": "`来ヶ谷@「うむ、まあこんなもんだろう」",
-      "EN": "`来谷@「嗯，大概就这样吧。」",
+      "EN": "`Kurugaya@❝Umu, well, that's it.❞",
       "Translation": "`来谷@「嗯，大概就这样吧。」"
     },
     {
       "JP": "`来ヶ谷@「等価交換というやつさ」",
-      "EN": "`来谷@「这就是等价交换。」",
+      "EN": "`Kurugaya@❝That's a fair exchange.❞",
       "Translation": "`来谷@「这就是等价交换。」"
     },
     {
       "JP": "`クド@「交換ありがとうございますー」",
-      "EN": "`库特@「谢谢交换。」",
+      "EN": "`Kud@❝Thanks for the traaade.❞",
       "Translation": "`库特@「谢谢交换。」"
     },
     {
       "JP": "`クド@「付喪神が宿るまで大切にしてくださいねっ」",
-      "EN": "`库特@「请珍惜它直到它变成付丧神。」",
+      "EN": "`Kud@❝Please treasure it until it turns into a tsukumogami.❞",
       "Translation": "`库特@「请珍惜它直到它变成付丧神。」"
     },
     {
       "JP": "`クド@「わふー、すぱしーばー（どういたしまして）」",
-      "EN": "`库特@「哇呼，spasibo（不客气）」",
+      "EN": "`Kud@❝Wafuuu, spasibo (Thank you).❞",
       "Translation": "`库特@「哇呼，spasibo（不客气）」"
     },
     {
       "JP": "`クド@「センパイ、ウス！　ありがとうございましたっ」",
-      "EN": "`库特@「前辈，Cheers！谢谢！」",
+      "EN": "`Kud@❝Cheers, senpai! Thank you!❞",
       "Translation": "`库特@「前辈，Cheers！谢谢！」"
     },
     {
       "JP": "`クド@「直枝先輩！　ありがとうございますっ」",
-      "EN": "`库特@「直枝前辈！非常感谢！」",
+      "EN": "`Kud@❝Naoe-senpai! Thank you very much!❞",
       "Translation": "`库特@「直枝前辈！非常感谢！」"
     },
     {
       "JP": "`葉留佳@「やはは、ありがとねっ」",
-      "EN": "`叶留佳@「哈哈，谢谢。」",
+      "EN": "`Haruka@❝Yahaha, thanks.❞",
       "Translation": "`叶留佳@「哈哈，谢谢。」"
     },
     {
       "JP": "`葉留佳@「交換してくれるなんて優しいなぁ…うう、はるちん泣けてきた」",
-      "EN": "`叶留佳@「你愿意交换真是太好了…呜呜，小叶子感动得要哭了。」",
+      "EN": "`Haruka@❝You're so kind to trade with me... Haruchin is moved to tears.❞",
       "Translation": "`叶留佳@「你愿意交换真是太好了…呜呜，小叶子感动得要哭了。」"
     },
     {
       "JP": "`葉留佳@「秘蔵の品物だから大事にしてねっ！　絶対だぞっ」",
-      "EN": "`叶留佳@「这是我的珍藏品，请好好珍惜！一定要哦。」",
+      "EN": "`Haruka@❝It's my treasure, so take good care of it! Promise me!❞",
       "Translation": "`叶留佳@「这是我的珍藏品，请好好珍惜！一定要哦。」"
     },
     {
       "JP": "`葉留佳@「はるちんは嬉しそうに微笑んだ！」",
-      "EN": "`叶留佳@「叶留佳开心地笑了！」",
+      "EN": "`Haruka@❝Haruchin smiles happily.❞",
       "Translation": "`叶留佳@「叶留佳开心地笑了！」"
     },
     {
       "JP": "`西園@「大切にしないと…ああ、それ以上はわたしの口からは言えません」",
-      "EN": "`西园@「不珍惜的话…啊，这话我不能说。」",
+      "EN": "`Nishizono@❝If you don't take good care of it... I shall say no more.❞",
       "Translation": "`西园@「不珍惜的话…啊，这话我不能说。」"
     },
     {
       "JP": "`西園@「…目指せ、わらしべ長者」",
-      "EN": "`西园@「…目标是成为稻草富翁。」",
+      "EN": "`Nishizono@❝...You'll be a Straw Millionaire, go for it.❞",
       "Translation": "`西园@「…目标是成为稻草富翁。」"
     },
     {
       "JP": "`西園@「さて、部屋に戻ってゆっくりと味わうことにしましょうか」",
-      "EN": "`西园@「那么，回房间慢慢品味吧。」",
+      "EN": "`Nishizono@❝Okay, I will go back to my room to savor its flavor.❞",
       "Translation": "`西园@「那么，回房间慢慢品味吧。」"
     },
     {
       "JP": "`真人@「ありがとよ。いい筋肉でまた会おう」",
-      "EN": "`真人@「谢谢。希望下次还能见到好肌肉。」",
+      "EN": "`Masato@❝Thanks. We shall meet again under a good muscle.❞",
       "Translation": "`真人@「谢谢。希望下次还能见到好肌肉。」"
     },
     {
       "JP": "`真人@「はっ、またまたおだてるなって。じゃあ、また筋肉で」",
-      "EN": "`真人@「哈，别再恭维我了。那，下次见。」",
+      "EN": "`Masato@❝Hah, stop flattering me. Well, see your muscle later.❞",
       "Translation": "`真人@「哈，别再恭维我了。那，下次见。」"
     },
     {
       "JP": "`謙吾@「大事に使ってくれよ。サンキュー。さらばだ」",
-      "EN": "`谦吾@「好好珍惜。谢谢，再见。」",
+      "EN": "`Kengo@❝Take good care of it. Thank you and farewell.❞",
       "Translation": "`谦吾@「好好珍惜。谢谢，再见。」"
     },
     {
       "JP": "`謙吾@「俺のほうが得したみたいだな。おまえがいいならそれでいいがな。ありがとう」",
-      "EN": "`谦吾@「看起来我赚到了。不过如果你没问题，那就好。谢谢。」",
+      "EN": "`Kengo@❝It looks like it was more beneficial for me. But if you're okay with this, I don't mind. Thank you.❞",
       "Translation": "`谦吾@「看起来我赚到了。不过如果你没问题，那就好。谢谢。」"
     },
     {
       "JP": "`謙吾@「はっは、おしゃれになったじゃないか。よかったよかった。じゃあな」",
-      "EN": "`谦吾@「哈哈，变得时尚了吧。太好了太好了。再见。」",
+      "EN": "`Kengo@❝Haha, it will definitely help you. Awesome, awesome. I'll catch you later.❞",
       "Translation": "`谦吾@「哈哈，变得时尚了吧。太好了太好了。再见。」"
     },
     {
       "JP": "`恭介@「ありがとよ。またきてくれよ」",
-      "EN": "`恭介@「谢谢。再来哦。」",
+      "EN": "`Kyousuke@❝Thanks. See you again later.❞",
       "Translation": "`恭介@「谢谢。再来哦。」"
     },
     {
       "JP": "`マスクザ斉藤@「はりゃほれよ…」",
-      "EN": "`假面・齐藤@「哈呀呼呼…」",
+      "EN": "`Mask the Saito@❝Harya hore...❞",
       "Translation": "`假面・齐藤@「哈呀呼呼…」"
     },
     {
       "JP": "`鈴@「なにぃ…これのよさがわからんなんて人としてどうかと思うぞ？　ったく…」",
-      "EN": "`铃@「什么…你竟然不懂这个的好？真是…」",
+      "EN": "`Rin@❝Say what... How can you not understand the greatness of this? Honestly...❞",
       "Translation": "`铃@「什么…你竟然不懂这个的好？真是…」"
     },
     {
       "JP": "`鈴@「おまえこれ、すげー欲しそうに見てたのにな、要らなかったのか。なんだ、早く言ってくれ」",
-      "EN": "`铃@「你明明看起来很想要这个，结果不需要吗。早说啊。」",
+      "EN": "`Rin@❝So you didn't need that, even though you looked like you really wanted it? You should have said so earlier.❞",
       "Translation": "`铃@「你明明看起来很想要这个，结果不需要吗。早说啊。」"
     },
     {
       "JP": "`小毬@「うーん、しょうがないねぇ」",
-      "EN": "`小毬@「嗯，没办法呢。」",
+      "EN": "`Komari@❝Hm... Oh well.❞",
       "Translation": "`小毬@「嗯，没办法呢。」"
     },
     {
       "JP": "`小毬@「が、がーん…余計なことだったのか～」",
-      "EN": "`小毬@「啊，糟了…你不需要啊～」",
+      "EN": "`Komari@❝Oh dear... You didn't need it～...❞",
       "Translation": "`小毬@「啊，糟了…你不需要啊～」"
     },
     {
       "JP": "`小毬@「しょんぼり…」",
-      "EN": "`小毬@「沮丧…」",
+      "EN": "`Komari@❝Bummer...❞",
       "Translation": "`小毬@「沮丧…」"
     },
     {
       "JP": "`来ヶ谷@「おねーさんの誘いを断るとは…」",
-      "EN": "`来谷@「竟然拒绝姐姐的提议…」",
+      "EN": "`Kurugaya@❝You have nerve refusing Onee-san's offer...❞",
       "Translation": "`来谷@「竟然拒绝姐姐的提议…」"
     },
     {
       "JP": "`来ヶ谷@「いらんのか？　まあいいが」",
-      "EN": "`来谷@「不需要吗？那好吧。」",
+      "EN": "`Kurugaya@❝You don't need that? Oh, as you wish.❞",
       "Translation": "`来谷@「不需要吗？那好吧。」"
     },
     {
       "JP": "`来ヶ谷@「気に食わんな」",
-      "EN": "`来谷@「不喜欢吗？」",
+      "EN": "`Kurugaya@❝Is it not to your liking?❞",
       "Translation": "`来谷@「不喜欢吗？」"
     },
     {
       "JP": "`クド@「うう、要らないですか？　らじゃーなのです…」",
-      "EN": "`库特@「呜，不需要吗？了解…」",
+      "EN": "`Kud@❝Uu, you don't need it? Roger...❞",
       "Translation": "`库特@「呜，不需要吗？了解…」"
     },
     {
       "JP": "`クド@「そうですか、しょうがないですね。のーじんじゃー」",
-      "EN": "`库特@「是吗，没办法呢。没关系。」",
+      "EN": "`Kud@❝Really? It can't be helped then, it's no ginger...❞",
       "Translation": "`库特@「是吗，没办法呢。没关系。」"
     },
     {
       "JP": "`クド@「わふー、いずう゛ぇにーちー（すみません）」",
-      "EN": "`库特@「わふー，izvinite（对不起）」",
+      "EN": "`Kud@❝Wafuu, izvinite (I'm sorry).❞",
       "Translation": "`库特@「わふー，izvinite（对不起）」"
     },
     {
       "JP": "`クド@「ボクではダメでしたかー。…この趣向は向いてませんね、わふー」",
-      "EN": "`库特@「我不行吗…这个想法不适合呢，哇呼ー」",
+      "EN": "`Kud@❝It was no good..? This idea of mine...❞",
       "Translation": "`库特@「我不行吗…这个想法不适合呢，哇呼ー」"
     },
     {
       "JP": "`クド@「センパイ、ごめんなさい…」",
-      "EN": "`库特@「前辈，对不起…」",
+      "EN": "`Kud@❝I'm sorry, senpai...❞",
       "Translation": "`库特@「前辈，对不起…」"
     },
     {
       "JP": "`クド@「直枝先輩、ごめんなさい…」",
-      "EN": "`库特@「直枝前辈，对不起…」",
+      "EN": "`Kud@❝I'm sorry, Naoe-senpai...❞",
       "Translation": "`库特@「直枝前辈，对不起…」"
     },
     {
       "JP": "`葉留佳@「うう…ひどいよー。ぐすん」",
-      "EN": "`叶留佳@「呜呜…你太过分了。呜咽」",
+      "EN": "`Haruka@❝Uu... You're horrible. Sob.❞",
       "Translation": "`叶留佳@「呜呜…你太过分了。呜咽」"
     },
     {
       "JP": "`葉留佳@「えー…ダメなの？　どうしてもダメ？　そっか…しょぼん」",
-      "EN": "`叶留佳@「什么…真的不行吗？真的不行吗？好吧…心碎了」",
+      "EN": "`Haruka@❝What... Are you sure? Are you really sure? Okay... You broke my heart.❞",
       "Translation": "`叶留佳@「什么…真的不行吗？真的不行吗？好吧…心碎了」"
     },
     {
       "JP": "`葉留佳@「ま、しょうがないねっ。そんなときもあるさっ」",
-      "EN": "`叶留佳@「嗯，没办法。这种事也会发生的」",
+      "EN": "`Haruka@❝Well, it can't be helped. This kind of thing happens too.❞",
       "Translation": "`叶留佳@「嗯，没办法。这种事也会发生的」"
     },
     {
       "JP": "`葉留佳@「そんないぢわるゆーなんて、ふんふーんだっ」",
-      "EN": "`叶留佳@「没想到你会这么坏！哼」",
+      "EN": "`Haruka@❝I never thought you could be that mean!❞",
       "Translation": "`叶留佳@「没想到你会这么坏！哼」"
     },
     {
       "JP": "`西園@「…ショックです」",
-      "EN": "`西园@「…我很震惊」",
+      "EN": "`Nishizono@❝...I'm shocked.❞",
       "Translation": "`西园@「…我很震惊」"
     },
     {
       "JP": "`西園@「この展開は予想していませんでした」",
-      "EN": "`西园@「没想到会有这样的展开」",
+      "EN": "`Nishizono@❝I didn't expect this turn of events.❞",
       "Translation": "`西园@「没想到会有这样的展开」"
     },
     {
       "JP": "`西園@「…泣いてなんかいませんよ」",
-      "EN": "`西园@「…我没有哭」",
+      "EN": "`Nishizono@❝...I'm not crying.❞",
       "Translation": "`西园@「…我没有哭」"
     },
     {
       "JP": "`真人@「なにぃ？　おっと動揺はしてませんよ。むしろ、そう来ると思ってたぜ…じゃあな」",
-      "EN": "`真人@「什么？哦，我没动摇。其实，我早就知道你会这么说…再见」",
+      "EN": "`Masato@❝Whaat? No, I'm perfectly fine. Actually, I knew you'd say so... See ya.❞",
       "Translation": "`真人@「什么？哦，我没动摇。其实，我早就知道你会这么说…再见」"
     },
     {
       "JP": "`真人@「おまえ…これナシで生きていく気かよっ。正気かよ…わかったよ…じゃあな」",
-      "EN": "`真人@「你…打算没有这个活下去吗？你认真的吗…好吧…再见」",
+      "EN": "`Masato@❝You think you can live without that...? Are you serious...? Alright... Later.❞",
       "Translation": "`真人@「你…打算没有这个活下去吗？你认真的吗…好吧…再见」"
     },
     {
       "JP": "`謙吾@「なんだ、つれない奴だな。まあ、いい。じゃあな」",
-      "EN": "`谦吾@「怎么了，你真冷淡。好吧，再见」",
+      "EN": "`Kengo@❝Why are you so cold? Oh well, see you later.❞",
       "Translation": "`谦吾@「怎么了，你真冷淡。好吧，再见」"
     },
     {
       "JP": "`謙吾@「やはりこれはおしゃれが過ぎたか…またな」",
-      "EN": "`谦吾@「果然这有点过于时尚了…再见」",
+      "EN": "`Kengo@❝So it was stylish for you after all... Later.❞",
       "Translation": "`谦吾@「果然这有点过于时尚了…再见」"
     },
     {
       "JP": "`恭介@「なんだって？　まあ確かにこんなものいらねーよな。じゃあな」",
-      "EN": "`恭介@「什么？确实这种东西不需要。再见」",
+      "EN": "`Kyousuke@❝Say what? Well, I'm not surprised you don't need it. Bye.❞",
       "Translation": "`恭介@「什么？确实这种东西不需要。再见」"
     },
     {
       "JP": "`恭介@「なんだって？　結構使えるんだがな、まあ仕方ねぇ。じゃあな」",
-      "EN": "`恭介@「什么？其实挺有用的，不过没办法。再见」",
+      "EN": "`Kyousuke@❝Say what? It's pretty useful. Alright, see you around.❞",
       "Translation": "`恭介@「什么？其实挺有用的，不过没办法。再见」"
     },
     {
       "JP": "`マスクザ斉藤@「はらたいら！」",
-      "EN": "`假面・齐藤@「哈拉塔拉！」",
+      "EN": "`Mask the Saito@❝Hara Taira!❞",
       "Translation": "`假面・齐藤@「哈拉塔拉！」"
     },
     {
       "JP": "`マスクザ斉藤@「はりれるぅら！」",
-      "EN": "`假面・齐藤@「哈里勒拉！」",
+      "EN": "`Mask the Saito@❝Harirerua!❞",
       "Translation": "`假面・齐藤@「哈里勒拉！」"
     },
     {
       "JP": "`鈴@「こいつ、おまえにぴったりじゃないか？　すごく馴染んでるぞ？　やろうか？」",
-      "EN": "`铃@「这个不正适合你吗？非常合适哦？要不要？」",
+      "EN": "`Rin@❝This was made just for you. You'll definitely like it. Do you want it? You do, right?❞",
       "Translation": "`铃@「这个不正适合你吗？非常合适哦？要不要？」"
     },
     {
       "JP": "`鈴@「実はこんなものが余っている。やろうか？」",
-      "EN": "`铃@「其实有多余的一个。要不要？」",
+      "EN": "`Rin@❝I have a spare, do you want one?❞",
       "Translation": "`铃@「其实有多余的一个。要不要？」"
     },
     {
       "JP": "`小毬@「うーん、これあげるよー」",
-      "EN": "`小毬@「嗯，这个给你哦」",
+      "EN": "`Komari@❝Hm... I'll give you this.❞",
       "Translation": "`小毬@「嗯，这个给你哦」"
     },
     {
       "JP": "`小毬@「プレゼントですよー」",
-      "EN": "`小毬@「这是礼物哦」",
+      "EN": "`Komari@❝It's a present～.❞",
       "Translation": "`小毬@「这是礼物哦」"
     },
     {
       "JP": "`小毬@「受け取ってくださいなー」",
-      "EN": "`小毬@「请收下吧」",
+      "EN": "`Komari@❝Please accept it.❞",
       "Translation": "`小毬@「请收下吧」"
     },
     {
       "JP": "`来ヶ谷@「まあ、何もないならこれをもっていけ」",
-      "EN": "`来谷@「嗯，如果你没有什么，就拿这个吧」",
+      "EN": "`Kurugaya@❝Well, if you don't have anything, take this.❞",
       "Translation": "`来谷@「嗯，如果你没有什么，就拿这个吧」"
     },
     {
       "JP": "`来ヶ谷@「これをやろう」",
-      "EN": "`来谷@「这个给你」",
+      "EN": "`Kurugaya@❝I'll give you that.❞",
       "Translation": "`来谷@「这个给你」"
     },
     {
       "JP": "`来ヶ谷@「跪いて受け取れ」",
-      "EN": "`来谷@「跪下接受吧」",
+      "EN": "`Kurugaya@❝Kneel down and accept it.❞",
       "Translation": "`来谷@「跪下接受吧」"
     },
     {
       "JP": "`クド@「あい・うぃる・ぷれぜんと・ふぉー・ゆー！」",
-      "EN": "`库特@「我会给你礼物！」",
+      "EN": "`Kud@❝I will presento foo yoou!❞",
       "Translation": "`库特@「我会给你礼物！」"
     },
     {
       "JP": "`クド@「意外と使えると思うのですが」",
-      "EN": "`库特@「我觉得这个挺有用的」",
+      "EN": "`Kud@❝I think it's pretty useful.❞",
       "Translation": "`库特@「我觉得这个挺有用的」"
     },
     {
       "JP": "`クド@「もらってくれるとうれしいのです、わふー」",
-      "EN": "`库特@「如果你能接受我会很高兴，哇呼」",
+      "EN": "`Kud@❝I'll be happy if you accept this, wafuu.❞",
       "Translation": "`库特@「如果你能接受我会很高兴，哇呼」"
     },
     {
       "JP": "`クド@「にーちゃー、にーちゃー、ぼくのうけとってー。…甘えてみましたっ」",
-      "EN": "`库特@「哥哥，哥哥，别忘了拿这个！…我试着撒娇了」",
+      "EN": "`Kud@❝Nii-chan, Nii-chan, don't forget to take this! ...I tried fawning.❞",
       "Translation": "`库特@「哥哥，哥哥，别忘了拿这个！…我试着撒娇了」"
     },
     {
       "JP": "`葉留佳@「これもう要らないからあげる！　みもふたもなっ」",
-      "EN": "`叶留佳@「这个我不需要了，给你！毫不留情」",
+      "EN": "`Haruka@❝I don't need that anymore! You know what I'm getting at.❞",
       "Translation": "`叶留佳@「这个我不需要了，给你！毫不留情」"
     },
     {
       "JP": "`葉留佳@「んっ！　はるちんひらめいた！　これが必要になるねっ！」",
-      "EN": "`叶留佳@「嗯！小叶子有了个主意！你会需要这个！」",
+      "EN": "`Haruka@❝Mm! Haruchin got an idea! You will need this!❞",
       "Translation": "`叶留佳@「嗯！小叶子有了个主意！你会需要这个！」"
     },
     {
       "JP": "`葉留佳@「はるちんはえぶりでー・おみなえし！　…あれ？」",
-      "EN": "`叶留佳@「小叶子每天都是黄花菜！…啊？」",
+      "EN": "`Haruka@❝Everyday Haruchin is a Yellow Patrinia! ...Err?❞",
       "Translation": "`叶留佳@「小叶子每天都是黄花菜！…啊？」"
     },
     {
       "JP": "`葉留佳@「あはは。これ、受け取ってくれるとうれしいな…」",
-      "EN": "`叶留佳@「哈哈。如果你能接受我会很高兴…」",
+      "EN": "`Haruka@❝Ahaha. I'll be happy if you take that...❞",
       "Translation": "`叶留佳@「哈哈。如果你能接受我会很高兴…」"
     },
     {
       "JP": "`西園@「わたし、あげる人。あなた、もらう人…みたいな」",
-      "EN": "`西园@「我是给的人。你是收的人…大概是这样」",
+      "EN": "`Nishizono@❝I'm the benefactor. You're the beneficiary... It seems.❞",
       "Translation": "`西园@「我是给的人。你是收的人…大概是这样」"
     },
     {
       "JP": "`西園@「捨ててしまうと、もったいないお化けが出てきますから」",
-      "EN": "`西园@「如果扔掉的话，会有浪费的鬼怪出现」",
+      "EN": "`Nishizono@❝The leftover monster will come for me if I throw it away.❞",
       "Translation": "`西园@「如果扔掉的话，会有浪费的鬼怪出现」"
     },
     {
       "JP": "`西園@「わたしには使いこなせないので、差し上げます」",
-      "EN": "`西园@「我用不着，所以给你」",
+      "EN": "`Nishizono@❝It's useless for me so I give it to you.❞",
       "Translation": "`西园@「我用不着，所以给你」"
     },
     {
       "JP": "`真人@「こいつが余ってるんだが、おまえならいけそうだな。どうだ？」",
-      "EN": "`真人@「这个多余了，不过你可能用得上。怎么样？」",
+      "EN": "`Masato@❝I have no need for this, but maybe you can put it to use. What say you?❞",
       "Translation": "`真人@「这个多余了，不过你可能用得上。怎么样？」"
     },
     {
       "JP": "`真人@「おまえ、誕生日いつだったっけか。とにかく遅いか早い誕生日プレゼントだ。やろう」",
-      "EN": "`真人@「你生日是什么时候？不管是早还是晚，这是你的生日礼物。给你」",
+      "EN": "`Masato@❝When's your birthday? Anyway, it might be too early or too late, but here's your birthday present.❞",
       "Translation": "`真人@「你生日是什么时候？不管是早还是晚，这是你的生日礼物。给你」"
     },
     {
       "JP": "`真人@「恋人はサンタクロース。ほら、これやるぜ」",
-      "EN": "`真人@「恋人是圣诞老人。来，给你」",
+      "EN": "`Masato@❝I'm your Santa. Come on, take it.❞",
       "Translation": "`真人@「恋人是圣诞老人。来，给你」"
     },
     {
       "JP": "`謙吾@「これは俺にはおしゃれすぎるな…よし、これをおまえにやろう」",
-      "EN": "`谦吾@「这个对我来说太时尚了…好吧，给你」",
+      "EN": "`Kengo@❝This is too stylish for me... Alright, I'll give it to you.❞",
       "Translation": "`谦吾@「这个对我来说太时尚了…好吧，给你」"
     },
     {
       "JP": "`謙吾@「こいつが余ってたな…よし、これをおまえにやろう」",
-      "EN": "`谦吾@「这个多余了…好吧，给你」",
+      "EN": "`Kengo@❝I have no need for this... Alright, I'll give it to you.❞",
       "Translation": "`谦吾@「这个多余了…好吧，给你」"
     },
     {
       "JP": "`恭介@「こいつ、おまえにぴったりだよ、似合うよ、もってけよ」",
-      "EN": "`恭介@「这个正适合你，拿去吧」",
+      "EN": "`Kyousuke@❝It's a perfect fit for you, take it.❞",
       "Translation": "`恭介@「这个正适合你，拿去吧」"
     },
     {
       "JP": "`恭介@「こいつがおまえのことを呼んでる…惜しいがやるぜっ」",
-      "EN": "`恭介@「它在呼唤你…虽然舍不得但给你」",
+      "EN": "`Kyousuke@❝It's calling out to you... It's breaking my heart, but I'll give it to you.❞",
       "Translation": "`恭介@「它在呼唤你…虽然舍不得但给你」"
     },
     {
       "JP": "`マスクザ斉藤@「うままうー？」",
-      "EN": "`假面・齐藤@「乌玛玛乌？」",
+      "EN": "`Mask the Saito@❝Umamauu?❞",
       "Translation": "`假面・齐藤@「乌玛玛乌？」"
     },
     {
       "JP": "`鈴@「今日からこれがおまえのラッキーアイテムだ、ずっと持っててくれ」",
-      "EN": "`铃@「从今天起这是你的幸运物，永远带着它」",
+      "EN": "`Rin@❝It's going to be your lucky item from today on, don't ever let go of it.❞",
       "Translation": "`铃@「从今天起这是你的幸运物，永远带着它」"
     },
     {
       "JP": "`鈴@「あたしでは宝の持ち腐れだからな、うん、おまえにぴったりだ」",
-      "EN": "`铃@「对我来说是浪费，嗯，正适合你」",
+      "EN": "`Rin@❝This is of no use to me, but yep, it suits you great.❞",
       "Translation": "`铃@「对我来说是浪费，嗯，正适合你」"
     },
     {
       "JP": "`小毬@「お礼なんていいよー」",
-      "EN": "`小毬@「不需要谢我哦」",
+      "EN": "`Komari@❝No need to thank me～.❞",
       "Translation": "`小毬@「不需要谢我哦」"
     },
     {
       "JP": "`小毬@「喜んでもらえてうれしいよー」",
-      "EN": "`小毬@「你喜欢我就高兴了」",
+      "EN": "`Komari@❝I'm glad you like it～.❞",
       "Translation": "`小毬@「你喜欢我就高兴了」"
     },
     {
       "JP": "`小毬@「じゃあまたあとでねー」",
-      "EN": "`小毬@「那再见了」",
+      "EN": "`Komari@❝Well, I'll see you later～.❞",
       "Translation": "`小毬@「那再见了」"
     },
     {
       "JP": "`来ヶ谷@「なあに、礼はいらん」",
-      "EN": "`来谷@「不需要谢我」",
+      "EN": "`Kurugaya@❝Keep your gratitude to yourself.❞",
       "Translation": "`来谷@「不需要谢我」"
     },
     {
       "JP": "`来ヶ谷@「だが次に会えば容赦はせん」",
-      "EN": "`来谷@「但下次见面我不会手下留情」",
+      "EN": "`Kurugaya@❝But don't expect me to go easy on you next time our paths cross.❞",
       "Translation": "`来谷@「但下次见面我不会手下留情」"
     },
     {
       "JP": "`来ヶ谷@「フフフ…大事にするといい」",
-      "EN": "`来谷@「呵呵呵…好好珍惜它」",
+      "EN": "`Kurugaya@❝Fufufu... Take good care of it.❞",
       "Translation": "`来谷@「呵呵呵…好好珍惜它」"
     },
     {
       "JP": "`クド@「いえいえ。お気になさらず」",
-      "EN": "`库特@「不不不。别在意」",
+      "EN": "`Kud@❝No, no, no. It's no big deal.❞",
       "Translation": "`库特@「不不不。别在意」"
     },
     {
       "JP": "`クド@「いえいえ。お気遣いなく」",
-      "EN": "`库特@「不不。别在意」",
+      "EN": "`Kud@❝No, no. Don't let it bother you.❞",
       "Translation": "`库特@「不不。别在意」"
     },
     {
       "JP": "`クド@「こちらこそ、どーもなのです」",
-      "EN": "`库特@「应该是我谢谢你」",
+      "EN": "`Kud@❝I should be the one thanking you.❞",
       "Translation": "`库特@「应该是我谢谢你」"
     },
     {
       "JP": "`クド@「にーちゃー、ありがと！　…なのですっ」",
-      "EN": "`库特@「哥哥，谢谢你！…真的」",
+      "EN": "`Kud@❝Thank you, Nii-chan!❞",
       "Translation": "`库特@「哥哥，谢谢你！…真的」"
     },
     {
       "JP": "`葉留佳@「どういたしまして！　役立ててねっ」",
-      "EN": "`叶留佳@「不客气！希望对你有用」",
+      "EN": "`Haruka@❝You're welcome! I hope it'll be useful to you.❞",
       "Translation": "`叶留佳@「不客气！希望对你有用」"
     },
     {
       "JP": "`葉留佳@「どんな風に役に立ったかあとでおしえてねー」",
-      "EN": "`叶留佳@「以后告诉我它怎么帮到你了」",
+      "EN": "`Haruka@❝Let me know later if it was of use to you～.❞",
       "Translation": "`叶留佳@「以后告诉我它怎么帮到你了」"
     },
     {
       "JP": "`葉留佳@「それが、全てを変える…なれーたー・ばい・はるちん」",
-      "EN": "`叶留佳@「这改变了一切…由小叶子叙述」",
+      "EN": "`Haruka@❝With this, everything changed... Narrated by Haruchin.❞",
       "Translation": "`叶留佳@「这改变了一切…由小叶子叙述」"
     },
     {
       "JP": "`葉留佳@「ありがと。受け取ってくれて、すごく嬉しい」",
-      "EN": "`叶留佳@「谢谢。你接受了我很高兴」",
+      "EN": "`Haruka@❝Thanks. I'm so glad you accepted it.❞",
       "Translation": "`叶留佳@「谢谢。你接受了我很高兴」"
     },
     {
       "JP": "`西園@「お礼を言われるほどのことでもありません」",
-      "EN": "`西园@「不值得你感谢」",
+      "EN": "`Nishizono@❝It's not something you should thank me for.❞",
       "Translation": "`西园@「不值得你感谢」"
     },
     {
       "JP": "`西園@「タダより高いものはない。…いえ、なんでもありませんよ」",
-      "EN": "`西园@「免费的东西最贵。…不，没什么」",
+      "EN": "`Nishizono@❝I got it for free... I mean, never mind.❞",
       "Translation": "`西园@「免费的东西最贵。…不，没什么」"
     },
     {
       "JP": "`西園@「お役に立つならば、幸いです」",
-      "EN": "`西园@「如果能帮到你，我很高兴」",
+      "EN": "`Nishizono@❝I can only hope it'll be useful.❞",
       "Translation": "`西园@「如果能帮到你，我很高兴」"
     },
     {
       "JP": "`真人@「それはもう、おまえの肉体の一部だ。使いこなしてくれ。じゃあな」",
-      "EN": "`真人@「那已经是你身体的一部分了。好好利用它吧。再见」",
+      "EN": "`Masato@❝It's now a part of your body. Make good use of it. Talk to you later.❞",
       "Translation": "`真人@「那已经是你身体的一部分了。好好利用它吧。再见」"
     },
     {
       "JP": "`真人@「誕生日のプレゼントだからな、今日から愛用しろよ。じゃあな」",
-      "EN": "`真人@「这是你的生日礼物，从今天开始好好用吧。再见」",
+      "EN": "`Masato@❝It's your birthday present, make good use of it. Talk to you later.❞",
       "Translation": "`真人@「这是你的生日礼物，从今天开始好好用吧。再见」"
     },
     {
       "JP": "`真人@「サンタクロースからの贈り物だからな、ずっと愛用しろよ。じゃあな」",
-      "EN": "`真人@「这是圣诞老人的礼物，一直好好用吧。再见」",
+      "EN": "`Masato@❝It's a present from Santa, make good use of it. Talk to you later.❞",
       "Translation": "`真人@「这是圣诞老人的礼物，一直好好用吧。再见」"
     },
     {
       "JP": "`謙吾@「へえ、意外とおまえそういうの似合うんだな。よかった。じゃあな」",
-      "EN": "`谦吾@「哇，没想到你还挺适合这个的。太好了。再见」",
+      "EN": "`Kengo@❝Wow, it actually looks good on you. I'm glad. See you later.❞",
       "Translation": "`谦吾@「哇，没想到你还挺适合这个的。太好了。再见」"
     },
     {
       "JP": "`謙吾@「はっは、おしゃれになったじゃないか。よかったよかった。じゃあな」",
-      "EN": "`谦吾@「哈哈，你变得时尚了。太好了太好了。再见」",
+      "EN": "`Kengo@❝Haha, it looks great on you. Awesome, awesome. See you later.❞",
       "Translation": "`谦吾@「哈哈，你变得时尚了。太好了太好了。再见」"
     },
     {
       "JP": "`恭介@「そいつと共に生き抜いてくれ」",
-      "EN": "`恭介@「和它一起活下去吧」",
+      "EN": "`Kyousuke@❝It will help you with your survival.❞",
       "Translation": "`恭介@「和它一起活下去吧」"
     },
     {
       "JP": "`恭介@「肌身離さず持っていてくれよ」",
-      "EN": "`恭介@「随身携带吧」",
+      "EN": "`Kyousuke@❝Always carry it with you.❞",
       "Translation": "`恭介@「随身携带吧」"
     },
     {
       "JP": "`マスクザ斉藤@「ほーりゃはれひれうーっ！」",
-      "EN": "`假面・齐藤@「ほーりゃはれひれうーっ！」",
+      "EN": "`Mask the Saito@❝Horya hare hireuu!❞",
       "Translation": "`假面・齐藤@「ほーりゃはれひれうーっ！」"
     },
     {
       "JP": "`鈴@「人のこーいをあほかっ！　もーあっちいく！」",
-      "EN": "`铃@「真是不知好歹！我走了！」",
+      "EN": "`Rin@❝Way to be ungrateful! I'm off!❞",
       "Translation": "`铃@「真是不知好歹！我走了！」"
     },
     {
       "JP": "`鈴@「なにぃ…これを断るなんて人としておかしいぞ…もーあっちいく！」",
-      "EN": "`铃@「什么…拒绝这个简直不像人…我走了！」",
+      "EN": "`Rin@❝Say what... Something's definitely not right with you if you don't want that... I'm off!❞",
       "Translation": "`铃@「什么…拒绝这个简直不像人…我走了！」"
     },
     {
       "JP": "`小毬@「うーん、しょうがないねぇ」",
-      "EN": "`小毬@「嗯，没办法呢」",
+      "EN": "`Komari@❝Well, it can't be helped.❞",
       "Translation": "`小毬@「嗯，没办法呢」"
     },
     {
       "JP": "`小毬@「が、がーん…余計なことだったのか～」",
-      "EN": "`小毬@「啊，啊…是多余的东西吗～」",
+      "EN": "`Komari@❝Sh, shock... to think you didn't need it～...❞",
       "Translation": "`小毬@「啊，啊…是多余的东西吗～」"
     },
     {
       "JP": "`小毬@「しょんぼり…」",
-      "EN": "`小毬@「沮丧…」",
+      "EN": "`Komari@❝So sad...❞",
       "Translation": "`小毬@「沮丧…」"
     },
     {
       "JP": "`来ヶ谷@「なんだと？　断るのか？」",
-      "EN": "`来谷@「什么？你拒绝吗？」",
+      "EN": "`Kurugaya@❝What? You're not taking it?❞",
       "Translation": "`来谷@「什么？你拒绝吗？」"
     },
     {
       "JP": "`来ヶ谷@「それでいいのか？」",
-      "EN": "`来谷@「这样可以吗？」",
+      "EN": "`Kurugaya@❝Are you sure about that?❞",
       "Translation": "`来谷@「这样可以吗？」"
     },
     {
       "JP": "`来ヶ谷@「…まあ、それもよかろう」",
-      "EN": "`来谷@「…嗯，那也行吧」",
+      "EN": "`Kurugaya@❝...Well, so be it.❞",
       "Translation": "`来谷@「…嗯，那也行吧」"
     },
     {
       "JP": "`来ヶ谷@「ふむ、ならば仕方あるまい」",
-      "EN": "`来谷@「嗯，那也没办法了」",
+      "EN": "`Kurugaya@❝Hmm, there's no helping it.❞",
       "Translation": "`来谷@「嗯，那也没办法了」"
     },
     {
       "JP": "`クド@「そ。そうですか、仕舞いますね…」",
-      "EN": "`库特@「是，是吗，我收起来…」",
+      "EN": "`Kud@❝I, I see... I'll put it away...❞",
       "Translation": "`库特@「是，是吗，我收起来…」"
     },
     {
       "JP": "`クド@「や、やっぱりこんなの変ですよね…」",
-      "EN": "`库特@「果，果然这种东西很奇怪吧…」",
+      "EN": "`Kud@❝I, I knew it was weird after all...❞",
       "Translation": "`库特@「果，果然这种东西很奇怪吧…」"
     },
     {
       "JP": "`クド@「す、すみません、ダメダメワンコで…」",
-      "EN": "`库特@「对，对不起，我是没用的小狗…」",
+      "EN": "`Kud@❝I'm, I'm sorry for being such a useless doggy...❞",
       "Translation": "`库特@「对，对不起，我是没用的小狗…」"
     },
     {
       "JP": "`クド@「うう、にーちゃーがいぢわるするー…いじけてみました」",
-      "EN": "`库特@「呜呜，哥哥你好坏…我装作很沮丧的样子」",
+      "EN": "`Kud@❝Uuh, Nii-chan, you're so mean... I tried acting timid.❞",
       "Translation": "`库特@「呜呜，哥哥你好坏…我装作很沮丧的样子」"
     },
     {
       "JP": "`葉留佳@「そうかぁ…役に立つと思うんだけどなぁ…」",
-      "EN": "`叶留佳@「是吗…我觉得会有用的…」",
+      "EN": "`Haruka@❝Okay... I just thought it'd be useful...❞",
       "Translation": "`叶留佳@「是吗…我觉得会有用的…」"
     },
     {
       "JP": "`葉留佳@「押しつけるのはよくないか。ごめんねっ」",
-      "EN": "`叶留佳@「强迫是不好的。对不起」",
+      "EN": "`Haruka@❝I shouldn't have pestered you. Sorry.❞",
       "Translation": "`叶留佳@「强迫是不好的。对不起」"
     },
     {
       "JP": "`葉留佳@「それが、全ての発端だった…なれーたー・ばい・はるちん」",
-      "EN": "`叶留佳@「那是，一切的开端…旁白・叶留佳」",
+      "EN": "`Haruka@❝That was the beginning of everything... Narrated by Haruchin.❞",
       "Translation": "`叶留佳@「那是，一切的开端…旁白・叶留佳」"
     },
     {
       "JP": "`葉留佳@「ぐすん。恨んでやる呪ってやる祟ってやる。えぐえぐ」",
-      "EN": "`叶留佳@「呜呜。诅咒你，诅咒你。呜呜」",
+      "EN": "`Haruka@❝Sob. Curse you, curse you to hell!❞",
       "Translation": "`叶留佳@「呜呜。诅咒你，诅咒你。呜呜」"
     },
     {
       "JP": "`西園@「…やっぱり、いらないですよね」",
-      "EN": "`西园@「…果然，不需要吧」",
+      "EN": "`Nishizono@❝...I knew you wouldn't need it.❞",
       "Translation": "`西园@「…果然，不需要吧」"
     },
     {
       "JP": "`西園@「仕方ありません。他を当たりましょう」",
-      "EN": "`西园@「没办法。我去问别人吧」",
+      "EN": "`Nishizono@❝Never mind. I will go ask someone else.❞",
       "Translation": "`西园@「没办法。我去问别人吧」"
     },
     {
       "JP": "`西園@「人生、チャンスは一度きりですよ」",
-      "EN": "`西园@「人生，机会只有一次哦」",
+      "EN": "`Nishizono@❝In life, you only get one chance.❞",
       "Translation": "`西园@「人生，机会只有一次哦」"
     },
     {
       "JP": "`真人@「えぇ…なんてつれねえ…くそぉ…大丈夫だ…生きてける…」",
-      "EN": "`真人@「哎…真是冷淡…可恶…没关系…我能活下去…」",
+      "EN": "`Masato@❝No way... You're so unfriendly... Damn... I'm fine... I can live with that...❞",
       "Translation": "`真人@「哎…真是冷淡…可恶…没关系…我能活下去…」"
     },
     {
       "JP": "`謙吾@「えぇ…」",
-      "EN": "`谦吾@「哎…」",
+      "EN": "`Kengo@❝No way...❞",
       "Translation": "`谦吾@「哎…」"
     },
     {
       "JP": "`謙吾@「やはりこれはおしゃれが過ぎたか…またな」",
-      "EN": "`谦吾@「果然这个太时尚了吗…再见」",
+      "EN": "`Kengo@❝It was too stylish for you after all...? See you later.❞",
       "Translation": "`谦吾@「果然这个太时尚了吗…再见」"
     },
     {
       "JP": "`恭介@「おまえ前にこれ欲しいって言ってたじゃないかっ！」",
-      "EN": "`恭介@「你之前不是说过想要这个吗！」",
+      "EN": "`Kyousuke@❝Didn't you tell me you want this before!❞",
       "Translation": "`恭介@「你之前不是说过想要这个吗！」"
     },
     {
       "JP": "`マスクザ斉藤@「ほわっつはぷん」",
-      "EN": "`假面・齐藤@「HWHATSHAPPEN」",
+      "EN": "`Mask the Saito@❝HWHATSHAPPEN.❞",
       "Translation": "`假面・齐藤@「HWHATSHAPPEN」"
     },
     {
       "JP": "`鈴@「なんだ、どーしておまえこんなところにいるんだ？　あたしはこっちだから、じゃあな」",
-      "EN": "`铃@「什么，你在这里干什么？我走这边，再见」",
+      "EN": "`Rin@❝Huh, what are you doing here? I'll go this way. See you later.❞",
       "Translation": "`铃@「什么，你在这里干什么？我走这边，再见」"
     },
     {
       "JP": "`鈴@「テヅカを知らないか？　もちろん猫だ。猫以外ありえない名前だろ。テヅッチどこ行ったんだ…？　じゃあな」",
-      "EN": "`铃@「你见过手冢吗？当然是猫。除了猫不可能有这个名字吧。手冢去哪了…？再见」",
+      "EN": "`Rin@❝Have you seen Tezuka? Of course I'm talking about the cat. Who else could have a name like that? Tezucchi, where did you go...? Well, laters.❞",
       "Translation": "`铃@「你见过手冢吗？当然是猫。除了猫不可能有这个名字吧。手冢去哪了…？再见」"
     },
     {
       "JP": "`鈴@「コバーンを知らないか？　もちろん猫だ。猫以外ありえない名前だろ。コバどこ行ったんだ…？　じゃあな」",
-      "EN": "`铃@「你见过科本吗？当然是猫。除了猫不可能有这个名字吧。科本去哪了…？再见」",
+      "EN": "`Rin@❝Have you seen Cobain? Of course I'm talking about the cat. Who else could have a name like that? Coby, where did you go...? Well, laters.❞",
       "Translation": "`铃@「你见过科本吗？当然是猫。除了猫不可能有这个名字吧。科本去哪了…？再见」"
     },
     {
       "JP": "`小毬@「今日はいい天気ですねー」",
-      "EN": "`小毬@「今天真是好天气呢～」",
+      "EN": "`Komari@❝Great weather today～.❞",
       "Translation": "`小毬@「今天真是好天气呢～」"
     },
     {
       "JP": "`小毬@「今度みんなで遊園地に行きたいよー」",
-      "EN": "`小毬@「下次大家一起去游乐园吧～」",
+      "EN": "`Komari@❝I want to go to an amusement park with everyone～.❞",
       "Translation": "`小毬@「下次大家一起去游乐园吧～」"
     },
     {
       "JP": "`小毬@「あとで一緒にお菓子食べよー」",
-      "EN": "`小毬@「等会儿一起吃点心吧～」",
+      "EN": "`Komari@❝Let's go have some snacks together.❞",
       "Translation": "`小毬@「等会儿一起吃点心吧～」"
     },
     {
       "JP": "`来ヶ谷@「世間話か。余裕だなキミも」",
-      "EN": "`来谷@「闲聊吗。你也挺悠闲的」",
+      "EN": "`Kurugaya@❝Gossiping, huh? You have too much time on your hands.❞",
       "Translation": "`来谷@「闲聊吗。你也挺悠闲的」"
     },
     {
       "JP": "`来ヶ谷@「うむ、それより小毬君やクドリャフカ君は見なかったかね」",
-      "EN": "`来谷@「嗯，比起这个，你见过小毬君和库特君吗」",
+      "EN": "`Kurugaya@❝Umu, but more importantly, have you seen Komari-kun or Kudryavka-kun?❞",
       "Translation": "`来谷@「嗯，比起这个，你见过小毬君和库特君吗」"
     },
     {
       "JP": "`来ヶ谷@「仕方ないな。カフェテラスでも行ってサボるか」",
-      "EN": "`来谷@「没办法。去咖啡厅偷懒吧」",
+      "EN": "`Kurugaya@❝It can't be helped. Let's cut classes and go to the sidewalk cafe.❞",
       "Translation": "`来谷@「没办法。去咖啡厅偷懒吧」"
     },
     {
       "JP": "`クド@「ぐっどうぇざーですねー。ひなたぼっこしたいですー」",
-      "EN": "`库特@「好天气呢。我想晒太阳～」",
+      "EN": "`Kud@❝Guddo weather, isn't it? I want to get a tan～.❞",
       "Translation": "`库特@「好天气呢。我想晒太阳～」"
     },
     {
       "JP": "`クド@「今日一日あなたが幸運に恵まれますように」",
-      "EN": "`库特@「希望你今天一天都好运」",
+      "EN": "`Kud@❝I will pray that today will be a good day for you.❞",
       "Translation": "`库特@「希望你今天一天都好运」"
     },
     {
       "JP": "`クド@「ふしーぼーはろーしーぼー（グッドラック！）」",
-      "EN": "`库特@「Fushiibo Haroshiboo（祝你好运！）」",
+      "EN": "`Kud@❝Fushiibo Haroshiboo (Good luck)!❞",
       "Translation": "`库特@「Fushiibo Haroshiboo（祝你好运！）」"
     },
     {
       "JP": "`葉留佳@「今日はー、トラップの日だね！　知ってた？」",
-      "EN": "`叶留佳@「今天是陷阱日！你知道吗？」",
+      "EN": "`Haruka@❝Today is Trap Day! Did'ya know?❞",
       "Translation": "`叶留佳@「今天是陷阱日！你知道吗？」"
     },
     {
       "JP": "`葉留佳@「たまにはイレギュラーがあってもいいよねー」",
-      "EN": "`叶留佳@「偶尔有点意外也不错呢～」",
+      "EN": "`Haruka@❝Irregularities can be good too sometimes.❞",
       "Translation": "`叶留佳@「偶尔有点意外也不错呢～」"
     },
     {
       "JP": "`葉留佳@「マフィンでも焼きにいこうかなー」",
-      "EN": "`叶留佳@「要不要去烤点松饼呢～」",
+      "EN": "`Haruka@❝Guess I should go bake some muffins.❞",
       "Translation": "`叶留佳@「要不要去烤点松饼呢～」"
     },
     {
       "JP": "`葉留佳@「スコーンでも焼きにいこうかなー」",
-      "EN": "`叶留佳@「要不要去烤点司康呢～」",
+      "EN": "`Haruka@❝Guess I should go bake some scones.❞",
       "Translation": "`叶留佳@「要不要去烤点司康呢～」"
     },
     {
       "JP": "`葉留佳@「シフォンケーキの練習でもしようかなー」",
-      "EN": "`叶留佳@「要不要练习做戚风蛋糕呢～」",
+      "EN": "`Haruka@❝Guess I should practice making a chiffon cake.❞",
       "Translation": "`叶留佳@「要不要练习做戚风蛋糕呢～」"
     },
     {
       "JP": "しばらくの間、西園さんと世間話を交わした。",
-      "EN": "我和西园聊了一会儿。",
+      "EN": "I talked with Nishizono-san for a while.",
       "Translation": "我和西园聊了一会儿。"
     },
     {
       "JP": "`西園@「なかなか有意義な一時でした」",
-      "EN": "`西园@「…真是有意义的时光」",
+      "EN": "`Nishizono@❝That was an insightful discussion.❞",
       "Translation": "`西园@「…真是有意义的时光」"
     },
     {
       "JP": "`西園@「興味があるなら、今度お貸ししましょう」",
-      "EN": "`西园@「如果你有兴趣，下次可以借给你」",
+      "EN": "`Nishizono@❝If you're interested, I can lend it to you next time.❞",
       "Translation": "`西园@「如果你有兴趣，下次可以借给你」"
     },
     {
       "JP": "`西園@「そろそろ戻らないと、見逃してしまいます」",
-      "EN": "`西园@「该回去了，不然会错过的」",
+      "EN": "`Nishizono@❝I have to go now, or I'm going to miss it.❞",
       "Translation": "`西园@「该回去了，不然会错过的」"
     },
     {
       "JP": "しばらくの間、真人と世間話を交わした。",
-      "EN": "我和真人聊了一会儿。",
+      "EN": "I talked with Masato for a while.",
       "Translation": "我和真人聊了一会儿。"
     },
     {
       "JP": "`真人@「まあ、そうだな…おまえの筋肉論にも一理あり、だ。否定はしねぇぜ？　じゃ、またな」",
-      "EN": "`真人@「嗯，是啊…你的肌肉理论也有道理。我不否认？再见」",
+      "EN": "`Masato@❝Well, what can I say... Your Muscle Theory seems to make some valid points. I'm not denying that, okay? Well, see you around.❞",
       "Translation": "`真人@「嗯，是啊…你的肌肉理论也有道理。我不否认？再见」"
     },
     {
       "JP": "`真人@「はっは、そりゃ筋肉様々ってもんだったな。じゃ、またな」",
-      "EN": "`真人@「哈哈，那真是各种肌肉都有啊。再见」",
+      "EN": "`Masato@❝Haha, there are all kinds of muscles. Well, see you around.❞",
       "Translation": "`真人@「哈哈，那真是各种肌肉都有啊。再见」"
     },
     {
       "JP": "`真人@「そいつはちょっと頂けねぇ筋肉だな…ちょっと摘ませろよ。じゃ、またな」",
-      "EN": "`真人@「那块肌肉有点不行…让我捏一下。再见」",
+      "EN": "`Masato@❝I don't like the looks of this muscle... Let me pinch it. Well, see ya.❞",
       "Translation": "`真人@「那块肌肉有点不行…让我捏一下。再见」"
     },
     {
       "JP": "`真人@「おまえ、そこで筋肉でいったのかよっ、どこまで筋肉を推すんだよ…おっと時間だ、じゃまたな」",
-      "EN": "`真人@「你在用肌肉吗？你对肌肉忠诚吗？…哦，时间到了。再见」",
+      "EN": "`Masato@❝Are you using your muscle there? Are you loyal enough to your muscle? ...Oh, I gotta go.❞",
       "Translation": "`真人@「你在用肌肉吗？你对肌肉忠诚吗？…哦，时间到了。再见」"
     },
     {
       "JP": "しばらくの間、謙吾と世間話を交わした。",
-      "EN": "我和谦吾聊了一会儿。",
+      "EN": "I talked with Kengo for a while.",
       "Translation": "我和谦吾聊了一会儿。"
     },
     {
       "JP": "`謙吾@「そうだな、真人の馬鹿は天然記念物として保護すべきだな。あまり人が触れてはいけないものだ」",
-      "EN": "`谦吾@「是啊，真人那家伙蠢得应该被列为保护物种。其他人不应该接触他」",
+      "EN": "`Kengo@❝Yeah, Masato is so silly he should be made into a protected species. Other people shouldn't be let in contact with him.❞",
       "Translation": "`谦吾@「是啊，真人那家伙蠢得应该被列为保护物种。其他人不应该接触他」"
     },
     {
       "JP": "`謙吾@「修学旅行では木刀を忘れずに買わなくてはな。あれを忘れたら思い出も忘れるようなものだ」",
-      "EN": "`谦吾@「修学旅行时一定要买木刀。如果忘了买，就像忘了回忆一样」",
+      "EN": "`Kengo@❝I must buy a wooden sword when we go on the field trip. If I don't get one, there won't be any fond memories to actually look back at.❞",
       "Translation": "`谦吾@「修学旅行时一定要买木刀。如果忘了买，就像忘了回忆一样」"
     },
     {
       "JP": "`謙吾@「ほぅ、そいつはラッキーだったな。だが俺は実力だけで進む。この無駄なく鍛えられた肉体と技でだ」",
-      "EN": "`谦吾@「哦，你真幸运。但我只靠实力前进。用这无懈可击的身体和技艺」",
+      "EN": "`Kengo@❝Hoo, you've been lucky. But I will pave my way using my own strength. With this body and skill that I've honed for that purpose.❞",
       "Translation": "`谦吾@「哦，你真幸运。但我只靠实力前进。用这无懈可击的身体和技艺」"
     },
     {
       "JP": "`恭介@「え？　マスク？　斉藤？　しらねーな、っと時間だ、俺はいくぜ」",
-      "EN": "`恭介@「什么？面具？齐藤？不知道啊，时间到了，我走了」",
+      "EN": "`Kyousuke@❝What? Mask? Saito? Whatever are you talking about... oh alas, I gotta go now.❞",
       "Translation": "`恭介@「什么？面具？齐藤？不知道啊，时间到了，我走了」"
     },
     {
       "JP": "`恭介@「よう、理樹。暇そうにしてんな。もっと遊べよ？　っと、俺はいくぜ」",
-      "EN": "`恭介@「哟，理树。看起来很闲啊。多玩玩吧？哦，我走了」",
+      "EN": "`Kyousuke@❝Yo, Riki. You look bored, wanna play? Oh alas, I gotta go.❞",
       "Translation": "`恭介@「哟，理树。看起来很闲啊。多玩玩吧？哦，我走了」"
     },
     {
       "JP": "`恭介@「よう、理樹。そんなに勉強して楽しいか？　気楽にいこうぜ？っと、俺はいくぜ」",
-      "EN": "`恭介@「哟，理树。一直学习有意思吗？放轻松点吧？哦，我走了」",
+      "EN": "`Kyousuke@❝Yo, Riki. Is it fun to be studying all the time? Why don't you take it easy? Oh alas, I gotta go.❞",
       "Translation": "`恭介@「哟，理树。一直学习有意思吗？放轻松点吧？哦，我走了」"
     },
     {
       "JP": "`恭介@「よう、理樹。うまい話があんだよ、あ、これ秘密な、っと時間だ、俺はいくぜ」",
-      "EN": "`恭介@「哟，理树。我有个好消息，但要保密…哦，我走了」",
+      "EN": "`Kyousuke@❝Yo, Riki. Listen, I have good news, but keep it a secret... oh alas, I gotta go.❞",
       "Translation": "`恭介@「哟，理树。我有个好消息，但要保密…哦，我走了」"
     },
     {
       "JP": "`恭介@「よう、理樹。やばい話があるんだよ、聞くよな？　絶対秘密な、っと時間だ、俺はいくぜ」",
-      "EN": "`恭介@「哟，理树。我有个坏消息，但要保密…哦，我走了」",
+      "EN": "`Kyousuke@❝Yo, Riki. Listen, I have bad news, but keep it a secret... oh alas, I gotta go.❞",
       "Translation": "`恭介@「哟，理树。我有个坏消息，但要保密…哦，我走了」"
     },
     {
       "JP": "`恭介@「よう、理樹。ウチの妹はどうだ？　気だてはいいと思うんだ。他がアレだけどな、っと時間だ、俺はいくぜ」",
-      "EN": "`恭介@「哟，理树。你觉得我妹妹怎么样？我觉得她态度不错，但其他方面有点问题…哦，我走了」",
+      "EN": "`Kyousuke@❝Yo, Riki. What do you think about my sister? I think she has a good attitude, but there are some problems with everything else... oh alas, I gotta go.❞",
       "Translation": "`恭介@「哟，理树。你觉得我妹妹怎么样？我觉得她态度不错，但其他方面有点问题…哦，我走了」"
     },
     {
       "JP": "`恭介@「理樹、戦いをエンジョイしてるかい。おまえならやれる。きっとな。じゃあ俺はいくぜ」",
-      "EN": "`恭介@「理树，享受战斗吗？我知道你能做到。我相信你。哦，我走了」",
+      "EN": "`Kyousuke@❝Riki, are you enjoying the fights? I know you can do it. I'm sure of it. Oh alas, I gotta go.❞",
       "Translation": "`恭介@「理树，享受战斗吗？我知道你能做到。我相信你。哦，我走了」"
     },
     {
       "JP": "`マスクザ斉藤@「結構このキャラ疲れるんだぜ…」",
-      "EN": "`假面・齐藤@「扮演这个角色真累…」",
+      "EN": "`Mask the Saito@❝I'm starting to get tired of this character...❞",
       "Translation": "`假面・齐藤@「扮演这个角色真累…」"
     },
     {
       "JP": "`マスクザ斉藤@「はれほれっ！」",
-      "EN": "`假面・齐藤@「哈拉呼啦！」",
+      "EN": "`Mask the Saito@❝Hare Hore!❞",
       "Translation": "`假面・齐藤@「哈拉呼啦！」"
     },
     {
       "JP": "`マスクザ斉藤@「はーらたいーらー」",
-      "EN": "`假面・齐藤@「塔拉哈拉ー」",
+      "EN": "`Mask the Saito@❝Taaira Haara.❞",
       "Translation": "`假面・齐藤@「塔拉哈拉ー」"
     },
     {
       "JP": "`マスクザ斉藤@「もいーかいまだだぅーよ」",
-      "EN": "`假面・齐藤@「Reeeadea ornot, heere I come.」",
-      "Translation": "`假面・齐藤@「Reeeadea ornot, heere I come.」"
+      "EN": "`Mask the Saito@❝Reeeadea ornot, heere I come.❞",
+      "Translation": "`假面・齐藤@「哎，还差得远呢」"
     },
     {
       "JP": "`マスクザ斉藤@「いーからかねかーせー」",
-      "EN": "`假面・齐藤@「C'moooon, giiime moooney」",
-      "Translation": "`假面・齐藤@「C'moooon, giiime moooney」"
+      "EN": "`Mask the Saito@❝C'moooon, giiime moooney.❞",
+      "Translation": "`假面・齐藤@「别开玩笑了」"
     },
     {
       "JP": "`マスクザ斉藤@「とーまとでもくーかー」",
-      "EN": "`假面・齐藤@「Waaana my tomaato」",
-      "Translation": "`假面・齐藤@「Waaana my tomaato」"
+      "EN": "`Mask the Saito@❝Waaana my tomaato.❞",
+      "Translation": "`假面・齐藤@「要吃西红柿吗」"
     }
   ],
   "SELECT": [
