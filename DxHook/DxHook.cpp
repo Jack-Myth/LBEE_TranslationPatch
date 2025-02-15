@@ -124,6 +124,9 @@ void DoHook(HINSTANCE hinstDLL)
                         DWORD OldProtect;
                         VirtualProtect(&RDataStart[j], TargetU16Len * 2, PAGE_READWRITE, &OldProtect);
                         memcpy(&RDataStart[j], TargetU16SBPtr, TargetU16Len * 2);
+#if _DEBUG
+                        std::cout << "Translation Success At: 0x" << std::hex << (int)(SectionHeader->PointerToRawData + j) << ": " << Source << std::endl;
+#endif
                     }
                 }
             }
@@ -170,6 +173,9 @@ void DoHook(HINSTANCE hinstDLL)
                 DWORD OldProtect;
                 VirtualProtect(&RDataStart[j], TargetLen, PAGE_READWRITE, &OldProtect);
                 memcpy(&RDataStart[j], Target, TargetLen);
+#if _DEBUG
+                std::cout << "Translation Success At: 0x" << std::hex << (int)(SectionHeader->PointerToRawData + j) << ": " << Source << std::endl;
+#endif
             }
         }
     }
