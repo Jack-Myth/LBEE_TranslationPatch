@@ -773,7 +773,7 @@
         DxHook:
 #endif
             // 将$Program.json塞进DxHook.base中
-            string DXHookPath = Path.Combine(TMPPath, "dxgi.dll");
+            string DXHookPath = Path.Combine(TMPPath, "dsound.dll");
             string DxHookSourcePath = "Files\\DxHook.base";
             if(File.Exists(DXHookPath))
             {
@@ -786,12 +786,12 @@
             UpdateResource(hUpdate, lpType, 101, 0, PROGRAMBytes, (uint)PROGRAMBytes.Length);
             Marshal.FreeHGlobal(lpType);
             EndUpdateResource(hUpdate, false);
-            File.Move(DXHookPath, Path.Combine(LBEEGamePath, "dxgi.dll"), true);
+            File.Move(DXHookPath, Path.Combine(LBEEGamePath, "dsound.dll"), true);
 #if RELEASE
             Directory.Delete(TemplateDir, true);
 #endif
             {
-                string Notice = "汉化完成。\n如果需要恢复原版，请删除游戏文件夹下的dxgi.dll，并使用Steam验证游戏文件完整性，会自动还原被修改的文件。";
+                string Notice = "汉化完成。\n如果需要恢复原版，请删除游戏文件夹下的dsound.dll，并使用Steam验证游戏文件完整性，会自动还原被修改的文件。";
                 Console.WriteLine(Notice);
                 MessageBox(IntPtr.Zero, Notice, "LBEE_TranslationPatch", 0);
             }
