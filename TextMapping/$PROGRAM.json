@@ -101,7 +101,7 @@
   },
   {
     "Source": "Do you want to eat an unknown lifeform with 15 feet that bad? It's clear from the way you bat.",
-    "Target": "你这么想吃有15只脚的不明生命体吗？从你的击球方式就能看出来。"
+    "Target": "你这么想吃有15只脚的迷之生命体吗？从你的击球方式就能看出来。"
   },
   {
     "Source": "Just go ahead and throw it after you're done folding it. It's just paper anyway. (By Kyousuke)",
@@ -197,7 +197,7 @@
   },
   {
     "Source": "Yatsuhashi again? It's clear from the way you bat. You really want no red bean paste?",
-    "Target": "又在八桥了？从你的击球方式就能看出来。你真的想要不带红豆馅的吗？"
+    "Target": "又在想八桥了？从你的击球方式就能看出来。你真的想要不带红豆馅的吗？"
   },
   {
     "Source": "I didn't know you were so into yogurt, Riki. It's totally clear from the way you bat.",
@@ -249,7 +249,7 @@
   },
   {
     "Source": "Do you want to reset Saya's root?\n(If yes, you will get to start over her route.)",
-    "Target": "是否重置沙耶的路线？\n（如果选择是，您将重新开始她的路线。）"
+    "Target": "是否重置沙耶的路线？\n（如果选择是，您将能够再次攻略沙耶线。）"
   },
   {
     "Source": "【Base Wait Time】You can set a Base Wait Time to add to ❝Wait Time Per Character❞.",
@@ -457,7 +457,7 @@
   },
   {
     "Source": "Why are you wasting your time here, you have some serious talent!",
-    "Target": "你为什么在这里浪费时间，你真有天赋！"
+    "Target": "你在这里真是暴殄天物，你真有天赋！"
   },
   {
     "Source": "Thinking about hamburger again? It's clear from the way you bat.",
@@ -465,7 +465,7 @@
   },
   {
     "Source": "Today is truly a perfect Haruchin weather. Whatever that means!",
-    "Target": "今天真是个完美的小叶子天气。不管那是什么意思！"
+    "Target": "今天真是个完美的小叶子天气。不要管那是什么意思！"
   },
   {
     "Source": "If you keep playing baseball, you can even aim for the pros...",
@@ -693,7 +693,7 @@
   },
   {
     "Source": "If I suddenly say Japan, will that make people laugh?",
-    "Target": "如果我突然说日本，会让人发笑吗？"
+    "Target": "如果我突然说Japan，会让人发笑吗？"
   },
   {
     "Source": "`Male Student@❝Hey, there aren't enough side dishes!❞",
@@ -733,7 +733,7 @@
   },
   {
     "Source": "The throwing method directly taught by Kyousuke-san!",
-    "Target": "这是恭介先生亲自教的投球方法！"
+    "Target": "这是恭介亲自教的投球方法！"
   },
   {
     "Source": "Uoooo, my muscles are running wild! They're rioting!",
@@ -741,7 +741,7 @@
   },
   {
     "Source": "I can't wait for a new flavor Mon Petit to come out.",
-    "Target": "真想快点出新的Mon Petit口味。"
+    "Target": "我迫不及待地想看到猫粮推出新口味了。 "
   },
   {
     "Source": "`Female Student@❝I can't eat all this miso soup...❞",
@@ -817,7 +817,7 @@
   },
   {
     "Source": "That's no good, no one'll get fired up from that.",
-    "Target": "那可不行，这样没人会激动起来。"
+    "Target": "那可不行，这样没人会燃起来啊。"
   },
   {
     "Source": "`Male Student@❝There aren't enough side dishes!❞",
@@ -845,7 +845,7 @@
   },
   {
     "Source": "The wind is talking to me... Tasty, too tasty...",
-    "Target": "风在和我说话… 太美味了，太美味了…"
+    "Target": "风在和我说话… 美妙，太美妙了…"
   },
   {
     "Source": "That girl, just because she's a little pretty...",
@@ -1061,7 +1061,7 @@
   },
   {
     "Source": "Mon Petit for everyone, once this is over.",
-    "Target": "比赛结束后请大家吃Mon Petit。"
+    "Target": "比赛结束后请大家吃猫罐头。"
   },
   {
     "Source": "Muscle is taking off, please mind the gap.",
@@ -1069,7 +1069,7 @@
   },
   {
     "Source": "I wonder if there's any Mon Petit left...",
-    "Target": "不知道还有没有Mon Petit…"
+    "Target": "不知道还有没有猫罐头了…"
   },
   {
     "Source": "`Male Student@❝There's only jelly on it!❞",
@@ -1281,7 +1281,7 @@
   },
   {
     "Source": "Haruchin's nape looks so wistful!!",
-    "Target": "小叶子的后颈看起来好惆怅！！"
+    "Target": "小叶子的后颈看起来好伤感！！"
   },
   {
     "Source": "`Male Student@❝There's only rice!❞",
@@ -1717,7 +1717,7 @@
   },
   {
     "Source": "Yamada Satou Saitou Uno!",
-    "Target": "山田佐藤斋藤宇野！"
+    "Target": "山田佐藤齐藤宇野！"
   },
   {
     "Source": "Expensive Cosmetic Paper",
@@ -2009,11 +2009,11 @@
   },
   {
     "Source": "Switching fonts ...",
-    "Target": "正在切换字体…"
+    "Target": "正在切换字体."
   },
   {
     "Source": "Replica of Norimune",
-    "Target": "纪念的诺里宗复制品"
+    "Target": "则宗复制品"
   },
   {
     "Source": "Electric Toothbrush",
@@ -2341,7 +2341,7 @@
   },
   {
     "Source": "It's a miracle!",
-    "Target": "这是个奇迹！"
+    "Target": "真是个奇迹！"
   },
   {
     "Source": "Splendid catch!",
@@ -2485,7 +2485,7 @@
   },
   {
     "Source": "Zuzu～ Howa～...",
-    "Target": "呼呼～ 呜哇～…"
+    "Target": "呼呼～呜哇～…"
   },
   {
     "Source": "Ping Pong Ball",
