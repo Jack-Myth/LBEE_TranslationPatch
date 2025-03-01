@@ -460,7 +460,7 @@
             Console.Write("大概率导致现有存档损坏");
             Console.ResetColor();
             Console.WriteLine("，请使用新存档进行游戏。\n");
-            Console.WriteLine("如果需要恢复原版，请删除游戏文件夹下的dxgi.dll，并使用Steam验证游戏文件完整性，会自动还原被修改的文件。");
+            Console.WriteLine("如果需要恢复原版，请删除游戏文件夹下的dsound.dll，并使用Steam验证游戏文件完整性，会自动还原被修改的文件。");
             Console.WriteLine("如果之前安装过汉化补丁，建议先还原，再进行安装，避免出现奇怪的问题。\n");
             for (int i = DescriptionWaitingTime; i>0;i--)
             {
