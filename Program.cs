@@ -424,7 +424,7 @@
 
             if(!File.Exists(TargetFontPath))
             {
-                string Notice = "你的电脑中没有\"黑体(simhei.ttf)\"，请下载黑体字体并安装至C:\\Windows\\Fonts下，之后再运行补丁。";
+                string Notice = "你的电脑中没有\"黑体(simhei.ttf)\"，请下载黑体字体，然后点右键为所有用户安装，之后再运行补丁。";
                 Console.Error.WriteLine(Notice);
                 MessageBox(IntPtr.Zero, Notice, "LBEE_TranslationPatch", 0);
                 return;
