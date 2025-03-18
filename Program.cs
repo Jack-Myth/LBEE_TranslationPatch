@@ -423,8 +423,6 @@
                 return;
             }
 
-            Console
-
             int DescriptionWaitingTime = 20;
             for (int i = 0; i < args.Count(); i++)
             {
