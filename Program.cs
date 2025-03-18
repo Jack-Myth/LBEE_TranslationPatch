@@ -99,7 +99,7 @@
         static string ExtractedScriptPath = Path.Combine(TMPPath, "Scripts");
         static string ExtractedFontPath = Path.Combine(TMPPath, "Fonts");
         static string PendingReplacePath = Path.Combine(TMPPath, "PendingReplace");
-        static string TargetFontPath = "C:\\Windows\\Fonts\\simhei.ttf";
+        static string TargetFontPath = Path.GetFullPath(@".\Files\simhei.ttf");
         static string[] FontName = new string[]
             {
                 "モダン","明朝","ゴシック","丸ゴシック"
@@ -414,7 +414,8 @@
             if (!(File.Exists(".\\Files\\lucksystem.exe") && 
                 File.Exists(".\\Files\\czutil.exe") &&
                 File.Exists(".\\Files\\OPCODE.txt") &&
-                File.Exists(".\\Files\\DxHook.base")))
+                File.Exists(".\\Files\\DxHook.base") &&
+                File.Exists(TargetFontPath)))
             {
                 string Notice = "组件缺失，你是否将补丁文件夹完整解压出来了？";
                 Console.Error.WriteLine(Notice);
@@ -422,13 +423,7 @@
                 return;
             }
 
-            if(!File.Exists(TargetFontPath))
-            {
-                string Notice = "你的电脑中没有\"黑体(simhei.ttf)\"，请下载黑体字体，然后点右键为所有用户安装，之后再运行补丁。";
-                Console.Error.WriteLine(Notice);
-                MessageBox(IntPtr.Zero, Notice, "LBEE_TranslationPatch", 0);
-                return;
-            }
+            Console
 
             int DescriptionWaitingTime = 20;
             for (int i = 0; i < args.Count(); i++)
