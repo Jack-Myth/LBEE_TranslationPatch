@@ -12,7 +12,7 @@
       "JP1": "アオザイ",
       "JP2": "【アオザイ】$dベトナムの民族衣装。チャイナ服に似ているが、下にクワンと呼ばれるズボンを着用する。",
       "EN1": "Ao dai",
-      "Translation1": "奥黛",
+      "Translation1": "Ao dai(奥黛)",
       "EN2": "Ao dai$dA traditional Vietnamese gown commonly worn by women. It is the country's national costume, and it is similar to the Chinese cheongsam, with the exception that a pair of trousers called quan are worn together.",
       "Translation2": "奥黛$d一种越南传统女性长袍。奥黛是越南的民族服饰，除了会与一条叫“全”的裤子搭配以外，和中国的旗袍很相似。"
     },
@@ -20,7 +20,7 @@
       "JP1": "あんパン",
       "JP2": "【あんパン】$d餡子が入ったパン。日本のパン屋やスーパーマーケットなど、さまざまな場所で売られている。",
       "EN1": "Anpan",
-      "Translation1": "豆沙包",
+      "Translation1": "Anpan(豆沙包)",
       "EN2": "Anpan$dA Japanese sweet roll that is filled with red bean paste. It is frequently sold in Japanese bakeries, supermarkets, and schools as a lunch or snack item.",
       "Translation2": "豆沙包$d一种有红豆馅的小圆面包，经常在日本的面包店、超市和学校作为午餐或零食售卖。"
     },
@@ -28,7 +28,7 @@
       "JP1": "バラン",
       "JP2": "【バラン】$dお弁当などにおいて、食べ物を区切ったり、装飾のために入れる草を模した緑色のプラスチックシート。食べることはできません。",
       "EN1": "Baran sheet",
-      "Translation1": "马兰",
+      "Translation1": "Baran sheet(马兰)",
       "EN2": "Baran sheet$dA small, green plastic sheet that is used to separate different types of food in a bento box. You may have seen them before in sushi bento boxes. Do not eat.",
       "Translation2": "马兰$d在便当之类的东西中，为了将食物分开或装饰而放入的模仿草的绿色塑料薄膜。不能吃。"
     },
@@ -36,7 +36,7 @@
       "JP1": "麦茶",
       "JP2": "【麦茶】$d焙煎した大麦の種子を煎じて作るミネラルが豊富な飲料。茶とはいうが、茶葉は使わないためカフェインが含まれていない。",
       "EN1": "Barley tea",
-      "Translation1": "麦茶",
+      "Translation1": "Barley tea(麦茶)",
       "EN2": "Barley tea$dA type of tea made from roasted barley grains. Although called a tea, it does not contain any actual tea leaves and therefore contains no caffeine.",
       "Translation2": "麦茶$用由烘焙过的大麦种子煎制而成的富含矿物质的饮料。虽说是茶，但因为不使用茶叶，所以不含咖啡因。"
     },
@@ -44,7 +44,7 @@
       "JP1": "ぶらっくほわいと",
       "JP2": "【ぶらっくほわいと】$d好きな人に気持ちを伝える「告白」のことを、「告」と同音異語の「黒」を使い、「黒白」と誤魔化し、さらにそのまま英語に直訳したもの。",
       "EN1": "Black-and-white",
-      "Translation1": "黑与白",
+      "Translation1": "Black-and-white(黑与白)",
       "EN2": "Black-and-white$dA wordplay from the Japanese word for confession, ❝kokuhaku❞ (告白). The pun is produced by replacing the character ❝koku❞ (告) with a homonym that stands for black (黒) and retaining the character ❝haku❞ (白), which stands for white. Translating this gives us the English phrase ❝burakku howaito❞.",
       "Translation2": "黑与白$d将向喜欢的人传达心情的“告白”（こくはく），用与“告”（こく）同音异语的“黑”（こく）来混淆成“黑白”，再直接翻译成英语。"
     },
@@ -52,7 +52,7 @@
       "JP1": "若山牧水",
       "JP2": "【若山牧水】$d19世紀後半から20世紀前半の明治、大正、昭和と3つの時代で活躍した短歌の作家。短歌は決まった五句体の合計31拍の言葉で作る詩。",
       "EN1": "Bokusui Wakayama",
-      "Translation1": "若山牧水",
+      "Translation1": "Bokusui Wakayama(若山牧水)",
       "EN2": "Bokusui Wakayama$dA Japanese tanka author who was active during the Meiji, Taisho, and Showa periods in the late 19th and early 20th century. ",
       "Translation2": "若山牧水$d活跃于19世纪后半期到20世纪前半期的明治、大正、昭和三个时代的短歌作家。短歌（たんか）是和歌（わか）的一个形式，有五句、三十一个音节。"
     },
@@ -60,7 +60,7 @@
       "JP1": "玄米茶",
       "JP2": "【玄米茶】$d日本のお茶の一種。あっさりとした味わいと香ばしい匂いがするお茶。緑茶と違い液体としては緑色ではなく茶色。おなじ茶色のお茶としてはほうじ茶などがある。",
       "EN1": "Brown rice tea",
-      "Translation1": "玄米茶",
+      "Translation1": "Brown rice tea(玄米茶)",
       "EN2": "Brown rice tea$dA Japanese tea made from a blend of roasted brown rice and green tea. It has a light taste and a fragrant aroma, and unlike green tea, it is brown in color. Another example of a green tea that's brown in color is houjicha, the roasted green tea.",
       "Translation2": "玄米茶$d日本茶的一种。有清淡的味道和香味。与绿茶不同，玄米茶茶水的颜色不是绿色而是茶色。茶水同样为茶色的茶还有焙茶（ほうじ茶）等。"
     },
@@ -76,7 +76,7 @@
       "JP1": "筆ペン",
       "JP2": "【筆ペン】$dアジアの伝統的なペンの毛筆のような書き文字をインクで実現させるため開発されたペン。毎回毛筆に墨をつける必要なく、手軽に使える。",
       "EN1": "Calligraphy pen",
-      "Translation1": "新式毛笔",
+      "Translation1": "Calligraphy pen(新式毛笔)",
       "EN2": "Calligraphy pen$dA pen with a calligraphy brush-like tip designed to make writing using it resemble traditional Asian calligraphy. Unlike traditional calligraphy brushes, which need to be dipped in ink every few strokes, the calligraphy pen has an internal ink reservoir, making it easier and more convenient to use.",
       "Translation2": "新式毛笔$d为了实现与传统的毛笔一样的书写效果而开发的笔，是毛笔和钢笔的结合体。不需要每次书写都蘸墨水，使用起来很方便。"
     },
@@ -84,7 +84,7 @@
       "JP1": "カステラ",
       "JP2": "【カステラ】$d16世紀にポルトガルより日本の長崎に伝来した洋菓子を、日本独自に発展させた和菓子。スポンジ状の焼き菓子である。",
       "EN1": "Castella",
-      "Translation1": "长崎蛋糕",
+      "Translation1": "Castella(长崎蛋糕)",
       "EN2": "Castella$dA Japanese sponge cake influenced by the cakes that were first brought to the country by Portuguese merchants in the 16th century. The cake is speciality of Nagasaki.",
       "Translation2": "长崎蛋糕$d长崎蛋糕是一种海绵状的烤点心。原型是16世纪由葡萄牙传入日本长崎的西式点心，之后在日本独立发展成日式点心。"
     },
@@ -92,7 +92,7 @@
       "JP1": "チャーシュー",
       "JP2": "【チャーシュー】$d中国料理としては、豚肉に下ごしらえをしオーブンなどで焼いたもの。しかし日本のラーメンなどの具は、豚肉を醤油などのスープで煮込んだものが主になっている。",
       "EN1": "Char siu",
-      "Translation1": "叉烧",
+      "Translation1": "Char siu(叉烧)",
       "EN2": "Char siu$dA Chinese pork dish where the pork is roasted in an oven. However, the char siu used in ramen is generally simmered in soy sauce soup instead of roasted.",
       "Translation2": "叉烧$d中国料理中叉烧的做法是先腌制猪肉再用烤箱等工具烤熟，而日本拉面中作为配菜的叉烧通常是用酱油汤煮制而成的。"
     },
@@ -100,7 +100,7 @@
       "JP1": "ちーかま",
       "JP2": "【ちーかま】$dソーセージの様な見た目をしている魚肉を練った食べ物の「かまぼこ」の一種。なかにチーズが入っている。",
       "EN1": "Chikama",
-      "Translation1": "起司鱼肠",
+      "Translation1": "Chikama(起司鱼肠)",
       "EN2": "Chikama$dA variant of a type of Japanese fish cake known as Kamaboko, chikama contains cheese and is shaped to resemble a sausage. Frequently eaten as a snack.",
       "Translation2": "起司鱼肠$d用鱼肉做成的外观类似香肠的食物，里面添加了奶酪。原名ちーかま是チーズ（奶酪）和かまぼこ（鱼糕）的缩写。"
     },
@@ -108,7 +108,7 @@
       "JP1": "元服",
       "JP2": "【元服】$d日本における成人を示す儀式。一般的には1900年に入る前に、法律で成人は20歳と決められ、行わなくなった。しかし一部の地域や職業では現在でも行われている。",
       "EN1": "Coming of age ceremony",
-      "Translation1": "元服",
+      "Translation1": "Coming of age ceremony(元服)",
       "EN2": "Coming of age ceremony$dThe genpuku is a coming of age ceremony that marks the cultural transition of a person from child to adult. The practice has mostly been abandoned after the age of majority was set at 20 in the late 19th century, but it is still celebrated in certain locales or occupations.",
       "Translation2": "元服$d日本的成人仪式，参与人年龄范围大概为12岁到16岁。一般认为20世纪之前，在法定成人年龄改为了20岁后，人们便不再进行元服了。但是日本的一些地区和职业现在仍然在进行这种仪式。"
     },
@@ -116,7 +116,7 @@
       "JP1": "コロッケそば",
       "JP2": "【コロッケそば】$d茹でたジャガイモをつぶしたものをベースにつくられる日本の洋食「コロッケ」と、穀物のソバの実を原料とした日本の麺類「そば」が融合したメニュー。そばのコロッケトッピング。",
       "EN1": "Croquette soba",
-      "Translation1": "炸肉饼荞麦面",
+      "Translation1": "Croquette soba(炸肉饼荞麦面)",
       "EN2": "Croquette soba$dA Japanese dish that combines Japanese-style deep-fried croquettes, made with a mashed potato base, and Japanese buckwheat soba noodles. Is the main component the croquette or the soba? The answer is yes.",
       "Translation2": "炸肉饼荞麦面$d以煮好的土豆泥为基础制作的日式西餐「炸肉饼」和以谷物荞麦为原料的日本面类「荞麦面」融合而成的菜品。"
     },
@@ -124,7 +124,7 @@
       "JP1": "だし巻き玉子",
       "JP2": "【だし巻き玉子】$d溶き卵に出汁を混ぜて作る玉子料理。スクランブルエッグのように崩さずに固めたもの。また、日本での目玉焼きはサニーサイドアップが基本。",
       "EN1": "Dashimaki tamago",
-      "Translation1": "玉子烧",
+      "Translation1": "Dashimaki tamago(玉子烧)",
       "EN2": "Dashimaki tamago$dAn egg dish made by mixing dashi soup stock into beaten eggs. Unlike scrambled eggs, the eggs are firm and rigid. Also relevant is the fact that sunny side up is the only proper way to fry an egg in Japan.",
       "Translation2": "玉子烧$d一种用搅拌好的蛋液和出汁混合制作的鸡蛋料理。与炒鸡蛋不同，玉子烧是一块一块的，口感比较绵密。另外，在日本「Sunny side up」（只煎鸡蛋的一面）是煎鸡蛋最常见的方法。"
     },
@@ -132,7 +132,7 @@
       "JP1": "般若の面",
       "JP2": "【般若の面】$d舞踊の「能楽」や「神楽」で使われる仮面で、嫉妬や妬みを持つ女の顔をイメージ化したもの。",
       "EN1": "Demon mask",
-      "Translation1": "般若之面",
+      "Translation1": "Demon mask(般若之面)",
       "EN2": "Demon mask$dA mask used in Noh and Kagura theater. The face of the mask symbolizes jealousy and is used to represent jealous women.",
       "Translation2": "般若之面$d日本艺术表演「能乐」和「神乐」中以嫉妒的女人为原型的面具，表达的是嫉妒的感情。"
     },
@@ -148,7 +148,7 @@
       "JP1": "浮世絵",
       "JP2": "【浮世絵】$d絵画のジャンルのひとつ。さまざまな絵師が、さまざまなものを仕上げた。19世紀にヨーロッパに伝わり、「ジャポニズム」のひとつとして、作家たちに大きな影響を与えた。",
       "EN1": "Edo period print",
-      "Translation1": "浮世绘",
+      "Translation1": "Edo period print(浮世绘)",
       "EN2": "Edo period print$dA form of Japanese art, also known as ukiyo-e, that features a variety of Japanese subjects such as people, scenery, or folk tales. In the 19th century, the art form spread to Europe and influenced many artists as a form of Japonism.",
       "Translation2": "浮世绘$d一种绘画的类型。浮世绘描绘的内容包罗万象，如人物、风景、花鸟等。浮世绘于19世纪传入欧洲，作为「日本主义」（法语Japonism）的内容之一，对欧洲艺术家产生了很大的影响。"
     },
@@ -156,7 +156,7 @@
       "JP1": "うなぎパイ",
       "JP2": "【うなぎパイ】$d日本ではとてもポピュラーなお土産品。うなぎという魚のエキスを生地に練り込んだパイ。うなぎをぶつ切りにした「Eel pie」とは少し異なる。",
       "EN1": "Eel pie",
-      "Translation1": "鳗鱼派",
+      "Translation1": "Eel pie(鳗鱼派)",
       "EN2": "Eel pie$dA popular Japanese souvenir. Unlike the eel pies found in west, which generally use chunks of eel as a filling, the Japanese eel pie is made with dough that has been mixed with eel extract.",
       "Translation2": "鳗鱼派$d一种很受欢迎的日本特产，是鳗鱼提取物与面团混合后烤制而成的脆饼干，与英国的将鳗鱼切块后放在面团上烤的「Eel pie」（类似仰望星空派）稍有不同。"
     },
@@ -164,7 +164,7 @@
       "JP1": "演歌",
       "JP2": "【演歌】$d歌謡曲のジャンルのひとつ。日本人独特な感覚や情念を基にした歌詞が多い。",
       "EN1": "Enka",
-      "Translation1": "演歌",
+      "Translation1": "Enka(演歌)",
       "EN2": "Enka$dA genre of traditional Japanese music. The genre's lyrics often reflect unique Japanese sentiments and passions.",
       "Translation2": "演歌$d一种日本传统音乐，歌词主要以日本人独特的情感和感受为基础。"
     },
@@ -172,7 +172,7 @@
       "JP1": "為せば成る、為さねば成らぬ何ごとも",
       "JP2": "【為せば成る、為さねば成らぬ何ごとも】$d19世紀、上杉鷹山という名君の言葉で、「何事も意志を持てばできる、意志がなければ成功しない」という意味。16世紀の武田信玄という武将の言葉を言い換えている。",
       "EN1": "Everything is impossible until you try",
-      "Translation1": "为则成，不为则不成",
+      "Translation1": "Everything is impossible until you try(为则成，不为则不成)",
       "EN2": "Everything is impossible until you try$dA quote by the 19th century daimyo Uesugi Youzan, itself a rewording of a quote by the 16th century daimyo Takeda Shingen.",
       "Translation2": "为则成，不为则不成$d19世纪的明君上杉鹰山的名言，意思是「任何事只要有意志就可以做到，没有意志的人是不会成功的」。这句话是由16世纪著名政治家武田信玄的话化用而来的。"
     },
@@ -180,7 +180,7 @@
       "JP1": "花札",
       "JP2": "【花札】$d日本のカードゲーム。12か月、さまざまな花や動物などが描かれたカードを2人や3人で遊ぶ。",
       "EN1": "Flower cards [hanafuda]",
-      "Translation1": "花札",
+      "Translation1": "Flower cards(花札)",
       "EN2": "Flower cards [hanafuda]$dA Japanese card game known as hanafuda that features cards with illustrations of each month of the year, flowers, and animals. Generally played with two or three players.",
       "Translation2": "花札$d一种日本纸牌游戏，是2到3名玩家使用画着12个月份中的各种花朵、动物等图案的卡片进行的游戏。"
     },
@@ -188,7 +188,7 @@
       "JP1": "布団",
       "JP2": "【布団】$d日本では広く使われる寝具のひとつ。部屋の床などの上に直接敷き、不要な時はたたんでしまうこともできる。いつでも寝られるように、敷きっぱなしにしている人もいる。",
       "EN1": "Futon",
-      "Translation1": "被褥",
+      "Translation1": "Futon(被褥)",
       "EN2": "Futon$dA piece of Japanese furniture used for sleeping. A futon is comprised of a thin cotton or wool mattress and a blanket. In Japan, the futon is usually laid directly on the floor and stowed away during the day. There are also people who don't put the futon away so they can sleep at any time.",
       "Translation2": "被褥$d日本使用最广泛的寝具之一，通常由薄棉或羊毛的床垫以及毯子构成。它可以直接放在房间的地板上，不用时可以折叠后收纳起来。有些人把它放在外面是为了能随时睡觉。"
     },
@@ -204,7 +204,7 @@
       "JP1": "囲碁",
       "JP2": "【囲碁】$d中国伝来のボードゲームで、2人で勝負を行う。白と黒の石を交互に配置し、より広い範囲を確保した方が勝ち。",
       "EN1": "Go",
-      "Translation1": "围棋",
+      "Translation1": "Go(围棋)",
       "EN2": "Go$dA board game that originated from China. In go, two players, playing the black or white pieces, take turns to place stones to surround a larger total area of the board.",
       "Translation2": "围棋$d一种起源于中国的双人棋类游戏，两个人分别往棋盘上放置白子和黑子，最终占据最大面积的玩家获胜。"
     },
@@ -212,7 +212,7 @@
       "JP1": "鶴の恩返し",
       "JP2": "【鶴の恩返し】$d日本の民話。罠にかかった鶴を助けた老人にもとに、その鶴が女性の姿に変えて、恩を返すという物語。",
       "EN1": "Grateful Crane",
-      "Translation1": "鹤的报恩",
+      "Translation1": "Grateful Crane(鹤的报恩)",
       "EN2": "Grateful Crane$dA Japanese folk tale of an elderly man who rescued a crane from a hunter's trap. The crane later transformed into a young woman to return the favor to the man and his wife.",
       "Translation2": "鹤的报恩$d一个日本民间故事。是一只落入陷阱的鹤因为被老人救起而化身为一名女子报答老人的故事。"
     },
@@ -220,7 +220,7 @@
       "JP1": "青汁",
       "JP2": "【青汁】$d緑葉野菜などを絞った健康飲料。名前に「青」と付いているが、実際は緑色である。",
       "EN1": "Green juice [aojiru]",
-      "Translation1": "青汁（あおじる）",
+      "Translation1": "Green juice(青汁)",
       "EN2": "Green juice [aojiru]$dA vegetable-based juice often drunk as a health beverage. The literal meaning of the Japanese name, aojiru, is actually blue juice, but it's very, very green.",
       "Translation2": "青汁（あおじる）$d用绿叶蔬菜榨的汁制成的健康饮料。虽然名字里有「蓝」（あお的意思是蓝色的），但其实它是绿色的。"
     },
@@ -228,7 +228,7 @@
       "JP1": "餃子",
       "JP2": "【餃子】$d小麦粉を原料にした皮で、肉やエビ、野菜で作った具を包、焼いたりした食べ物。",
       "EN1": "Gyoza",
-      "Translation1": "饺子",
+      "Translation1": "Gyoza(饺子)",
       "EN2": "Gyoza$dA pan-fried dumpling that contains ingredients such as meat, shrimp, or vegetables wrapped in a flour dough skin.",
       "Translation2": "饺子$d用面皮和肉、菜、虾等馅料包成的食物。日本的饺子一般指煎饺。"
     },
@@ -236,7 +236,7 @@
       "JP1": "袴",
       "JP2": "【袴】$d日本古来の衣服の一種。主に礼装や、剣道などの日本武術などで着用される。また巫女装束の緋袴はとくに有名。いろいろな種類や色がある。",
       "EN1": "Hakama",
-      "Translation1": "和服袴裙",
+      "Translation1": "Hakama(和服袴裙)",
       "EN2": "Hakama$dA traditional Japanese pants tied at the waist and worn over a kimono. It is a ceremonial dress often worn in martial art settings. Hakama come in many varieties and colors; the red hakama worn by shrine maidens are particularly well-known.",
       "Translation2": "和服袴裙$d一种日本传统服装。主要用作正式场合的礼服和剑道等日本武术的演出服，有许多不同类型和颜色。日本的巫女所穿的朱红色袴尤为有名。"
     },
@@ -244,7 +244,7 @@
       "JP1": "ハラキリ",
       "JP2": "【ハラキリ】$d侍や武士が行う、不始末などが生じた際に、その責任とともに覚悟を示し、名誉を保つための自裁の方法。",
       "EN1": "Harakiri",
-      "Translation1": "切腹",
+      "Translation1": "Harakiri(切腹)",
       "EN2": "Harakiri$dA ritual suicide method used by disgraced samurai as a means to atone for very serious crimes and die with honor. Also called seppuku, this has nothing to do with sudoku.",
       "Translation2": "切腹$d日本武士犯错后为显示自己的责任心和觉悟以及维护名誉而自我了断的行为，"
     },
@@ -252,7 +252,7 @@
       "JP1": "ひじき",
       "JP2": "【ひじき】$d日本のどの海岸にも自生する海藻で、波の荒い海岸近くの岩場などに繁茂している。",
       "EN1": "Hijiki",
-      "Translation1": "羊栖菜",
+      "Translation1": "Hijiki(羊栖菜)",
       "EN2": "Hijiki$dA type of seaweed that can be found at any coastal area in Japan. It is especially abundant in rocky areas close to rough seashores.",
       "Translation2": "羊栖菜$d一种在日本海边常见的野生海藻。羊栖菜在波涛汹涌的海岸的岩石区域生长得尤为旺盛。"
     },
@@ -260,7 +260,7 @@
       "JP1": "ペガサス百烈拳",
       "JP2": "【ペガサス百烈拳】$d来ヶ谷が読んでいるコミックに登場する、ペガサスの戦士が得意とする必殺技。",
       "EN1": "Hundred Pegasus Strike",
-      "Translation1": "天马百烈拳",
+      "Translation1": "Hundred Pegasus Strike(天马百烈拳)",
       "EN2": "Hundred Pegasus Strike$dThe finishing move of a certain pegasus warrior from a manga that Kurugaya reads.",
       "Translation2": "天马百烈拳$d天马战士的必杀技，出自来谷看的漫画书。"
     },
@@ -268,7 +268,7 @@
       "JP1": "保健室",
       "JP2": "【保健室】$d学校における怪我や病気などに対応するほか、教育活動などを行う部屋で、養護教諭が常駐している。",
       "EN1": "Infirmary",
-      "Translation1": "保健室",
+      "Translation1": "Infirmary(保健室)",
       "EN2": "Infirmary$dAlso known as the nurse office, this is a room on the school campus that deals with students' injuries or illnesses. The room is generally staffed by a school nurse, and is also used for educational activities occasionally. ",
       "Translation2": "保健室$d学校为生病或受伤的学生提供的用于治疗、休息的房间，有时也用于教育活动，有养护教师常驻。"
     },
@@ -276,7 +276,7 @@
       "JP1": "カップやきそば",
       "JP2": "【カップやきそば】$dインスタントラーメンの一種で、容器に入った焼きそば。お湯を注ぎ、麺をほぐし、お湯を捨てて、ソースをかけて食べる。",
       "EN1": "Instant yakisoba",
-      "Translation1": "杯装炒面",
+      "Translation1": "Instant yakisoba(杯装炒面)",
       "EN2": "Instant yakisoba$dA type of instant noodles which consists of yakisoba in a container. Instant yakisoba is prepared by filling the container with hot water, draining it after the noodles are cooked, and then adding sauce. Draining the water from the container can be tricky, and accidents can occur, resulting in noodles falling into the sink and ruining meals.",
       "Translation2": "杯装炒面$d一种方便面。用热水将面饼泡软后倒掉水，再浇上酱汁食用。"
     },
@@ -284,7 +284,7 @@
       "JP1": "伊勢エビ",
       "JP2": "【伊勢エビ】$d日本近海にて分布する大型のエビで、高級食材。大きさはロブスターとほぼ同じだが、表面が棘だらけであることと、体長より長い触角をもつこと、大きなハサミを持っていないことなど異なる。",
       "EN1": "Ise shrimp",
-      "Translation1": "伊势虾",
+      "Translation1": "Ise shrimp(伊势虾)",
       "EN2": "Ise shrimp$dKnown in English as the Japanese spiny lobster, the Ise shrimp is actually a spiny lobster found in Japanese shores. It is considered a delicacy and is found in high-class dishes. Although the Ise shrimp is close to lobster in size, it has spines and antennae that are longer than its body and lacks claws.",
       "Translation2": "伊势虾$d在日本附近的海域发现的一种大型虾，是十分高级的食材。伊势虾的大小与龙虾差不多，但表面布满刺，触角比身体更长，而且没有大钳子。"
     },
@@ -292,7 +292,7 @@
       "JP1": "よいではないか",
       "JP2": "【よいではないか】$d日本のTVドラマの時代劇などにて、悪人がよく使う名ゼリフ。",
       "EN1": "Isn't this fun?",
-      "Translation1": "不是很好吗",
+      "Translation1": "Isn't this fun?(不是很好吗)",
       "EN2": "Isn't this fun?$dA phrase often used by villains or bad guys in general in Japanese historical dramas. Also associated with the obi sashes of kimono-wearing females being pulled.",
       "Translation2": "不是很好吗$d日本古装电视剧中反派人物常说的名言。"
     },
@@ -300,7 +300,7 @@
       "JP1": "公家",
       "JP2": "【公家】$d天皇に近侍し、御所に出仕していた貴族たちのこと。1868年に公家は解体された。",
       "EN1": "Japanese aristocracy",
-      "Translation1": "日本贵族",
+      "Translation1": "Japanese aristocracy(日本贵族)",
       "EN2": "Japanese aristocracy$dThe kuge was an aristocratic class that served the imperial court and the emperor. The system was abolished in 1868.",
       "Translation2": "日本贵族$d指侍奉天皇、在皇宫供职的贵族。这一身份于1868年被废除。"
     },
@@ -308,7 +308,7 @@
       "JP1": "敬称",
       "JP2": "【敬称】$d相手や第三者に対して、敬意を表し名前の後ろに敬称をつけて呼びます。概ね「さん」をつけますが、重要度の高い人には「様」、学校や職場などの年上には「先輩」、教師や医者には「先生」、など様々な敬称を使い分けます。",
       "EN1": "Japanese honorifics (1)",
-      "Translation1": "敬称",
+      "Translation1": "Japanese honorifics(1)(敬称)",
       "EN2": "Japanese honorifics (1)$dIn Japanese, honorific suffixes are added to names as a form of respect. In general, the honorific ❝-san❞ is used in most cases. ❝-sama❞ is used in deference to those of higher importance or station, ❝-senpai❞ is used for senior colleagues from school or work, and ❝-sensei❞ is used for teachers and doctors.",
       "Translation2": "敬称$d日本人为了对对方或第三者表示敬意，会在名字后面加上敬称。一般加「さん（san）」，对贵重的人用「様（sama）」，对学校和职场中的前辈用「先輩（senpai）」，对老师和医生用「先生（sensei）」。"
     },
@@ -316,7 +316,7 @@
       "JP1": "日本刀",
       "JP2": "【日本刀】$d日本独特の反りがある片刃の刀剣。切れ味とともに刀身そのものに美しさを求め、美術品としても価値がある。",
       "EN1": "Japanese sword",
-      "Translation1": "日本刀",
+      "Translation1": "Japanese sword(日本刀)",
       "EN2": "Japanese sword$dAlso commonly known as the katana, the Japanese single-edged blade is known for its distinctive, signature curve. Because of the blades' sharpness and elegance, they are also treasured for their artistic value.",
       "Translation2": "日本刀$d一种有着独特弧度的日本单刃刀剑。除了锋利以外，刀身本身也十分美丽，是很有价值、受人追捧的艺术品。"
     },
@@ -324,7 +324,7 @@
       "JP1": "鎌倉時代",
       "JP2": "【鎌倉時代】$d1185年頃から1333年までの日本の時代区分。武士の頭領による統治が行われた。",
       "EN1": "Kamakura Period",
-      "Translation1": "镰仓时代",
+      "Translation1": "Kamakura Period(镰仓时代)",
       "EN2": "Kamakura Period$dThe period of Japanese history from 1185 to 1333 when the country was ruled by the Kamakura shogunate.",
       "Translation2": "镰仓时代$d1185年至1333年的日本时代。由武士首领实行统治。"
     },
@@ -332,7 +332,7 @@
       "JP1": "かにかま",
       "JP2": "【かにかま】$dカニの食感や見た目を似せたかまぼこの一種。かまぼこはタラやサメなどの魚の肉を練り、作られた食品。",
       "EN1": "Kanikama",
-      "Translation1": "蟹肉棒",
+      "Translation1": "Kanikama(蟹肉棒)",
       "EN2": "Kanikama$dAlso known as crab stick or imitation crab, kanikama is variant of a type of Japanese fish cake known as Kamaboko. Kamaboko, however, is usually made of fish like cod.",
       "Translation2": "蟹肉棒$d也被称为蟹棒或仿蟹，是模仿螃蟹口感和外观的一种鱼糕。然而，蟹肉棒通常是由鳕鱼等鱼类制成的。"
     },
@@ -340,7 +340,7 @@
       "JP1": "関西",
       "JP2": "【関西】$d日本の地方のひとつ。大阪・京都を中心とした地域で、Keyの開発室はこの地域にある。",
       "EN1": "Kansai",
-      "Translation1": "关西",
+      "Translation1": "Kansai(关西)",
       "EN2": "Kansai$dLocated in the central western part of Japan, Kansai is one of the eight regions of the country. The region includes prefectures such as Kyoto and Osaka, where you can find the offices of a certain studio called Key.",
       "Translation2": "关西$d关西位于日本中西部，是日本八大地区之一。该地区包括京都和大阪等县，在那里你可以找到一个名为Key的工作室。"
     },
@@ -348,7 +348,7 @@
       "JP1": "かつおぶし",
       "JP2": "【かつおぶし】$d魚の鰹の肉を加熱と乾燥させた日本の保存食。見た目は木片と勘違いするような形状。日本料理では調味料として重宝されている。",
       "EN1": "Katsuobushi",
-      "Translation1": "干鲣鱼",
+      "Translation1": "Katsuobushi(干鲣鱼)",
       "EN2": "Katsuobushi$dDried, smoked tuna that is frequently also shaved into flakes. The flakes may look like wood chips, but are highly prized as condiments in Japanese cuisine.",
       "Translation2": "干鲣鱼$d将鲣鱼的肉加热和干燥制成的日本保存食品。看起来像是木片的形状。在日本料理中作为调味料被重视。"
     },
@@ -356,7 +356,7 @@
       "JP1": "着物",
       "JP2": "【着物】$d日本在来の衣服、近年では日本における民族衣装としてもされている。",
       "EN1": "Kimono",
-      "Translation1": "着物",
+      "Translation1": "Kimono(着物)",
       "EN2": "Kimono$dA traditional Japanese garment. It has been considered Japan's national costume in recent years.",
       "Translation2": "着物$d日本传统服装，近年来也成为日本的民族服装。"
     },
@@ -364,7 +364,7 @@
       "JP1": "金太郎",
       "JP2": "【金太郎】$d日本の昔話。子供のときから力持ちの金太郎、くまを相手に遊んだりする物語。金太郎は、成長し鬼退治をする。",
       "EN1": "Kintarou",
-      "Translation1": "金太郎",
+      "Translation1": "Kintarou(金太郎)",
       "EN2": "Kintarou$dA Japanese folk tale about Kintarou, a boy who was born with superhuman strength. Different versions of the tale tell of his adventures fighting demons and playing with bears.",
       "Translation2": "金太郎$d日本的古老故事。故事讲述了从小就身强力壮的金太郎和熊玩耍的故事。金太郎长大了，就开始打鬼。"
     },
@@ -372,7 +372,7 @@
       "JP1": "古事記",
       "JP2": "【古事記】$d712年に編纂された日本最古の歴史書。神話や伝説も記載されている。その後、「日本書紀」が編纂され、こちらは日本最古の正史の歴史書となっている。",
       "EN1": "Kojiki",
-      "Translation1": "古事记",
+      "Translation1": "Kojiki(古事记)",
       "EN2": "Kojiki$dThe oldest Japanese history book that was compiled in 712. In addition to history, it also included mythology, legends, and poems. The ❝Nihon Shoki❞, compiled later on, is considered the oldest authentic Japanese history book.",
       "Translation2": "古事记$d712年编纂的日本最古老的历史书。同时记载了神话和传说。之后编纂的《日本书纪》是日本最古老的正史史书。"
     },
@@ -380,7 +380,7 @@
       "JP1": "駒田",
       "JP2": "【駒田】$d小毬と発音が似ている日本の人物名。",
       "EN1": "Komada",
-      "Translation1": "驹田",
+      "Translation1": "Komada(驹田)",
       "EN2": "Komada$dA Japanese name that sounds kind of like Komari.",
       "Translation2": "驹田$d和小毬发音相似的日本人名。"
     },
@@ -388,7 +388,7 @@
       "JP1": "昆布",
       "JP2": "【昆布】$d葉が平らで長細い海藻で、日本料理では多用される。特に乾燥させたものは、調味料として重宝されている。",
       "EN1": "Kombu",
-      "Translation1": "昆布",
+      "Translation1": "Kombu(昆布)",
       "EN2": "Kombu$dA type of kelp or seaweed that has long and thin leaves and is frequently used in Japanese cuisine. Dried kombu is valued highly as a condiment.",
       "Translation2": "昆布$d叶子扁平细长的海藻，在日本料理中经常被使用。特别是干燥后的制品，是非常珍贵的调味料。"
     },
@@ -396,7 +396,7 @@
       "JP1": "コンペイトウ",
       "JP2": "【コンペイトウ】$d表面に凹凸がある小さな球状のお菓子。氷砂糖に水を加えて煮詰めた蜜を原料につくる。",
       "EN1": "Kompeito",
-      "Translation1": "金平糖",
+      "Translation1": "Kompeito(金平糖)",
       "EN2": "Kompeito$dA type of Japanese candy made with rock sugar syrup. The candy is very small, has a rough, uneven texture, and comes in a variety of colors.",
       "Translation2": "金平糖$d表面有凹凸颗粒的球状点心。用冰糖加水熬制的蜜作为原料。"
     },
@@ -404,7 +404,7 @@
       "JP1": "高野豆腐",
       "JP2": "【高野豆腐】$d豆腐を凍結させ、低温で熟成させた後に乾燥させた保存食。",
       "EN1": "Kouya dofu",
-      "Translation1": "高野豆腐",
+      "Translation1": "Kouya dofu(高野豆腐)",
       "EN2": "Kouya dofu$dA dehydrated tofu originally made by freezing and then thawing tofu to remove the moisture.  Today, kouya dofu is made using freeze-drying techniques.",
       "Translation2": "高野豆腐$d冷冻豆腐，低温熟成后干燥的保存食品。"
     },
@@ -412,7 +412,7 @@
       "JP1": "ローソン",
       "JP2": "【ローソン】$d日本を拠点としたコンビニエンスストアチェーン。日本のコンビニの店舗の形状としては、横に広い長方体が一般的となっている。ほかにファミリーマートなどのコンビニエンスストアチェーンが日本にはいくつも存在する。",
       "EN1": "Lawson",
-      "Translation1": "罗森",
+      "Translation1": "Lawson(罗森)",
       "EN2": "Lawson$dA convenience store chain based in Japan. It has its origins in Ohio, and had locations in the mainland United States until the 1980s. Japanese convenience stores are generally housed in wide, rectangular shaped buildings; other chains include FamilyMart.",
       "Translation2": "罗森$d总部设在日本的连锁便利店。它起源于俄亥俄州，直到20世纪80年代在美国大陆都有分店。日本的便利店一般都开在宽阔的长方形建筑里，也有像全家这样的其他连锁店。"
     },
@@ -420,7 +420,7 @@
       "JP1": "うすしお",
       "JP2": "【うすしお】$d仕上げに薄く塩を振った、軽い塩味のこと。とくにポテトチップなどの味付けとして一般化している。ほかには「のりしお」などという味付けがある。",
       "EN1": "Lightly-salted [potato chips]",
-      "Translation1": "淡盐（薯片）",
+      "Translation1": "Lightly-salted [potato chips](淡盐薯片)",
       "EN2": "Lightly-salted [potato chips]$dA type of flavoring that has a tiny amount of salt added, typically associated with potato chips. Other Japanese potato chips flavors include norishio, which has nori seaweed sprinkling in addition to salt.",
       "Translation2": "淡盐（薯片）$d一种添加了少量盐的口味，通常与薯片有关。其他口味的日本薯片还包括紫菜（除了盐之外还撒有紫菜的口味）"
     },
@@ -428,7 +428,7 @@
       "JP1": "万葉集",
       "JP2": "【万葉集】$dさまざまな身分の人が詠んだ歌を収録した日本に現存する最古の和歌集。その後、「古今和歌集」などが編纂された。",
       "EN1": "Man'yoshu",
-      "Translation1": "万叶集",
+      "Translation1": "Man'yoshu(万叶集)",
       "EN2": "Man'yoshu$dThe oldest existing anthology of Japanese poetry written by a variety of authors. Later poetry anthologies include the ❝Kokin Wakashu❞.",
       "Translation2": "万叶集$d现存最古老的日本诗歌选集，由多位作者撰写。后来的诗集包括《古今和歌集》（Kokin Wakashu）."
     },
@@ -436,7 +436,7 @@
       "JP1": "漫才",
       "JP2": "【漫才】$d主に2人組で披露される演芸。主に、とぼける役とつっこむ役がある。",
       "EN1": "Manzai",
-      "Translation1": "漫才",
+      "Translation1": "Manzai(漫才)",
       "EN2": "Manzai$dA type of stand-up comedy generally performed by two performers: the air-headed boke and the blunt, smarter tsukkomi. The closest western equivalents are acts like Abbott and Costello's ❝Who's on First❞.",
       "Translation2": "漫才$d一种单口喜剧，通常由两个人表演，包括头脑冷静的boke和直率而聪明的tsukkomi。最接近西方的同类作品是阿博特和科斯特洛的《谁在第一》（Who’s on First）。"
     },
@@ -444,7 +444,7 @@
       "JP1": "ビー玉",
       "JP2": "【ビー玉】$dガラス製の球で、玩具の一種。単色のものから中に模様が張ったものなどさまざま。ほかにも「ラムネ玉」と呼ばれることがある。",
       "EN1": "Marble",
-      "Translation1": "玻璃弹珠",
+      "Translation1": "Marble(玻璃弹珠)",
       "EN2": "Marble$dA small, ball-shaped glass toy that comes in different sizes and color patterns. They are frequently seen inside a ramune soda bottle and so are also known as ❝ramunedama❞, or ramune balls, in Japan. As you can see, they can be used to make elaborate booby traps.",
       "Translation2": "玻璃弹珠$d一个小的，球形的玻璃玩具，有不同的大小和颜色图案。它们经常出现在弹珠汽水里，因此在日本也被称为“ramunedama”。正如你所看到的，它们可以用来制作精心设计的陷阱。"
     },
@@ -452,7 +452,7 @@
       "JP1": "松尾芭蕉",
       "JP2": "【松尾芭蕉】$d17世紀に活躍した歌人。日本各地をまわり、歌を詠んだ。",
       "EN1": "Matsuo Basho",
-      "Translation1": "松尾芭蕉",
+      "Translation1": "Matsuo Basho(松尾芭蕉)",
       "EN2": "Matsuo Basho$dA famous 17th century Japanese poet who traveled across Japan and composed poems about his experiences.",
       "Translation2": "松尾芭蕉$d一位17世纪著名的日本诗人，游历日本并将自己的经历写成诗。"
     },
@@ -460,7 +460,7 @@
       "JP1": "松阪牛",
       "JP2": "【松阪牛】$d日本の三重県松阪市とその周辺にて飼育された牛で、高級銘柄牛肉のブランド名。",
       "EN1": "Matsusaka beef",
-      "Translation1": "松阪牛",
+      "Translation1": "Matsusaka beef(松阪牛)",
       "EN2": "Matsusaka beef$dThe wagyuu beef produced from cattle in the Matsusaka city and its surrounding areas in the Mie Prefecture. The beef is considered to be one of the most famous brands of beef.",
       "Translation2": "松阪牛$d日本三重县松阪市及其周边饲养的牛，是高级品牌牛肉的品牌名。"
     },
@@ -468,7 +468,7 @@
       "JP1": "明治維新",
       "JP2": "【明治維新】$d19世紀、武士の時代から西洋の文化を取り入れた新しい時代へ移行した出来事。",
       "EN1": "Meiji Restoration",
-      "Translation1": "明治維新",
+      "Translation1": "Meiji Restoration(明治維新)",
       "EN2": "Meiji Restoration$dThe 19th century event that returned political power in Japan to the emperor from the shogun and marked the country's transition from feudalism and acceptance of contemporary western values.",
       "Translation2": "明治維新$d这一19世纪的事件将日本的政治权力从幕府将军手中归还给天皇，标志着日本从封建主义过渡到接受当代西方价值观。"
     },
@@ -476,7 +476,7 @@
       "JP1": "めかぶ",
       "JP2": "【めかぶ】$d海藻のワカメのひだ状になっている部分。軽く湯通しして、ご飯やスープに入れたりして食べる。",
       "EN1": "Mekabu",
-      "Translation1": "裙带菜",
+      "Translation1": "Mekabu(裙带菜)",
       "EN2": "Mekabu$dThe pleated part of the wakame seaweed. Mekabu can be parboiled and eaten with rice or soup.",
       "Translation2": "裙带菜$d海藻的褶皱状的部分。稍微过一下热水，可以放在米饭或汤里吃。"
     },
@@ -484,7 +484,7 @@
       "JP1": "萌え",
       "JP2": "【萌え】$dゲーム、アニメ、マンガなどのキャラクターに対してよく使われる愛情を表現する言葉。実在の人物や概念などに対しても使われる。",
       "EN1": "Moe",
-      "Translation1": "萌",
+      "Translation1": "Moe(萌)",
       "EN2": "Moe$dA slang word used to express affection. It is most frequently associated with anime, manga, and video game characters, but can also be applied to objects or concepts.",
       "Translation2": "萌$d用来表达喜爱之情的俚语。它最常与动漫、漫画和电子游戏角色联系在一起，但也可以应用于物体或概念。"
     },
@@ -492,7 +492,7 @@
       "JP1": "桃太郎",
       "JP2": "【桃太郎】$dおとぎ話のひとつ。桃から生まれた桃太郎が、イヌ、サル、キジを従えて、鬼を退治する話。",
       "EN1": "Momotaro",
-      "Translation1": "桃太郎",
+      "Translation1": "Momotaro(桃太郎)",
       "EN2": "Momotaro$dA Japanese fairy tale about a young boy named Momotaro, who was born from a peach and uses dango to recruit a dog, a monkey, and a pheasant to defeat ogres.",
       "Translation2": "桃太郎$d这是一个日本童话故事，讲述了一个名叫桃太郎的小男孩，他从桃子里出生，用饭团招揽了一只狗、一只猴子和一只野鸡来打败鬼。"
     },
@@ -500,7 +500,7 @@
       "JP1": "南北朝時代",
       "JP2": "【南北朝時代】$d1336年から1392年まで、皇位継承を争い、ふたつの朝廷ができた時代。",
       "EN1": "Nanboku-cho Period",
-      "Translation1": "南北朝時代",
+      "Translation1": "Nanboku-cho Period(南北朝時代)",
       "EN2": "Nanboku-cho Period$dA period from 1336 to 1392 when there were two separate Japanese imperial courts.  Translates literally to the Northern and Southern Courts period.",
       "Translation2": "南北朝時代$d指的是日本的南北朝时期，即1336年至1392年，为争夺天皇正统继承权而出现两个朝廷的时代。"
     },
@@ -508,7 +508,7 @@
       "JP1": "ナポリタン",
       "JP2": "【ナポリタン】$d日本のスパゲティ料理。パスタとタマネギなどをケチャップで味付たもの。名前の由来には「古いナポリのスパゲティを参考にした」や「この料理、ナポリはしらないけど、ナポリっぽくない？」とさまざまな説がある。",
       "EN1": "Napolitan",
-      "Translation1": "那不勒斯实心面",
+      "Translation1": "Napolitan(那不勒斯实心面)",
       "EN2": "Napolitan$dA Japanese spaghetti dish that contains pan-fried ingredients such as onion and green peppers in ketchup or tomato sauce. Theories for the name's etymology include ❝It was inspired by spaghetti dishes from Naples❞ and ❝I don't know a thing about Naples, but hey, this dish feels like something straight out of Naples.❞",
       "Translation2": "那不勒斯实心面$d一种日本的意大利面，会将洋葱和青椒等配料在番茄酱中煎熟。关于这道菜的词源有以下几种说法：「它的灵感来自那不勒斯（意大利城市）的意大利面」或者「我对那不勒斯一无所知，但是这道菜感觉就像是从那不勒斯来的」"
     },
@@ -516,7 +516,7 @@
       "JP1": "肉ジャガ",
       "JP2": "【肉ジャガ】$d煮込み料理で、牛肉や豚肉などの肉類とジャガイモなどを油で炒めてから、しょうゆ、砂糖、みりんで煮ている。",
       "EN1": "Niku-jaga",
-      "Translation1": "土豆炖肉",
+      "Translation1": "Niku-jaga(土豆炖肉)",
       "EN2": "Niku-jaga$dA Japanese stew that consists of meats like beef or pork and potatoes stewed in soy sauce, sugar, and mirin.",
       "Translation2": "土豆炖肉$d一种日本炖菜，由牛肉或猪肉等肉类和土豆在酱油、糖和味淋（一种类似米酒的调味料）中炖成"
     },
@@ -524,7 +524,7 @@
       "JP1": "新渡戸",
       "JP2": "【新渡戸】$d著名な教育者のひとり。何をした人、というより2007年までに使われていた「5,000円札の人」の方が知られている。2004年から樋口一葉にデザインが変わってしまった。",
       "EN1": "Nitobe",
-      "Translation1": "新渡户",
+      "Translation1": "Nitobe(新渡户)",
       "EN2": "Nitobe$dInazou Nitobe was a famous Japanese educator. That said, he was more frequently known as the face on the Japanese 5,000 yen bill up until 2007. He was replaced by Ichiyou Higuchi in the 2004 design.",
       "Translation2": "新渡户$d著名教育家之一。比起他的成就，更为人所知的是他的脸被印在了2007年之前发行的5000日元纸币上。从2004年的新纸币开始，他的脸被樋口一叶替代。"
     },
@@ -532,7 +532,7 @@
       "JP1": "ノーコン",
       "JP2": "【ノーコン】$d野球の投手などで、制球が悪いことで、日本ではBad controlとは言わず、No controlといい、その略語。",
       "EN1": "No-con",
-      "Translation1": "高射炮",
+      "Translation1": "No-con(高射炮)",
       "EN2": "No-con$dAn abbreviated loan word, short for ❝no control❞. In Japanese, this phrase typically refers to baseball pitchers who can't control their pitches.",
       "Translation2": "高射炮（No-con）$d指棒球投手等控球能力差的人，在日本不说“Bad control”，而说“No control”。"
     },
@@ -540,7 +540,7 @@
       "JP1": "野口",
       "JP2": "【野口】$d日本の細菌学者・野口英世。現在の1,000円札の肖像となっている。",
       "EN1": "Noguchi",
-      "Translation1": "野口",
+      "Translation1": "Noguchi(野口)",
       "EN2": "Noguchi$dHideyo Noguchi was a famous Japanese bacteriologist. Nowadays, he is best known as the face of the 1,000 yen bill.",
       "Translation2": "野口$d野口英代是日本著名的细菌学家。如今，他最为人所知的形象是印在1000日元纸币上的头像。"
     },
@@ -548,7 +548,7 @@
       "JP1": "海苔",
       "JP2": "【海苔】$d食用の藻類の総称。日本では、それらを加工した「板海苔」などがあり、おにぎりやお寿司にはその「板海苔」を使う。",
       "EN1": "Nori",
-      "Translation1": "海苔",
+      "Translation1": "Nori(海苔)",
       "EN2": "Nori$dThe Japanese name for a specific type of edible seaweed. Nori is dried and processed into sheets that can be used as a sushi or onigiri wrap.",
       "Translation2": "海苔$d可食用藻类的总称。在日本，有将这些加工而成的「板海苔」，饭团和寿司都使用「板海苔」。"
     },
@@ -556,7 +556,7 @@
       "JP1": "のりべん",
       "JP2": "【のりべん】$d携帯できるようにした食べ物の「お弁当」において、のりを主なおかずとしたもの。梅の実を塩漬けした梅干しをご飯の上にのせただけのお弁当は「日の丸」とも呼ばれる。",
       "EN1": "Noriben",
-      "Translation1": "Noriben",
+      "Translation1": "Noriben(Noriben)",
       "EN2": "Noriben$dA kind of boxed lunch, or bento, with soy sauce-seasoned nori seaweed as its main component. In addition, a bento with nothing but a pickled plum sitting on the rice is called a hinomaru, or circle of the sun, bento.",
       "Translation2": "Noriben$d在可以携带的食物「便当」中，以海苔为主要配菜。把腌梅干放在米饭上。也被称为「日の丸」。"
     },
@@ -564,7 +564,7 @@
       "JP1": "のりたま",
       "JP2": "【のりたま】$d海苔と鶏卵を主にしたご飯にかけてたべるふりかけ。",
       "EN1": "Noritama",
-      "Translation1": "Noritama",
+      "Translation1": "Noritama(Noritama)",
       "EN2": "Noritama$dA rice seasoning made from nori seaweed and eggs.",
       "Translation2": "Noritama$d一种将海苔和鸡蛋碎洒在米饭上的便当。"
     },
@@ -572,7 +572,7 @@
       "JP1": "小倉百人一首",
       "JP2": "【小倉百人一首】$d12世紀に、藤原定家が100人の和歌を選んだもので、現在では「かるた」として正月の風物詩として楽しまれている。",
       "EN1": "Ogura Hyakunin Isshu",
-      "Translation1": "小倉百人一首",
+      "Translation1": "Ogura Hyakunin Isshu(小倉百人一首)",
       "EN2": "Ogura Hyakunin Isshu$dA poetry anthology compiled by Fujiwara Sadaie in the 12th century. The collection contained 100 waka poems, each of which was written by a different writer. The poems are used in the card game ❝karuta❞, which is frequently played around the New Year nowadays.",
       "Translation2": "小倉百人一首$d藤原定家于12世纪编撰的诗集。这本诗集包含了100首和歌诗，每首诗都是由不同的作家写的。这些诗被用在了“karuta”纸牌游戏中，这种游戏现在经常在新年前后玩。"
     },
@@ -580,7 +580,7 @@
       "JP1": "沖縄",
       "JP2": "【沖縄】$d日本の地区のひとつ。東シナ海と太平洋に囲まれた島々。年間を通して温暖な地域。",
       "EN1": "Okinawa",
-      "Translation1": "冲绳",
+      "Translation1": "Okinawa(冲绳)",
       "EN2": "Okinawa$dA group of islands surrounded by the East China Sea and the Pacific Ocean that together forms the southernmost prefecture in Japan. The islands have a warm, subtropical climate all year long.",
       "Translation2": "冲绳$d被中国东海和太平洋包围的一组岛屿，它们共同构成了日本最南端的一个县。这些岛屿全年都是温暖的亚热带气候。"
     },
@@ -588,7 +588,7 @@
       "JP1": "沖縄料理",
       "JP2": "【沖縄料理】$d日本の地区のひとつ沖縄で食される料理の総称。ゴーヤチャンプル、マーミナチャンプルなどあり、料理名が方言のため、異国の料理名に聞こえる。",
       "EN1": "Okinawan cuisine",
-      "Translation1": "冲绳料理",
+      "Translation1": "Okinawan cuisine(冲绳料理)",
       "EN2": "Okinawan cuisine$dAlso known as Ryukyuan cuisine, Okinawan cuisine is the cuisine found in Okinawa and is distinct from mainland Japanese cuisine. As Okinawan dishes like goya chanpuru (bitter melon stir fry) and maamina chanpuru (bean sprout stir fry) all have Okinawan names, the dishes' names invoke a sense of exoticness even to Japanese. ",
       "Translation2": "冲绳料理$d冲绳料理也被称为琉球料理，是冲绳的美食，与日本大陆的美食截然不同。像goya chanpuru（苦瓜炒）和maamina chanpuru（豆芽炒）这样的冲绳菜都有冲绳的名字，即使对日本人来说，这些菜的名字也会唤起一种异国情调。"
     },
@@ -596,7 +596,7 @@
       "JP1": "お好み焼き",
       "JP2": "【お好み焼き】$d庶民的な料理で、小麦粉とキャベツなどを混ぜて鉄板で焼く。大阪を中心としたもの、広島を中心としたものなど地域によってさまざまなお好み焼きがある。",
       "EN1": "Okonomiyaki",
-      "Translation1": "御好烧",
+      "Translation1": "Okonomiyaki(御好烧)",
       "EN2": "Okonomiyaki$dA pancake dish made by grilling batter mixed with ingredients such as cabbage on a teppan grill. There are different regional varieties of okonomiyaki, such as the Osaka and Hiroshima styles, which corresponds to the region the dish is traditionally associated with. You may also have heard of something called modanyaki from a certain anime called Charlotte.",
       "Translation2": "御好烧$d一种煎饼菜肴，将混合了诸如卷心菜等食材的面糊在铁板上煎制而成。御好烧有不同地区的种类，比如大阪和广岛风格，这与该菜肴传统上所属的地区相对应。你可能还听说过某部名为《夏洛特》的动漫中提到的“莫丹烧”。"
     },
@@ -604,7 +604,7 @@
       "JP1": "オムライス",
       "JP2": "【オムライス】$dオムレツの中にケチャップで味付されたご飯が入っている日本の洋食のひとつ。",
       "EN1": "Omelette rice",
-      "Translation1": "蛋包饭",
+      "Translation1": "Omelette rice(蛋包饭)",
       "EN2": "Omelette rice$dA Western-influenced Japanese dish that consists of an omelette filled with a ketchup-flavored fried rice; more ketchup is frequently put on top of the omelette. The dish is popular among Japanese children and is frequently featured in kids' meals. Try with pizza sauce.",
       "Translation2": "蛋包饭$d一种受西方影响的日本菜，由煎蛋和番茄酱味的炒饭组成。人们经常在煎蛋饼上放很多的番茄酱。这道菜在日本儿童中很受欢迎，经常出现在儿童餐中，配有披萨酱。"
     },
@@ -612,7 +612,7 @@
       "JP1": "いち、いち、ぜろ",
       "JP2": "【いち、いち、ぜろ】$d日本での警察への通報の電話番号。日本では「110」は警察。「119」は消防と救急となっている。",
       "EN1": "One, one, zero",
-      "Translation1": "一一零",
+      "Translation1": "One, one, zero(一一零)",
       "EN2": "One, one, zero$dThe Japanese telephone number for emergency services, similar to 911 in North America or 999 in the UK. The number 110 is specifically for reaching the police, while dialing 119 will direct you to fire and ambulance services.",
       "Translation2": "一一零$d日本的紧急求助电话号码，类似于北美的911或英国的999。110是专门用来联系警察的，而拨打119则会把你通知消防或者救护车。"
     },
@@ -620,7 +620,7 @@
       "JP1": "おにぎり",
       "JP2": "【おにぎり】$d炊いたお米に味をつけたり、具を入れたりした携帯型の食べ物。三角形や俵形、球状など形はさまざま。「おむすび」とも言う。",
       "EN1": "Onigiri",
-      "Translation1": "饭团",
+      "Translation1": "Onigiri(饭团)",
       "EN2": "Onigiri$dAlso called omusubi, onigiri is a kind of portable Japanese food made with rice shaped into a ball and wrapped in nori seaweed. It is often stuffed with a single filling, such as salmon, tuna, plums, or mayonnaise. Now available at your nearest Japanese convenience store at about 100 yen and some change each.",
       "Translation2": "饭团$d饭团也被称为御饭团（omusubi），是一种便携的日本食品，将大米做成球状，用海苔包裹。它通常只填一种馅料，比如三文鱼、金枪鱼、李子或蛋黄酱。现在在离你最近的日本便利店就可以买到，每个只100多日元。"
     },
@@ -628,7 +628,7 @@
       "JP1": "鬼武者",
       "JP2": "【鬼武者】$d鬼のように強く、荒々しい武士のこと。また、そのような人のこと。",
       "EN1": "Onimusha",
-      "Translation1": "鬼武者",
+      "Translation1": "Onimusha(鬼武者)",
       "EN2": "Onimusha$dA furious, demon-like warrior. Or a person who seems like one.",
       "Translation2": "鬼武者$d指像鬼一样强大、粗暴的武士。也泛指这样的人。"
     },
@@ -636,7 +636,7 @@
       "JP1": "親子丼",
       "JP2": "【親子丼】$d鶏肉を日本酒などで作られたスープで煮て、さらに卵の汁をくわえ、最後にご飯の上に乗せた料理。主な材料が「鶏（親）」と「鶏卵（子）」からそう呼ばれる日本の料理。",
       "EN1": "Oyakodon",
-      "Translation1": "亲子丼",
+      "Translation1": "Oyakodon(亲子丼)",
       "EN2": "Oyakodon$dLiterally the ❝parent and child bowl❞, oyakodon is a Japanese dish that consists of soup made from chicken (the parent), sake, and eggs (the child) simmered together then served over rice.",
       "Translation2": "亲子丼$d鸡肉用日本酒等做成的汤煮，再加入蛋液，最后放在米饭上制成的料理。主要材料是“鸡（母亲）”和“鸡蛋（子）”，因此被称为亲子丼。"
     },
@@ -644,7 +644,7 @@
       "JP1": "パチンコ玉",
       "JP2": "【パチンコ玉】$d日本の大人の遊戯のひとつ「パチンコ」にて使われる、直径11mmの鋼製の玉。",
       "EN1": "Pachinko balls",
-      "Translation1": "弹子球",
+      "Translation1": "Pachinko balls(弹子球)",
       "EN2": "Pachinko balls$dThe steel balls used in the popular Japanese gambling money-sink game pachinko. Always 11 mm in diameter, the pachinko balls are inserted by the player into the pachinko machine, where the balls are launched into the play area and may fall either into cups that lead to payout or oblivion.",
       "Translation2": "弹子球$d在日本流行的赌博游戏弹珠机中使用的钢球。柏青哥球的直径总是11毫米，由玩家插入柏青哥机，在那里，球被发射到游戏区域，可能会落入得奖的区域。"
     },
@@ -652,7 +652,7 @@
       "JP1": "紅生姜",
       "JP2": "【紅生姜】$d生姜の塊根を、梅干しを作る際にでたつけ汁に数日間漬けた漬物。一般的なものは食用色素で着色した調味液に生姜を漬けたものが多い。",
       "EN1": "Pickled ginger",
-      "Translation1": "红生姜",
+      "Translation1": "Pickled ginger(红生姜)",
       "EN2": "Pickled ginger$dA Japanese pickle made by pickling strips of ginger in umezu vinegar, though oftentimes the ones you'll find on the market are actually dyed with food coloring and steeped in liquid seasoning.",
       "Translation2": "红生姜$d将生姜块根放入腌梅干时的蘸汁中腌制数日制成的腌菜。一般是用食用色素着色的调味汁腌渍生姜。"
     },
@@ -660,7 +660,7 @@
       "JP1": "梅こぶ茶",
       "JP2": "【梅こぶ茶】$d乾燥させた梅の実と昆布を細かく刻んで粉末状にしたものにお湯を注いだ飲料。「お茶」とは言うが、お茶の葉は使っていない。",
       "EN1": "Plum kelp tea",
-      "Translation1": "梅干茶",
+      "Translation1": "Plum kelp tea(梅干茶)",
       "EN2": "Plum kelp tea$dA tea brewed from a powder made from finely cut ume plums and kombu kelp. Although called a tea, it does not contain any tea leaves.",
       "Translation2": "梅干茶$d将干燥的梅子和海带切碎成粉末状，注入热水制成的饮料。虽说是「茶」，但并没有使用茶叶。"
     },
@@ -668,7 +668,7 @@
       "JP1": "あおひげ",
       "JP2": "【あおひげ】$d樽にナイフを刺して、あおひげなる人形を飛び出させるおもちゃ。飛び出させたら負けなのか勝ちなのか不明。",
       "EN1": "Pop up Pirate",
-      "Translation1": "蓝胡子",
+      "Translation1": "Pop up Pirate(蓝胡子)",
       "EN2": "Pop up Pirate$dA Japanese toy where players take turns stab a hole-ridden toy barrel with knives trying to get a pirate doll pop out of the barrel. Whether the person who manages to get the doll out is the winner or the loser remains a heavily debated subject in Japanese society.",
       "Translation2": "蓝胡子$d一种日本玩具，玩家轮流用刀刺一个满是洞的玩具桶，尝试让一个海盗娃娃从桶里跳出来。但对于成功取出娃娃的人是赢家还是输家，在日本社会一直是一个备受争议的话题。"
     },
@@ -676,7 +676,7 @@
       "JP1": "チャーシューメン",
       "JP2": "【チャーシューメン】$d小麦粉を原料にした麺類「ラーメン」。そのラーメンに豚肉を煮て作るチャーシューを多くトッピングしたメニュー。",
       "EN1": "Pork ramen",
-      "Translation1": "叉烧面",
+      "Translation1": "Pork ramen(叉烧面)",
       "EN2": "Pork ramen$dDelicious ramen noodle soup with Chinese char siu barbecue pork added.",
       "Translation2": "叉烧面$d以小麦粉为原料的“拉面”。会在拉面上浇上许多用猪肉煮成的叉烧。"
     },
@@ -684,7 +684,7 @@
       "JP1": "気",
       "JP2": "【気】$d不可視な存在で、生命や聖なるものとして考えられる気息。",
       "EN1": "Qi",
-      "Translation1": "气",
+      "Translation1": "Qi(气)",
       "EN2": "Qi$dAn Asian philosophical concept that represents an invisible energy that that permeates all living beings and their bodies.",
       "Translation2": "气$d一个亚洲哲学概念，代表一种无形的能量，渗透在所有生物和他们的身体中。"
     },
@@ -692,7 +692,7 @@
       "JP1": "ラジオ体操",
       "JP2": "【ラジオ体操】$d1928年より続く、体力向上と健康維持を目的とした日本の体操で、当初はラジオ番組であったため、メディアが変わっても「ラジオ体操」と呼ばれている。",
       "EN1": "Radio gymnastics",
-      "Translation1": "广播体操",
+      "Translation1": "Radio gymnastics(广播体操)",
       "EN2": "Radio gymnastics$dA type of exercise program that was first broadcast in Japan in 1928 to promote health and exercise. Even when aired in other mediums, this type of program is still known as radio gymnastics because it was first broadcast on radio.",
       "Translation2": "广播体操$d1928年在日本首次播出的一种锻炼节目，旨在促进健康和锻炼。即使在其他媒体上播出，这种类型的节目仍然被称为广播体操，因为它首先是在电台播出的。"
     },
@@ -700,7 +700,7 @@
       "JP1": "梅雨",
       "JP2": "【梅雨】$d5月から7月にかけて起こる、日本などの東アジアで曇りや雨が多くなる気象状況のこと。",
       "EN1": "Rainy season",
-      "Translation1": "梅雨",
+      "Translation1": "Rainy season(梅雨)",
       "EN2": "Rainy season$dThe rainy season in Asia typically lasts from May to July. During this period, Japan typically experiences heavy rainfall and high humidity.",
       "Translation2": "梅雨$d指从5月到7月，日本等东亚地区多云多雨的气象状况。"
     },
@@ -708,7 +708,7 @@
       "JP1": "レプリカノリムネ",
       "JP2": "【レプリカノリムネ】$d13世紀の刀鍛冶のひとりが作ったであろう日本刀のレプリカ。つまり偽物。",
       "EN1": "Replica of Norimune",
-      "Translation1": "则宗的复制品",
+      "Translation1": "Replica of Norimune(则宗的复制品)",
       "EN2": "Replica of Norimune$dA replica of a Japanese sword made by some 13th century swordsmith. It's a replica, so that means it's not the real thing.",
       "Translation2": "则宗的复制品$d这是13世纪剑匠制作的日本剑的复制品。是复制品，所以这意味着它不是真品。"
     },
@@ -716,7 +716,7 @@
       "JP1": "葉桜",
       "JP2": "【葉桜】$d桜の木において、花が散った後、若葉が出始めから新緑に覆われる時期のこと。花が終わっても桜を愛でる日本の心。",
       "EN1": "Sakura tree",
-      "Translation1": "樱树",
+      "Translation1": "Sakura tree(樱树)",
       "EN2": "Sakura tree$dSakura is the Japanese name for cherry blossom, the flower of the cherry tree. This significant Japanese cultural icon typically blooms at the end of March or early April. Because of when it blooms, Sakura carry the symbolism of spring and hope. Sakura is also associated with graduation and new beginnings as it also coincides with the Japanese graduation season, which typically occurs in March.",
       "Translation2": "樱树$d樱花是樱树的花朵。这种重要的日本文化象征通常在3月底或4月初开花。因为当它开花的时候，樱花象征着春天和希望。樱花也与毕业和新的开始联系在一起，因为它也恰逢日本的毕业季（通常是三月）。"
     },
@@ -724,7 +724,7 @@
       "JP1": "サラリーマン",
       "JP2": "【サラリーマン】$d会社の経営を行っている人ではなく、給料をもらう立場のビジネスマンのことを日本ではそう呼ぶ。",
       "EN1": "Salaryman",
-      "Translation1": "上班族",
+      "Translation1": "Salaryman(上班族)",
       "EN2": "Salaryman$dA Japanese term that refers to salaried, low level, white-collar workers. The term is sometimes used derogatorily and is associated with long working hours and lack of individuality.",
       "Translation2": "上班族$d一个日语词汇，指的是领薪水的低水平白领。这个词有时带有贬义，与长时间工作和缺乏个性有关。"
     },
@@ -732,7 +732,7 @@
       "JP1": "関ヶ原",
       "JP2": "【関ヶ原】$d1600年に起きた日本を二分した大きな戦い。この戦いの後、260年続く平和な江戸時代が始まる。",
       "EN1": "Sekigahara",
-      "Translation1": "关原之战",
+      "Translation1": "Sekigahara(关原之战)",
       "EN2": "Sekigahara$dA battle that took place in 1600 after Japan was split into two, east and west. After the battle, the Tokugawa shogunate was established. This marked the beginning of the 260 year-long era called the Edo Period.",
       "Translation2": "关原之战$d这场战争发生在1600年，当时日本分裂为东西两部分。战役结束后，德川幕府成立。这标志着长达260年的江户时代的开始。"
     },
@@ -740,7 +740,7 @@
       "JP1": "尺玉",
       "JP2": "【尺玉】$d打ち上げ花火の火薬で、日本では球状の火薬玉を使う。尺玉は直径約30cmの火薬玉のこと。",
       "EN1": "Shakudama",
-      "Translation1": "尺玉",
+      "Translation1": "Shakudama(尺玉)",
       "EN2": "Shakudama$dA large ball-shaped aerial firework shell. A single shakudama shell is 30cm in diameter.",
       "Translation2": "尺玉$d空中烟火用的球形烟花弹。单个尺玉的直径为30厘米。"
     },
@@ -748,7 +748,7 @@
       "JP1": "竹刀",
       "JP2": "【竹刀】$d剣道において使われる竹で作られた武器の代替品。4つの竹片を組み合わせ、強度を高めるとともに、打撃を受けた相手への衝撃を和らげる工夫がされている。",
       "EN1": "Shinai",
-      "Translation1": "竹刀",
+      "Translation1": "Shinai(竹刀)",
       "EN2": "Shinai$dA bamboo sword used in place of a real sword in kendo practice and competition. Made with four slats of bamboo, the shinai was designed to be strong while also softening the impact of its blows.",
       "Translation2": "竹刀$d剑道中使用的竹制武器的替代品。由4个竹片组合而成，在提高强度的同时，也设法减轻对手所受到的冲击。"
     },
@@ -756,7 +756,7 @@
       "JP1": "将棋",
       "JP2": "【将棋】$d日本のボードゲームで、2人で勝負を行う。チェスとは異なり、とった相手の駒を自軍として投入できたり、相手陣地に入った自分の駒を「成り」として進化させることができる。",
       "EN1": "Shogi",
-      "Translation1": "将棋",
+      "Translation1": "Shogi(将棋)",
       "EN2": "Shogi$dA Japanese board game also known as Japanese Chess. Unlike chess, pieces captured from the opponent can be brought back to the board, while pieces that have been moved to the opponent's side of the board can be promoted.",
       "Translation2": "将棋$d日本的棋盘游戏，两人一决胜负。与西洋棋不同的是，可以将对方的棋子投入自己阵营，也可以将进入对方阵地的自己的棋子进化。"
     },
@@ -764,7 +764,7 @@
       "JP1": "少女漫画",
       "JP2": "【少女漫画】$d少女向けの漫画。恋愛要素が主軸におかれた物語になっている。",
       "EN1": "Shoujo manga",
-      "Translation1": "少女漫画",
+      "Translation1": "Shoujo manga(少女漫画)",
       "EN2": "Shoujo manga$dA genre of manga aimed specifically at girls. Generally features romance as the story's main theme.",
       "Translation2": "少女漫画$d少女向的漫画。以恋爱要素为主轴的故事。"
     },
@@ -772,7 +772,7 @@
       "JP1": "昭和時代",
       "JP2": "【昭和時代】$d日本独特の元号。1926年12月25日から1989年1月7日までの62年14日間。",
       "EN1": "Showa period",
-      "Translation1": "昭和时代",
+      "Translation1": "Showa period(昭和时代)",
       "EN2": "Showa period$dThe 62 year and 14 day period from December 25, 1926 to January 7, 1989. This period represents the reign of Emperor Showa, more commonly known outside of Japan as Emperor Hirohito.",
       "Translation2": "昭和时代$d从1926年12月25日到1989年1月7日，共计62年零14天。这一时期是昭和天皇的统治时期，在日本以外更常被称为裕仁天皇。"
     },
@@ -780,7 +780,7 @@
       "JP1": "手裏剣",
       "JP2": "【手裏剣】$d投擲武器のひとつ。主に忍者が使用するイメージがある。ダーツの様な棒状のものや、「卍」型のものまで、さまざま種類があり、投げ方もさまざま。",
       "EN1": "Shuriken",
-      "Translation1": "手里剑",
+      "Translation1": "Shuriken(手里剑)",
       "EN2": "Shuriken$dA weapon often associated with ninjas. Shurikens come in a variety of different shapes, ranging from rods to ❝卍❞ shapes, all of which are thrown differently for maximum damage.",
       "Translation2": "手里剑$d投掷武器之一。主要由忍者使用。从像飞镖一样的棒状飞镖，到「卍」型飞镖，有各种各样的种类，投掷方法也各种各样。"
     },
@@ -788,7 +788,7 @@
       "JP1": "双六",
       "JP2": "【双六】$d6面体のダイスを振って、出た目に沿って升目を進めて遊ぶボードゲーム。",
       "EN1": "Sugoroku",
-      "Translation1": "双六",
+      "Translation1": "Sugoroku(双六)",
       "EN2": "Sugoroku$dA Japanese board game similar to Snakes and Ladders, where players roll dice to navigate the game board and reach the goal.",
       "Translation2": "双六$d一种类似于《飞行棋》的日本棋盘游戏，玩家通过掷骰子来在棋盘上走特定的步数并达到目标。"
     },
@@ -796,7 +796,7 @@
       "JP1": "ふんどし",
       "JP2": "【ふんどし】$d日本の伝統的な下着。帯状の布を使う。相撲において力士がつけている「まわし」もふんどしの一種。",
       "EN1": "Sumo loincloth [fundoshi]",
-      "Translation1": "兜裆布",
+      "Translation1": "Sumo loincloth(兜裆布)",
       "EN2": "Sumo loincloth [fundoshi]$dA traditional Japanese loincloth for males that commonly consists of a strip of cotton cloth. The loincloth worn by sumo wrestlers, mawashi, is also a kind of fundoshi.",
       "Translation2": "兜裆布$d日本传统内衣。使用带状布。相扑中力士穿的也是兜裆布的一种。"
     },
@@ -804,7 +804,7 @@
       "JP1": "相撲",
       "JP2": "【相撲】$d日本由来の格闘技で、土俵と呼ばれるステージの上で道具を使わずに、相手の体を倒しあう。土俵から出るか、地面に足の裏以外が付いた場合、負けとなる。",
       "EN1": "Sumo",
-      "Translation1": "相撲",
+      "Translation1": "Sumo(相撲)",
       "EN2": "Sumo$dA Japanese sport where two wrestlers, without using any tools, attempt to either force his opponent out of the dohyou, the small circular arena, or make them touch the ground with any part of the body other than their feet.",
       "Translation2": "相撲$d日本的格斗运动，在被称为土俵的舞台上不使用任何道具，互相推倒对方的身体。离开摔跤场，或者脚掌以外的地方碰到地面，就算输。"
     },
@@ -812,7 +812,7 @@
       "JP1": "太鼓",
       "JP2": "【太鼓】$d打楽器の一種。木製の筒状になっている胴の両面に膜を張ったものが一般的で、バチという木製の棒で叩いて音を出す。",
       "EN1": "Taiko",
-      "Translation1": "太鼓",
+      "Translation1": "Taiko(太鼓)",
       "EN2": "Taiko$dA traditional Japanese percussion instrument. Made of hides wrapped on the sides of the drum body, it is played by beating the drum with wooden rods called bachi.",
       "Translation2": "太鼓$d一种日本传统打击乐器。一般是在木制筒状的鼓体两面贴一层膜，用叫蜂的木棒敲击发出声音。"
     },
@@ -820,7 +820,7 @@
       "JP1": "タヌキ",
       "JP2": "【タヌキ】$d極東に生息するイヌ科の動物。日本では古来より身近な動物で、伝承や昔話によく登場する。",
       "EN1": "Tanuki",
-      "Translation1": "狸",
+      "Translation1": "Tanuki(狸)",
       "EN2": "Tanuki$dThe Japanese name for raccoon dogs, an animal species that lives in East Asia. As they have been close to humans in Japan since ancient times, they frequently appear in Japanese folklore.",
       "Translation2": "狸$d浣熊的日文名称，一种生活在东亚的动物。由于自古以来在日本与人类关系密切，它们经常出现在日本民间传说中。"
     },
@@ -828,7 +828,7 @@
       "JP1": "畳",
       "JP2": "【畳】$d植物のイグサを編んだものを表面にした日本の伝統的な床材。最近ではイグサを使わないものもある。",
       "EN1": "Tatami",
-      "Translation1": "榻榻米",
+      "Translation1": "Tatami(榻榻米)",
       "EN2": "Tatami$dA kind of straw mat typically made with rice or soft rush straws and used as flooring in traditional Japanese houses and rooms. Dimensions can vary, but each mat typically measures 0.91m by 1.82m. In recent years, some tatami mats are made without straw.",
       "Translation2": "榻榻米$d一种草席，通常由大米或柔软的稻草制成，用作日本传统房屋和房间的地板尺寸可以有所不同，但每个垫子的尺寸通常为0.91米乘1.82米。近年来，一些榻榻米是不使用稻草制作的。"
     },
@@ -836,7 +836,7 @@
       "JP1": "ちゃぶ台",
       "JP2": "【ちゃぶ台】$d四本脚の食事用座卓で、円形や方形の天板になっている。20世紀前半の日本では、家族団らんを象徴するアイテムであった。",
       "EN1": "Tea-table [chabudai]",
-      "Translation1": "矮饭桌",
+      "Translation1": "Tea-table(矮饭桌)",
       "EN2": "Tea-table [chabudai]$dA circular or rectangular low table usually used for eating. Prevalent in the first half of the 20th century, the table frequently symbolizes family harmony in Japan.",
       "Translation2": "矮饭桌$d四只脚的餐桌，圆形或方形的桌面。在20世纪前半期的日本，是象征家族团圆的物品。"
     },
@@ -844,7 +844,7 @@
       "JP1": "天ぷら",
       "JP2": "【天ぷら】$d魚や野菜などの食材に、鶏卵と小麦粉で衣をつけ、油で揚げた日本料理。",
       "EN1": "Tempura",
-      "Translation1": "天妇罗",
+      "Translation1": "Tempura(天妇罗)",
       "EN2": "Tempura$dTempura is a Japanese dish prepared by deep frying battered seafood or vegetables, and is typically eaten with a dipping sauce called tentsuyu or salt. Unlike croquettes or cutlets, tempura is not breaded with panko.",
       "Translation2": "天妇罗$d天妇罗是一种日本料理，由油炸的海鲜或蔬菜制成，通常用一种叫做tentsuyu的蘸酱或盐蘸着吃。不像炸丸子和肉排，天妇罗上不撒面包屑。"
     },
@@ -852,7 +852,7 @@
       "JP1": "甜茶",
       "JP2": "【甜茶】$d中国茶のひとつで、お茶の葉以外の木の葉から作られるお茶で、甘い。薬草茶でもある。",
       "EN1": "Tencha tea",
-      "Translation1": "甜茶",
+      "Translation1": "Tencha tea(甜茶)",
       "EN2": "Tencha tea$dA Chinese herbal tea made from leaves that are not botanically tea leaves. Literally ❝sweet tea❞, it is sweet as its name implies, and it is also drunk as a medicinal tea.",
       "Translation2": "甜茶$d一种中国草药茶，由非植物学上的茶叶制成。正如它的名字所暗示的那样，它是甜的，也可以作为药用茶饮用。"
     },
@@ -860,7 +860,7 @@
       "JP1": "天王山",
       "JP2": "【天王山】$d1582年に起きた戦い。この戦いを制したことで日本を統一する王手をかけることになったことから、大事な局面や試合の比喩になっている。",
       "EN1": "Tennouzan",
-      "Translation1": "天王山",
+      "Translation1": "Tennouzan(天王山)",
       "EN2": "Tennouzan$dA battle that took place in 1582. As winning the battle would lead its victors to conquer all of Japan, it is frequently used as a metaphor or analogy to refer to decisive situations or matches.",
       "Translation2": "天王山$d一场发生在1582年的战役。由于赢得了这场战斗，胜利者将征服整个日本，因此它经常被用作比喻或类比，指决定性的情况或比赛。"
     },
@@ -868,7 +868,7 @@
       "JP1": "万歳三唱",
       "JP2": "【万歳三唱】$d喜びや祝いを表す「万歳」という言葉を発し、両腕を上にあげるという一連の動作を3度繰り返すこと。",
       "EN1": "Three rousing cheers",
-      "Translation1": "万岁三唱",
+      "Translation1": "Three rousing cheers(万岁三唱)",
       "EN2": "Three rousing cheers$dYou do this by yelling ❝banzai❞, a cheer expressing enthusiasm, and lifting your arms up three times in a row with each cheer.",
       "Translation2": "万岁三唱$d说出表示喜悦和祝贺的「万岁」这个词，并将双手向上举起的一连串动作重复3次。"
     },
@@ -876,7 +876,7 @@
       "JP1": "とーじんぼー",
       "JP2": "【とーじんぼー】$d海岸岩壁の名勝地・東尋坊のこと。日本の慣用句「清水の舞台から飛び降りる」と言いたいのだろうが……清水の舞台、東尋坊ともに飛び降りはNG。",
       "EN1": "Tojinbo",
-      "Translation1": "东寻坊",
+      "Translation1": "Tojinbo(东寻坊)",
       "EN2": "Tojinbo$dA famous set of coastal cliffs located in the sea of Japan. Like trying to go over the Niagara Falls in a barrel, one would have to be equal parts daring and insane to want to take a dive from the cliffs. Do not attempt.",
       "Translation2": "东寻坊$d位于日本海的一组著名的沿海悬崖。就像试图在一个桶里越过尼亚加拉大瀑布一样，一个人要想从悬崖上跳水，必须既大胆又疯狂。不要尝试。"
     },
@@ -884,7 +884,7 @@
       "JP1": "三面鏡",
       "JP2": "【三面鏡】$d1枚の鏡の左右に扉のように鏡をつけ、3枚の鏡をひとセットにしたドレッサー。3枚あることで自分の正面だけではなく、側面も同時に見ることができる。",
       "EN1": "Triple mirror",
-      "Translation1": "三面鏡",
+      "Translation1": "Triple mirror(三面鏡)",
       "EN2": "Triple mirror$dA dresser with a large mirror joined to another mirror on each side. This allows the user to see not only the front of themselves, but also their sides.",
       "Translation2": "三面鏡$d1面镜子左右装上像门一样的镜子，3面镜子组成一组的梳妆台。因为有3张，不仅自己的正面，侧面也能同时看到。"
     },
@@ -892,7 +892,7 @@
       "JP1": "次はもっとがんばりましょう",
       "JP2": "【次はもっとがんばりましょう】$d教育での評価のひとつ。「たいへんよくできました」「よくできました」などあり、「もっとがんばりましょう」や「もうすこしがんばりましょう」は悪評価。",
       "EN1": "Try better next time",
-      "Translation1": "下次更加努力吧",
+      "Translation1": "Try better next time(下次更加努力吧)",
       "EN2": "Try better next time$dA comment often found on returned homework or tests in Japanese schools. Other comments include phrases like: ❝Very good❞ or ❝good job❞. If you receive a negative comment like ❝Try better next time❞ or ❝Try harder❞ written on your exam, clearly you are doing something wrong.",
       "Translation2": "下次更加努力吧$d这句话经常出现在日本学校退回的作业或试卷上。其他评论包括这样的短语：非常好，干得好。如果你在考试中收到“下次再努力一点”或“再努力一点”这样的负面评价，那很明显你搞砸了."
     },
@@ -900,7 +900,7 @@
       "JP1": "津軽海峡",
       "JP2": "【津軽海峡】$d日本の地名で、北海道と本州の間にある海峡。日本海と太平洋を結ぶ。世界一の長さを持つ海底トンネルの青函トンネルが海峡の下を走っている。",
       "EN1": "Tsugaru Straits",
-      "Translation1": "津轻海峡",
+      "Translation1": "Tsugaru Straits(津轻海峡)",
       "EN2": "Tsugaru Straits$dThe strait between the Hokkaido and Honshu. It connects the Sea of Japan and the Pacific Ocean and is where the Seikan Tunnel, the world's longest underwater tunnel, is located.",
       "Translation2": "津轻海峡$d日本地名，位于北海道和本州之间的海峡。连接日本海和太平洋。世界上最长的海底隧道青函隧道贯穿海峡下方。"
     },
@@ -908,7 +908,7 @@
       "JP1": "鼓",
       "JP2": "【鼓】$d日本特有の伝統的な打楽器で、砂時計のような形をしている。手で叩いて音を出す。",
       "EN1": "Tsuzumi",
-      "Translation1": "鼓",
+      "Translation1": "Tsuzumi(鼓)",
       "EN2": "Tsuzumi$dA traditional Japanese percussion instrument shaped like an hourglass. It is played by beating the drum body directly with hands.",
       "Translation2": "鼓$d指的是日本特有的传统打击乐器，形状像沙漏。用手敲打发出声音。"
     },
@@ -916,7 +916,7 @@
       "JP1": "うどん",
       "JP2": "【うどん】$d小麦粉を練って細く切った麺類。あまり細くし過ぎると「ひやむぎ」に、さらに細くすると「そうめん」と進化する。ホットと冷のどちらも存在。トッピングによって「きつねうどん」や「ちからうどん」などある。",
       "EN1": "Udon",
-      "Translation1": "乌冬",
+      "Translation1": "Udon(乌冬)",
       "EN2": "Udon$dUdon is a thick and soft wheat noodle that can be served either hot or cold. Udon served with fried tofu is known as kitsune udon (fox udon) and udon served with mochi is called chikara udon (power udon). Hiyamugi is a similar wheat noodle that is thinner than udon, and if you go even thinner in diameter, you arrive at the ultimate noodle that is soumen.",
       "Translation2": "乌冬$d乌冬面是一种又厚又软的面食，可以热吃也可以冷吃。与炸豆腐一起食用的乌冬被称为狐乌冬，与麻糬一起食用的乌冬被称为力量乌冬。Hiyamugi是一种类似的小麦面条，比乌冬面更细，如果直径再细一点，你就会得到终极的面条——soumen。"
     },
@@ -924,7 +924,7 @@
       "JP1": "浦島太郎",
       "JP2": "【浦島太郎】$d日本のおとぎ話。子供にいじめられていた亀を助けた浦島太郎は、お礼として海の中にある竜宮城へ招待される。しかし、地上に帰ってみると長い年月が経っていた。",
       "EN1": "Urashima Tarou",
-      "Translation1": "浦岛太郎",
+      "Translation1": "Urashima Tarou(浦岛太郎)",
       "EN2": "Urashima Tarou$dA Japanese folktale about a man named Urashima Tarou, who rescues a turtle from bullies and is invited to the Ryuuguu Palace under the sea. He later returns to his hometown and discovers that 300 years have passed.",
       "Translation2": "浦岛太郎$d日本童话故事的男主角。浦岛太郎因为好心帮助受到小孩子欺负的乌龟而被邀请到海里的龙宫城作客。但是在回到地上以后，他却发现地上已经过去了很多年。"
     },
@@ -932,7 +932,7 @@
       "JP1": "和三盆",
       "JP2": "【和三盆】$d砂糖の一種で、細やかな粒子と口どけの良さが特徴。",
       "EN1": "Wasanbon",
-      "Translation1": "和三盆",
+      "Translation1": "Wasanbon(和三盆)",
       "EN2": "Wasanbon$dA tiny, fine-grained sugar that's known for its melt-in-the-mouth properties. It is associated with the Shikoku region and typically used to prepare Japanese confections.",
       "Translation2": "和三盆$d一种砂糖，特点是颗粒细腻，入口即化。"
     },
@@ -940,7 +940,7 @@
       "JP1": "焼きそばパン",
       "JP2": "【焼きそばパン】$dホットドックパンズに似たコッペパンに、焼きそばを挟んだもの。",
       "EN1": "Yakisoba bread",
-      "Translation1": "炒面面包",
+      "Translation1": "Yakisoba bread(炒面面包)",
       "EN2": "Yakisoba bread$dA sandwich made by stuffing a hot dog bun or bread roll with yakisoba.",
       "Translation2": "炒面面包$d一种夹着炒面的面包，面包部分与热狗面包的相似但夹的不是香肠而是炒面。"
     },
@@ -948,7 +948,7 @@
       "JP1": "与謝野鉄幹",
       "JP2": "【与謝野鉄幹】$d19世紀の歌人。同じ時期に正岡子規や北原白秋、石川啄木、若山牧水、斎藤茂吉などの人物がそれぞれの個性にあった歌を詠んだ。",
       "EN1": "Yosano Tekkan",
-      "Translation1": "与谢野铁干",
+      "Translation1": "Yosano Tekkan(与谢野铁干)",
       "EN2": "Yosano Tekkan$dA 19th century poet. His contemporaries included Masaoka Shiki, Kitahara Hakushuu, Ishikawa Takuboku, and Saito Mokichi, all of whom composed poems with their own unique touches.",
       "Translation2": "与谢野铁干$d19世纪的诗人。同一时期，正冈子规、北原白秋、石川啄木、若山牧水、斋藤茂吉等人物也创作反映他们各自性格的诗歌。"
     },
@@ -956,7 +956,7 @@
       "JP1": "座布団",
       "JP2": "【座布団】$d床や畳の上に座る時に用いる、ほぼ正方形のクッション。",
       "EN1": "Zabuton [cushion]",
-      "Translation1": "坐垫",
+      "Translation1": "Zabuton [cushion](坐垫)",
       "EN2": "Zabuton [cushion]$dA zabuton is a square cushion placed on the floor or tatami used for seating. It is sometimes associated with a TV comedy show, where the funnier and more witty the participants get with their responses to the host, the more cushions he or she will get.",
       "Translation2": "坐垫$d在地板或榻榻米上坐着时常用的正方形的垫子。"
     },
@@ -964,7 +964,7 @@
       "JP1": "愛称",
       "JP2": "【愛称】$d親しみを込めて相手や第三者を呼ぶための呼び名。あだなやニックネームなど様々あり、本名などに「ちゃん」や「くん」、「たん」をつけて呼ぶことがある。",
       "EN1": "Japanese honorifics (2)",
-      "Translation1": "爱称",
+      "Translation1": "Japanese honorifics (2)(爱称)",
       "EN2": "Japanese honorifics (2)$dUsed to respectfully address those of higher importance or station; ❝-senpai❞, used to refer to senior colleagues in school or workplace; and ❝-sensei❞ for teachers and doctors. Similarly, honorifics can be used to address family members. Examples include ❝Onii-chan❞ and ❝Onee-chan❞, which respectively refers to one's older brother or older sister.",
       "Translation2": "爱称$d对对方或第三者的亲切称呼。爱称有绰号和昵称等各种各样的形式，如在本名后加上「酱」、「君」和「炭」等。"
     }
