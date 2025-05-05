@@ -266,7 +266,7 @@
     {
       "JP": "は虎模様のペルシャじゅうたんを",
       "EN": " attempts to cover ",
-      "Translation": "试图用虎纹波斯地毯盖住",
+      "Translation": "试图用虎纹地毯盖住",
       "JP2": "にかぶせようとした！",
       "EN2": " with a Persian tiger carpet! ",
       "Translation2": "！"
@@ -581,7 +581,7 @@
     {
       "JP": "はガムテープを勢いよく貼り付けた！",
       "EN": " vigorously sticks the box tape all over the opponent! ",
-      "Translation": "用箱子胶带猛贴对手！"
+      "Translation": "用封箱胶带猛贴对手！"
     },
     {
       "JP": "は工業用耐熱超強力粘着テープを勢いよく貼り付けた！",
@@ -905,7 +905,7 @@
     {
       "JP": "はレプリカノリムネで斬りつけた！",
       "EN": " slashes with Norimune replica! ",
-      "Translation": "用诺里穆内复制品砍了过去！"
+      "Translation": "用则宗的复制品砍了过去！"
     },
     {
       "JP": "はマシンガンに弾を装填している！",
@@ -1505,7 +1505,7 @@
     {
       "JP": "の足下でねずみ花火が炸裂！",
       "EN": " stands on the firecrackers when they go off! ",
-      "Translation": "在脚下的鼠烟花爆炸了！"
+      "Translation": "在脚下的烟花爆炸了！"
     },
     {
       "JP": "はひるんだ状態になり、連続攻撃が出来なくなった！",
@@ -2423,7 +2423,7 @@
     {
       "JP": "しかしヒョードルがそれを華麗に受け止めてみせた！",
       "EN": "But Fyodor blocks the attack!",
-      "Translation": "但是费多尔华丽地挡住了攻击！"
+      "Translation": "但是菲德尔华丽地挡住了攻击！"
     },
     {
       "JP": "しかしアリストテレスがそれを華麗に受け止めてみせた！",
@@ -2443,7 +2443,7 @@
     {
       "JP": "しかしユウサクがそれを華麗に受け止めてみせた！",
       "EN": "But Yuusaku blocks the attack!",
-      "Translation": "但是裕作华丽地挡住了攻击！"
+      "Translation": "但是优作华丽地挡住了攻击！"
     },
     {
       "JP": "しかしドルジがそれを華麗に受け止めてみせた！",
@@ -2621,7 +2621,7 @@
     {
       "JP": "ヒョードルはすかさず反撃！",
       "EN": "Fyodor immediately counterattacks! ",
-      "Translation": "费奥多尔迅速反击！"
+      "Translation": "菲德尔迅速反击！"
     },
     {
       "JP": "アリストテレスはすかさず反撃！",
@@ -2641,7 +2641,7 @@
     {
       "JP": "ユウサクはすかさず反撃！",
       "EN": "Yuusaku immediately counterattacks! ",
-      "Translation": "裕作迅速反击！"
+      "Translation": "优作迅速反击！"
     },
     {
       "JP": "さらにそこからヒトラーが反撃！",
@@ -2681,7 +2681,7 @@
     {
       "JP": "さらにそこからヒョードルが反撃！",
       "EN": "A counterattack by Fyodor follows!",
-      "Translation": "然后费奥多尔反击！"
+      "Translation": "然后菲德尔反击！"
     },
     {
       "JP": "さらにそこからアリストテレスが反撃！",
@@ -2701,17 +2701,17 @@
     {
       "JP": "さらにそこからユウサクが反撃！",
       "EN": "A counterattack by Yuusaku follows!",
-      "Translation": "然后裕作反击！"
+      "Translation": "然后优作反击！"
     },
     {
       "JP": "ドルジはすかさず反撃！",
       "EN": "Dorj quickly counterattacks! ",
-      "Translation": "多尔吉迅速反击！"
+      "Translation": "多鲁基迅速反击！"
     },
     {
       "JP": "さらにそこからドルジが反撃！",
       "EN": "More from Dorj fights back! ",
-      "Translation": "然后多尔吉反击！"
+      "Translation": "然后多鲁基反击！"
     },
     {
       "JP": "はすかさず反撃！",
@@ -2811,7 +2811,7 @@
     {
       "JP": "さらにそこからドルジが反撃！",
       "EN": "More from Dorj fights back! ",
-      "Translation": "然后多尔吉反击！"
+      "Translation": "然后多鲁基反击！"
     },
     {
       "JP": "はすかさず反撃！",
