@@ -423,7 +423,7 @@
                 return;
             }
 
-            int DescriptionWaitingTime = 20;
+            int DescriptionWaitingTime = 30;
             for (int i = 0; i < args.Count(); i++)
             {
                 switch (args[i])
@@ -454,7 +454,12 @@
             Console.ResetColor();
             Console.WriteLine("，请使用新存档进行游戏。\n");
             Console.WriteLine("如果需要恢复原版，请删除游戏文件夹下的dsound.dll，并使用Steam验证游戏文件完整性，会自动还原被修改的文件。");
-            Console.WriteLine("如果之前安装过汉化补丁，建议先还原，再进行安装，避免出现奇怪的问题。\n");
+            Console.Write("如果之前安装过汉化补丁，建议先还原，再进行安装，否则可能出现奇怪的问题(如");
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.Write("字体缺字");
+            Console.ResetColor();
+            Console.WriteLine("之类的情况)。\n");
             for (int i = DescriptionWaitingTime; i>0;i--)
             {
                 char[] TimerIcon = ['-', '\\', '|', '/'];
