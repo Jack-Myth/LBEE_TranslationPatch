@@ -25,6 +25,10 @@ foreach($JsonFile in $JsonFiles)
             {
                 Write-Output "Error in $($JsonFile.Name): $($MessageItem.JP) -> $($MessageItem.Translation)"
             }
+            if($MessageItem.JP.Length -ge $MessageItem.Translation.Length*2 -or $MessageItem.JP.Length*2 -lt $MessageItem.Translation.Length)
+            {
+                Write-Output "Length Mismatch in $($JsonFile.Name): $($MessageItem.JP) -> $($MessageItem.Translation)"
+            }
         }
     }
     
