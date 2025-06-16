@@ -14,7 +14,7 @@
 前往[Release页面](https://github.com/Jack-Myth/LBEE_TranslationPatch/releases)下载已编译的汉化程序  
 打开LBEE_TranslationPatch.exe并选择LBEE的主程序即可执行汉化流程  
 可以将项目里的TextMapping文件夹单独拿出来覆盖Release包里的同名文件夹来换成最新更新的翻译  
-Linux(SteamDeck等环境)下可以将LBEE_TranslationPatch.exe作为非Steam游戏加入Steam并使用Proton9兼容层运行，文字可能有乱码，但逻辑应当能正确运行。
+Linux(SteamDeck等环境)下可以将LBEE_TranslationPatch.exe作为非Steam游戏加入Steam并使用Proton9兼容层运行，提示文字可能有乱码，但程序应当能正确运行。  
 
 已知问题：  
 - 为避免查看历史文本出现Bug，限制了选项的字库，部分选项显示为繁体中文。  
