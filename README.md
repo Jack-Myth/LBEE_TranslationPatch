@@ -14,7 +14,16 @@
 前往[Release页面](https://github.com/Jack-Myth/LBEE_TranslationPatch/releases)下载已编译的汉化程序  
 打开LBEE_TranslationPatch.exe并选择LBEE的主程序即可执行汉化流程  
 可以将项目里的TextMapping文件夹单独拿出来覆盖Release包里的同名文件夹来换成最新更新的翻译  
-Linux(SteamDeck等环境)下可以将LBEE_TranslationPatch.exe作为非Steam游戏加入Steam并使用Proton9兼容层运行，提示文字可能有乱码，但程序应当能正确运行。  
+
+**关于WINE环境(Linux或SteamDeck)的说明：**  
+在Linux或SteamDeck下可以将LBEE_TranslationPatch.exe作为非Steam游戏加入Steam并使用Proton9兼容层运行，提示文字可能有乱码，但程序应当能正确运行。  
+如果发现打完补丁后设置界面和棒球比赛等部分没有汉化，这是由于兼容层的默认设置导致汉化DLL没有正常被加载，可以在游戏的属性页面修改启动选项为以下内容
+```
+WINEDLLOVERRIDES=dsound.dll=n,b %command%
+```
+再次运行游戏，相关部分应该能得到完整汉化
+
+******  
 
 已知问题：  
 - 为避免查看历史文本出现Bug，限制了选项的字库，部分选项显示为繁体中文。  
