@@ -1,6 +1,7 @@
 package font
 
 import (
+	"bytes"
 	"flag"
 	"fmt"
 	"os"
@@ -8,6 +9,51 @@ import (
 
 	"github.com/go-restruct/restruct"
 )
+
+func TestSetCharMappingKeepsMovedCharacter(t *testing.T) {
+	restruct.EnableExprBeta()
+	info := &Info{
+		CharNum:      4,
+		DrawSize:     make([]DrawSize, 4),
+		UnicodeIndex: make([]uint16, 65536),
+		UnicodeSize:  make([]CharSize, 65536),
+		IndexUnicode: []rune{0, 'b', 'c', 'd'},
+	}
+	info.UnicodeIndex['b'] = 1
+	info.UnicodeIndex['c'] = 2
+	info.UnicodeIndex['d'] = 3
+
+	// Replace b,c,d with x,d,c. The old implementation first assigned d to
+	// index 2 and then cleared that new mapping while processing old index 3.
+	info.setCharMapping(1, 'x')
+	info.setCharMapping(2, 'd')
+	info.setCharMapping(3, 'c')
+
+	if got := info.UnicodeIndex['d']; got != 2 {
+		t.Fatalf("moved character mapping was lost: got index %d, want 2", got)
+	}
+	if got := info.UnicodeIndex['c']; got != 3 {
+		t.Fatalf("replacement character has index %d, want 3", got)
+	}
+	if got := info.UnicodeIndex['x']; got != 1 {
+		t.Fatalf("new character has index %d, want 1", got)
+	}
+	if got := info.UnicodeIndex['b']; got != 0 {
+		t.Fatalf("replaced character still has index %d, want 0", got)
+	}
+
+	var encoded bytes.Buffer
+	if err := info.Write(&encoded); err != nil {
+		t.Fatal(err)
+	}
+	reloaded := LoadFontInfo(encoded.Bytes())
+	if got := reloaded.UnicodeIndex['d']; got != 2 {
+		t.Fatalf("moved character mapping was lost after reload: got index %d, want 2", got)
+	}
+	if got := reloaded.IndexUnicode[2]; got != 'd' {
+		t.Fatalf("reloaded index 2 contains %q, want %q", got, 'd')
+	}
+}
 
 func TestMain(m *testing.M) {
 	flag.Set("alsologtostderr", "true")

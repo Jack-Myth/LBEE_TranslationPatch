@@ -4,19 +4,12 @@
     using System.Collections.Generic;
     using System.IO;
     using System.Linq;
-    using Newtonsoft.Json;
-    using System.Collections;
     using System.Text;
-    using System.Xml;
-    using Newtonsoft.Json.Linq;
-    using System.Security.Cryptography;
+    using System.Text.Encodings.Web;
+    using System.Text.Json;
+    using System.Text.Json.Nodes;
     using System.Diagnostics;
-    using System.Xml.Linq;
-    using System.Reflection.Metadata;
     using System.Runtime.InteropServices;
-    using System.Runtime.CompilerServices;
-    using System.Runtime.ExceptionServices;
-    using System.Numerics;
 
     [StructLayout(LayoutKind.Sequential, CharSet = CharSet.Auto)]
     public struct OpenFileName
@@ -48,6 +41,12 @@
 
     class Program
     {
+        private static readonly JsonSerializerOptions JsonWriteOptions = new()
+        {
+            WriteIndented = true,
+            Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping
+        };
+
         static bool DEBUG_DumpInstructionLayout = false;
         static bool DEBUG_EnableDebugJump = false;
         static string DEBUG_DebugJumpScript = "SEEN2803";
@@ -150,24 +149,25 @@
             var scriptTextMapping = Path.Combine(TextMappingPath, $"{fileName}.json");
             if (!File.Exists(scriptTextMapping))
             {
-                var translationJson = new Dictionary<string, List<JObject>>();
+                var translationJson = new JsonObject();
                 foreach (var command in allCommands)
                 {
                     if (InstructionProcessor.InstructionGetMapping.ContainsKey(command.GetInstruction()))
                     {
                         var commandName = Operators[command.GetInstruction()];
-                        if (!translationJson.ContainsKey(commandName))
+                        if (translationJson[commandName] is not JsonArray commandTranslations)
                         {
-                            translationJson[commandName] = new List<JObject>();
+                            commandTranslations = new JsonArray();
+                            translationJson[commandName] = commandTranslations;
                         }
                         var TranslationObj = command.GetTranslationObj();
                         if (TranslationObj != null)
                         {
-                            translationJson[commandName].Add(TranslationObj);
+                            commandTranslations.Add((JsonNode)TranslationObj);
                         }
                     }
                 }
-                File.WriteAllText(scriptTextMapping, JsonConvert.SerializeObject(translationJson, Newtonsoft.Json.Formatting.Indented));
+                File.WriteAllText(scriptTextMapping, translationJson.ToJsonString(JsonWriteOptions));
                 ScriptNameContext.Pop();
                 return;
             }
@@ -192,7 +192,7 @@
             }
             // 如果有翻译文件的话，执行翻译
             List<byte> NewScriptBuffer = new List<byte>();
-            var ScriptTextMappingObj = JObject.Parse(File.ReadAllText(scriptTextMapping));
+            var ScriptTextMappingObj = JsonNode.Parse(File.ReadAllText(scriptTextMapping))!.AsObject();
             var CmdIndexMap = new Dictionary<byte, int>();
             //Console.WriteLine(scriptFile);
             int CommandPtr = 0;
@@ -207,7 +207,7 @@
                 if (InstructionProcessor.InstructionSetMapping.ContainsKey(CurInstruction))
                 {
                     var commandName = Operators[CurInstruction];
-                    if (ScriptTextMappingObj.ContainsKey(commandName))
+                    if (ScriptTextMappingObj[commandName] is JsonArray CommandTranslationCollection)
                     {
                         int CurCmdIndex;
                         if (CmdIndexMap.ContainsKey(CurInstruction))
@@ -220,10 +220,9 @@
                             CmdIndexMap.Add(CurInstruction, 0);
                             CurCmdIndex = 0;
                         }
-                        var CommandTranslationCollection = ScriptTextMappingObj.GetValue(commandName)!.ToArray();
-                        if (CommandTranslationCollection != null && CommandTranslationCollection.Length > CurCmdIndex)
+                        if (CommandTranslationCollection.Count > CurCmdIndex)
                         {
-                            var CommandTranslationObj = CommandTranslationCollection[CurCmdIndex].Value<JObject>();
+                            var CommandTranslationObj = CommandTranslationCollection[CurCmdIndex] as JsonObject;
                             if (CommandTranslationObj != null)
                             {
                                 if (!command.SetTranslationObj(CommandTranslationObj))
@@ -496,11 +495,11 @@
 
             // 首先将所有的Program.json里的文本加入字符集
             {
-                var ProgmJson = JArray.Parse(File.ReadAllText(Path.Combine(TextMappingPath, "$PROGRAM.json")));
+                var ProgmJson = JsonNode.Parse(File.ReadAllText(Path.Combine(TextMappingPath, "$PROGRAM.json")))!.AsArray();
                 foreach(var ProgmItem in ProgmJson)
                 {
-                    var ProgmItemObj = ProgmItem.ToObject<JObject>();
-                    var TargetStr = ProgmItemObj?.GetValue("Target")?.Value<string>() ?? "";
+                    var ProgmItemObj = ProgmItem as JsonObject;
+                    var TargetStr = ProgmItemObj?["Target"]?.GetValue<string>() ?? "";
                     foreach(char StrChar in TargetStr)
                     {
                         InstructionProcessor.CharCollection.Add(StrChar);
@@ -627,16 +626,16 @@
                 }
                 if (!File.Exists(TextScriptJson))
                 {
-                    JArray TargetJson = new JArray();
+                    JsonArray TargetJson = new JsonArray();
                     foreach (var Str in StrList)
                     {
-                        TargetJson.Add(Str);
+                        TargetJson.Add((JsonNode?)JsonValue.Create(Str));
                     }
-                    File.WriteAllText(TextScriptJson, TargetJson.ToString());
+                    File.WriteAllText(TextScriptJson, TargetJson.ToJsonString(JsonWriteOptions));
                 }
                 else
                 {
-                    var TargetJson = JArray.Parse(File.ReadAllText(TextScriptJson));
+                    var TargetJson = JsonNode.Parse(File.ReadAllText(TextScriptJson))!.AsArray();
                     if(TargetJson.Count != StrList.Count)
                     {
                         Console.Error.WriteLine("Error: TextScript Json Count Mismatch(" + TextScriptName + "), Exit!");
@@ -645,7 +644,7 @@
                     StrList.Clear();
                     for(int i=0;i<TargetJson.Count;i++)
                     {
-                        StrList.Add(TargetJson[i].Value<string>() ?? "");
+                        StrList.Add(TargetJson[i]?.GetValue<string>() ?? "");
                     }
                     List<byte> NewScript = new List<byte>();
                     NewScript.AddRange(ScirptBuffer[0..StartIndex]);
@@ -854,7 +853,7 @@
             this.CmdPtr = Ptr;
         }
 
-        public JObject? GetTranslationObj()
+        public JsonObject? GetTranslationObj()
         {
             if (Command == null)
             {
@@ -867,7 +866,7 @@
             return null;
         }
 
-        public bool SetTranslationObj(JObject inJsonObj)
+        public bool SetTranslationObj(JsonObject inJsonObj)
         {
             if (Command == null)
             {

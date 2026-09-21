@@ -1,10 +1,8 @@
-﻿using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.Serialization;
 using System.Text;
-using System.Windows.Input;
+using System.Text.Json.Nodes;
 
 namespace LBEE_TranslationPatch
 {
@@ -47,7 +45,7 @@ namespace LBEE_TranslationPatch
             return index - StartIndex;
         }
 
-        public static Dictionary<byte, Func<byte[], JObject?>> InstructionGetMapping = new ()
+        public static Dictionary<byte, Func<byte[], JsonObject?>> InstructionGetMapping = new ()
         {
             { 0x1F, MESSAGE_GET },
             { 0x21, SELECT_GET },
@@ -57,7 +55,7 @@ namespace LBEE_TranslationPatch
             { 0x69, SAYAVOICETEXT_GET }
         };
 
-        public static Dictionary<byte, Func<byte[], JObject, byte[]?>> InstructionSetMapping = new ()
+        public static Dictionary<byte, Func<byte[], JsonObject, byte[]?>> InstructionSetMapping = new ()
         {
             { 0x1F, MESSAGE_SET },
             { 0x21, SELECT_SET },
@@ -89,31 +87,31 @@ namespace LBEE_TranslationPatch
             { 15, ONGOTO_FIX_PTR }
         };
 
-        public static JObject? MESSAGE_GET(byte[] command)
+        public static JsonObject? MESSAGE_GET(byte[] command)
         {
             int index = GetCmdHeaderLength(command)+2;
             int strALength = GetStrLength(command,index);
             int strBLength = GetStrLength(command, index + strALength + 2);
 
-            var outObj = new JObject
+            var outObj = new JsonObject
             {
                 ["JP"] = Encoding.Unicode.GetString(command, index,strALength),
                 ["EN"] = Encoding.Unicode.GetString(command, index+ strALength + 2, strBLength),
             };
 
-            outObj["Translation"] = outObj["EN"];
+            outObj["Translation"] = outObj["EN"]?.DeepClone();
 
             return outObj;
         }
 
-        public static byte[]? MESSAGE_SET(byte[] command, JObject inJsonObj)
+        public static byte[]? MESSAGE_SET(byte[] command, JsonObject inJsonObj)
         {
             int index = GetCmdHeaderLength(command)+2;
             int strStart = index + GetStrLength(command, index) + 2;
             int strEnd = GetStrLength(command, strStart) + strStart;
             List<byte> newCommand = new List<byte>(command[..strStart]);
-            string Translation = PostProcessText(inJsonObj["Translation"]?.Value<string>()??"");
-            string EN = inJsonObj["EN"]?.Value<string>()??"";
+            string Translation = PostProcessText(inJsonObj["Translation"]?.GetValue<string>()??"");
+            string EN = inJsonObj["EN"]?.GetValue<string>()??"";
             if(Translation!=EN)
             {
                 foreach(var newChar in Translation.ToCharArray())
@@ -128,19 +126,19 @@ namespace LBEE_TranslationPatch
             return newCommand.ToArray();
         }
 
-        public static JObject? VARSTR_SET_GET(byte[] command)
+        public static JsonObject? VARSTR_SET_GET(byte[] command)
         {
-            JObject TrasnlationObj = new JObject();
+            JsonObject TrasnlationObj = new JsonObject();
             int index = GetCmdHeaderLength(command) + 2; // Header+ID
             TrasnlationObj["Text"] = Encoding.Unicode.GetString(command[index..(index+GetStrLength(command, index))]);
-            TrasnlationObj["Translation"] = TrasnlationObj["Text"];
+            TrasnlationObj["Translation"] = TrasnlationObj["Text"]?.DeepClone();
             return TrasnlationObj;
         }
 
-        public static byte[]? VARSTR_SET_SET(byte[] command, JObject inJsonObj)
+        public static byte[]? VARSTR_SET_SET(byte[] command, JsonObject inJsonObj)
         {
             int index = GetCmdHeaderLength(command) + 2; // Header+ID
-            string Translation = PostProcessText(inJsonObj["Translation"]?.Value<string>() ?? "");
+            string Translation = PostProcessText(inJsonObj["Translation"]?.GetValue<string>() ?? "");
             List<byte> newCommand = new List<byte>();
             newCommand.AddRange(command[..index]);
             newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
@@ -153,26 +151,26 @@ namespace LBEE_TranslationPatch
             return newCommand.ToArray();
         }
 
-        public static JObject? SELECT_GET(byte[] command)
+        public static JsonObject? SELECT_GET(byte[] command)
         {
-            JObject TrasnlationObj = new JObject();
+            JsonObject TrasnlationObj = new JsonObject();
             int index = GetCmdHeaderLength(command) + 4*2; // Header+ID+VAR123
             int StrLength = GetStrLength(command, index);
             TrasnlationObj["JP"] = Encoding.Unicode.GetString(command[index..(index + StrLength)]);
             index += StrLength + 2;
             StrLength = GetStrLength(command, index);
             TrasnlationObj["EN"] = Encoding.Unicode.GetString(command[index..(index + StrLength)]);
-            TrasnlationObj["Translation"] = TrasnlationObj["EN"];
+            TrasnlationObj["Translation"] = TrasnlationObj["EN"]?.DeepClone();
             return TrasnlationObj;
         }
 
-        public static byte[]? SELECT_SET(byte[] command, JObject inJsonObj)
+        public static byte[]? SELECT_SET(byte[] command, JsonObject inJsonObj)
         {
             int index = GetCmdHeaderLength(command) + 4*2; // Header+ID
             int StrLength = GetStrLength(command, index); // Jp
             index += StrLength + 2;
             StrLength = GetStrLength(command, index);
-            string Translation = PostProcessText(inJsonObj["Translation"]?.Value<string>() ?? "");
+            string Translation = PostProcessText(inJsonObj["Translation"]?.GetValue<string>() ?? "");
             List<byte> newCommand = new List<byte>();
             newCommand.AddRange(command[..index]);
             newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
@@ -184,9 +182,9 @@ namespace LBEE_TranslationPatch
             return newCommand.ToArray();
         }
 
-        public static JObject? TASK_GET(byte[] command)
+        public static JsonObject? TASK_GET(byte[] command)
         {
-            JObject TrasnlationObj = new JObject();
+            JsonObject TrasnlationObj = new JsonObject();
             int index = GetCmdHeaderLength(command); // Header
             int TaskID = command[index] + command[index + 1] * 256;
             index += 2;
@@ -281,7 +279,7 @@ namespace LBEE_TranslationPatch
             return TrasnlationObj;
         }
 
-        public static byte[]? TASK_SET(byte[] command, JObject inJsonObj)
+        public static byte[]? TASK_SET(byte[] command, JsonObject inJsonObj)
         {
             int index = GetCmdHeaderLength(command); // Header
             int TaskID = command[index] + command[index + 1] * 256;
@@ -309,7 +307,7 @@ namespace LBEE_TranslationPatch
                     index += GetStrLength(command, index) + 2;
                     newCommand.AddRange(command[..index]);
                     int strLength = GetStrLength(command, index);
-                    string Translation = PostProcessText(inJsonObj["Translation1"]?.Value<string>() ?? "");
+                    string Translation = PostProcessText(inJsonObj["Translation1"]?.GetValue<string>() ?? "");
                     newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
                     newCommand.AddRange(command.Skip(index+strLength));
                     return newCommand.ToArray();
@@ -322,7 +320,7 @@ namespace LBEE_TranslationPatch
                     newCommand.AddRange(command[..index]); //str1
 
                     int strLength = GetStrLength(command, index);
-                    string Translation = PostProcessText(inJsonObj["Translation1"]?.Value<string>() ?? "");
+                    string Translation = PostProcessText(inJsonObj["Translation1"]?.GetValue<string>() ?? "");
                     newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
                     index += strLength + 2;  // str2
 
@@ -332,7 +330,7 @@ namespace LBEE_TranslationPatch
                     index += strLength + 2; //str3
 
                     strLength = GetStrLength(command, index);
-                    string Translation2 = PostProcessText(inJsonObj["Translation2"]?.Value<string>() ?? "");
+                    string Translation2 = PostProcessText(inJsonObj["Translation2"]?.GetValue<string>() ?? "");
                     newCommand.AddRange(Encoding.Unicode.GetBytes(Translation2));
                     newCommand.AddRange(command.Skip(index + strLength)); //str4
 
@@ -352,7 +350,7 @@ namespace LBEE_TranslationPatch
             {
                 // 只有英文？有点怪
                 int strLength = GetStrLength(command, index);
-                string Translation = PostProcessText(inJsonObj["Translation1"]?.Value<string>() ?? "");
+                string Translation = PostProcessText(inJsonObj["Translation1"]?.GetValue<string>() ?? "");
                 foreach (var newChar in Translation.ToCharArray())
                 {
                     CharCollection.Add(newChar);
@@ -370,7 +368,7 @@ namespace LBEE_TranslationPatch
                 newCommand.AddRange(command[..index]); //str1
 
                 int strLength = GetStrLength(command, index);
-                string Translation = PostProcessText(inJsonObj["Translation1"]?.Value<string>() ?? "");
+                string Translation = PostProcessText(inJsonObj["Translation1"]?.GetValue<string>() ?? "");
                 newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
                 index += strLength + 2;  // str2
 
@@ -379,7 +377,7 @@ namespace LBEE_TranslationPatch
                 index += strLength + 2; //str3
 
                 strLength = GetStrLength(command, index);
-                string Translation2 = PostProcessText(inJsonObj["Translation2"]?.Value<string>() ?? "");
+                string Translation2 = PostProcessText(inJsonObj["Translation2"]?.GetValue<string>() ?? "");
                 newCommand.AddRange(Encoding.Unicode.GetBytes(Translation2));
                 newCommand.AddRange(command.Skip(index + strLength)); //str4
                 foreach (var newChar in Translation.ToCharArray())
@@ -395,9 +393,9 @@ namespace LBEE_TranslationPatch
             return null;
         }
 
-        public static JObject? BATTLE_GET(byte[] command)
+        public static JsonObject? BATTLE_GET(byte[] command)
         {
-            JObject TrasnlationObj = new JObject();
+            JsonObject TrasnlationObj = new JsonObject();
             int index = GetCmdHeaderLength(command); // Header+ID
             int BattleID = command[index] + command[index+1] * 256;
             string? msgStr_jp = null;
@@ -526,9 +524,9 @@ namespace LBEE_TranslationPatch
             return TrasnlationObj;
         }
 
-        public static byte[]? BATTLE_SET(byte[] command, JObject inJsonObj)
+        public static byte[]? BATTLE_SET(byte[] command, JsonObject inJsonObj)
         {
-            JObject TrasnlationObj = new JObject();
+            JsonObject TrasnlationObj = new JsonObject();
             int index = GetCmdHeaderLength(command); // Header+ID
             int BattleID = command[index] + command[index+1] * 256;
             index += 2;
@@ -544,7 +542,7 @@ namespace LBEE_TranslationPatch
             {
                 index += 2; //Skip Var1
                 int Var2 = command[index] + command[index + 1] * 256;
-                string Translation = PostProcessText(inJsonObj["Translation"]?.Value<string>() ?? "");
+                string Translation = PostProcessText(inJsonObj["Translation"]?.GetValue<string>() ?? "");
                 foreach (var newChar in Translation.ToCharArray())
                 {
                     CharCollection.Add(newChar);
@@ -577,7 +575,7 @@ namespace LBEE_TranslationPatch
             }
             else if (BattleID == 102 || BattleID == 103)
             {
-                string Translation = PostProcessText(inJsonObj["Translation"]?.Value<string>() ?? "");
+                string Translation = PostProcessText(inJsonObj["Translation"]?.GetValue<string>() ?? "");
                 foreach (var newChar in Translation.ToCharArray())
                 {
                     CharCollection.Add(newChar);
@@ -612,7 +610,7 @@ namespace LBEE_TranslationPatch
                 }
                 if (index < command.Length)
                 {
-                    string? Translation2 = inJsonObj["Translation2"]?.Value<string>() != null ? PostProcessText(inJsonObj["Translation2"]?.Value<string>() ?? "") : null;
+                    string? Translation2 = inJsonObj["Translation2"]?.GetValue<string>() is string translation2 ? PostProcessText(translation2) : null;
                     if (Translation2 != null)
                     {
                         int strLength = GetSingleByteStrLength(command, index);
@@ -630,7 +628,7 @@ namespace LBEE_TranslationPatch
                 }
                 if (index < command.Length)
                 {
-                    string? Translation3 = inJsonObj["Translation3"]?.Value<string>() != null ? PostProcessText(inJsonObj["Translation3"]?.Value<string>() ?? "") : null;
+                    string? Translation3 = inJsonObj["Translation3"]?.GetValue<string>() is string translation3 ? PostProcessText(translation3) : null;
                     if (Translation3 != null)
                     {
                         int strLength = GetSingleByteStrLength(command, index);
@@ -650,26 +648,26 @@ namespace LBEE_TranslationPatch
             return null;
         }
 
-        public static JObject? SAYAVOICETEXT_GET(byte[] command)
+        public static JsonObject? SAYAVOICETEXT_GET(byte[] command)
         {
-            JObject TrasnlationObj = new JObject();
+            JsonObject TrasnlationObj = new JsonObject();
             int index = GetCmdHeaderLength(command) + 2; // Header+ID
             int StrLength = GetStrLength(command, index);
             TrasnlationObj["JP"] = Encoding.Unicode.GetString(command[index..(index + StrLength)]);
             index += StrLength + 2;
             StrLength = GetStrLength(command, index);
             TrasnlationObj["EN"] = Encoding.Unicode.GetString(command[index..(index + StrLength)]);
-            TrasnlationObj["Translation"] = TrasnlationObj["EN"];
+            TrasnlationObj["Translation"] = TrasnlationObj["EN"]?.DeepClone();
             return TrasnlationObj;
         }
 
-        public static byte[]? SAYAVOICETEXT_SET(byte[] command, JObject inJsonObj)
+        public static byte[]? SAYAVOICETEXT_SET(byte[] command, JsonObject inJsonObj)
         {
             int index = GetCmdHeaderLength(command) + 2; // Header+ID
             int StrLength = GetStrLength(command, index); // Jp
             index += StrLength + 2;
             StrLength = GetStrLength(command, index);
-            string Translation = PostProcessText(inJsonObj["Translation"]?.Value<string>() ?? "");
+            string Translation = PostProcessText(inJsonObj["Translation"]?.GetValue<string>() ?? "");
             List<byte> newCommand = new List<byte>();
             newCommand.AddRange(command[..index]);
             newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));

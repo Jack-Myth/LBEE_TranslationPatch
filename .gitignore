@@ -24,3 +24,4 @@ obj/
 Properties/
 packages/
 *.kate-swp
+*.csproj.user

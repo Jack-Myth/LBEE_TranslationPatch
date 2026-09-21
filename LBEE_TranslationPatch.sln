@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LBEE_TranslationPatch", "LBEE_TranslationPatch.csproj", "{18F2B81F-8E09-4E5D-9F30-8CB94CCFBEC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextMapper", "TextMapper\TextMapper.csproj", "{1130A0DB-518F-4F45-898C-4B2EACF874FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextMapper", "TextMapper\TextMapper.csproj", "{1130A0DB-518F-4F45-898C-4B2EACF874FF}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DxHook", "DxHook\DxHook.vcxproj", "{7A668A10-2A9C-4796-872E-A9D8DE6B0E9E}"
 EndProject

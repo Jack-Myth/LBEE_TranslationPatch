@@ -34,6 +34,22 @@ type Info struct {
 	IndexUnicode []rune    `struct:"-"` // imgindex -> unicode
 }
 
+// setCharMapping updates both directions of the character/index mapping.
+//
+// A character may be moved from a later slot to an earlier slot while a font
+// range is being replaced. In that case the later slot still contains the old
+// character in IndexUnicode until it is processed. Only clear the old reverse
+// mapping when it still points at the slot being replaced; otherwise it is the
+// new mapping written by an earlier iteration.
+func (i *Info) setCharMapping(index int, char rune) {
+	oldChar := i.IndexUnicode[index]
+	if i.UnicodeIndex[oldChar] == uint16(index) {
+		i.UnicodeIndex[oldChar] = 0
+	}
+	i.UnicodeIndex[char] = uint16(index)
+	i.IndexUnicode[index] = char
+}
+
 func LoadFontInfoFile(file string) *Info {
 	data, err := os.ReadFile(file)
 	if err != nil {
@@ -200,9 +216,7 @@ func (i *Info) SetChars(fontFile io.Reader, allChar string, startIndex int, reDr
 				char = chars[index-startIndex]
 			}
 			// i.FontMap[char] = uint16(index)
-			i.UnicodeIndex[i.IndexUnicode[index]] = 0 // 清除原字符
-			i.UnicodeIndex[char] = uint16(index)
-			i.IndexUnicode[index] = char
+			i.setCharMapping(index, char)
 			_, advance, ok := i.FontFace.GlyphBounds(char)
 			// bounds, advance, ok := i.FontFace.GlyphBounds(char)
 

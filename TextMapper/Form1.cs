@@ -1,4 +1,3 @@
-﻿using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -8,6 +7,9 @@ using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
+using System.Text.Encodings.Web;
+using System.Text.Json;
+using System.Text.Json.Nodes;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -15,7 +17,13 @@ namespace TextMapper
 {
     public partial class Form1 : Form
     {
-        JObject EditingTranslationObj { get; set; }
+        private static readonly JsonSerializerOptions JsonWriteOptions = new JsonSerializerOptions
+        {
+            WriteIndented = true,
+            Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping
+        };
+
+        JsonObject EditingTranslationObj { get; set; } = new JsonObject();
 
         [DllImport("user32.dll", CharSet = CharSet.Auto, CallingConvention = CallingConvention.StdCall)]
         public static extern short GetKeyState(int nVirtKey);
@@ -37,14 +45,14 @@ namespace TextMapper
             }
             this.Text = Path.GetFileName(OFD.FileName);
             var JsonStr = File.ReadAllText(OFD.FileName);
-            this.EditingTranslationObj = JObject.Parse(JsonStr);
+            this.EditingTranslationObj = JsonNode.Parse(JsonStr)!.AsObject();
             this.TextList.Items.Clear();
             RefreshTextList();
         }
 
         void RefreshTextList()
         {
-            var Messages = EditingTranslationObj.GetValue("MESSAGE")?.ToList();
+            var Messages = EditingTranslationObj["MESSAGE"] as JsonArray;
             if (Messages != null)
             {
                 while(Messages.Count > this.TextList.Items.Count)
@@ -53,7 +61,9 @@ namespace TextMapper
                 }
                 for (int i = 0; i < Messages.Count; i++)
                 {
-                    this.TextList.Items[i] = Messages[i]["EN"]+"/"+ Messages[i]["Translation"];
+                    var message = Messages[i]!.AsObject();
+                    this.TextList.Items[i] = message["EN"]?.GetValue<string>() + "/" +
+                                             message["Translation"]?.GetValue<string>();
                 }
             }
         }
@@ -66,12 +76,12 @@ namespace TextMapper
                 {
                     return;
                 }
-                var Messages = EditingTranslationObj.GetValue("MESSAGE")?.ToList();
+                var Messages = EditingTranslationObj["MESSAGE"] as JsonArray;
                 if (Messages == null)
                 {
                     return;
                 }
-                var TrasnlateTextObj = Messages[TextList.SelectedIndex].Value<JObject>();
+                var TrasnlateTextObj = Messages[TextList.SelectedIndex] as JsonObject;
                 if (TrasnlateTextObj != null)
                 {
                     textJP.Text = TrasnlateTextObj["JP"]?.ToString();
@@ -93,7 +103,7 @@ namespace TextMapper
             }
             string TextPendingInsert = Clipboard.GetText().Replace("\r", "");
             string[] TextLines = TextPendingInsert.Split('\n');
-            var Messages = EditingTranslationObj.GetValue("MESSAGE")?.ToList();
+            var Messages = EditingTranslationObj["MESSAGE"] as JsonArray;
             if(Messages == null)
             {
                 return;
@@ -104,7 +114,7 @@ namespace TextMapper
                 {
                     break;
                 }
-                var TrasnlateTextObj = Messages[i + TextList.SelectedIndex].Value<JObject>();
+                var TrasnlateTextObj = Messages[i + TextList.SelectedIndex] as JsonObject;
                 if(TrasnlateTextObj != null)
                 {
                     string PendingReplace = TextLines[i];
@@ -147,18 +157,18 @@ namespace TextMapper
             {
                 return;
             }
-            var Messages = EditingTranslationObj.GetValue("MESSAGE")?.ToList();
+            var Messages = EditingTranslationObj["MESSAGE"] as JsonArray;
             if (Messages == null)
             {
                 return;
             }
             for (int i = Messages.Count - 1; i > TextList.SelectedIndex; i--)
             {
-                var TrasnlateTextBObj = Messages[i].Value<JObject>();
-                var TrasnlateTextAObj = Messages[i-1].Value<JObject>();
+                var TrasnlateTextBObj = Messages[i] as JsonObject;
+                var TrasnlateTextAObj = Messages[i-1] as JsonObject;
                 if (TrasnlateTextBObj != null && TrasnlateTextAObj != null)
                 {
-                    TrasnlateTextBObj["Translation"] = TrasnlateTextAObj["Translation"];
+                    TrasnlateTextBObj["Translation"] = TrasnlateTextAObj["Translation"]?.DeepClone();
                 }
             }
             RefreshTextList();
@@ -170,18 +180,18 @@ namespace TextMapper
             {
                 return;
             }
-            var Messages = EditingTranslationObj.GetValue("MESSAGE")?.ToList();
+            var Messages = EditingTranslationObj["MESSAGE"] as JsonArray;
             if (Messages == null)
             {
                 return;
             }
             for (int i = TextList.SelectedIndex;i<Messages.Count-1; i++)
             {
-                var TrasnlateTextAObj = Messages[i].Value<JObject>();
-                var TrasnlateTextBObj = Messages[i + 1].Value<JObject>();
+                var TrasnlateTextAObj = Messages[i] as JsonObject;
+                var TrasnlateTextBObj = Messages[i + 1] as JsonObject;
                 if (TrasnlateTextBObj != null && TrasnlateTextAObj != null)
                 {
-                    TrasnlateTextAObj["Translation"] = TrasnlateTextBObj["Translation"];
+                    TrasnlateTextAObj["Translation"] = TrasnlateTextBObj["Translation"]?.DeepClone();
                 }
             }
             RefreshTextList();
@@ -196,7 +206,7 @@ namespace TextMapper
             {
                 return;
             }
-            File.WriteAllText(OFD.FileName, EditingTranslationObj.ToString(Newtonsoft.Json.Formatting.Indented));
+            File.WriteAllText(OFD.FileName, EditingTranslationObj.ToJsonString(JsonWriteOptions));
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -218,12 +228,12 @@ namespace TextMapper
                 {
                     return;
                 }
-                var Messages = EditingTranslationObj.GetValue("MESSAGE")?.ToList();
+                var Messages = EditingTranslationObj["MESSAGE"] as JsonArray;
                 if (Messages == null)
                 {
                     return;
                 }
-                var TrasnlateTextObj = Messages[TextList.SelectedIndex].Value<JObject>();
+                var TrasnlateTextObj = Messages[TextList.SelectedIndex] as JsonObject;
                 if (TrasnlateTextObj != null)
                 {
                     TrasnlateTextObj["Translation"] = this.textTranslation.Text;
