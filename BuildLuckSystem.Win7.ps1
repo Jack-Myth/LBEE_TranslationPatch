@@ -21,10 +21,16 @@ try {
     $env:GOARCH = "386"
     $env:CGO_ENABLED = "0"
 
-    & $GoExe -C (Join-Path $PSScriptRoot "LuckSystem") build -trimpath -ldflags='-s -w' `
-        -o (Join-Path $PSScriptRoot "Files\lucksystem.exe") .
-    if ($LASTEXITCODE -ne 0) {
-        throw "LuckSystem build failed."
+    Push-Location (Join-Path $PSScriptRoot "LuckSystem")
+    try {
+        & $GoExe build -trimpath -ldflags='-s -w' `
+            -o (Join-Path $PSScriptRoot "Files\lucksystem.exe") .
+        if ($LASTEXITCODE -ne 0) {
+            throw "LuckSystem build failed."
+        }
+    }
+    finally {
+        Pop-Location
     }
 }
 finally {

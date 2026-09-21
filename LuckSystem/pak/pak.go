@@ -2,6 +2,7 @@ package pak
 
 import (
 	"bufio"
+	"bytes"
 	"encoding/binary"
 	"errors"
 	"fmt"
@@ -233,11 +234,22 @@ func (p *Pak) CheckName(name string) bool {
 //	Param r io.Reader
 //	Return error
 func (p *Pak) Set(name string, r io.Reader) error {
-	id, has := p.NameMap[name]
+	_, has := p.NameMap[name]
 	if !has {
 		return errors.New("文件不存在")
 	}
-	return p.SetById(id, r)
+	data, err := io.ReadAll(r)
+	if err != nil {
+		return err
+	}
+	for index, entry := range p.Files {
+		if entry.Name == name {
+			if err := p.SetByIndex(index, bytes.NewReader(data)); err != nil {
+				return err
+			}
+		}
+	}
+	return nil
 }
 
 func (p *Pak) CheckId(id int) bool {
