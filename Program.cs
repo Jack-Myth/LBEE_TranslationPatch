@@ -409,11 +409,14 @@
 
         static void Main(string[] args)
         {
+            HashSet<char> TitleUsedCharset = new HashSet<char>(); // 称号所需的字符集后面要单独处理
+
             // 检查必须的组件
             if (!(File.Exists(".\\Files\\lucksystem.exe") && 
                 File.Exists(".\\Files\\czutil.exe") &&
                 File.Exists(".\\Files\\OPCODE.txt") &&
                 File.Exists(".\\Files\\DxHook.base") &&
+                File.Exists(".\\Files\\UnicodeToShiftJis.bin") &&
                 File.Exists(TargetFontPath)))
             {
                 string Notice = "组件缺失，你是否将补丁文件夹完整解压出来了？";
@@ -587,7 +590,6 @@
 
             // 对8500和8501两个脚本进行处理，这两个脚本看起来是专门放字符串的，格式和其他都不一样。
             var TextScriptNames = new string[] { "SEEN8500", "SEEN8501" };
-            HashSet<char> TitleUsedCharset = new HashSet<char>(); // 称号所需的字符集后面要单独处理
             foreach (var TextScriptName in TextScriptNames)
             {
                 string TextScriptPath = Path.Combine(ExtractedScriptPath, TextScriptName);
@@ -783,7 +785,38 @@
 #if !RELEASE
         DxHook:
 #endif
-            // 将$Program.json塞进DxHook.base中
+            // 将$Program.json和Unicode转换表塞进DxHook.base中
+            HashSet<char> UsedCharset = new HashSet<char>(InstructionProcessor.CharCollection);
+            UsedCharset.UnionWith(TitleUsedCharset);
+            if (UsedCharset.Count == 0)
+            {
+                throw new InvalidDataException("有效字符集为空，无法生成Unicode转换表。");
+            }
+            byte[] OriginalUnicodeTable = File.ReadAllBytes("Files\\UnicodeToShiftJis.bin");
+            if (OriginalUnicodeTable.Length != 65536 * sizeof(ushort))
+            {
+                throw new InvalidDataException("Unicode转换表大小错误。");
+            }
+            byte[] PatchedUnicodeTable = (byte[])OriginalUnicodeTable.Clone();
+            int FallbackOffset = '漢' * sizeof(ushort);
+            if (OriginalUnicodeTable[FallbackOffset] == 0 && OriginalUnicodeTable[FallbackOffset + 1] == 0)
+            {
+                throw new InvalidDataException("Unicode转换表中没有“漢”的映射。");
+            }
+            foreach (char character in UsedCharset)
+            {
+                if (char.IsControl(character) || char.IsSurrogate(character))
+                {
+                    continue;
+                }
+                int offset = character * sizeof(ushort);
+                if (OriginalUnicodeTable[offset] == 0 && OriginalUnicodeTable[offset + 1] == 0)
+                {
+                    PatchedUnicodeTable[offset] = OriginalUnicodeTable[FallbackOffset];
+                    PatchedUnicodeTable[offset + 1] = OriginalUnicodeTable[FallbackOffset + 1];
+                }
+            }
+
             string DXHookPath = Path.Combine(TMPPath, "dsound.dll");
             string DxHookSourcePath = "Files\\DxHook.base";
             if(File.Exists(DXHookPath))
@@ -795,6 +828,11 @@
             IntPtr lpType = Marshal.StringToHGlobalAuto("JSON");
             byte[] PROGRAMBytes = File.ReadAllBytes(Path.Combine(TextMappingPath, "$PROGRAM.json"));
             UpdateResource(hUpdate, lpType, 101, 0, PROGRAMBytes, (uint)PROGRAMBytes.Length);
+            Marshal.FreeHGlobal(lpType);
+
+            lpType = Marshal.StringToHGlobalAuto("BINARY");
+            UpdateResource(hUpdate, lpType, 102, 0, OriginalUnicodeTable, (uint)OriginalUnicodeTable.Length);
+            UpdateResource(hUpdate, lpType, 103, 0, PatchedUnicodeTable, (uint)PatchedUnicodeTable.Length);
             Marshal.FreeHGlobal(lpType);
             EndUpdateResource(hUpdate, false);
             File.Move(DXHookPath, Path.Combine(LBEEGamePath, "dsound.dll"), true);

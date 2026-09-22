@@ -45,10 +45,108 @@ PIMAGE_SECTION_HEADER GetRdataSection(HMODULE hModule) {
     return nullptr;
 }
 
+BYTE* FindUnicodeToShiftJisTable(HMODULE hModule, const BYTE* originalTable, DWORD originalSize)
+{
+    auto dosHeader = reinterpret_cast<IMAGE_DOS_HEADER*>(hModule);
+    auto ntHeaders = reinterpret_cast<IMAGE_NT_HEADERS*>(reinterpret_cast<BYTE*>(hModule) + dosHeader->e_lfanew);
+    auto sectionHeader = IMAGE_FIRST_SECTION(ntHeaders);
+    BYTE* match = nullptr;
+    for (int i = 0; i < ntHeaders->FileHeader.NumberOfSections; ++i, ++sectionHeader)
+    {
+        if (sectionHeader->Misc.VirtualSize < originalSize)
+        {
+            continue;
+        }
+
+        BYTE* section = reinterpret_cast<BYTE*>(hModule) + sectionHeader->VirtualAddress;
+        for (DWORD offset = 0; offset + originalSize <= sectionHeader->Misc.VirtualSize; ++offset)
+        {
+            if (memcmp(section + offset, originalTable, originalSize) != 0)
+            {
+                continue;
+            }
+            if (match)
+            {
+                return nullptr;
+            }
+            match = section + offset;
+        }
+    }
+    return match;
+}
+
+DWORD WINAPI PatchUnicodeToShiftJisTableAfterStartup(LPVOID parameter)
+{
+    HINSTANCE hinstDLL = reinterpret_cast<HINSTANCE>(parameter);
+    HRSRC hOriginalResource = FindResource(hinstDLL, MAKEINTRESOURCE(102), TEXT("BINARY"));
+    HRSRC hPatchedResource = FindResource(hinstDLL, MAKEINTRESOURCE(103), TEXT("BINARY"));
+    if (!hOriginalResource || !hPatchedResource)
+    {
+        return 0;
+    }
+
+    DWORD originalSize = SizeofResource(hinstDLL, hOriginalResource);
+    if (originalSize != 65536 * sizeof(WORD) || SizeofResource(hinstDLL, hPatchedResource) != originalSize)
+    {
+        return 0;
+    }
+
+    HGLOBAL hOriginalData = LoadResource(hinstDLL, hOriginalResource);
+    HGLOBAL hPatchedData = LoadResource(hinstDLL, hPatchedResource);
+    const BYTE* originalTable = reinterpret_cast<const BYTE*>(LockResource(hOriginalData));
+    const BYTE* patchedTable = reinterpret_cast<const BYTE*>(LockResource(hPatchedData));
+    if (!originalTable || !patchedTable)
+    {
+        return 0;
+    }
+
+    BYTE* match = nullptr;
+    for (int attempt = 0; attempt < 100; ++attempt)
+    {
+        if (!match)
+        {
+            match = FindUnicodeToShiftJisTable(GetModuleHandle(NULL), originalTable, originalSize);
+        }
+        if (match && memcmp(match, originalTable, originalSize) == 0)
+        {
+            Sleep(100);
+            if (memcmp(match, originalTable, originalSize) == 0)
+            {
+                DWORD oldProtect;
+                if (VirtualProtect(match, originalSize, PAGE_READWRITE, &oldProtect))
+                {
+                    volatile BYTE* destination = match;
+                    for (DWORD offset = 0; offset < originalSize; ++offset)
+                    {
+                        if (originalTable[offset] != patchedTable[offset])
+                        {
+                            destination[offset] = patchedTable[offset];
+                        }
+                    }
+                    VirtualProtect(match, originalSize, oldProtect, &oldProtect);
+                }
+            }
+        }
+        if (match && memcmp(match, originalTable, originalSize) != 0 &&
+            memcmp(match, patchedTable, originalSize) != 0)
+        {
+            match = nullptr;
+        }
+        Sleep(100);
+    }
+    return 0;
+}
+
 
 void DoHook(HINSTANCE hinstDLL)
 {
-    auto SectionHeader = GetRdataSection(GetModuleHandle(NULL));
+    auto gameModule = GetModuleHandle(NULL);
+    HANDLE patchThread = CreateThread(nullptr, 0, PatchUnicodeToShiftJisTableAfterStartup, hinstDLL, 0, nullptr);
+    if (patchThread)
+    {
+        CloseHandle(patchThread);
+    }
+    auto SectionHeader = GetRdataSection(gameModule);
     HRSRC hResource = FindResource(hinstDLL, MAKEINTRESOURCE(101), TEXT("JSON"));
     if (!hResource)
     {
