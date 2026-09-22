@@ -1,4093 +1,5113 @@
 [
   {
     "Source": "This product is a work of fiction.\nThere is no relation between real people, groups, places or incidents.\n\nThis product is owned by VisualArts. Consent of the company is required to use this software or its parts in any way other than private use; reproducing, modifying, uploading to the internet and using P2P software to share and distribute it is prohibited by law.",
-    "Target": "本产品纯属虚构\n与真实的人物，组织，地点或事件之间没有关系。\n\n本产品归VisualArts所有。除私人用途外，使用本软件或其部分须征得本公司同意；禁止复制、修改、上传到互联网，以及使用P2P软件进行分享和传播。"
+    "Target": "本产品纯属虚构\n与真实的人物，组织，地点或事件之间没有关系。\n\n本产品归VisualArts所有。除私人用途外，使用本软件或其部分须征得本公司同意；禁止复制、修改、上传到互联网，以及使用P2P软件进行分享和传播。",
+    "JP": "この作品はフィクションです。\n登場する人物・団体・地名・事件および職業などは全て架空の物であり、実在の物とは一切関係ありません。\n\nこの製品の著作権を含む一切の権利は株式会社ビジュアルアーツが保有しています。\n当社の許諾を得ずに賃貸業に使用すること、私的使用その他法律によって明示的に認められる範囲を超えて、複製、改変、ネットワーク上へのアップロード、P2Pソフトでの交換・送信・頒布することを禁止します。"
   },
   {
     "Source": "【Voice】If you select ❝Continue❞, voice will continue to flow even if you send a page during voice playback.$S024$C[606060]（It stops if there is voice on the next page）",
-    "Target": "【语音】如果选择❝继续❞，语音将在语音播放期间换页时继续播放。$S024$C[606060]（如果下一页有语音，则会停止）"
+    "Target": "【语音】如果选择❝继续❞，语音将在语音播放期间换页时继续播放。$S024$C[606060]（如果下一页有语音，则会停止）",
+    "JP": "【ボイス再生】「停止しない」にすると、音声再生中にページを送っても音声が流れ続けます。$S024$C[606060]（次ページに音声がある場合停止）"
   },
   {
     "Source": "Do you want to turn on the shooting game?\nIf turned on, you can choose normal mode or easy mode.\n(Turning it on or changing to easy will not affect the story.)",
-    "Target": "是否开启射击游戏？\n如果开启，可以选择普通模式或简单模式。\n（开启或更改为简单模式不会影响故事。）"
+    "Target": "是否开启射击游戏？\n如果开启，可以选择普通模式或简单模式。\n（开启或更改为简单模式不会影响故事。）",
+    "JP": "射撃ゲームをオンにしますか？\nオンの場合、ノーマルモードと難易度を下げたイージーモードが選べます。\n（オフやイージーモードにしても物語を進める上で支障はありません）"
   },
   {
     "Source": "【Wait Time Per Character】In auto mode, this sets the wait time until the next message is displayed based on the number of characters in text.",
-    "Target": "【每字符等待时间】在自动模式下，根据文本中的字符数量设置到显示下一条消息的等待时间。"
+    "Target": "【每字符等待时间】在自动模式下，根据文本中的字符数量设置到显示下一条消息的等待时间。",
+    "JP": "【文字数待機時間】オートモードの時、全メッセージが表示されてから、次のメッセージに進むまでの待ち時間を、メッセージの文字数に合わせて設定できます。"
   },
   {
     "Source": "Do you delete all saved data including system data from the cloud and return the game to the initial state? (Deleting it can not be undone)",
-    "Target": "是否删除包括系统数据在内的所有保存数据，并将游戏恢复到初始状态？（删除后无法撤销）"
+    "Target": "是否删除包括系统数据在内的所有保存数据，并将游戏恢复到初始状态？（删除后无法撤销）",
+    "JP": "システムデータを含む全セーブデータをクラウド上から削除し、\nゲームを初期状態に戻しますか？（削除すると元に戻せません）"
   },
   {
     "Source": "【Gesture】If you set it to ❝On❞, you can use the same gesture as the touch operation such as flick with the mouse.",
-    "Target": "【手势】如果设为❝开启❞，您可以使用与触控操作相同的手势，例如用鼠标滑动。"
+    "Target": "【手势】如果设为❝开启❞，您可以使用与触控操作相同的手势，例如用鼠标滑动。",
+    "JP": "【ジェスチャー】「あり」にするとフリック等のタッチ操作と同じジェスチャーをマウスでも使用することができます。"
   },
   {
     "Source": "Haruchin Unlimited Ultra Super Dynamic Miracle Hyper Ultimate Global Excellent Delicious Bombard Power Throwing!!",
-    "Target": "小叶子 无限 超级 动态 奇迹 终极 全球 美味 炸弹 力量 投掷！！"
+    "Target": "小叶子 无限 超级 动态 奇迹 终极 全球 美味 炸弹 力量 投掷！！",
+    "JP": "「はるちん超ウルトラスーパーダイナミックミラクルハイパーアルティメットグローバルエクセレントデリシャスボンバード迫力スローイングッ！！」"
   },
   {
     "Source": "I didn't know you were so into gambling with raw oysters, Riki. It's totally clear from the way you bat.",
-    "Target": "没想到你这么喜欢赌生牡蛎，理树。真是固执啊。"
+    "Target": "理树原来这么喜欢发黑的香蕉啊，看你的挥棒就知道了。",
+    "JP": "「理樹は真っ黒に変色したバナナが好きだなあ。球筋に出まくってるぜ？」"
   },
   {
     "Source": "Give it a rest already. You should think of how painful it'd be to get food poisoning from it sometimes.",
-    "Target": "那种生牡蛎赌局还是算了。也想想食物中毒有多痛苦吧。"
+    "Target": "那种生牡蛎赌局还是算了。也想想食物中毒有多痛苦吧。",
+    "JP": "「もう一か八かの生牡蠣はいいだろ、あたった時の苦しみも考えろよ」"
   },
   {
     "Source": "I didn't know you were so into 15-foot unknown lifeforms, Riki. It's totally clear from the way you bat.",
-    "Target": "没想到你这么喜欢有15只脚的不明生命体，理树。真是固执啊。"
+    "Target": "没想到你这么喜欢有15只脚的不明生命体，理树。看你的挥棒就知道了。",
+    "JP": "「理樹は足が１５本生えた未知の生物が好きだなあ。球筋に出まくってるぜ？」"
   },
   {
     "Source": "You may attack by dancing to the rhythm, but you have to close your eyes for immersion. (By Kyousuke)",
-    "Target": "你可以通过节奏舞蹈来攻击，但必须闭上眼睛以便更专注。（By 恭介）"
+    "Target": "你可以通过节奏舞蹈来攻击，但必须闭上眼睛以便更专注。（By 恭介）",
+    "JP": "リズミカルに踊って攻撃することを可とするが、音楽に没頭しているから目は閉じること(By恭介)"
   },
   {
     "Source": "Do you want to turn on the Batting Practice?\n(Turning it off will not hinder the story progression.)",
-    "Target": "是否开启棒球练习？\n（关闭后不会影响故事进度。）"
+    "Target": "是否开启棒球练习？\n（关闭后不会影响故事进度。）",
+    "JP": "バッティング練習をオンにしますか？\n（オフにしても物語を進める上で支障はありません）"
   },
   {
     "Source": "That's Kyousuke for you. He decided everything in an instant, and he certainly thought it through...",
-    "Target": "不愧是恭介。他瞬间就决定了所有事情，而且显然深思熟虑了…"
+    "Target": "不愧是恭介。他瞬间就决定了所有事情，而且显然深思熟虑了…",
+    "JP": "さすが恭介。こんなに早くぱぱっと決めて、しかもちゃんと考えてある…。"
   },
   {
     "Source": "It's okay to shoot the rubber band from your finger. Kids play like that all the time. (By Kyousuke)",
-    "Target": "用手指射出橡皮筋是可以的。小孩总是那样玩。（By 恭介）"
+    "Target": "用手指射出橡皮筋是可以的。小孩总是那样玩。（By 恭介）",
+    "JP": "まあ、指でっぽうで撃ってもいいだろ。子供もそうして遊ぶぐらいだ(By恭介)"
   },
   {
     "Source": "I didn't know you were so into heart-marked omelette, Riki. It's totally clear from the way you bat.",
-    "Target": "没想到你这么喜欢画着心形的蛋包饭，理树。真是固执啊。"
+    "Target": "没想到你这么喜欢用番茄酱画了爱心的煎蛋卷，理树。看你的挥棒就知道了。",
+    "JP": "「理樹はケチャップでハートマークが書かれたオムレツが好きだなあ。球筋に出まくってるぜ？」"
   },
   {
     "Source": "I didn't know you were so against red bean paste in yatsuhashi. It's totally clear from how you bat.",
-    "Target": "没想到你这么讨厌八桥里的红豆馅。真是固执啊。"
+    "Target": "没想到你这么讨厌八桥里的红豆馅。看你的挥棒就知道了。",
+    "JP": "「理樹は餡の入っていない生八つ橋が好きだなあ。球筋に出まくってるぜ？」"
   },
   {
     "Source": "Do you want to turn on the Battle Rankings?\n(Turning it off will not hinder the story progression.)",
-    "Target": "是否开启战斗排位赛？\n（关闭后不会影响故事进度。）"
+    "Target": "是否开启战斗排位赛？\n（关闭后不会影响故事进度。）",
+    "JP": "バトルランキングをオンにしますか？\n（オフにしても物語を進める上で支障はありません）"
   },
   {
     "Source": "Do you want to turn on the Battle Sequence?\n(Turning it off will not hinder the story progression.)",
-    "Target": "是否开启战斗过程？\n（关闭后不会影响故事进度。）"
+    "Target": "是否开启战斗过程？\n（关闭后不会影响故事进度。）",
+    "JP": "佐々美＆ソフト部三人組とのバトルをオンにしますか？\n（オフにしても物語を進める上で支障はありません）"
   },
   {
     "Source": "I didn't know you were so into poisonous mushrooms, Riki. It's totally clear from the way you bat.",
-    "Target": "没想到你这么喜欢毒蘑菇，理树。真是固执啊。"
+    "Target": "没想到你这么喜欢毒蘑菇，理树。看你的挥棒就知道了。",
+    "JP": "「理樹はあきらかな毒キノコが好きだなあ。球筋に出まくってるぜ？」"
   },
   {
     "Source": "I saw people striking each other with burdock on TV, so it's ok to just hit with it. (By Kyousuke)",
-    "Target": "我在电视上看到有人用牛蒡互殴，所以用它打是可以的。（By 恭介）"
+    "Target": "我在电视上看到有人用牛蒡互殴，所以用它打是可以的。（By 恭介）",
+    "JP": "前テレビでごぼうで殴りあいしてたから、それは直接叩きつけてよし(By恭介)"
   },
   {
     "Source": "Now then, what should I do... We don't have anyone to play center field so it's rather tricky...",
-    "Target": "那么，现在该怎么办呢…我们没有人能打中场，这很棘手…"
+    "Target": "那么，该怎么办呢……没有人守中外野，阵型都变得奇怪起来了……",
+    "JP": "さて、どうしよう…。センターがいないから変則的でよくわからない…。"
   },
   {
     "Source": "Do you want to eat Gari in a conveyor belt sushi bar that bad? It's clear from the way you bat.",
-    "Target": "你这么想吃回转寿司里的姜片吗？真是固执啊。"
+    "Target": "你这么想吃回转寿司里的姜片吗？看你的挥棒就知道了。",
+    "JP": "「そんなに回転寿司でがりだけ食いまくりたいのかい。球筋に出てるぜ？」"
   },
   {
     "Source": "I didn't know you were so into undiluted Calpis, Riki. It's totally clear from the way you bat.",
-    "Target": "没想到你这么喜欢未稀释的可尔必思，理树。真是固执啊。"
+    "Target": "没想到你这么喜欢未稀释的可尔必思，理树。看你的挥棒就知道了。",
+    "JP": "「理樹はカルピスの原液が好きだなあ。球筋に出まくってるぜ？」"
   },
   {
     "Source": "Do you want to eat an omelette with a ketchup heart that bad? It's clear from the way you bat.",
-    "Target": "你这么想吃画着心形番茄酱的蛋包饭吗？真是固执啊。"
+    "Target": "你就这么想吃用番茄酱画了爱心的煎蛋卷吗？看你的挥棒就知道了。",
+    "JP": "「そんなにケチャップでハートマークが書かれたオムレツが食いたいのかい。球筋に出てるぜ？」"
   },
   {
     "Source": "Since some people throw pieces of eraser during classes, I give the green light. (By Kyousuke)",
-    "Target": "有些人会在课堂上扔橡皮擦碎片，我批准了。（By 恭介）"
+    "Target": "有些人会在课堂上扔橡皮擦碎片，我批准了。（By 恭介）",
+    "JP": "授業中にちぎって投げつける奴がいるからな、それは許可しよう(By恭介)"
   },
   {
     "Source": "Do you want to eat an unknown lifeform with 15 feet that bad? It's clear from the way you bat.",
-    "Target": "你这么想吃有15只脚的迷之生命体吗？真是固执啊。"
+    "Target": "你这么想吃有15只脚的迷之生命体吗？看你的挥棒就知道了。",
+    "JP": "「そんなに足が１５本生えた未知の生物が食いたいのかい。球筋に出てるぜ？」"
   },
   {
     "Source": "Just go ahead and throw it after you're done folding it. It's just paper anyway. (By Kyousuke)",
-    "Target": "折好之后就扔出去吧。反正它只是纸而已。（By 恭介）"
+    "Target": "折好之后就扔出去吧。反正它只是纸而已。（By 恭介）",
+    "JP": "組み立てて完成したら、ぶつけてよしとしよう。どうせ紙だしな(By恭介)"
   },
   {
     "Source": "Do you want to gamble your life eating a raw oyster that bad? It's clear from the way you bat.",
-    "Target": "你就那么想吃生牡蛎吗？真是固执啊。"
+    "Target": "你就这么想冒险吃生牡蛎吗？看你的挥棒就知道了。",
+    "JP": "「そんなに一か八かの生牡蠣が食いたいのかい。球筋に出てるぜ？」"
   },
   {
     "Source": "I give permission to hit with the parasol. But you can only hit guys seriously. (By Kyousuke)",
-    "Target": "我允许用阳伞打人。尤其是对于男生，用力揍他们吧。（By 恭介）"
+    "Target": "我允许用阳伞打人，但只有对男生才准用力打。（By 恭介）",
+    "JP": "叩くことを許可しよう。男子に対してだけは、本気で叩くことを許可する(By恭介)"
   },
   {
     "Source": "It's actually dangerous to point fireworks at someone, don't try this at home. (By Kyousuke)",
-    "Target": "把烟火对准别人其实很危险，不要在家尝试。（By 恭介）"
+    "Target": "把烟火对准别人其实很危险，不要在家尝试。（By 恭介）",
+    "JP": "本当は人に向けちゃ危険なのでマネしないように(By恭介)"
   },
   {
     "Source": "Are you worried about the millennium bug now, of all times? It's clear from the way you bat.",
-    "Target": "现在才担心千年虫问题吗？真是固执啊。"
+    "Target": "现在才担心千年虫问题吗？看你的挥棒就知道了。",
+    "JP": "「今更２０００年問題を気にしてるのかよ。球筋に出てるぜ？」"
   },
   {
     "Source": "I didn't know you were so into erotic juice, Riki. It's totally clear from the way you bat.",
-    "Target": "没想到你这么喜欢色情饮料，理树。真是固执啊。"
+    "Target": "没想到你这么喜欢色情饮料，理树。看你的挥棒就知道了。",
+    "JP": "「理樹はエロティックなジュースが好きだなあ。球筋に出まくってるぜ？」"
   },
   {
     "Source": "It was supposed to be a promise between just the two of us, though I already told everyone!",
-    "Target": "那本该是我们两人的约定，不过我已经告诉大家了！"
+    "Target": "那本该是我们两人的约定，不过我已经告诉大家了！",
+    "JP": "「ふたりだけの約束だったはずだろ、みんなに言って回ったけどさ」"
   },
   {
     "Source": "I didn't know you were so into Tongari Corn, Riki. It's totally clear from the way you bat.",
-    "Target": "没想到你这么喜欢玉米锥，理树。真是固执啊。"
+    "Target": "没想到你这么喜欢玉米锥，理树。看你的挥棒就知道了。",
+    "JP": "「理樹はとんがりコーンが好きだなあ。球筋に出まくってるぜ？」"
   },
   {
     "Source": "I didn't know you were so into coconut milk, Riki. It's totally clear from the way you bat.",
-    "Target": "没想到你这么喜欢椰奶，理树。真是固执啊。"
+    "Target": "没想到你这么喜欢椰奶，理树。看你的挥棒就知道了。",
+    "JP": "「理樹はトロピカルなココナッツミルクが好きだなあ。球筋に出まくってるぜ？」"
   },
   {
     "Source": "Well, if worse comes to worst, you may throw it too. I give the green light. (By Kyousuke)",
-    "Target": "嗯，实在不行的话，你也可以扔出去。我批准了。（By 恭介）"
+    "Target": "嗯，实在不行的话，你也可以扔出去。我批准了。（By 恭介）",
+    "JP": "まあ、必死な時は乱舞もするだろう。舞わせてよしとする(By恭介)"
   },
   {
     "Source": "Swipe outside the message window jumps to next choice, or the end of previously read text.",
-    "Target": "在消息窗口外滑动跳转到下一个选择，或跳转到已读文本的末尾。"
+    "Target": "在消息窗口外滑动跳转到下一个选择，或跳转到已读文本的末尾。",
+    "JP": null
   },
   {
     "Source": "Give it a rest already, think of something other than raw yatsuhashi with no red bean jam.",
-    "Target": "够了，换点别的东西想想吧，别老是不带红豆馅的生八桥。"
+    "Target": "够了，换点别的东西想想吧，别老是不带红豆馅的生八桥。",
+    "JP": "「もう餡の入っていない生八つ橋はいいだろ、少しは餡が入ってるほうの生八つ橋のことも考えてやれよ」"
   },
   {
     "Source": "I didn't know you were so into fresh milk, Riki. It's totally clear from the way you bat.",
-    "Target": "没想到你这么喜欢鲜牛奶，理树。真是固执啊。"
+    "Target": "没想到你这么喜欢鲜牛奶，理树。看你的挥棒就知道了。",
+    "JP": "「理樹は搾り立ての牛乳が好きだなあ。球筋に出まくってるぜ？」"
   },
   {
     "Source": "You want raw yatsuhashi with no red bean paste that bad? It's clear from the way you bat.",
-    "Target": "你这么想吃不带红豆馅的生八桥吗？真是固执啊。"
+    "Target": "你这么想吃不带红豆馅的生八桥吗？看你的挥棒就知道了。",
+    "JP": "「そんなに餡の入っていない生八つ橋だけを食いたいのかい。球筋に出てるぜ？」"
   },
   {
     "Source": "Thinking about gambling your life on a raw oyster again? It's clear from the way you bat.",
-    "Target": "又在想着冒险吃生蚝了？真是固执啊。"
+    "Target": "又在想着冒险吃生蚝了？看你的挥棒就知道了。",
+    "JP": "「また一か八かの生牡蠣かい。球筋に出てるぜ？」"
   },
   {
     "Source": "I didn't know you were so into hot coffee, Riki. It's totally clear from the way you bat.",
-    "Target": "没想到你这么喜欢热咖啡，理树。真是固执啊。"
+    "Target": "没想到你这么喜欢热咖啡，理树。看你的挥棒就知道了。",
+    "JP": "「理樹は熱いコーヒーをストローで飲むのが好きだなあ。球筋に出まくってるぜ？」"
   },
   {
     "Source": "It's going to be sunny across the nation tomorrow, with a hint of Haruchin in some areas.",
-    "Target": "明天全国都会是晴天，部分地区会有一点小叶子的气息。"
+    "Target": "明天全国都会是晴天，部分地区会有一点小叶子的气息。",
+    "JP": "「明日は全国的に晴れ。ところによりはるちんです」"
   },
   {
     "Source": "I didn't know you were so into hamburgers, Riki. It's totally clear from the way you bat.",
-    "Target": "没想到你这么喜欢汉堡，理树。真是固执啊。"
+    "Target": "没想到你这么喜欢汉堡肉饼，理树。看你的挥棒就知道了。",
+    "JP": "「理樹はハンバーグが好きだなあ。球筋に出まくってるぜ？」"
   },
   {
     "Source": "I didn't know you were so into mayonnaise, Riki. It's totally clear from the way you bat.",
-    "Target": "没想到你这么喜欢蛋黄酱，理树。真是固执啊。"
+    "Target": "没想到你这么喜欢蛋黄酱，理树。看你的挥棒就知道了。",
+    "JP": "「理樹はマヨネーズが好きだなあ。球筋に出まくってるぜ？」"
   },
   {
     "Source": "Give it a rest already, think of something other than conveyor belt sushi bars and Gari.",
-    "Target": "够了，换点别的东西想想吧，别老是寿司和姜片。"
+    "Target": "够了，换点别的东西想想吧，别老是寿司和姜片。",
+    "JP": "「もう回転寿司でがりはいいだろ、少しはがり以外のネタのことも考えてやれよ」"
   },
   {
     "Source": "Do you want to drink hot coffee with a straw that bad? It's clear from the way you bat.",
-    "Target": "你这么想用吸管喝热咖啡吗？真是固执啊。"
+    "Target": "你这么想用吸管喝热咖啡吗？看你的挥棒就知道了。",
+    "JP": "「そんなに熱いコーヒーをストローで飲みたいのかい。球筋に出てるぜ？」"
   },
   {
     "Source": "Thinking about drinking hot coffee with a straw again? It's clear from the way you bat.",
-    "Target": "又在想着用吸管喝热咖啡了？真是固执啊。"
+    "Target": "又在想着用吸管喝热咖啡了？看你的挥棒就知道了。",
+    "JP": "「また熱いコーヒーをストローでかい。球筋に出てるぜ？」"
   },
   {
     "Source": "If I suddenly say I used to be a total motorcycle rider, will that make people laugh?",
-    "Target": "如果我突然说超厉害啊，会让人发笑吗？"
+    "Target": "要是我突然来一句“我可是干劲十足啊”，大家会笑吗？",
+    "JP": "「唐突にバリバリだっゼとか言ったら受けるでしょうか」"
   },
   {
     "Source": "Yatsuhashi again? It's clear from the way you bat. You really want no red bean paste?",
-    "Target": "又在想八桥了？真是固执啊。你真的想要不带红豆馅的吗？"
+    "Target": "又在想八桥了？看你的挥棒就知道了。你真的想要不带红豆馅的吗？",
+    "JP": "「また餡の入っていない生八つ橋かい。球筋に出てるぜ？　ほんとに餡なしのほうがいいのか？」"
   },
   {
     "Source": "I didn't know you were so into yogurt, Riki. It's totally clear from the way you bat.",
-    "Target": "没想到你这么喜欢酸奶，理树。真是固执啊。"
+    "Target": "没想到你这么喜欢养乐多，理树。看你的挥棒就知道了。",
+    "JP": "「理樹はヤクルトが好きだなあ。球筋に出まくってるぜ？」"
   },
   {
     "Source": "%s returned the title ❝%s❞ and became the ❝Provisional Ruler of the Battle Rankings❞",
-    "Target": "%s归还了称号『%s』，成为了『战斗排位赛暂定王者』"
+    "Target": "%s归还了称号『%s』，成为了『战斗排位赛暂定王者』",
+    "JP": "%sは『%s』を返上して『バトルランキング暫定王者』の称号を得た！"
   },
   {
     "Source": "Give it a rest already, think about those lifeforms with 8 or 10 feet sometimes too.",
-    "Target": "够了，偶尔想想那些有8只或10只脚的生命体吧。"
+    "Target": "够了，偶尔想想那些有8只或10只脚的生命体吧。",
+    "JP": "「もう足が１５本生えた未知の生物はいいだろ、少しは八本や十本の足の生物のことも考えろよ」"
   },
   {
     "Source": "Thinking about obviously poisonous mushrooms again? It's clear from the way you bat.",
-    "Target": "又在想着明显有毒的蘑菇了？真是固执啊。"
+    "Target": "又在想着明显有毒的蘑菇了？看你的挥棒就知道了。",
+    "JP": "「またあきらかな毒キノコかい。球筋に出てるぜ？」"
   },
   {
     "Source": "`Kyousuke@❝Aight, let's end it here. We really have been getting better by the day.❞",
-    "Target": "`恭介@「好了，就到这里吧。我们真的每天都在进步。」"
+    "Target": "`恭介@「好了，就到这里吧。我们真的每天都在进步。」",
+    "JP": "`恭介@「よし、終わろう。日に日によくなっていくじゃないか、さすがだな」"
   },
   {
     "Source": "Before you attack, you must say ❝I will not forgive the lot of you!❞. (By Kyousuke)",
-    "Target": "在攻击前，你必须说「我绝不会原谅你们这帮人！」。（By 恭介）"
+    "Target": "在攻击前，你必须说「我绝不会原谅你们这帮人！」。（By 恭介）",
+    "JP": "「おまんら、許さんぜよ！」と言ったら攻撃を許可しよう(By恭介)"
   },
   {
     "Source": "Changes to the sound API settings will not take effect until the game is restarted.",
-    "Target": "更改声音API设置后，需重新启动游戏才能生效。"
+    "Target": "更改声音API设置后，需重新启动游戏才能生效。",
+    "JP": "サウンドAPI設定の変更は次回起動時に有効になります。"
   },
   {
     "Source": "His shape is just asking to be thrown anyway, I give the green light. (By Kyousuke)",
-    "Target": "他的形状本来就是让人想扔的，所以我批准了。（By 恭介）"
+    "Target": "他的形状本来就是让人想扔的，所以我批准了。（By 恭介）",
+    "JP": "投げつけるために生まれてきたようなフォルムだな。投げつけることを許可しよう(By恭介)"
   },
   {
     "Source": "I didn't know you were so into Gari, Riki. It's totally clear from the way you bat.",
-    "Target": "没想到你这么喜欢姜片，理树。真是固执啊。"
+    "Target": "没想到你这么喜欢姜片，理树。看你的挥棒就知道了。",
+    "JP": "「理樹は回転寿司のがりが好きだなあ。球筋に出まくってるぜ？」"
   },
   {
     "Source": "Drag in the message window to rewind.\nFlick and auto swiping (unlock by tapping).",
-    "Target": "在消息窗中拖动以回退.\n通过滑动自动回退(通过点击解锁)."
+    "Target": "在消息窗中拖动以回退.\n通过滑动自动回退(通过点击解锁).",
+    "JP": null
   },
   {
     "Source": "Do you want to eat poisonous mushrooms that bad? It's clear from the way you bat.",
-    "Target": "你这么想吃毒蘑菇吗？真是固执啊。"
+    "Target": "你这么想吃毒蘑菇吗？看你的挥棒就知道了。",
+    "JP": "「そんなにあきらかな毒キノコが食いたいのかい。球筋に出てるぜ？」"
   },
   {
     "Source": "It's okay to throw the soil from Koshien like you would be praying. (By Kyousuke)",
-    "Target": "像祈祷一样扔甲子园的土也是可以的。（By 恭介）"
+    "Target": "像祈祷一样扔甲子园的土也是可以的。（By 恭介）",
+    "JP": "願掛けとして投げつけてよし(By恭介)"
   },
   {
     "Source": "Do you want to reset Saya's root?\n(If yes, you will get to start over her route.)",
-    "Target": "是否重置沙耶的路线？\n（如果选择是，您将能够再次攻略沙耶线。）"
+    "Target": "是否重置沙耶的路线？\n（如果选择是，您将能够再次攻略沙耶线。）",
+    "JP": "沙耶をもう一度攻略できるようにしますか？\n（「はい」を選ぶと再び沙耶を攻略できるようになります）"
   },
   {
     "Source": "【Base Wait Time】You can set a Base Wait Time to add to ❝Wait Time Per Character❞.",
-    "Target": "【基本等待时间】您可以将基本等待时间添加到“每个角色的等待时间”中。"
+    "Target": "【基础等待时间】可设置在“每字符等待时间”之外额外增加的固定等待时间。",
+    "JP": "【固定待機時間】「文字数待機時間」に追加する固定的な待ち時間を設定できます。"
   },
   {
     "Source": "Do you want to drink undiluted Calpis that bad? It's clear from the way you bat.",
-    "Target": "你这么想喝未稀释的可尔必思吗？真是固执啊。"
+    "Target": "你这么想喝未稀释的可尔必思吗？看你的挥棒就知道了。",
+    "JP": "「そんなにカルピスを原液のまま飲みたいのかい。球筋に出てるぜ？」"
   },
   {
     "Source": "Masato has already used it in a battle, so I give the green light. (By Kyousuke)",
-    "Target": "因为真人已经在战斗中使用过它了，所以我批准了。（By 恭介）"
+    "Target": "因为真人已经在战斗中使用过它了，所以我批准了。（By 恭介）",
+    "JP": "すでに真人がこれで戦っていたな。よし、叩きつけることを許可しよう(By恭介)"
   },
   {
     "Source": "Give it a rest already, think of something other than tropical coconut milk too.",
-    "Target": "够了，想点椰奶以外的东西吧。"
+    "Target": "够了，想点椰奶以外的东西吧。",
+    "JP": "「もうトロピカルなココナッツミルクはいいだろ、少しはココナッツミルク以外のことも考えろよ」"
   },
   {
     "Source": "Give it a rest already. You should learn you can't avoid getting burned forever.",
-    "Target": "够了。学着接受被烫伤是无法避免的。"
+    "Target": "够了，别再用吸管喝热咖啡了，也该记住烫伤的教训吧。",
+    "JP": "「もう熱いコーヒーをストローで飲むのはいいだろ、火傷するってことも学習しろよ」"
   },
   {
     "Source": "Did coming here launch your rebellious period? It's clear from the way you bat.",
-    "Target": "来这里让你进入叛逆期了吗？真是固执啊。"
+    "Target": "来这里让你进入叛逆期了吗？看你的挥棒就知道了。",
+    "JP": "「ここに来て反抗期かい。球筋に出てるぜ？」"
   },
   {
     "Source": "Give it a rest already, think of something other than mayonnaise sometimes too.",
-    "Target": "够了，偶尔想些蛋黄酱以外的东西吧。"
+    "Target": "够了，偶尔想些蛋黄酱以外的东西吧。",
+    "JP": "「もうマヨネーズはいいだろ、少しはマヨネーズ以外のことも考えろよ」"
   },
   {
     "Source": "Thinking about a heart-marked omelette again? It's clear from the way you bat.",
-    "Target": "又在想着画着心形的蛋包饭了？真是固执啊。"
+    "Target": "又在想着画了爱心的煎蛋卷了？看你的挥棒就知道了。",
+    "JP": "「またケチャップでハートマークが書かれたオムレツかい。球筋に出てるぜ？」"
   },
   {
     "Source": "Drag in the message window to skip.\nAuto skip by swiping (unlock by tapping).",
-    "Target": "在消息窗中拖动以跳过.\n通过滑动自动跳过(通过点击解锁)."
+    "Target": "在消息窗中拖动以跳过.\n通过滑动自动跳过(通过点击解锁).",
+    "JP": null
   },
   {
     "Source": "I didn't mean to aim at you, but I hope you now understand how the cats felt.",
-    "Target": "我不是故意瞄准你的，但你现在知道猫的感受了吧。"
+    "Target": "我不是故意瞄准你的，但你现在知道猫的感受了吧。",
+    "JP": "「狙ったわけじゃないが猫の苦しみがわかったかっ」"
   },
   {
     "Source": "Do you want to eat bruised bananas that bad? It's clear from the way you bat.",
-    "Target": "你这么想吃有伤的香蕉吗？真是固执啊。"
+    "Target": "你这么想吃有伤的香蕉吗？看你的挥棒就知道了。",
+    "JP": "「そんなに真っ黒に変色したバナナが食いたいのかい。球筋に出てるぜ？」"
   },
   {
     "Source": "Thinking about tropical coconut milk again? It's clear from the way you bat.",
-    "Target": "又在想着热带椰奶了？真是固执啊。"
+    "Target": "又在想着热带椰奶了？看你的挥棒就知道了。",
+    "JP": "「またトロピカルなココナッツミルクかい。球筋に出てるぜ？」"
   },
   {
     "Source": "Do you want tropical coconut milk that bad? It's clear from the way you bat.",
-    "Target": "你这么想喝热带椰奶吗？真是固执啊。"
+    "Target": "你这么想喝热带椰奶吗？看你的挥棒就知道了。",
+    "JP": "「そんなにトロピカルなココナッツミルクが飲みたいのかい。球筋に出まくってるぜ？」"
   },
   {
     "Source": "Do you want to eat a Tongari Corn that bad? It's clear from the way you bat.",
-    "Target": "你这么想吃玉米锥吗？真是固执啊。"
+    "Target": "你这么想吃玉米锥吗？看你的挥棒就知道了。",
+    "JP": "「そんなにとんがりコーンが食いたいのかい。球筋に出てるぜ？」"
   },
   {
     "Source": "Give it a rest already, at least think about edible mushrooms sometimes too.",
-    "Target": "够了，至少想些能吃的蘑菇吧。"
+    "Target": "够了，至少想些能吃的蘑菇吧。",
+    "JP": "「もうあきらかな毒キノコはいいだろ、せめて食えるキノコのことを考えろよ」"
   },
   {
     "Source": "It's a weapon of great potential against girls who hate bugs. (By Kyousuke)",
-    "Target": "对于讨厌虫子的女孩来说，它是有很大潜力的武器。（By 恭介）"
+    "Target": "对于讨厌虫子的女孩来说，它是有很大潜力的武器。（By 恭介）",
+    "JP": "虫嫌いな女子に対しては効果的な武器だな(By恭介)"
   },
   {
     "Source": "`Kyousuke@❝There's still some time until the game, but don't get careless!❞",
-    "Target": "`恭介@「离比赛还有一段时间，但不要松懈！」"
+    "Target": "`恭介@「离比赛还有一段时间，但不要松懈！」",
+    "JP": "`恭介@「試合までまだあるが、気を抜くなよ！」"
   },
   {
     "Source": "An impenetrable formation... Wait, she just wants everyone around herself!",
-    "Target": "无懈可击的阵型…等等，她只是想把所有人留在自己身边！"
+    "Target": "无懈可击的阵型…等等，她只是想把所有人留在自己身边！",
+    "JP": "鉄壁の内野陣だ…。って、単に自分を囲んでほしいだけのポジションじゃん！"
   },
   {
     "Source": "It's okay to throw pillows like you would in a pillow fight. (By Kyousuke)",
-    "Target": "像枕头大战一样扔枕头也是可以的。（By 恭介）"
+    "Target": "像枕头大战一样扔枕头也是可以的。（By 恭介）",
+    "JP": "枕投げの要領で投げつけてよし(By恭介)"
   },
   {
     "Source": "Everyone else worriedly rushed to her, but it didn't seem like a big deal.",
-    "Target": "其他人担心地冲了过来，但似乎没什么大问题。"
+    "Target": "其他人担心地冲了过来，但似乎没什么大问题。",
+    "JP": "みんなも心配そうに駆け寄ったけど、たいしたことはなかったようだ。"
   },
   {
     "Source": "Are you craving for a hamburger that bad? It's clear from the way you bat.",
-    "Target": "你这么想吃汉堡吗？真是固执啊。"
+    "Target": "你就这么想吃汉堡肉饼吗？看你的挥棒就知道了。",
+    "JP": "「そんなにハンバーグが食いたいのかい。球筋に出てるぜ？」"
   },
   {
     "Source": "Give it a rest already, think of something other than hamburgers for once.",
-    "Target": "够了，换点别的东西想想吧，别老是汉堡。"
+    "Target": "够了，偶尔也想想汉堡肉饼以外的东西吧。",
+    "JP": "「もうハンバーグはいいだろ、少しはハンバーグ以外のことも考えろよ」"
   },
   {
     "Source": "Do you want to drink mayonnaise that bad? It's clear from the way you bat.",
-    "Target": "你这么想喝蛋黄酱吗？真是固执啊。"
+    "Target": "你这么想喝蛋黄酱吗？看你的挥棒就知道了。",
+    "JP": "「そんなにマヨネーズが飲みたいのかい。球筋に出てるぜ？」"
   },
   {
     "Source": "Won't you hit a ❛Terrifying: the Vanishing Ball❜ or something, sometimes?",
-    "Target": "难道你不会打出什么『恐怖的消失球』之类的吗？"
+    "Target": "难道你不会打出什么『恐怖的消失球』之类的吗？",
+    "JP": "「たまには『恐怖・消える打球』くらい打ってくれ」"
   },
   {
     "Source": "Did you start worrying about hair loss? It's clear from the way you bat.",
-    "Target": "你开始担心脱发了吗？真是固执啊。"
+    "Target": "你开始担心脱发了吗？看你的挥棒就知道了。",
+    "JP": "「抜け毛が気になり始めたか？　球筋に出てるぜ？」"
   },
   {
     "Source": "Give it a rest already, think of something other than Tongari Corn too.",
-    "Target": "够了，换点别的东西想想吧，别老是玉米锥。"
+    "Target": "够了，换点别的东西想想吧，别老是玉米锥。",
+    "JP": "「もうとんがりコーンはいいだろ、少しはとんがりコーン以外のことも考えろよ」"
   },
   {
     "Source": "Give it a rest already, think of something other than erotic juice too.",
-    "Target": "够了，想点色情饮料以外的东西吧。"
+    "Target": "够了，想点色情饮料以外的东西吧。",
+    "JP": "「もうエロティックなジュースはいいだろ、少しはエロティックなジュース以外のことも考えろよ」"
   },
   {
     "Source": "Thinking about undiluted Calpis again? It's clear from the way you bat.",
-    "Target": "又在想着未稀释的可尔必思了？真是固执啊。"
+    "Target": "又在想着未稀释的可尔必思了？看你的挥棒就知道了。",
+    "JP": "「またカルピスの原液かい。球筋に出てるぜ？」"
   },
   {
     "Source": "This is my last chance to make changes. I should decide this carefully.",
-    "Target": "这是我最后一次做出改变的机会。我应该慎重决定。"
+    "Target": "这是我最后一次做出改变的机会。我应该慎重决定。",
+    "JP": "変えるならこれが最後だ。このままでいくか慎重に決めよう。"
   },
   {
     "Source": "`Female Student@❝There's no jelly... I didn't really want it, though.❞",
-    "Target": "`女学生@「没有果冻…不过我也不太想要。」"
+    "Target": "`女学生@「没有果冻…不过我也不太想要。」",
+    "JP": "`女子生徒@「ゼリーがないんだけど…特に欲しいわけじゃないけど」"
   },
   {
     "Source": "Give it a rest already, think about ripe yellow bananas sometimes too.",
-    "Target": "够了，偶尔想想熟透的黄香蕉吧。"
+    "Target": "够了，偶尔想想熟透的黄香蕉吧。",
+    "JP": "「もう真っ黒なバナナはいいだろ、少しは食べ頃の黄色いバナナのことも考えろよ」"
   },
   {
     "Source": "Thinking about bruised bananas again? It's clear from the way you bat.",
-    "Target": "又在想着有伤的香蕉了？真是固执啊。"
+    "Target": "又在想着有伤的香蕉了？看你的挥棒就知道了。",
+    "JP": "「また真っ黒に変色したバナナかい。球筋に出てるぜ？」"
   },
   {
     "Source": "Give it a rest already, think of something other than fresh milk too.",
-    "Target": "够了，想点鲜牛奶以外的东西吧。"
+    "Target": "够了，想点鲜牛奶以外的东西吧。",
+    "JP": "「もう搾り立ての牛乳はいいだろ、少しは搾り立ての牛乳以外のことも考えろよ」"
   },
   {
     "Source": "`Female Student@❝How can you even serve this with a straight face...❞",
-    "Target": "`女学生@「怎么能面不改色地端上这种东西…」"
+    "Target": "`女学生@「怎么能面不改色地端上这种东西…」",
+    "JP": "`女子生徒@「むちゃくちゃじゃない！」"
   },
   {
     "Source": "Give it a rest already, think about ordinary omelettes sometimes too.",
-    "Target": "够了，偶尔想想普通的蛋包饭吧。"
+    "Target": "够了，偶尔也想想普通的煎蛋卷吧。",
+    "JP": "「もうケチャップでハートマークが書かれたオムレツはいいだろ、少しは地味なオムレツのことも考えろよ」"
   },
   {
     "Source": "Wait up, you muscles over there. You're too sultry, you need to stop.",
-    "Target": "等等，那边的肌肉们。你们太性感了，得停下来。"
+    "Target": "那边的肌肉，站住！看着都热得慌，快停下！",
+    "JP": "「その前の筋肉、とまりなさーい。暑苦しいのでとまりなさーい」"
   },
   {
     "Source": "Rolling the same numbers equals your opponent's death. (By Kyousuke)",
-    "Target": "掷出相同的数字等于你的对手死亡。（By 恭介）"
+    "Target": "掷出相同的数字等于你的对手死亡。（By 恭介）",
+    "JP": "ゾロ目が出たら相手が即死、としよう(By恭介)"
   },
   {
     "Source": "Do you want erotic juice that bad? It's clear from the way you bat.",
-    "Target": "你这么想喝色情饮料吗？真是固执啊。"
+    "Target": "你这么想喝色情饮料吗？看你的挥棒就知道了。",
+    "JP": "「そんなにエロティックなジュースが飲みたいのかい。球筋に出てるぜ？」"
   },
   {
     "Source": "Thinking about Tongari Corn again? It's clear from the way you bat.",
-    "Target": "又在想着玉米锥了？真是固执啊。"
+    "Target": "又在想着玉米锥了？看你的挥棒就知道了。",
+    "JP": "「またとんがりコーンかい。球筋に出てるぜ？」"
   },
   {
     "Source": "`Kyousuke@❝It's almost time for the game, put your spirit into it!❞",
-    "Target": "`恭介@「比赛快到了，打起精神来！」"
+    "Target": "`恭介@「比赛快到了，打起精神来！」",
+    "JP": "`恭介@「試合はもうすぐだ。しまっていくぞ！」"
   },
   {
     "Source": "Thinking about erotic juice again? It's clear from the way you bat.",
-    "Target": "又在想着色情饮料了？真是固执啊。"
+    "Target": "又在想着色情饮料了？看你的挥棒就知道了。",
+    "JP": "「またエロティックなジュースかい。球筋に出てるぜ？」"
   },
   {
     "Source": "Wow, that's actually not bad at all... Wait, there are two Masatos!",
-    "Target": "哇，意外的还不错…等等，居然有两个真人！"
+    "Target": "哇，意外的还不错…等等，居然有两个真人！",
+    "JP": "お、意外にまともだ。…って、真人がふたりもいるじゃん！"
   },
   {
     "Source": "Don't be afraid to ruin your clothes, there is value in that also.",
-    "Target": "不要害怕弄脏衣服，那也是有价值的。"
+    "Target": "不要害怕弄脏衣服，那也是有价值的。",
+    "JP": "「どろどろになってよ、それでも得難い何かがあるのさ」"
   },
   {
     "Source": "`Kyousuke@❝The game is tomorrow, Riki, let loose the dogs of war!❞",
-    "Target": "`恭介@「比赛是明天，理树，让战争爆发吧！」"
+    "Target": "`恭介@「明天就比赛了，理树！喊一声‘打起精神来，上吧！’」",
+    "JP": "`恭介@「明日は試合だ、理樹、しまっていくぞって声を掛けろ！」"
   },
   {
     "Source": "Don't be afraid to wear yourself out, there is value in that also.",
-    "Target": "不要害怕累坏自己，那也是有价值的。"
+    "Target": "不要害怕累坏自己，那也是有价值的。",
+    "JP": "「ぼろぼろになってよ、それでも得難い何かがあるのさ」"
   },
   {
     "Source": "Well, it's okay to throw it. Some teachers do that. (By Kyousuke)",
-    "Target": "嗯，扔出去也没关系。有些老师也会这么做。（By 恭介）"
+    "Target": "嗯，扔出去也没关系。有些老师也会这么做。（By 恭介）",
+    "JP": "まあ、投げつけてもいいだろ。教師もそうする奴がいるからな(By恭介)"
   },
   {
     "Source": "Give it a rest already, think of something other than yogurt too.",
-    "Target": "够了，想点酸奶以外的东西吧。"
+    "Target": "够了，想点养乐多以外的东西吧。",
+    "JP": "「もうヤクルトはいいだろ、少しはヤクルト以外のことも考えろよ」"
   },
   {
     "Source": "Thinking about fresh milk again? It's clear from the way you bat.",
-    "Target": "又在想着鲜牛奶了？真是固执啊。"
+    "Target": "又在想着鲜牛奶了？看你的挥棒就知道了。",
+    "JP": "「また搾り立ての牛乳かい。球筋に出てるぜ？」"
   },
   {
     "Source": "Do you want fresh milk that bad? It's clear from the way you bat.",
-    "Target": "你这么想喝鲜牛奶吗？真是固执啊。"
+    "Target": "你这么想喝鲜牛奶吗？看你的挥棒就知道了。",
+    "JP": "「そんなに搾り立ての牛乳が飲みたいのかい。球筋に出てるぜ？」"
   },
   {
     "Source": "Thinking about mayonnaise again? It's clear from the way you bat.",
-    "Target": "又在想着蛋黄酱了？真是固执啊。"
+    "Target": "又在想着蛋黄酱了？看你的挥棒就知道了。",
+    "JP": "「またマヨネーズかい。球筋に出てるぜ？」"
   },
   {
     "Source": "`Female Student@❝I'd never order something so high on calories!?❞",
-    "Target": "`女学生@「我才不会点这么高热量的东西！？」"
+    "Target": "`女学生@「我才不会点这么高热量的东西！？」",
+    "JP": "`女子生徒@「定食になってないじゃない！」"
   },
   {
     "Source": "Why are you wasting your time here, you have some serious talent!",
-    "Target": "你在这里真是暴殄天物，你真有天赋！"
+    "Target": "你在这里真是暴殄天物，你真有天赋！",
+    "JP": "「おまえ、こんなところでくすぶってていいのか、すごい才能じゃないかっ！」"
   },
   {
     "Source": "Thinking about hamburger again? It's clear from the way you bat.",
-    "Target": "又在想着汉堡了？真是固执啊。"
+    "Target": "又在想着汉堡肉饼了？看你的挥棒就知道了。",
+    "JP": "「またハンバーグかい。球筋に出てるぜ？」"
   },
   {
     "Source": "Today is truly a perfect Haruchin weather. Whatever that means!",
-    "Target": "今天真是个完美的小叶子天气。不要管那是什么意思！"
+    "Target": "今天真是个完美的小叶子天气。不要管那是什么意思！",
+    "JP": "「本日は絶好のはるちん日和ですナ。意味わかんないけど！」"
   },
   {
     "Source": "If you keep playing baseball, you can even aim for the pros...",
-    "Target": "如果你继续打棒球，甚至可以能成为职业球员…"
+    "Target": "如果你继续打棒球，甚至可以能成为职业球员…",
+    "JP": "「もっと昔から野球やってたら、プロ目指せたぜ…」"
   },
   {
     "Source": "Didn't we make a promise! Though I forgot what it was already!",
-    "Target": "我们不是有个约定吗！虽然我已经忘了是什么！"
+    "Target": "我们不是有个约定吗！虽然我已经忘了是什么！",
+    "JP": "「おまえ誓ったろ、忘れたけどさ！」"
   },
   {
     "Source": "`Male Student@❝What am I supposed to do with jelly and rice!?❞",
-    "Target": "`男学生@「饭和果冻要我怎么办！？」"
+    "Target": "`男学生@「饭和果冻要我怎么办！？」",
+    "JP": "`男子生徒@「ご飯とゼリーだけでどうすんだよ！」"
   },
   {
     "Source": "Guys can use it the way they would smack flies. (By Kyousuke)",
-    "Target": "男生可以像拍苍蝇一样用它。（By 恭介）"
+    "Target": "男生可以像拍苍蝇一样用它。（By 恭介）",
+    "JP": "男子は羽虫を追い払うようにはたくことを許可しよう(By恭介)"
   },
   {
     "Source": "You can only fight by manipulating the phantom. (By Kyousuke)",
-    "Target": "你只能通过操控幻影来战斗。（By 恭介）"
+    "Target": "你只能通过操控幻影来战斗。（By 恭介）",
+    "JP": "手で動かして、あくまでも怪人に戦わせること(By恭介)"
   },
   {
     "Source": "If you can count up to 9999, it's your victory. (By Kyousuke)",
-    "Target": "如果你能数到9999，那就算你赢了。（By 恭介）"
+    "Target": "如果你能数到9999，那就算你赢了。（By 恭介）",
+    "JP": "９９９９でカウントストップできたらその時点で相手の負けとする(By恭介)"
   },
   {
     "Source": "Are you at that age already? It's clear from the way you bat.",
-    "Target": "你已经到了那个年纪了吗？真是固执啊。"
+    "Target": "你已经到了那个年纪了吗？看你的挥棒就知道了。",
+    "JP": "「その歳で生えてきたのかい。球筋に出てるぜ？」"
   },
   {
     "Source": "Are you mad about something? It's clear from the way you bat.",
-    "Target": "你生气了吗？真是固执啊。"
+    "Target": "你生气了吗？看你的挥棒就知道了。",
+    "JP": "「ちょっと心が荒れ模様かい。球筋に出てるぜ？」"
   },
   {
     "Source": "Incredible... Never expected to find such a raw diamond here.",
-    "Target": "不可思议…从未想到这里会有这样的璞玉。"
+    "Target": "不可思议…从未想到这里会有这样的璞玉。",
+    "JP": "「すげぇ…とんでもないダイヤの原石だぜ」"
   },
   {
     "Source": "Because there is unread text,$djump stopped at that position.",
-    "Target": "因为有未读文本，$djump在该位置停止。"
+    "Target": "因为有未读文本，$djump在该位置停止。",
+    "JP": "$A1未読のテキストがあるため、$dその位置でジャンプを停止しました。"
   },
   {
     "Source": "Thinking about yogurt again? It's clear from the way you bat.",
-    "Target": "又在想着酸奶了？真是固执啊。"
+    "Target": "又在想着养乐多了？看你的挥棒就知道了。",
+    "JP": "「またヤクルトかい。球筋に出てるぜ？」"
   },
   {
     "Source": "Do you want yogurt that bad? It's clear from the way you bat.",
-    "Target": "你这么想喝酸奶吗？真是固执啊。"
+    "Target": "你就这么想喝养乐多吗？看你的挥棒就知道了。",
+    "JP": "「そんなにヤクルトが飲みたいのかい。球筋に出てるぜ？」"
   },
   {
     "Source": "If you're energetic, that makes me energetic as well, fight♪",
-    "Target": "如果你充满活力，那也会让我充满活力，加油♪"
+    "Target": "如果你充满活力，那也会让我充满活力，加油♪",
+    "JP": "「あなたの元気～は私の元気～さ、ふぁいっ♪」"
   },
   {
     "Source": "Hu... hu... my muscles are screaming! They're screaming out!",
-    "Target": "呼… 呼… 我的肌肉在尖叫！它们在尖叫！"
+    "Target": "呼… 呼… 我的肌肉在尖叫！它们在尖叫！",
+    "JP": "「ふっ…ふっ…筋肉がうなる！　うなりを上げる！」"
   },
   {
     "Source": "Suro-ingu! Aimu suro-inga-... That's so hard to pronounce...",
-    "Target": "投掷！我在投掷～…真难发音…"
+    "Target": "投掷！我在投掷～…真难发音…",
+    "JP": "「すろーいんぐ！　あいむすろーいんがー…長いのですっ」"
   },
   {
     "Source": "Swipe outside the message window to jump to previous choice.",
-    "Target": "在消息窗口外滑动跳转到上一个选择。"
+    "Target": "在消息窗口外滑动跳转到上一个选择。",
+    "JP": null
   },
   {
     "Source": "The Muscle Exchange thanks you for your continued patronage.",
-    "Target": "肌肉交易所感谢您的持续光顾。"
+    "Target": "肌肉交易所感谢您的持续光顾。",
+    "JP": "「毎度おなじみの～筋肉交換でございま～す」"
   },
   {
     "Source": "\"Give it a rest already. You should mix it with some water.\"",
-    "Target": "够了，应该加点水稀释一下。"
+    "Target": "够了，应该加点水稀释一下。",
+    "JP": "「もうカルピスの原液はいいだろ、少しは割って飲めよ」"
   },
   {
     "Source": "Good evening. The time is 19:55, it's Haruchin in the night.",
-    "Target": "晚上好。现在是19:55，是夜晚的小叶子。"
+    "Target": "晚上好。现在是19:55，是夜晚的小叶子。",
+    "JP": "「こんばんは。１９時５５分、夜のはるちんです」"
   },
   {
     "Source": "`Kud@❝wa, wafu～ ... toraburu teriburu akushindento desu ...❞",
-    "Target": "`库特@「哇，哇呼～…麻烦、糟透了、事故事故…」"
+    "Target": "`库特@「哇，哇呼～…麻烦、糟透了、事故事故…」",
+    "JP": "`クド@「わ、わふー…とらぶるてりぶるあくしでんとです…」"
   },
   {
     "Source": "`Kyousuke@❝Aight, that was a good sweat, let's end it here.❞",
-    "Target": "`恭介@「好了，流了不少汗，就到这里吧。」"
+    "Target": "`恭介@「好了，流了不少汗，就到这里吧。」",
+    "JP": "`恭介@「よし、終わろう。いい汗かいたな」"
   },
   {
     "Source": "What are you anxious about? It's clear from the way you bat.",
-    "Target": "你在担心什么？真是固执啊。"
+    "Target": "你在担心什么？看你的挥棒就知道了。",
+    "JP": "「なにを憂いでいる。球筋に出てるぜ？」"
   },
   {
     "Source": "That's enough, I already understand well how great you are.",
-    "Target": "够了，我已经很清楚你有多厉害了。"
+    "Target": "够了，我已经很清楚你有多厉害了。",
+    "JP": "「もうおまえのすごさはわかったから」"
   },
   {
     "Source": "Thinking about Gari again? It's clear from the way you bat.",
-    "Target": "又在想着姜片了？真是固执啊。"
+    "Target": "又在想着姜片了？看你的挥棒就知道了。",
+    "JP": "「また回転寿司のがりかい。球筋に出てるぜ？」"
   },
   {
     "Source": "Would you like to return this page to the default settings?",
-    "Target": "是否将此页面恢复为默认设置？"
+    "Target": "是否将此页面恢复为默认设置？",
+    "JP": "このページを初期設定に戻しますか？"
   },
   {
     "Source": "`Male Student@❝Hey, isn't there something wrong with this?❞",
-    "Target": "`男学生@「喂，这不是哪里有问题吗？」"
+    "Target": "`男学生@「喂，这不是哪里有问题吗？」",
+    "JP": "`男子生徒@「これなんかおかしくねーか？」"
   },
   {
     "Source": "Good, hit another one, hit another one with all your might!",
-    "Target": "很好，再打一个，再用尽全力打一个！"
+    "Target": "很好，再打一个，再用尽全力打一个！",
+    "JP": "「いいぞ、打って打って打ちまくれ！」"
   },
   {
     "Source": "`Male Student@❝My belly will blow up if I eat all of this!❞",
-    "Target": "`男学生@「如果我吃光这些，我的肚子会爆炸的！」"
+    "Target": "`男学生@「如果我吃光这些，我的肚子会爆炸的！」",
+    "JP": "`男子生徒@「こんなに食ったら胃がもたれるだろ！」"
   },
   {
     "Source": "Would you like to start the game from the selected message?",
-    "Target": "是否从选定的消息开始游戏？"
+    "Target": "是否从选定的消息开始游戏？",
+    "JP": "選択したメッセージからゲームを開始しますか？"
   },
   {
     "Source": "You can only fight by manipulating the robot.(By Kyousuke)",
-    "Target": "你只能通过操控机器人来战斗。（By 恭介）"
+    "Target": "你只能通过操控机器人来战斗。（By 恭介）",
+    "JP": "手で動かして、あくまでもロボットに戦わせること(By恭介)"
   },
   {
     "Source": "You can only fight by manipulating the hero. (By Kyousuke)",
-    "Target": "你只能通过操控英雄来战斗。（By 恭介）"
+    "Target": "你只能通过操控英雄来战斗。（By 恭介）",
+    "JP": "手で動かして、あくまでもヒーローに戦わせること(By恭介)"
   },
   {
     "Source": "Muscles are passing by! Quite some muscles are passing by!",
-    "Target": "肌肉路过！相当壮的肌肉路过！"
+    "Target": "肌肉路过！相当壮的肌肉路过！",
+    "JP": "「筋肉が通りまーす。かなりの筋肉が通りまーす」"
   },
   {
     "Source": "$K1Settings$K0 such as character feed speed are reflected.",
-    "Target": "$K1设置$K0（例如角色显示速度）已反映。"
+    "Target": "$K1设置$K0（例如角色显示速度）已反映。",
+    "JP": null
   },
   {
     "Source": "Girls can roll it up and use it as a sword. (By Kyousuke)",
-    "Target": "女生可以把它卷起来当作剑来用。（By 恭介）"
+    "Target": "女生可以把它卷起来当作剑来用。（By 恭介）",
+    "JP": "女子は丸めてブレード化してよし(By恭介)"
   },
   {
     "Source": "That girl, I'm suspecting she has her eyes on Riki-kun...",
-    "Target": "那个女孩，该不会在打理树君的主意吧…"
+    "Target": "那个女孩，该不会在打理树君的主意吧…",
+    "JP": "「あの子、理樹くんを狙ってないかしら…」"
   },
   {
     "Source": "The gathered onlookers throw in one weapon after another!",
-    "Target": "围观者一件接一件地扔出武器！"
+    "Target": "围观者一件接一件地扔出武器！",
+    "JP": "野次馬達から次々と武器が投げ込まれる！"
   },
   {
     "Source": "Have you fallen in love? It's clear from the way you bat.",
-    "Target": "你恋爱了吗？真是固执啊。"
+    "Target": "你恋爱了吗？看你的挥棒就知道了。",
+    "JP": "「好きな子でもできたのかい。球筋に出てるぜ？」"
   },
   {
     "Source": "`Male Student@❝Do you expect me to eat all this jelly!?❞",
-    "Target": "`男学生@「你是要我吃光这些果冻吗！？」"
+    "Target": "`男学生@「你是要我吃光这些果冻吗！？」",
+    "JP": "`男子生徒@「どれだけゼリー食わせたいんだよ！」"
   },
   {
     "Source": "`Male Student@❝Why did you put rice and onigiri on it!?❞",
-    "Target": "`男学生@「你为什么把米饭和饭团都放上去了！？」"
+    "Target": "`男学生@「你为什么把米饭和饭团都放上去了！？」",
+    "JP": "`男子生徒@「ご飯とおにぎり、かぶってるじゃないか！」"
   },
   {
     "Source": "Muscles are passing by! Enormous muscles are passing by!",
-    "Target": "肌肉路过！巨大的肌肉路过！"
+    "Target": "肌肉路过！巨大的肌肉路过！",
+    "JP": "「筋肉が通りまーす。相当な筋肉が通りまーす」"
   },
   {
     "Source": "This is Quite Some Muscles, heading out to the site now.",
-    "Target": "我是相当壮的肌肉，现在要去现场了。"
+    "Target": "我是相当壮的肌肉，现在要去现场了。",
+    "JP": "「ジッ…こちらかなりの筋肉、ただちに現場に向かいます」"
   },
   {
     "Source": "Maybe you should consider switching to some other sport.",
-    "Target": "也许你应该考虑换个运动。"
+    "Target": "也许你应该考虑换个运动。",
+    "JP": "「何か別の競技のほうが向いてるんじゃないか」"
   },
   {
     "Source": "$A1The system data is corrupted and can not be loaded. ",
-    "Target": "$A1系统数据已损坏，无法加载。"
+    "Target": "$A1系统数据已损坏，无法加载。",
+    "JP": null
   },
   {
     "Source": "It was just a small compliment, don't get carried away!",
-    "Target": "这只是个小小的称赞，不要得意忘形！"
+    "Target": "这只是个小小的称赞，不要得意忘形！",
+    "JP": "「ちょっと褒められたからって調子に乗ってるなっ」"
   },
   {
     "Source": "`Male Student@❝Do you expect me to eat all of this...?❞",
-    "Target": "`男学生@「你是要我吃光这些吗…?」"
+    "Target": "`男学生@「你是要我吃光这些吗…?」",
+    "JP": "`男子生徒@「こんなに食えないんだが…」"
   },
   {
     "Source": "Muscles are passing by! Thank you for your cooperation!",
-    "Target": "肌肉路过！感谢您的配合！"
+    "Target": "肌肉路过！感谢您的配合！",
+    "JP": "「筋肉が通りまーす。ご協力ありがとうございまーす」"
   },
   {
     "Source": "This was Haruchin. Thank you for watching Countdown TV.",
-    "Target": "这里是小叶子。感谢您收看倒计时电视。"
+    "Target": "这里是小叶子。感谢您收看倒计时电视。",
+    "JP": "「かうんとだうんてぃーびーをご覧の皆様。はるちんです」"
   },
   {
     "Source": "`Male Student@❝Hey, I can't drink miso soup like this!❞",
-    "Target": "`男学生@「喂，我没法这样喝味增汤！」"
+    "Target": "`男学生@「喂，我没法这样喝味增汤！」",
+    "JP": "`男子生徒@「こんなにみそ汁のめねーよ！」"
   },
   {
     "Source": "This is Enormous Muscles, heading out to the site now.",
-    "Target": "我是巨大的肌肉，现在要去现场了。"
+    "Target": "我是巨大的肌肉，现在要去现场了。",
+    "JP": "「ジッ…こちら相当な筋肉、ただちに現場に向かいます」"
   },
   {
     "Source": "Super-powerful Industrial Heat-resistant Adhesive Tape",
-    "Target": "超强工业耐热胶带"
+    "Target": "超强工业耐热胶带",
+    "JP": "工業用耐熱超強力粘着テープ"
   },
   {
     "Source": "`Female Student@❝What's with this weird combination!?❞",
-    "Target": "`女学生@「这是什么奇怪的组合！？」"
+    "Target": "`女学生@「这是什么奇怪的组合！？」",
+    "JP": "`女子生徒@「よく堂々とこんなトレイ渡せるわね…」"
   },
   {
     "Source": "`Male Student@❝Isn't there something wrong with this?❞",
-    "Target": "`男学生@「这不是哪里有问题吗？」"
+    "Target": "`男学生@「这不是哪里有问题吗？」",
+    "JP": "`男子生徒@「これなんかおかしくないか？」"
   },
   {
     "Source": "Are you that thirsty? It's clear from the way you bat.",
-    "Target": "你这么渴吗？真是固执啊。"
+    "Target": "你这么渴吗？看你的挥棒就知道了。",
+    "JP": "「そんなに喉が渇いたか。球筋に出てるぜ？」"
   },
   {
     "Source": "`Male Student@❝How about giving me something to eat!?❞",
-    "Target": "`男学生@「能不能给我点能吃的东西！？」"
+    "Target": "`男学生@「能不能给我点能吃的东西！？」",
+    "JP": "`男子生徒@「これっぽっちで何を食えってんだよ！」"
   },
   {
     "Source": "You were hungry back then. You were kinda fat though.",
-    "Target": "那时候你很饿。你那时候有点胖呢。"
+    "Target": "那时候你很饿。你那时候有点胖呢。",
+    "JP": "「あの頃のおまえはハングリーだったぜっ、若干肥えてたけどさ」"
   },
   {
     "Source": "Muscles are passing by! Bulky muscles are passing by!",
-    "Target": "肌肉路过！强壮的肌肉路过！"
+    "Target": "肌肉路过！强壮的肌肉路过！",
+    "JP": "「はい、筋肉が通りまーす、逞しい筋肉が通りまーす」"
   },
   {
     "Source": "If I suddenly say Japan, will that make people laugh?",
-    "Target": "如果我突然说Japan，会让人发笑吗？"
+    "Target": "如果我突然说Japan，会让人发笑吗？",
+    "JP": "「唐突にジャパーンとか言ったら受けるでしょうか」"
   },
   {
     "Source": "`Male Student@❝Hey, there aren't enough side dishes!❞",
-    "Target": "`男学生@「喂，配菜不够！」"
+    "Target": "`男学生@「喂，配菜不够！」",
+    "JP": "`男子生徒@「おかず足りてないじゃねーか！」"
   },
   {
     "Source": "Guys can only use the soft rubber part. (By Kyousuke)",
-    "Target": "男生只能用软橡胶的部分。（By 恭介）"
+    "Target": "男生只能用软橡胶的部分。（By 恭介）",
+    "JP": "男子はやわっこいラバー部分でのみ攻撃可とする(By恭介)"
   },
   {
     "Source": "`Male Student@❝Hey, there's nothing but jelly on it!❞",
-    "Target": "`男学生@「喂，上面怎么只有果冻！」"
+    "Target": "`男学生@「喂，上面怎么只有果冻！」",
+    "JP": "`男子生徒@「ゼリーだらけじゃねーか！」"
   },
   {
     "Source": "`Female Student@❝Hey... I really hope it's a joke...❞",
-    "Target": "`女学生@「喂…我真希望这只是个玩笑…」"
+    "Target": "`女学生@「喂…我真希望这只是个玩笑…」",
+    "JP": "`女子生徒@「ちょっと…これ真剣だったら怒るわよ！」"
   },
   {
     "Source": "Are you that hungry? It's clear from the way you bat.",
-    "Target": "你这么饿吗？真是固执啊。"
+    "Target": "你这么饿吗？看你的挥棒就知道了。",
+    "JP": "「そんなに腹が減ったか。球筋に出てるぜ？」"
   },
   {
     "Source": "Do you wish to jump to the beginning of this chapter?",
-    "Target": "是否跳转到本章的开头？"
+    "Target": "是否跳转到本章的开头？",
+    "JP": "このチャプターの先頭にジャンプしますか？"
   },
   {
     "Source": "Oh my god, this screaming is too much for me to take!",
-    "Target": "哦，我的天啊，这尖叫声我实在受不了了！"
+    "Target": "哦，我的天啊，这尖叫声我实在受不了了！",
+    "JP": "「やべぇっ、あまりのうなりにオレ自身がついていけねぇっ」"
   },
   {
     "Source": "Do you have unpleasant memories with cats, or what!?",
-    "Target": "你是不是对猫有不好的回忆！？"
+    "Target": "你是不是对猫有不好的回忆！？",
+    "JP": "「なんだ猫で嫌な思い出でもあるのかっ」"
   },
   {
     "Source": "To be honest, I'm not getting to move all that much!",
-    "Target": "说实话，我没怎么动起来！"
+    "Target": "说实话，我没怎么动起来！",
+    "JP": "「実はあんまり動いてないですヨ！」"
   },
   {
     "Source": "The throwing method directly taught by Kyousuke-san!",
-    "Target": "这是恭介亲自教的投球方法！"
+    "Target": "这是恭介亲自教的投球方法！",
+    "JP": "「恭介さん直伝とうほうっ」"
   },
   {
     "Source": "Uoooo, my muscles are running wild! They're rioting!",
-    "Target": "呜哦哦，我的肌肉在疯狂躁动！它们在暴动！"
+    "Target": "呜哦哦，我的肌肉在疯狂躁动！它们在暴动！",
+    "JP": "「うおおっ、筋肉が暴走だ！　暴徒と化した！」"
   },
   {
     "Source": "I can't wait for a new flavor Mon Petit to come out.",
-    "Target": "我迫不及待地想看到猫罐头推出新口味了。 "
+    "Target": "我迫不及待地想看到猫罐头推出新口味了。 ",
+    "JP": "「モンペチの新しい味が楽しみだ」"
   },
   {
     "Source": "`Female Student@❝I can't eat all this miso soup...❞",
-    "Target": "`女学生@「我吃不完这么多味增汤…」"
+    "Target": "`女学生@「我吃不完这么多味增汤…」",
+    "JP": "`女子生徒@「このコロッケはサービスなの！？」"
   },
   {
     "Source": "`Male Student@❝Cabbage doesn't go well with curry!❞",
-    "Target": "`男学生@「卷心菜和咖喱不搭配！」"
+    "Target": "`男学生@「卷心菜和咖喱不搭配！」",
+    "JP": "`男子生徒@「カレーにキャベツは合わねーだろっ！」"
   },
   {
     "Source": "You should starve some more, starve s-o-m-e more...",
-    "Target": "你应该更饥渴一点，再饥渴一点……"
+    "Target": "你还得再饿一点，再饿——一——点……",
+    "JP": "「もっと飢えるんだ、飢える゛ん゛だあ゛ぁ゛ぁ゛…」"
   },
   {
     "Source": "`Female Student@❝You didn't put anything on it...?❞",
-    "Target": "`女学生@「你什么都没放…?」"
+    "Target": "`女学生@「你什么都没放…?」",
+    "JP": "`女子生徒@「何も載ってないんだけど？」"
   },
   {
     "Source": "`Female Student@❝Should the jelly really be there?❞",
-    "Target": "`女学生@「果冻真的应该在这里吗？」"
+    "Target": "`女学生@「果冻真的应该在这里吗？」",
+    "JP": "`女子生徒@「ゼリー定食かしら…？」"
   },
   {
     "Source": "Do you have unpleasant memories with cats, or what!",
-    "Target": "你是不是对猫有不好的回忆！？"
+    "Target": "你是不是对猫有不好的回忆！？",
+    "JP": null
   },
   {
     "Source": "`Male Student@❝Why is it all covered with jelly!?❞",
-    "Target": "`男学生@「为什么全都是果冻！？」"
+    "Target": "`男学生@「为什么全都是果冻！？」",
+    "JP": "`男子生徒@「ゼリーに埋め尽くされてるじゃないか！」"
   },
   {
     "Source": "Do you wish to jump to the next option or chapter?",
-    "Target": "是否跳转到下一个选项或章节？"
+    "Target": "是否跳转到下一个选项或章节？",
+    "JP": null
   },
   {
     "Source": "The saved data is corrupted and can not be loaded.",
-    "Target": "保存数据已损坏，无法加载。"
+    "Target": "保存数据已损坏，无法加载。",
+    "JP": "セーブデータが破損しているため、ロードできません。"
   },
   {
     "Source": "Do you wish to jump to the next choice or chapter?",
-    "Target": "是否跳转到下一个选择或章节？"
+    "Target": "是否跳转到下一个选择或章节？",
+    "JP": "次の選択肢またはチャプターまでジャンプしますか？"
   },
   {
     "Source": "`Female Student@❝You didn't put anything on it...❞",
-    "Target": "`女学生@「你什么都没放…」"
+    "Target": "`女学生@「你什么都没放…」",
+    "JP": "`女子生徒@「何も載ってないんだけど…」"
   },
   {
     "Source": "`Female Student@❝When did I ask for fried prawns?❞",
-    "Target": "`女学生@「我什么时候点过炸虾了？」"
+    "Target": "`女学生@「我什么时候点过炸虾了？」",
+    "JP": "`女子生徒@「フライなんて頼んでないわよ？」"
   },
   {
     "Source": "`Female Student@❝Why did you give me a cutlet...?❞",
-    "Target": "`女学生@「你为什么要给我炸猪排…?」"
+    "Target": "`女学生@「你为什么要给我炸猪排…?」",
+    "JP": "`女子生徒@「このエビフライはなに！？」"
   },
   {
     "Source": "Rejected on the grounds of plain impossibility...",
-    "Target": "因为明显不可能，所以被拒绝了…"
+    "Target": "因为明显不可能，所以被拒绝了…",
+    "JP": "可能でもお断りします…。"
   },
   {
     "Source": "`Female Student@❝Why is there nothing but jelly?❞",
-    "Target": "`女学生@「为什么只有果冻？」"
+    "Target": "`女学生@「为什么只有果冻？」",
+    "JP": "`女子生徒@「ゼリーこれで合ってるの？」"
   },
   {
     "Source": "I always thought you were a lot better than that!",
-    "Target": "我一直以为你会更厉害一点！"
+    "Target": "我一直以为你会更厉害一点！",
+    "JP": "「もっとすごかったはずだぜ、おまえは！！」"
   },
   {
     "Source": "Riki, why don't you turn into a cat sometime too?",
-    "Target": "理树，你不妨也变成猫一次？"
+    "Target": "理树，你不妨也变成猫一次？",
+    "JP": "「理樹も一回猫になってみたらどうだ」"
   },
   {
     "Source": "`Male Student@❝Hey, why is there so much jelly!?❞",
-    "Target": "`男学生@「喂，为什么这么多果冻！？」"
+    "Target": "`男学生@「喂，为什么这么多果冻！？」",
+    "JP": "`男子生徒@「ゼリーに埋め尽くされてるじゃねーか！」"
   },
   {
     "Source": "That's no good, no one'll get fired up from that.",
-    "Target": "那可不行，这样没人会燃起来啊。"
+    "Target": "那可不行，这样没人会燃起来啊。",
+    "JP": "「まだまだこんなんじゃ燃えねーな」"
   },
   {
     "Source": "`Male Student@❝There aren't enough side dishes!❞",
-    "Target": "`男学生@「配菜不够！」"
+    "Target": "`男学生@「配菜不够！」",
+    "JP": "`男子生徒@「おかず足りてないじゃないか！」"
   },
   {
     "Source": "You want to come back home as a hero, don't you?",
-    "Target": "你不想作为英雄回家吗？"
+    "Target": "你也想衣锦还乡吧？",
+    "JP": "「故郷に錦飾りたいんだろ、おまえはっ」"
   },
   {
     "Source": "`Male Student@❝Hey, what kind of joke is that!?❞",
-    "Target": "`男学生@「喂，这是什么玩笑！？」"
+    "Target": "`男学生@「喂，这是什么玩笑！？」",
+    "JP": null
   },
   {
     "Source": "`Male Student@❝Hey, you only gave me the plate!❞",
-    "Target": "`男学生@「喂，你只给了我盘子！」"
+    "Target": "`男学生@「喂，你只给了我盘子！」",
+    "JP": "`男子生徒@「皿しかないじゃねーか！」"
   },
   {
     "Source": "`Kyousuke@❝Batting and defense practice, start!❞",
-    "Target": "`恭介@「击球和防守练习，开始！」"
+    "Target": "`恭介@「击球和防守练习，开始！」",
+    "JP": "`恭介@「バッティングと守備練習スタートだ！」"
   },
   {
     "Source": "`Male Student@❝There's nothing but jelly on it!❞",
-    "Target": "`男学生@「上面只有果冻！」"
+    "Target": "`男学生@「上面只有果冻！」",
+    "JP": "`男子生徒@「ゼリーだらけじゃないか！」"
   },
   {
     "Source": "The wind is talking to me... Tasty, too tasty...",
-    "Target": "风在和我说话… 美妙，太美妙了…"
+    "Target": "风在对我说话……好吃，太好吃了……",
+    "JP": "「風が語りかけます…うまい、うますぎる…」"
   },
   {
     "Source": "That girl, just because she's a little pretty...",
-    "Target": "那个女孩，有点可爱呢…"
+    "Target": "那个女孩，有点可爱呢…",
+    "JP": "「あの子、ちょっと可愛いわね…」"
   },
   {
     "Source": "Male Student@❝Hey, there's nothing on the tray!❞",
-    "Target": "男学生@「喂，托盘上什么都没有！」"
+    "Target": "男学生@「喂，托盘上什么都没有！」",
+    "JP": "`男子生徒@「そもそも何も載ってないじゃねーか！」"
   },
   {
     "Source": "Sultry muscles are passing by. Please make way.",
-    "Target": "性感的肌肉路过。请让一让。"
+    "Target": "性感的肌肉路过。请让一让。",
+    "JP": "「はいはーい、暑苦しい筋肉が通りまーす。道をあけてくださーい」"
   },
   {
     "Source": "Please make way, sultry muscles are passing by.",
-    "Target": "请让一让，性感的肌肉路过。"
+    "Target": "请让一让，性感的肌肉路过。",
+    "JP": "「どいてくださーい、暑苦しい筋肉が通りまーす」"
   },
   {
     "Source": "Do you hold a grudge against me or something...",
-    "Target": "你是不是对我怀恨在心…"
+    "Target": "你是不是对我怀恨在心…",
+    "JP": "「わたしに何か恨みでも…」"
   },
   {
     "Source": "I want to poke a cat's paw pad, but... Gumuu...",
-    "Target": "好想捏一捏猫咪的肉垫呀…唔姆…"
+    "Target": "好想捏一捏猫咪的肉垫呀…唔姆…",
+    "JP": "「猫の肉球をふにふにしてみたいが…ぐむぅ…」"
   },
   {
     "Source": "It's hard to bat trying not to hit the cats...",
-    "Target": "打球的时候想不打到猫还真难…"
+    "Target": "打球的时候想不打到猫还真难…",
+    "JP": "「猫をよけて打つのが難しい…」"
   },
   {
     "Source": "`Male Student@❝Hey, there's only jelly on it!❞",
-    "Target": "`男学生@「喂，上面只有果冻！」"
+    "Target": "`男学生@「喂，上面只有果冻！」",
+    "JP": "`男子生徒@「ゼリーだけじゃねーか！」"
   },
   {
     "Source": "Today just became my catching anniversary day.",
-    "Target": "今天就是我的接球纪念日。"
+    "Target": "今天就是我的接球纪念日。",
+    "JP": "「今日が私のきゃっち記念日ー」"
   },
   {
     "Source": "Hahaha, you're getting better too, aren't you?",
-    "Target": "哈哈哈，你也变得更厉害了啊。"
+    "Target": "哈哈哈，你也变得更厉害了啊。",
+    "JP": "「はっはっは、おまえも腕を上げたじゃないか」"
   },
   {
     "Source": "`Female Student@❝This isn't even a lunch set!❞",
-    "Target": "`女学生@「这甚至不是一顿午餐！」"
+    "Target": "`女学生@「这甚至不是一顿午餐！」",
+    "JP": "`女子生徒@「なにっこの組み合わせ！？」"
   },
   {
     "Source": "Please let me know right away if you get hurt.",
-    "Target": "如果受伤的话，请立刻和我说。"
+    "Target": "如果受伤的话，请立刻和我说。",
+    "JP": "「怪我をしたらいつでもおっしゃってください」"
   },
   {
     "Source": "`Female Student@❝That's not even a lunch set!❞",
-    "Target": "`女学生@「这根本不是一顿午餐！」"
+    "Target": "`女学生@「这根本不是一顿午餐！」",
+    "JP": null
   },
   {
     "Source": "`Male Student@❝Fried prawn curry, how lucky!❞",
-    "Target": "`男学生@「炸虾咖喱，太幸运了！」"
+    "Target": "`男学生@「炸虾咖喱，太幸运了！」",
+    "JP": "`男子生徒@「ミックスフライカレーだ、ラッキー！」"
   },
   {
     "Source": "You can't stop here... You must move forward!",
-    "Target": "别在这种地方停下来啊…你要继续前进啊！ "
+    "Target": "别在这种地方停下来啊…你要继续前进啊！ ",
+    "JP": "「こんなところで立ち止まってんじゃねぇ…おまえは進めよ！」"
   },
   {
     "Source": "`Female Student@❝Is this croquette a bonus!?❞",
-    "Target": "`女学生@「这个炸肉饼是赠品吗！？」"
+    "Target": "`女学生@「这个炸肉饼是赠品吗！？」",
+    "JP": "`女子生徒@「カツなんて頼んでないんだけど…」"
   },
   {
     "Source": "Ichiro-san threw a laser beam in the pasture.",
-    "Target": "一郎先生在牧场里投出了一记激光球。"
+    "Target": "一郎先生在牧场里投出了一记激光球。",
+    "JP": "「いちろーさんがまきばでれーざーびーむ～」"
   },
   {
     "Source": "I see. That's how it is. That's only natural.",
-    "Target": "原来如此。事情就是这样。这很正常。"
+    "Target": "原来如此。事情就是这样。这很正常。",
+    "JP": "「なるほど。そうなるな。当然だわな」"
   },
   {
     "Source": "`Female Student@❝Is that a jelly special...?❞",
-    "Target": "`女学生@「这是果冻特餐吗…?」"
+    "Target": "`女学生@「这是果冻特餐吗…?」",
+    "JP": "`女子生徒@「こんな高カロリーな定食頼んでないわよ！？」"
   },
   {
     "Source": "Riki-kun, you're more manly than I thought...",
-    "Target": "理树君，你比我想象的还要有男子气概…"
+    "Target": "理树君，你比我想象的还要有男子气概…",
+    "JP": "「理樹くん、意外と男らしいのね…」"
   },
   {
     "Source": "I can't guarantee I won't hit them, you know?",
-    "Target": "我可不能保证不会打到它们哦？"
+    "Target": "我可不能保证不会打到它们哦？",
+    "JP": "「当たってもしらないよ？」"
   },
   {
     "Source": "Naive! How many years have you been batting!?",
-    "Target": "天真！你打球几年了！？"
+    "Target": "天真！你打球几年了！？",
+    "JP": "「甘いぜ！　何年バッターやってんだよっ！」"
   },
   {
     "Source": "This is Muscles, heading out to the site now.",
-    "Target": "我是肌肉，现在要去现场了。"
+    "Target": "我是肌肉，现在要去现场了。",
+    "JP": "「ジッ…こちら筋肉、ただちに現場に向かいます」"
   },
   {
     "Source": "Do you wish to jump to the previous chapter?",
-    "Target": "是否跳转到上一章？"
+    "Target": "是否跳转到上一章？",
+    "JP": "1つ前のチャプターにジャンプしますか？"
   },
   {
     "Source": "I'm rooting for you from the back, Riki-kun.",
-    "Target": "我在后面为你加油，理树君。"
+    "Target": "我在后面为你加油，理树君。",
+    "JP": "「陰から応援してるわよ、理樹くん」"
   },
   {
     "Source": "`Kyousuke@❝Aight, let's call it a day here.❞",
-    "Target": "`恭介@「好了，就到这里吧。」"
+    "Target": "`恭介@「好了，就到这里吧。」",
+    "JP": "`恭介@「よし、今日はこのくらいにしておこう」"
   },
   {
     "Source": "Every dog has its day, as the saying goes...",
-    "Target": "正如俗话所说，风水轮流转…"
+    "Target": "正如俗话所说，风水轮流转…",
+    "JP": "「犬も歩けば棒に当たる、とは言いますが…」"
   },
   {
     "Source": "Great. Keep at it. We must deepen our bonds.",
-    "Target": "太棒了。继续加油。我们必须加深彼此的羁绊。"
+    "Target": "太棒了。继续加油。我们必须加深彼此的羁绊。",
+    "JP": "「そーだ。いいぞー。もっと絆を深めていくんだ」"
   },
   {
     "Source": "This time, wasn't it clearly its own fault!?",
-    "Target": "这次不是它自己的错吗！？"
+    "Target": "这次不是它自己的错吗！？",
+    "JP": "「今の自ら当たりにいったよね！？」"
   },
   {
     "Source": "`Male Student@❝Why did you put rice on it!?❞",
-    "Target": "`男学生@「你为什么把米饭放上去了！？」"
+    "Target": "`男学生@「你为什么把米饭放上去了！？」",
+    "JP": "`男子生徒@「ご飯がかぶってるじゃないか！」"
   },
   {
     "Source": "Is, isn't Rin looking different from usual!?",
-    "Target": "理树，铃看起来和平时不太一样！？"
+    "Target": "怎、怎么回事！？铃和平时不一样啊！？",
+    "JP": "「な、なんだ！？　鈴の様子がいつもと違うぞ！？」"
   },
   {
     "Source": "`Male Student@❝Hey! It's totally not right!❞",
-    "Target": "`男学生@「喂！这完全不对劲！」"
+    "Target": "`男学生@「喂！这完全不对劲！」",
+    "JP": "`男子生徒@「おいおい、間違ってるじゃないか！」"
   },
   {
     "Source": "`Female Student@❝I didn't order a cutlet...❞",
-    "Target": "`女学生@「我没有点炸猪排…」"
+    "Target": "`女学生@「我没有点炸猪排…」",
+    "JP": "`女子生徒@「なんでカツが乗ってんのよ！」"
   },
   {
     "Source": "What's wrong? Run out of steam already, huh?",
-    "Target": "怎么了？已经筋疲力尽了吗？"
+    "Target": "怎么了？已经筋疲力尽了吗？",
+    "JP": "「どうした、ちょっとキレがなくなってきたぜ？」"
   },
   {
     "Source": "Guys can only use the netting. (By Kyousuke)",
-    "Target": "男生只能用网的部分。（By 恭介）"
+    "Target": "男生只能用网的部分。（By 恭介）",
+    "JP": "男子はやわっこい網の部分でのみ攻撃可とする(By恭介)"
   },
   {
     "Source": "`Male Student@❝There's nothing on the tray!❞",
-    "Target": "`男学生@「托盘上什么都没有！」"
+    "Target": "`男学生@「托盘上什么都没有！」",
+    "JP": null
   },
   {
     "Source": "`Male Student@❝Hey, what the hell is this!?❞",
-    "Target": "`男学生@「喂，这是什么鬼东西！？」"
+    "Target": "`男学生@「喂，这是什么鬼东西！？」",
+    "JP": "`男子生徒@「おい、なんだよこりゃあ！」"
   },
   {
     "Source": "`Male Student@❝Croquette curry, how lucky!❞",
-    "Target": "`男学生@「炸肉饼咖喱，太幸运了！」"
+    "Target": "`男学生@「炸肉饼咖喱，太幸运了！」",
+    "JP": "`男子生徒@「カツカレーだ、ラッキー！」"
   },
   {
     "Source": "Not that I'm feeling envious or anything...",
-    "Target": "我可不是在嫉妒什么的…"
+    "Target": "我可不是在嫉妒什么的…",
+    "JP": "「別にうらやましくなんてないわよ…」"
   },
   {
     "Source": "`Kyousuke@❝Aight, let's take a break here.❞",
-    "Target": "`恭介@「好了，现在休息一下。」"
+    "Target": "`恭介@「好了，现在休息一下。」",
+    "JP": "`恭介@「よし、ここらで休憩にしよう」"
   },
   {
     "Source": "They can do it, I just know they can do it.",
-    "Target": "能行，他们一定能行的。"
+    "Target": "能行，他们一定能行的。",
+    "JP": "「いけるっ、こいつはいけるぞっ」"
   },
   {
     "Source": "Do you wish to jump to the previous choice?",
-    "Target": "是否跳转到上一个选择？"
+    "Target": "是否跳转到上一个选择？",
+    "JP": "1つ前の選択肢にジャンプしますか？"
   },
   {
     "Source": "It's exactly as you say. You stand correct.",
-    "Target": "正如你所说。你说得对。"
+    "Target": "正如你所说。你说得对。",
+    "JP": "「確かにおまえの言う通りだ。おまえは正しい」"
   },
   {
     "Source": "`Male Student@❝You only gave me the plate!❞",
-    "Target": "`男学生@「你只给了我盘子！」"
+    "Target": "`男学生@「你只给了我盘子！」",
+    "JP": "`男子生徒@「皿しかないじゃないか！」"
   },
   {
     "Source": "`Male Student@❝Is that a cabbage special!?❞",
-    "Target": "`男学生@「这是卷心菜特餐吗！？」"
+    "Target": "`男学生@「这是卷心菜特餐吗！？」",
+    "JP": "`男子生徒@「キャベツ定食かよ！」"
   },
   {
     "Source": "`Male Student@❝Assorted curry, how lucky!❞",
-    "Target": "`男学生@「什锦咖喱，太幸运了！」"
+    "Target": "`男学生@「什锦咖喱，太幸运了！」",
+    "JP": "`男子生徒@「カレーにキャベツは合わないだろっ！」"
   },
   {
     "Source": "`Female Student@❝What's that cutlet for!?❞",
-    "Target": "`女学生@「那个炸猪排是干嘛的！？」"
+    "Target": "`女学生@「那个炸猪排是干嘛的！？」",
+    "JP": "`女子生徒@「なんでカツが乗ってんのよ…」"
   },
   {
     "Source": "`Male Student@❝Hey, there's no miso soup!❞",
-    "Target": "`男学生@「喂，没有味增汤！」"
+    "Target": "`男学生@「喂，没有味增汤！」",
+    "JP": "`男子生徒@「みそ汁がないじゃねーか！」"
   },
   {
     "Source": "`Kyousuke@❝Aight, that's enough for today❞",
-    "Target": "`恭介@「好了，今天就到此为止」"
+    "Target": "`恭介@「好了，今天就到此为止」",
+    "JP": "`恭介@「よし、今日はここまでだ」"
   },
   {
     "Source": "`Male Student@❝Is this really correct...?❞",
-    "Target": "`男学生@「这真的对吗…?」"
+    "Target": "`男学生@「这真的对吗…?」",
+    "JP": "`男子生徒@「これで合ってるのか…？」"
   },
   {
     "Source": "Clear information (system data) was saved.",
-    "Target": "通关信息(系统数据)已保存。"
+    "Target": "通关信息(系统数据)已保存。",
+    "JP": "クリア情報（システムデータ）をセーブしました。"
   },
   {
     "Source": "You're being such a blockhead, Riki-kun...",
-    "Target": "你真是个笨蛋，理树君…"
+    "Target": "你真是个笨蛋，理树君…",
+    "JP": "「間抜けな理樹くん…」"
   },
   {
     "Source": "You can even beat the pros as you are now!",
-    "Target": "现在的你甚至能打败职业选手！"
+    "Target": "现在的你甚至能打败职业选手！",
+    "JP": "「いますぐプロの門を叩け」"
   },
   {
     "Source": "Mon Petit for everyone, once this is over.",
-    "Target": "比赛结束后请大家吃猫罐头。"
+    "Target": "比赛结束后请大家吃猫罐头。",
+    "JP": "「これ終わったらみんなでもんぺちだっ」"
   },
   {
     "Source": "Muscle is taking off, please mind the gap.",
-    "Target": "肌肉出发了，请小心缝隙。"
+    "Target": "肌肉出发了，请小心缝隙。",
+    "JP": "「筋肉が通過しまーす、白線の内側までお下がりくださ～い」"
   },
   {
     "Source": "I wonder if there's any Mon Petit left...",
-    "Target": "不知道还有没有猫罐头了…"
+    "Target": "不知道还有没有猫罐头了…",
+    "JP": "「もんぺち、残ってたかな…」"
   },
   {
     "Source": "`Male Student@❝There's only jelly on it!❞",
-    "Target": "`男学生@「上面只有果冻！」"
+    "Target": "`男学生@「上面只有果冻！」",
+    "JP": "`男子生徒@「ゼリーだけじゃないか！」"
   },
   {
     "Source": "They'll start avoiding me because of you!",
-    "Target": "它们会因为你而开始躲着我的！"
+    "Target": "它们会因为你而开始躲着我的！",
+    "JP": "「あたしに寄ってこなくなるだろっ！」"
   },
   {
     "Source": "`Female Student@❝There's no miso soup...❞",
-    "Target": "`女学生@「没有味增汤…」"
+    "Target": "`女学生@「没有味增汤…」",
+    "JP": "`女子生徒@「おみそ汁がないんだけど…」"
   },
   {
     "Source": "...Can't you do something about the cats?",
-    "Target": "… 你能不能想办法对付那些猫？"
+    "Target": "… 你能不能想办法对付那些猫？",
+    "JP": "「…猫はどうにかならんのか」"
   },
   {
     "Source": "What's your relationship with that girl!?",
-    "Target": "你和那个女孩是什么关系！？"
+    "Target": "你和那个女孩是什么关系！？",
+    "JP": "「あの子とどういう関係！？」"
   },
   {
     "Source": "Oops, did I catch that naivety of yours?",
-    "Target": "哎呀，我是不是感染了你的天真？"
+    "Target": "哎呀，我是不是感染了你的天真？",
+    "JP": "「おっと、おまえのナイーブな部分をキャッチしちまったかな」"
   },
   {
     "Source": "When a doggie barks, Komari runs away...",
-    "Target": "当小狗叫的时候，小毬就会逃跑…"
+    "Target": "当小狗叫的时候，小毬就会逃跑…",
+    "JP": "「わんちゃんはほえるがこまりは逃げる…」"
   },
   {
     "Source": "I never know where it comes flying from.",
-    "Target": "不知道它是从哪里飞来的。"
+    "Target": "不知道它是从哪里飞来的。",
+    "JP": "「どこにとぶかわかんないからね」"
   },
   {
     "Source": "`Male Student@❝Cutlet curry, how lucky!❞",
-    "Target": "`男学生@「炸猪排咖喱，太幸运了！」"
+    "Target": "`男学生@「炸猪排咖喱，太幸运了！」",
+    "JP": "`男子生徒@「エビフライカレーだ、ラッキー！」"
   },
   {
     "Source": "At least try to get it past the infield.",
-    "Target": "至少试着把球打过内野。"
+    "Target": "至少试着把球打过内野。",
+    "JP": "「内野くらい越えろ」"
   },
   {
     "Source": "Do you wish to jump to the next chapter?",
-    "Target": "是否跳转到下一章？"
+    "Target": "是否跳转到下一章？",
+    "JP": "次のチャプターへジャンプしますか？"
   },
   {
     "Source": "`Female Student@❝Where's my miso soup?❞",
-    "Target": "`女学生@「我的味增汤呢？」"
+    "Target": "`女学生@「我的味增汤呢？」",
+    "JP": "`女子生徒@「おみそ汁がないんだけど？」"
   },
   {
     "Source": "Fortunately she didn't seem to be hurt.",
-    "Target": "很幸运，她似乎没有受伤。"
+    "Target": "很幸运，她似乎没有受伤。",
+    "JP": "幸い、怪我はなかったみたいだ。"
   },
   {
     "Source": "`Female Student@❝Onigiri with cabbage?❞",
-    "Target": "`女学生@「饭团配卷心菜？」"
+    "Target": "`女学生@「饭团配卷心菜？」",
+    "JP": "`女子生徒@「ありがとう」"
   },
   {
     "Source": "Do you wish to jump to the next choice?",
-    "Target": "是否跳转到下一个选择？"
+    "Target": "是否跳转到下一个选择？",
+    "JP": "次の選択肢へジャンプしますか？"
   },
   {
     "Source": "Can I suddenly become good, I wonder...",
-    "Target": "说不定能我突然就变得很厉害了呢…"
+    "Target": "说不定我会突然变厉害呢……",
+    "JP": "「いきなり上手くならないかなあ」"
   },
   {
     "Source": "`Female Student@❝I didn't order fries?❞",
-    "Target": "`女学生@「我没点薯条吧？」"
+    "Target": "`女学生@「我没点薯条吧？」",
+    "JP": "`女子生徒@「おにぎりにキャベツ！？」"
   },
   {
     "Source": "Are you sure you wish to quit the game?",
-    "Target": "确定要退出游戏吗?"
+    "Target": "确定要退出游戏吗?",
+    "JP": "ゲームを終了しますか？"
   },
   {
     "Source": "Riki, did something good happen to you?",
-    "Target": "理树，今天发生了什么好事吗？"
+    "Target": "理树，今天发生了什么好事吗？",
+    "JP": "「理樹、いいことでもあったのか？」"
   },
   {
     "Source": "`Male Student@❝I can't eat all this...❞",
-    "Target": "`男学生@「我吃不完这些…」"
+    "Target": "`男学生@「我吃不完这些…」",
+    "JP": "`男子生徒@「こんなに食えないんだけど…」"
   },
   {
     "Source": "`Female Student@❝There's only jelly...❞",
-    "Target": "`女学生@「只有果冻…」"
+    "Target": "`女学生@「只有果冻…」",
+    "JP": "`女子生徒@「ゼリーしかないんだけど？」"
   },
   {
     "Source": "`Female Student@❝There's no onigiri...❞",
-    "Target": "`女学生@「没有饭团…」"
+    "Target": "`女学生@「没有饭团…」",
+    "JP": "`女子生徒@「おにぎりがないんだけど…」"
   },
   {
     "Source": "`Male Student@❝Hey, there's only rice!❞",
-    "Target": "`男学生@「喂，只有米饭！」"
+    "Target": "`男学生@「喂，只有米饭！」",
+    "JP": "`男子生徒@「ご飯とゼリーだけでどうするんだよ！」"
   },
   {
     "Source": "Who are they asking, and what about...?",
-    "Target": "他们在问谁，又在问什么…？"
+    "Target": "他们在问谁，又在问什么…？",
+    "JP": "彼らは誰に何を問いかけているのだろう…。"
   },
   {
     "Source": "What sort of parallel world is that...",
-    "Target": "那是怎样的平行世界啊…"
+    "Target": "那是怎样的平行世界啊…",
+    "JP": "異世界だ…。"
   },
   {
     "Source": "Are you sure you want to end practice?",
-    "Target": "确定要退出练习吗?"
+    "Target": "确定要退出练习吗?",
+    "JP": null
   },
   {
     "Source": "The most important thing is team play.",
-    "Target": "最重要的是团队合作。"
+    "Target": "最重要的是团队合作。",
+    "JP": "「大切なのはチームプレイだ」"
   },
   {
     "Source": "Riki, did something bad happen to you?",
-    "Target": "理树，今天发生了什么坏事吗？"
+    "Target": "理树，今天发生了什么坏事吗？",
+    "JP": "「理樹、よくないことでもあったのか？」"
   },
   {
     "Source": "Come on, show me what you're made of～.",
-    "Target": "来吧，展示一下你的本事～。"
+    "Target": "来吧，展示一下你的本事～。",
+    "JP": "「バッチこいこい～」"
   },
   {
     "Source": "That can't be all you've got, can it!?",
-    "Target": "这就是你全部的实力吗！？"
+    "Target": "这就是你全部的实力吗！？",
+    "JP": "「まだまだこんなもんじゃなかったはずだぜ！？」"
   },
   {
     "Source": "`Kyousuke@❝Aight, let's take a break.❞",
-    "Target": "`恭介@「好了，休息一下吧。」"
+    "Target": "`恭介@「好了，休息一下吧。」",
+    "JP": "`恭介@「よし、いったん休憩にしよう」"
   },
   {
     "Source": "Weren't you allergic to pollen, Riki?",
-    "Target": "你不是对花粉过敏吗，理树？"
+    "Target": "你不是对花粉过敏吗，理树？",
+    "JP": "「理樹は花粉症じゃなかったかい」"
   },
   {
     "Source": "`Male Student@❝There's no miso soup!❞",
-    "Target": "`男学生@「没有味增汤！」"
+    "Target": "`男学生@「没有味增汤！」",
+    "JP": "`男子生徒@「みそ汁がないじゃないか！」"
   },
   {
     "Source": "Are you sure you wish to delete this?",
-    "Target": "确定要删除此内容吗?"
+    "Target": "确定要删除此内容吗?",
+    "JP": "削除しますか？"
   },
   {
     "Source": "`Female Student@❝There's no jelly...❞",
-    "Target": "`女学生@「没有果冻…」"
+    "Target": "`女学生@「没有果冻…」",
+    "JP": "`女子生徒@「ゼリーがないんだけど…」"
   },
   {
     "Source": "You need to exercise diligence daily.",
-    "Target": "你需要每天勤加练习。"
+    "Target": "你需要每天勤加练习。",
+    "JP": "「日々精進の心がけが大切だぜ！」"
   },
   {
     "Source": "This is no time to be sitting around!",
-    "Target": "现在可不是坐着不动的时候！"
+    "Target": "现在可不是坐着不动的时候！",
+    "JP": "「こんなところでくすぶってんじゃねぇよ！！」"
   },
   {
     "Source": "This is... A muscle REVOLUUUTIOOOON!!",
-    "Target": "这是… 肌肉革命啊啊啊！！"
+    "Target": "这是… 肌肉革命啊啊啊！！",
+    "JP": "「こいつは…筋肉革命だあぁぁぁーーーーっ！！」"
   },
   {
     "Source": "That was like the buzz of a mosquito.",
-    "Target": "这就像蚊子嗡嗡一样简单。"
+    "Target": "连停着的蚊子都看得清了。",
+    "JP": "「蚊がとまって見えるぜ」"
   },
   {
     "Source": "`Male Student@❝Hey, there's no rice!❞",
-    "Target": "`男学生@「喂，没有米饭！」"
+    "Target": "`男学生@「喂，没有米饭！」",
+    "JP": "`男子生徒@「ご飯がないじゃねーか！」"
   },
   {
     "Source": "I wonder if I should go on a diet...",
-    "Target": "我在想我是不是该减肥了…"
+    "Target": "我在想我是不是该减肥了…",
+    "JP": "「ダイエットしたほうがいいのかなぁ…」"
   },
   {
     "Source": "`Kyousuke@❝Batting exercise, start!❞",
-    "Target": "`恭介@「击球练习，开始！」"
+    "Target": "`恭介@「击球练习，开始！」",
+    "JP": "`恭介@「練習開始だ！」"
   },
   {
     "Source": "You could've dodged that just now...",
-    "Target": "你刚才应该躲开啊…"
+    "Target": "你刚才应该躲开啊…",
+    "JP": "「今のはよけてよっ」"
   },
   {
     "Source": "A weak ball comes from a weak heart.",
-    "Target": "软弱的球来自软弱的心。"
+    "Target": "软弱的球来自软弱的心。",
+    "JP": "「か弱いおまえの心のような球だな」"
   },
   {
     "Source": "Do you know why baseballs are white?",
-    "Target": "你知道为什么棒球是白色的吗？"
+    "Target": "你知道为什么棒球是白色的吗？",
+    "JP": "「何故ボールが白いか知っているか」"
   },
   {
     "Source": "I think I'm getting the hang of it.",
-    "Target": "我想我已经有点上手了。"
+    "Target": "我想我已经有点上手了。",
+    "JP": "「ちょっとは慣れてきたかな」"
   },
   {
     "Source": "Weren't you born to play baseball!?",
-    "Target": "难道你天生就是为了打棒球！？"
+    "Target": "难道你天生就是为了打棒球！？",
+    "JP": "「おまえは野球をするために生まれてきたんじゃないか！？」"
   },
   {
     "Source": "That's enough, you are doing great.",
-    "Target": "够了，你做得很好。"
+    "Target": "够了，你做得很好。",
+    "JP": "「もう十分おまえはすごいぜ」"
   },
   {
     "Source": "Come on, put some spirit into it...",
-    "Target": "再更精神一点…"
+    "Target": "再更精神一点…",
+    "JP": "「もっとこいよ、もっとホットなのをぶつけてこいよ…」"
   },
   {
     "Source": "`Female Student@❝Where's my jelly?❞",
-    "Target": "`女学生@「我的果冻呢？」"
+    "Target": "`女学生@「我的果冻呢？」",
+    "JP": "`女子生徒@「ゼリーがないんだけど？」"
   },
   {
     "Source": "Well, there are days like this too.",
-    "Target": "嗯，有时候会有这样的日子。"
+    "Target": "嗯，有时候会有这样的日子。",
+    "JP": "「あーまあそんな日もありますヨ」"
   },
   {
     "Source": "Are you sure you wish to overwrite?",
-    "Target": "确定要覆盖吗?"
+    "Target": "确定要覆盖吗?",
+    "JP": "上書きしますか？"
   },
   {
     "Source": "Haruchin's nape looks so wistful!!",
-    "Target": "小叶子的后颈看起来好伤感！！"
+    "Target": "小叶子的后颈看起来好伤感！！",
+    "JP": "「はるちんうなじがせつなげー！！」"
   },
   {
     "Source": "`Male Student@❝There's only rice!❞",
-    "Target": "`男学生@「只有米饭！」"
+    "Target": "`男学生@「只有米饭！」",
+    "JP": "`男子生徒@「ご飯だけじゃねぇか！」"
   },
   {
     "Source": "I think I'm only so skilled yet...",
-    "Target": "我想我也就这么点本事了…"
+    "Target": "我想我也就这么点本事了…",
+    "JP": "「そこそこ器用だとは思うんだけど…」"
   },
   {
     "Source": "`Komari@❝It hurts, but I'm okay～.❞",
-    "Target": "`小毬@「很疼，但我没事～。」"
+    "Target": "`小毬@「很疼，但我没事～。」",
+    "JP": "`小毬@「痛いけどだいじょうぶ～」"
   },
   {
     "Source": "I wish I'd played sports before...",
-    "Target": "我真希望我以前有参加过运动…"
+    "Target": "我真希望我以前有参加过运动…",
+    "JP": "「スポーツやっときゃよかったなあ」"
   },
   {
     "Source": "Eight! Am I witnessing a miracle!?",
-    "Target": "八球！难道我见证了奇迹！？"
+    "Target": "八球！难道我见证了奇迹！？",
+    "JP": "「はちっ、奇跡か！？」"
   },
   {
     "Source": "Let me finish what I have to say～.",
-    "Target": "让我把话说完～。"
+    "Target": "让我把话说完～。",
+    "JP": "「最後まで言わせて～」"
   },
   {
     "Source": "`Kyousuke@❝Aight, over here next!❞",
-    "Target": "`恭介@「好了，下一次到这边！」"
+    "Target": "`恭介@「好了，下一次到这边！」",
+    "JP": "`恭介@「よし、次はこっちだ！」"
   },
   {
     "Source": "Alright, we have an awesome team.",
-    "Target": "好啊，我们的队伍越来越像样了。"
+    "Target": "好啊，我们的队伍越来越像样了。",
+    "JP": "「よーし、いいチームになってきたな」"
   },
   {
     "Source": "`Female Student@❝This is a mess!❞",
-    "Target": "`女学生@「一团糟！」"
+    "Target": "`女学生@「一团糟！」",
+    "JP": "`女子生徒@「ちょっと…これ真剣だったら怒るわよ…」"
   },
   {
     "Source": "This catch is proof of our bonds!",
-    "Target": "这次的接球是我们羁绊的证明！"
+    "Target": "这次的接球是我们羁绊的证明！",
+    "JP": "「このキャッチが俺たちの絆だ」"
   },
   {
     "Source": "Reset all Achievements. Is it OK?",
-    "Target": "重置所有成就。确定？"
+    "Target": "重置所有成就。确定？",
+    "JP": "全ての実績をリセットします。よろしいですか？"
   },
   {
     "Source": "Haha, not bad at all. Keep at it.",
-    "Target": "哈哈，不错啊。继续加油。"
+    "Target": "哈哈，不错啊。继续加油。",
+    "JP": "「ははっ、なかなかいいぜ。その調子だ」"
   },
   {
     "Source": "Incidentally, I'm getting tired.",
-    "Target": "顺便说，我有点累了。"
+    "Target": "顺便说，我有点累了。",
+    "JP": "「ちなみに結構疲れる」"
   },
   {
     "Source": "Oh, you sure are hard to handle.",
-    "Target": "哦，你还真难搞。"
+    "Target": "哦，你还真难搞。",
+    "JP": "「おっと、とんだじゃじゃ馬だな」"
   },
   {
     "Source": "Bolit zhivot (My stomach hurts)!",
-    "Target": "Болит живот (我肚子疼)！"
+    "Target": "Болит живот (我肚子疼)！",
+    "JP": "「ばりーと・じおー（おなかがいたいですー）」"
   },
   {
     "Source": "Twelve, you're a God of Batting!",
-    "Target": "十二，你是击球之神！"
+    "Target": "十二，你是击球之神！",
+    "JP": "「じゅうにっ、おまえはバッティングの神様だ！」"
   },
   {
     "Source": "Stop venting your anger on cats!",
-    "Target": "别把你的愤怒发泄在猫身上！"
+    "Target": "别把你的愤怒发泄在猫身上！",
+    "JP": "「猫に八つ当たりかっ」"
   },
   {
     "Source": "Hit this if you think you can...",
-    "Target": "能打中这个就试试看…"
+    "Target": "能打中这个就试试看…",
+    "JP": "「打てるもんならっ」"
   },
   {
     "Source": "I seem to have gone unnoticed...",
-    "Target": "我好像被忽视了…"
+    "Target": "我好像被忽视了…",
+    "JP": "「誰にも気づかれていないわ…」"
   },
   {
     "Source": "This isn't the majors, you know.",
-    "Target": "这里可不是大联盟。"
+    "Target": "这里可不是大联盟。",
+    "JP": "「メジャーも目じゃないですヨ」"
   },
   {
     "Source": "It's not like I'm aiming at you!",
-    "Target": "我不是故意瞄准你的！"
+    "Target": "我不是故意瞄准你的！",
+    "JP": "「狙ってるわけじゃないんだぞっ」"
   },
   {
     "Source": "`Male Student@❝There's no rice!❞",
-    "Target": "`男学生@「没有米饭！」"
+    "Target": "`男学生@「没有米饭！」",
+    "JP": "`男子生徒@「ご飯がないじゃないか！」"
   },
   {
     "Source": "Don't tell me that's everything!",
-    "Target": "别告诉我这就是全部了！"
+    "Target": "别告诉我这就是全部了！",
+    "JP": "「まさか、ここまでとはっ」"
   },
   {
     "Source": "Just how good are you at sports?",
-    "Target": "你到底有多擅长运动？"
+    "Target": "你到底有多擅长运动？",
+    "JP": "「どれだけ運動神経いいんだよ、おまえ」"
   },
   {
     "Source": "$A1Delete all saved data\n$A1Exit",
-    "Target": "$A1清空所有数据\n$A1退出"
+    "Target": "$A1清空所有数据\n$A1退出",
+    "JP": "$A1全セーブデータの削除\n$A1終了"
   },
   {
     "Source": "How many times does this make!?",
-    "Target": "这已经是第几次了！？"
+    "Target": "这已经是第几次了！？",
+    "JP": "「なんど当てるんだっ」"
   },
   {
     "Source": "They sure are taking it easy...",
-    "Target": "他们真悠闲…"
+    "Target": "他们真悠闲…",
+    "JP": "「のんきなものね…」"
   },
   {
     "Source": "Jumping to the next choices ...",
-    "Target": "跳转到下一个选择…"
+    "Target": "跳转到下一个选择…",
+    "JP": "次の選択肢へジャンプ..."
   },
   {
     "Source": "Thank you for your cooperation!",
-    "Target": "感谢您的配合！"
+    "Target": "感谢您的配合！",
+    "JP": "「ご協力ありがとうございまーす」"
   },
   {
     "Source": "`Kyousuke@❝Riki, this way now!❞",
-    "Target": "`恭介@「理树，现在到这里来！」"
+    "Target": "`恭介@「理树，现在到这里来！」",
+    "JP": "`恭介@「理樹、今度はこっちだ！」"
   },
   {
     "Source": "Are you getting used to it yet?",
-    "Target": "你习惯了吗？"
+    "Target": "你习惯了吗？",
+    "JP": "「そろそろ慣れてきたかい」"
   },
   {
     "Source": "`Kyousuke@❝Then, let's start!❞",
-    "Target": "`恭介@「那么，开始吧！」"
+    "Target": "`恭介@「那么，开始吧！」",
+    "JP": "`恭介@「じゃあ、始めるぞ！」"
   },
   {
     "Source": "Ten... What the hell are you!?",
-    "Target": "十球…你究竟是什么怪物！？"
+    "Target": "十球…你究竟是什么怪物！？",
+    "JP": "「じゅう、っと、なんなんだ、おまえ！？」"
   },
   {
     "Source": "How many times does that make!",
-    "Target": "这是第几次了！"
+    "Target": "这是第几次了！",
+    "JP": "「これで何度目だっ」"
   },
   {
     "Source": "`Kyousuke@❝Resuming practice!❞",
-    "Target": "`恭介@「继续练习！」"
+    "Target": "`恭介@「继续练习！」",
+    "JP": "`恭介@「練習再開だ！」"
   },
   {
     "Source": "Fuu, fuuu... Muscles, muscles.",
-    "Target": "呼，呼呼… 肌肉，肌肉。"
+    "Target": "呼，呼呼… 肌肉，肌肉。",
+    "JP": "「ふっ、ふっ…筋肉、筋肉っ」"
   },
   {
     "Source": "Everyone, please do your best.",
-    "Target": "大家，请加油。"
+    "Target": "大家，请加油。",
+    "JP": "「みなさん、頑張ってください」"
   },
   {
     "Source": "Bolit golova (My head hurts)!",
-    "Target": "Болит голова (我头疼)！"
+    "Target": "Болит голова (我头疼)！",
+    "JP": "「ばりーと・がらばー（頭が痛いですー）」"
   },
   {
     "Source": "Was it me!? Was it my fault!?",
-    "Target": "是我吗！？是我的错吗！？"
+    "Target": "是我吗！？是我的错吗！？",
+    "JP": "「あたしかっ！　あたしのせいなのか！？」"
   },
   {
     "Source": "Or rather, you're scaring me.",
-    "Target": "或者说，你吓到我了。"
+    "Target": "或者说，你吓到我了。",
+    "JP": "「むしろ、不気味だぞ」"
   },
   {
     "Source": "Cats are marching, nyan nyan.",
-    "Target": "猫咪在游行，喵喵。"
+    "Target": "猫咪在游行，喵喵。",
+    "JP": "「ねこの行進、にゃんにゃん」"
   },
   {
     "Source": "Even Haruchin makes mistakes!",
-    "Target": "小叶子也会犯错的！"
+    "Target": "小叶子也会犯错的！",
+    "JP": "「はるちんも筆の誤り！」"
   },
   {
     "Source": "I'm brimming with enthusiasm!",
-    "Target": "热情满满哦！"
+    "Target": "热情满满哦！",
+    "JP": "「やる気まんマンですヨ！」"
   },
   {
     "Source": "My clothes are getting dirty.",
-    "Target": "我的衣服弄脏了。"
+    "Target": "我的衣服弄脏了。",
+    "JP": "「服汚れますネ」"
   },
   {
     "Source": "Haruchin's stories are long!!",
-    "Target": "小叶子的故事好长！！"
+    "Target": "小叶子的故事好长！！",
+    "JP": "「はるちん話がなげー！！」"
   },
   {
     "Source": "Kyacchingu! Aimu kyacchinga-!",
-    "Target": "接球！我在接球～！"
+    "Target": "接球！我在接球～！",
+    "JP": "「きゃっちんぐ！　あいむきゃっちんがーですっ！」"
   },
   {
     "Source": "Something came flying at me!?",
-    "Target": "什么东西飞向我了！？"
+    "Target": "什么东西飞向我了！？",
+    "JP": "「なにかとんできたです！？」"
   },
   {
     "Source": "I'll have that for breakfast.",
-    "Target": "我要把它当早餐吃。"
+    "Target": "我要把它当早餐吃。",
+    "JP": "「朝飯前だ」"
   },
   {
     "Source": "Now then, what should I do...",
-    "Target": "那么，现在该怎么办呢…"
+    "Target": "那么，现在该怎么办呢…",
+    "JP": "さて、どうしよう…。"
   },
   {
     "Source": "Ohh, this is one huge scream!",
-    "Target": "哦，这尖叫声可真大！"
+    "Target": "哦，这尖叫声可真大！",
+    "JP": "「おおっ、すげぇうなりだ！」"
   },
   {
     "Source": "This guy's full of surprises!",
-    "Target": "这家伙真是个惊喜！"
+    "Target": "这家伙真是个惊喜！",
+    "JP": "「こいつはびっくりだぜ！」"
   },
   {
     "Source": "That ball was from the cats.",
-    "Target": "那颗球是猫的复仇。"
+    "Target": "刚才那一球是猫咪们打来的。",
+    "JP": "「今のは猫たちからの一球だ」"
   },
   {
     "Source": "`Female Student@❝Thank you.❞",
-    "Target": "`女学生@「谢谢。」"
+    "Target": "`女学生@「谢谢。」",
+    "JP": "`女子生徒@「ゼリーしかないんだけど…」"
   },
   {
     "Source": "Getting the hang of it, Rin?",
-    "Target": "你上手了吗，铃？"
+    "Target": "你上手了吗，铃？",
+    "JP": "「鈴は慣れてきたね」"
   },
   {
     "Source": "`Riki@❝Whoa, are you okay!?❞",
-    "Target": "`理树@「哇，你没事吧！？」"
+    "Target": "`理树@「哇，你没事吧！？」",
+    "JP": "`理樹@「うわっ、だいじょうぶ！？」"
   },
   {
     "Source": "`Kyousuke@❝Here next, Riki!❞",
-    "Target": "`恭介@「下一次这边，理树！」"
+    "Target": "`恭介@「下一次这边，理树！」",
+    "JP": "`恭介@「理樹、次はここだ！」"
   },
   {
     "Source": "It's so peaceful out there..",
-    "Target": "外面真安静。"
+    "Target": "外面真安静。",
+    "JP": "「平和ね…」"
   },
   {
     "Source": "There's good weather today～.",
-    "Target": "今天天气真好～。"
+    "Target": "今天天气真好～。",
+    "JP": "「今日もいいお天気ですね～」"
   },
   {
     "Source": "$A1Do you want to try again?",
-    "Target": "$A1是否重试？"
+    "Target": "$A1是否重试？",
+    "JP": null
   },
   {
     "Source": "And I'm not useless anymore!",
-    "Target": "而且我不再没用了！"
+    "Target": "而且我不再没用了！",
+    "JP": "「ダメな子返上！」"
   },
   {
     "Source": "How can you guys be so cute?",
-    "Target": "你们怎么可以这么可爱？"
+    "Target": "你们怎么可以这么可爱？",
+    "JP": "「おまえら、どうしてそんな可愛いんだ？」"
   },
   {
     "Source": "Return to your former glory!",
-    "Target": "回到你曾经的辉煌吧！"
+    "Target": "回到你曾经的辉煌吧！",
+    "JP": "「あの頃のおまえを取り戻せよ！！」"
   },
   {
     "Source": "Papercraft Mobile Battleship",
-    "Target": "纸制移动战舰"
+    "Target": "纸制移动战舰",
+    "JP": "ペーパークラフト（機動戦艦）"
   },
   {
     "Source": "Quick save can not be used.",
-    "Target": "无法使用快速保存。"
+    "Target": "无法使用快速保存。",
+    "JP": "クイックセーブは使用できません。"
   },
   {
     "Source": "`Riki@❝Kud, are you okay!?❞",
-    "Target": "`理树@「库特，你没事吧！？」"
+    "Target": "`理树@「库特，你没事吧！？」",
+    "JP": "`理樹@「クドーっ、大丈夫！？」"
   },
   {
     "Source": "You're still inexperienced.",
-    "Target": "你还是缺乏经验。"
+    "Target": "你还是缺乏经验。",
+    "JP": "「まだまだひよっこだな」"
   },
   {
     "Source": "That wasn't too bad, right?",
-    "Target": "还不错，对吧？"
+    "Target": "还不错，对吧？",
+    "JP": "「いい感じだよね？」"
   },
   {
     "Source": "Haruchin Dynamic Throwing!!",
-    "Target": "小叶子动态投掷！！"
+    "Target": "小叶子动态投掷！！",
+    "JP": "「はるちんダイナミック投げー！！」"
   },
   {
     "Source": "That looked like it hurt...",
-    "Target": "看起来很疼…"
+    "Target": "看起来很疼…",
+    "JP": "「いたそうだ…」"
   },
   {
     "Source": "Cats are great, nyaa～nyaa～.",
-    "Target": "猫真是太棒了，喵～喵～。"
+    "Target": "猫真是太棒了，喵～喵～。",
+    "JP": "「猫はいいなー、にゃ～にゃ～」"
   },
   {
     "Source": "I wanna be a cat just once.",
-    "Target": "真想当一次猫啊。"
+    "Target": "真想当一次猫啊。",
+    "JP": "「一度猫になりたいな」"
   },
   {
     "Source": "Riki looks so gloomy today.",
-    "Target": "理树看起来好沮丧。"
+    "Target": "理树看起来好沮丧。",
+    "JP": "「今日の理樹は暗いな」"
   },
   {
     "Source": "I've been waiting for this!",
-    "Target": "我一直在等这个！"
+    "Target": "我一直在等这个！",
+    "JP": "「待ってました！」"
   },
   {
     "Source": "%s received the title ❝%s❞！",
-    "Target": "%s获得了称号『%s』！"
+    "Target": "%s获得了称号『%s』！",
+    "JP": "%sは『%s』の称号を得た！"
   },
   {
     "Source": "System data is being saved.",
-    "Target": "系统数据已保存。"
+    "Target": "系统数据已保存。",
+    "JP": "システムデータをセーブ中です。"
   },
   {
     "Source": "Return to the title screen?",
-    "Target": "是否返回标题画面？"
+    "Target": "是否返回标题画面？",
+    "JP": "タイトル画面へ戻りますか？"
   },
   {
     "Source": "I caught that all too easy.",
-    "Target": "我轻而易举地接住了。"
+    "Target": "我轻而易举地接住了。",
+    "JP": "「ぜんぜん追いつけるぜっ」"
   },
   {
     "Source": "I don't have any energy...",
-    "Target": "我没力气了…"
+    "Target": "我没力气了…",
+    "JP": "「力ないな、僕は…」"
   },
   {
     "Source": "The file may be corrupted.",
-    "Target": "文件可能已损坏。"
+    "Target": "文件可能已损坏。",
+    "JP": null
   },
   {
     "Source": "I didn't mean to do that!!",
-    "Target": "我不是故意的！！"
+    "Target": "我不是故意的！！",
+    "JP": "「やってしまった！！」"
   },
   {
     "Source": "I'll get it, I'll get it～.",
-    "Target": "我会接到的，我会接到的～。"
+    "Target": "我会接到的，我会接到的～。",
+    "JP": "「とれるとれる～」"
   },
   {
     "Source": "Quick save is in progress.",
-    "Target": "快速保存中。"
+    "Target": "快速保存中。",
+    "JP": "$A1クイックセーブ中です。"
   },
   {
     "Source": "We are the Little Busters!",
-    "Target": "我们是Little Busters！"
+    "Target": "我们是Little Busters！",
+    "JP": "「俺たちリトルバスターズ！」"
   },
   {
     "Source": "Haha, just keep playing...",
-    "Target": "哈哈，继续玩吧…"
+    "Target": "哈哈，继续玩吧…",
+    "JP": "「ははっ、遊んでなさい…」"
   },
   {
     "Source": "Is that your idea of fun!?",
-    "Target": "你是在找乐子吗！？"
+    "Target": "你是在找乐子吗！？",
+    "JP": "「そんなことし続けて楽しいかっ」"
   },
   {
     "Source": "`Male Student@❝Thank you!❞",
-    "Target": "`男学生@「谢谢！」"
+    "Target": "`男学生@「谢谢！」",
+    "JP": "`男子生徒@「ありがとう！」"
   },
   {
     "Source": "We must deepen our bonds!",
-    "Target": "我们必须加深彼此的羁绊！"
+    "Target": "我们必须加深彼此的羁绊！",
+    "JP": "「もっと強く、絆を深めるんだ！」"
   },
   {
     "Source": "%s summons %s to her aid!",
-    "Target": "%s召唤了%s前来协助！"
+    "Target": "%s召唤了%s前来协助！",
+    "JP": null
   },
   {
     "Source": "Bon Lantern Festival Gift",
-    "Target": "中元节礼物"
+    "Target": "中元节礼物",
+    "JP": "お中元"
   },
   {
     "Source": "Hahaha, I can only laugh.",
-    "Target": "哈哈哈，我只能笑了。"
+    "Target": "哈哈哈，我只能笑了。",
+    "JP": "「ははは、笑うしかないよ」"
   },
   {
     "Source": "U menya bolit (It hurts)!",
-    "Target": "У меня болит (我疼)！"
+    "Target": "У меня болит (我疼)！",
+    "JP": "「うめにゃー・ばりーとー（いたいですー）」"
   },
   {
     "Source": "I wonder if that's fun...",
-    "Target": "我在想那是不是很有趣…"
+    "Target": "我在想那是不是很有趣…",
+    "JP": "「楽しいのかしら…」"
   },
   {
     "Source": "That was no sweat at all.",
-    "Target": "这完全不费劲。"
+    "Target": "这完全不费劲。",
+    "JP": "「ぜんぜん楽勝だぜ」"
   },
   {
     "Source": "Do you wish to load this?",
-    "Target": "是否加载此内容？"
+    "Target": "是否加载此内容？",
+    "JP": "ロードしますか？"
   },
   {
     "Source": "A reading error occurred.",
-    "Target": "读取错误。"
+    "Target": "读取错误。",
+    "JP": null
   },
   {
     "Source": "I want to drink hot tea～.",
-    "Target": "好想喝热茶～。"
+    "Target": "好想喝热茶～。",
+    "JP": "「熱いお茶が飲みたいですー」"
   },
   {
     "Source": "Why don't you hit harder?",
-    "Target": "为什么不打得更用力些？"
+    "Target": "为什么不打得更用力些？",
+    "JP": "「もっと強いの打っていいんだぜ？」"
   },
   {
     "Source": "Seibingu! Aimu seibinga-!",
-    "Target": "守门！我在守门～！"
+    "Target": "守门！我在守门～！",
+    "JP": "「せいびんぐ！　あいむせいびんがーですっ！」"
   },
   {
     "Source": "Haruchin Ultra Throwing!!",
-    "Target": "小叶子超级投掷！！"
+    "Target": "小叶子超级投掷！！",
+    "JP": "「はるちんウルトラ投げー！！」"
   },
   {
     "Source": "You need to heat up more.",
-    "Target": "你需要更热血一些。"
+    "Target": "你需要更热血一些。",
+    "JP": "「もっと熱くなろうぜ」"
   },
   {
     "Source": "Are you aiming at them!?",
-    "Target": "你是故意瞄着它们的吗！？"
+    "Target": "你是故意瞄着它们的吗！？",
+    "JP": "「狙ってるのかっ」"
   },
   {
     "Source": "Deleting system data ...",
-    "Target": "正删除系统数据…"
+    "Target": "正删除系统数据…",
+    "JP": "システムデータの削除中…"
   },
   {
     "Source": "Gattsun gattsun gattsun!",
-    "Target": "嘎呲嘎呲嘎呲！"
+    "Target": "嘎呲嘎呲嘎呲！",
+    "JP": "「がっつでがっつんがっつんですっ」"
   },
   {
     "Source": "You're not getting away!",
-    "Target": "你跑不掉了！"
+    "Target": "你跑不掉了！",
+    "JP": "「ぬかせるかーっ」"
   },
   {
     "Source": "Riki-kun, do your best～.",
-    "Target": "理树君，加油～。"
+    "Target": "理树君，加油～。",
+    "JP": "「理樹君がんばって～」"
   },
   {
     "Source": "Papercraft Himeji Castle",
-    "Target": "纸制姬路城"
+    "Target": "纸制姬路城",
+    "JP": "ペーパークラフト（姫路城）"
   },
   {
     "Source": "Watch and be surprised～.",
-    "Target": "看着吃惊吧～。"
+    "Target": "看着吃惊吧～。",
+    "JP": "「見て見て～」"
   },
   {
     "Source": "`Male Student@❝Sankyuu!❞",
-    "Target": "`男学生@「3Q！」"
+    "Target": "`男学生@「3Q！」",
+    "JP": "`男子生徒@「サンキュー！」"
   },
   {
     "Source": "Yamada Satou Saitou Uno!",
-    "Target": "山田佐藤齐藤宇野！"
+    "Target": "山田佐藤齐藤宇野！",
+    "JP": "「山田佐藤斉藤宇野！」"
   },
   {
     "Source": "Expensive Cosmetic Paper",
-    "Target": "昂贵的化妆纸"
+    "Target": "昂贵的化妆纸",
+    "JP": "高級あぶらとり紙"
   },
   {
     "Source": "I'll throw it back now～.",
-    "Target": "我现在就把它扔回去～。"
+    "Target": "我现在就把它扔回去～。",
+    "JP": "「すぐなげるよー」"
   },
   {
     "Source": "I won't let this one go.",
-    "Target": "这次我不会放过。"
+    "Target": "这次我不会放过。",
+    "JP": "「こいつは抜けさせないぜっ」"
   },
   {
     "Source": "Getting cold feet, huh?",
-    "Target": "怯场了吗？"
+    "Target": "怯场了吗？",
+    "JP": "「足元が怖いですネ」"
   },
   {
     "Source": "Everyone, do your best.",
-    "Target": "大家，加油。"
+    "Target": "大家，加油。",
+    "JP": "「みんながんばってー」"
   },
   {
     "Source": "`Kyousuke@❝Here we go!❞",
-    "Target": "`恭介@「来了！」"
+    "Target": "`恭介@「来了！」",
+    "JP": "`恭介@「しまっていくぞ！」"
   },
   {
     "Source": "Don't forget team play!",
-    "Target": "不要忘记团队合作！"
+    "Target": "不要忘记团队合作！",
+    "JP": "「チームプレイを忘れるな！」"
   },
   {
     "Source": "You sure are a handful.",
-    "Target": "你真是麻烦。"
+    "Target": "你真是麻烦。",
+    "JP": "「とんだじゃじゃ馬だな」"
   },
   {
     "Source": "The training is harsh～.",
-    "Target": "训练很艰苦～。"
+    "Target": "训练很艰苦～。",
+    "JP": "「特訓は大変だ～」"
   },
   {
     "Source": "Phew... Still no good～.",
-    "Target": "呼… 还是不行～。"
+    "Target": "呼… 还是不行～。",
+    "JP": "「ふう…まだまだですー」"
   },
   {
     "Source": "I'll never forget this!",
-    "Target": "我永远不会忘记这个！"
+    "Target": "我永远不会忘记这个！",
+    "JP": "「僕はずっと忘れないよ！」"
   },
   {
     "Source": "This is not bad at all.",
-    "Target": "这真是太棒了。"
+    "Target": "这真是太棒了。",
+    "JP": "「いいとこついてくるじゃねーか」"
   },
   {
     "Source": "...Defense not working.",
-    "Target": "…防守失效。"
+    "Target": "…防守失效。",
+    "JP": "「…守備、やってません」"
   },
   {
     "Source": "Riki is so hyper today.",
-    "Target": "理树今天好活跃。"
+    "Target": "理树今天好活跃。",
+    "JP": "「今日の理樹ははりきってるな」"
   },
   {
     "Source": "Aim for the Tokyo Dome.",
-    "Target": "目标是东京巨蛋。"
+    "Target": "目标是东京巨蛋。",
+    "JP": "「目指せ、東京ドーム」"
   },
   {
     "Source": "`Male Student@❝Thanks!❞",
-    "Target": "`男学生@「多谢啦！」"
+    "Target": "`男学生@「多谢啦！」",
+    "JP": "`男子生徒@「ありがとよ！」"
   },
   {
     "Source": "I'm perfectly hidden...",
-    "Target": "完美地藏起来了呢…"
+    "Target": "完美地藏起来了呢…",
+    "JP": "「完璧に隠れてるわ…」"
   },
   {
     "Source": "Hit the ball properly.",
-    "Target": "好好击中球。"
+    "Target": "好好击中球。",
+    "JP": "「ちゃんと打て」"
   },
   {
     "Source": "Look out for them all.",
-    "Target": "去追它们吧。"
+    "Target": "去追它们吧。",
+    "JP": "「追いかけろ」"
   },
   {
     "Source": "Even Ryan's surprised!",
-    "Target": "连赖恩都吃惊了！"
+    "Target": "连赖恩都吃惊了！",
+    "JP": "「ライアンもびっくり！」"
   },
   {
     "Source": "That's three in a row!",
-    "Target": "连中三球！"
+    "Target": "连中三球！",
+    "JP": "「三連続だぜ！」"
   },
   {
     "Source": "Taking your time, huh?",
-    "Target": "放松一点。"
+    "Target": "你也太手下留情了吧。",
+    "JP": "「手緩いな」"
   },
   {
     "Source": "Don't say I'm useless!",
-    "Target": "别说我没用！"
+    "Target": "别说我没用！",
+    "JP": "「ヤクタタズってゆーなー！」"
   },
   {
     "Source": "All right, here I go!!",
-    "Target": "好了，我上了！！"
+    "Target": "好了，我上了！！",
+    "JP": "「よしきたーーっ！！」"
   },
   {
     "Source": "Deleting save data ...",
-    "Target": "正在删除存档…"
+    "Target": "正在删除存档…",
+    "JP": "セーブデータの削除中…"
   },
   {
     "Source": "Papercraft Stegosaurus",
-    "Target": "纸制剑龙"
+    "Target": "纸制剑龙",
+    "JP": "ペーパークラフト（ステゴザウルス）"
   },
   {
     "Source": "Industrial Liquid Glue",
-    "Target": "工业液体胶"
+    "Target": "工业液体胶",
+    "JP": "業務用液状のり"
   },
   {
     "Source": "All right, keep it up!",
-    "Target": "好，继续努力！"
+    "Target": "好，继续努力！",
+    "JP": "「よし、いいぞ！」"
   },
   {
     "Source": "So many cats around...",
-    "Target": "周围全都是猫啊…"
+    "Target": "周围全都是猫啊…",
+    "JP": "「猫だらけだなぁ…」"
   },
   {
     "Source": "It can not be deleted.",
-    "Target": "无法删除。"
+    "Target": "无法删除。",
+    "JP": "削除できません。"
   },
   {
     "Source": "Wasn't that dangerous?",
-    "Target": "刚才不是很危险吗？"
+    "Target": "刚才不是很危险吗？",
+    "JP": "「危ないですよ？」"
   },
   {
     "Source": "Deletion is completed.",
-    "Target": "删除完成。"
+    "Target": "删除完成。",
+    "JP": "削除が完了しました。"
   },
   {
     "Source": "Electromagneic Barrier",
-    "Target": "电磁屏障"
+    "Target": "电磁屏障",
+    "JP": "電磁バリア"
   },
   {
     "Source": "Hit one ball here too!",
-    "Target": "这里也打一个球！"
+    "Target": "这里也打一个球！",
+    "JP": "「こっちにも打ってこーい！」"
   },
   {
     "Source": "Ha ra ho ro hi ree...",
-    "Target": "哈啦吼咯嘿咧…"
+    "Target": "哈啦吼咯嘿咧…",
+    "JP": "「はらほろひれー」"
   },
   {
     "Source": "Remote-controlled Car",
-    "Target": "遥控车"
+    "Target": "遥控车",
+    "JP": "ラジコン"
   },
   {
     "Source": "Nothing is eternal...",
-    "Target": "没有什么是永恒的…"
+    "Target": "没有什么是永恒的…",
+    "JP": "「繰り返される諸行は無常…」"
   },
   {
     "Source": "I'm sending it back～.",
-    "Target": "我把它送回去了～。"
+    "Target": "我把它送回去了～。",
+    "JP": "「かえすよ～」"
   },
   {
     "Source": "Voice Collection Data",
-    "Target": "语音收集数据"
+    "Target": "语音收集数据",
+    "JP": "ボイスコレクションデータ"
   },
   {
     "Source": "All right, it's here!",
-    "Target": "好，它来了！"
+    "Target": "好，它来了！",
+    "JP": "「よしきた！」"
   },
   {
     "Source": "Basket of Sea Urchins",
-    "Target": "一篮海胆"
+    "Target": "一篮海胆",
+    "JP": "かごごとうに"
   },
   {
     "Source": "Isn't that dangerous?",
-    "Target": "不是很危险吗？"
+    "Target": "不是很危险吗？",
+    "JP": null
   },
   {
     "Source": "Uaaa, you all right!?",
-    "Target": "呜啊啊，你还好吗！？"
+    "Target": "呜啊啊，你还好吗！？",
+    "JP": "「うあぁっ、大丈夫か！？」"
   },
   {
     "Source": "The cat's in the way!",
-    "Target": "猫挡路了！"
+    "Target": "猫挡路了！",
+    "JP": "「猫じゃまーっ」"
   },
   {
     "Source": "Basket of Basketballs",
-    "Target": "一篮篮球"
+    "Target": "一篮篮球",
+    "JP": "かごごとバスケットボール"
   },
   {
     "Source": "That's just too easy.",
-    "Target": "那也太简单了。"
+    "Target": "那也太简单了。",
+    "JP": "「もう、ぜーんぜん余裕だ」"
   },
   {
     "Source": "Let's get it started!",
-    "Target": "让我们开始吧！"
+    "Target": "让我们开始吧！",
+    "JP": "「しまっていこー」"
   },
   {
     "Source": "Don't get in the way.",
-    "Target": "别碍事。"
+    "Target": "别碍事。",
+    "JP": "「邪魔しないように」"
   },
   {
     "Source": "Haruchin's awesome!!!",
-    "Target": "小叶子太厉害了！！！"
+    "Target": "小叶子太厉害了！！！",
+    "JP": "「はるちんかっこいーっ！！」"
   },
   {
     "Source": "And you hit me again.",
-    "Target": "你又打到我了。"
+    "Target": "你又打到我了。",
+    "JP": "「また、ぶつけましたね」"
   },
   {
     "Source": "Bring on a challenge.",
-    "Target": "来挑战吧。"
+    "Target": "来挑战吧。",
+    "JP": "「次回にチャレンジ」"
   },
   {
     "Source": "My dolly has the flu.",
-    "Target": "我的洋娃娃感冒了。"
+    "Target": "我的洋娃娃感冒了。",
+    "JP": "「おちゃらかほいっ」"
   },
   {
     "Source": "You must not do that!",
-    "Target": "做那种事可不行！"
+    "Target": "做那种事可不行！",
+    "JP": "「そんなことしたらめーっ！　だっ」"
   },
   {
     "Source": "This makes it seven!",
-    "Target": "这已经是七球了！"
+    "Target": "这已经是七球了！",
+    "JP": "「これで、ななかよっ！」"
   },
   {
     "Source": "Go for it, Riki-kun.",
-    "Target": "加油，理树君。"
+    "Target": "加油，理树君。",
+    "JP": "「がんばれ、理樹くん」"
   },
   {
     "Source": "Haru urara～ uraura～♪",
-    "Target": "乌拉 乌拉拉～ 乌拉乌拉～♪"
+    "Target": "乌拉 乌拉拉～ 乌拉乌拉～♪",
+    "JP": "「はるうらら～うらうら～♪」"
   },
   {
     "Source": "I'm trying my best～.",
-    "Target": "我会努力的～。"
+    "Target": "我会努力的～。",
+    "JP": "「がんばってるよー」"
   },
   {
     "Source": "Haha, can't help it.",
-    "Target": "哈哈，没办法。"
+    "Target": "哈哈，没办法。",
+    "JP": "「はは、止まらないよ」"
   },
   {
     "Source": "Come on, keep at it.",
-    "Target": "来吧，继续加油。"
+    "Target": "来吧，继续加油。",
+    "JP": "「ほらほら頑張れ」"
   },
   {
     "Source": "Vinyl Phantom Figure",
-    "Target": "塑料幻影人偶"
+    "Target": "塑料幻影人偶",
+    "JP": "ソフビ製の怪人"
   },
   {
     "Source": "Neko-san, nyan nyan.",
-    "Target": "猫咪，喵呜喵呜。"
+    "Target": "猫咪，喵呜喵呜。",
+    "JP": "「ねこさんにゃーにゃー」"
   },
   {
     "Source": "Do you want to exit?",
-    "Target": "是否退出？"
+    "Target": "是否退出？",
+    "JP": null
   },
   {
     "Source": "Do you Give Up?",
-    "Target": "要放弃吗？"
+    "Target": "要放弃吗？",
+    "JP": null
   },
   {
     "Source": "Thank you, everyone!",
-    "Target": "谢谢大家！"
+    "Target": "谢谢大家！",
+    "JP": "「みんな、ありがとう！」"
   },
   {
     "Source": "Splendid, wasn't it?",
-    "Target": "不是很棒吗？"
+    "Target": "不是很棒吗？",
+    "JP": "「華麗だねー」"
   },
   {
     "Source": "Aim for the Budokan.",
-    "Target": "目标是武道馆。"
+    "Target": "目标是武道馆。",
+    "JP": "「目指せ、武道館」"
   },
   {
     "Source": "Think I messed up...",
-    "Target": "我好像搞砸了…"
+    "Target": "我好像搞砸了…",
+    "JP": "「しっぱいしちゃった」"
   },
   {
     "Source": "Prism Experiment Kit",
-    "Target": "棱镜实验套件"
+    "Target": "棱镜实验套件",
+    "JP": "実験プリズムキット"
   },
   {
     "Source": "Medium-sized Balloon",
-    "Target": "中型气球"
+    "Target": "中型气球",
+    "JP": "ゴム風船・中"
   },
   {
     "Source": "Do you wish to save?",
-    "Target": "是否保存？"
+    "Target": "是否保存？",
+    "JP": "セーブしますか？"
   },
   {
     "Source": "Persian Tiger Carpet",
-    "Target": "虎纹地毯"
+    "Target": "虎纹波斯地毯",
+    "JP": "虎模様のペルシャじゅうたん"
   },
   {
     "Source": "Wonderful teamwork!",
-    "Target": "了不起的团队合作！"
+    "Target": "了不起的团队合作！",
+    "JP": "「すごいチームワークだよ！」"
   },
   {
     "Source": "Switching fonts ...",
-    "Target": "正在切换字体."
+    "Target": "正在切换字体.",
+    "JP": "フォント切り替え中..."
   },
   {
     "Source": "Replica of Norimune",
-    "Target": "则宗复制品"
+    "Target": "则宗复制品",
+    "JP": "レプリカノリムネ"
   },
   {
     "Source": "Electric Toothbrush",
-    "Target": "电动牙刷"
+    "Target": "电动牙刷",
+    "JP": "電動歯ブラシ"
   },
   {
     "Source": "Haruchin Max Power!",
-    "Target": "小叶子全力以赴！"
+    "Target": "小叶子全力以赴！",
+    "JP": "「はるちんまくすぱわー！」"
   },
   {
     "Source": "Still a ways to go.",
-    "Target": "还差得远呢。"
+    "Target": "还差得远呢。",
+    "JP": "「まだまだだな」"
   },
   {
     "Source": "$K1Text$K0 preview.",
-    "Target": "$K1文本$K0预览。"
+    "Target": "$K1文本$K0预览。",
+    "JP": null
   },
   {
     "Source": "Child Archer Figure",
-    "Target": "儿童弓箭手人偶"
+    "Target": "儿童弓箭手人偶",
+    "JP": "弓曳童子"
   },
   {
     "Source": "Large-sized Balloon",
-    "Target": "大型气球"
+    "Target": "大型气球",
+    "JP": "ゴム風船・大"
   },
   {
     "Source": "Delete system data?",
-    "Target": "删除系统数据?"
+    "Target": "删除系统数据?",
+    "JP": "システムデータを削除しますか？"
   },
   {
     "Source": "Small-sized Balloon",
-    "Target": "小型气球"
+    "Target": "小型气球",
+    "JP": "ゴム風船・小"
   },
   {
     "Source": "Now I've done it...",
-    "Target": "现在我搞砸了…"
+    "Target": "现在我搞砸了…",
+    "JP": "「えらいことになった…」"
   },
   {
     "Source": "I'm trying my best.",
-    "Target": "我会加油的。"
+    "Target": "我会加油的。",
+    "JP": "「がんばってるよん」"
   },
   {
     "Source": "It's an afterimage.",
-    "Target": "这是残影。"
+    "Target": "这是残影。",
+    "JP": "「残像だ」"
   },
   {
     "Source": "Three Section Staff",
-    "Target": "三节棍"
+    "Target": "三节棍",
+    "JP": "三節棍"
   },
   {
     "Source": "Rin-chan, fight-o!",
-    "Target": "小铃，加油哦！"
+    "Target": "小铃，加油哦！",
+    "JP": "「りんちゃーん、ふぁいとですよー」"
   },
   {
     "Source": "That's the spirit!",
-    "Target": "就是这种精神！"
+    "Target": "就是这种精神！",
+    "JP": "「やるじゃないか！」"
   },
   {
     "Source": "That was the best!",
-    "Target": "那真是最棒了！"
+    "Target": "那真是最棒了！",
+    "JP": "「最高だね！」"
   },
   {
     "Source": "Still not there...",
-    "Target": "还是不行…"
+    "Target": "还是不行…",
+    "JP": "「まだまだかな…」"
   },
   {
     "Source": "Stay away from me.",
-    "Target": "离我远点。"
+    "Target": "离我远点。",
+    "JP": "「こっちくるな」"
   },
   {
     "Source": "I'm doing my best!",
-    "Target": "我会努力的！"
+    "Target": "我会努力的！",
+    "JP": "「がんばるのですっ」"
   },
   {
     "Source": "Dialog and Choices",
-    "Target": "对话和选项"
+    "Target": "对话和选项",
+    "JP": null
   },
   {
     "Source": "My hand slipped...",
-    "Target": "我手滑了…"
+    "Target": "我手滑了…",
+    "JP": "「てもとが狂った…」"
   },
   {
     "Source": "I'm getting bored.",
-    "Target": "我有点无聊。"
+    "Target": "我有点无聊。",
+    "JP": "「あくびが出る」"
   },
   {
     "Source": "That was a breeze!",
-    "Target": "这太轻松了！"
+    "Target": "这太轻松了！",
+    "JP": "「おちゃのこさいさいっ！」"
   },
   {
     "Source": "Looking good, Rin.",
-    "Target": "表现不错，铃。"
+    "Target": "表现不错，铃。",
+    "JP": "「鈴、いい調子だよ」"
   },
   {
     "Source": "Tanaka Family Seal",
-    "Target": "田中家族印章"
+    "Target": "田中家族印章",
+    "JP": "田中さんの判子"
   },
   {
     "Source": "First base, Kengo!",
-    "Target": "一垒，谦吾！"
+    "Target": "一垒，谦吾！",
+    "JP": "「ファースト、謙吾！」"
   },
   {
     "Source": "I'm gonna hit you!",
-    "Target": "我要准备揍你了！"
+    "Target": "我要准备揍你了！",
+    "JP": "「あたしもおまえにぶつけるぞっ」"
   },
   {
     "Source": "Do you hate cats!?",
-    "Target": "你这么讨厌猫吗！？"
+    "Target": "你这么讨厌猫吗！？",
+    "JP": "「おまえ猫きらいなのかっ」"
   },
   {
     "Source": "Fireworks Launcher",
-    "Target": "烟花发射器"
+    "Target": "烟花发射器",
+    "JP": "打ち上げ花火"
   },
   {
     "Source": "That's so pitiful!",
-    "Target": "它好可怜啊！"
+    "Target": "它好可怜啊！",
+    "JP": "「かわいそうだろ！」"
   },
   {
     "Source": "Okno means window!",
-    "Target": "Окно 意思是窗户！"
+    "Target": "Окно 意思是窗户！",
+    "JP": "「窓はあくのーですっ」"
   },
   {
     "Source": "I'm already tired.",
-    "Target": "我已经累了。"
+    "Target": "我已经累了。",
+    "JP": "「飽きてきたんだが」"
   },
   {
     "Source": "I'm getting angry.",
-    "Target": "我生气了。"
+    "Target": "我生气了。",
+    "JP": "「怒りますよ」"
   },
   {
     "Source": "Please be careful.",
-    "Target": "请小心。"
+    "Target": "请小心。",
+    "JP": "「気をつけてください」"
   },
   {
     "Source": "Why don't you aim?",
-    "Target": "为什么不瞄准？"
+    "Target": "为什么不瞄准？",
+    "JP": "「狙ってませんか」"
   },
   {
     "Source": "I won't let it go.",
-    "Target": "我不会让它过去的。"
+    "Target": "我不会让它过去的。",
+    "JP": "「抜かせん」"
   },
   {
     "Source": "It's an illusion.",
-    "Target": "这是幻觉。"
+    "Target": "这是幻觉。",
+    "JP": "「イリュージョンだ」"
   },
   {
     "Source": "Hauu～... it came.",
-    "Target": "哈呜～…来了。"
+    "Target": "哈呜～…来了。",
+    "JP": "「はうぁ～…きゅう」"
   },
   {
     "Source": "I hate you, Riki!",
-    "Target": "最讨厌理树啦！"
+    "Target": "最讨厌理树啦！",
+    "JP": "「理樹なんて嫌いだっ」"
   },
   {
     "Source": "Save is complete.",
-    "Target": "保存完成。"
+    "Target": "保存完成。",
+    "JP": "セーブが完了しました。"
   },
   {
     "Source": "You're gonna die!",
-    "Target": "你要死了！"
+    "Target": "你要死了！",
+    "JP": "「おまえは…死ぬ」"
   },
   {
     "Source": "Fuhahahahahahaha!",
-    "Target": "哈哈哈哈哈哈哈！"
+    "Target": "哈哈哈哈哈哈哈！",
+    "JP": "「フハハハハハハハ」"
   },
   {
     "Source": "Moshi moshi ball!",
-    "Target": "喂喂，球！"
+    "Target": "肉嘟嘟的球！",
+    "JP": "「むちむちぼーるっ」"
   },
   {
     "Source": "Soil from Koshien",
-    "Target": "甲子园的土"
+    "Target": "甲子园的土",
+    "JP": "甲子園の土"
   },
   {
     "Source": "Belka and Strelka",
-    "Target": "威尔卡和斯特勒鲁卡"
+    "Target": "威尔卡和斯特勒鲁卡",
+    "JP": "ヴェルカ＆ストレルカ"
   },
   {
     "Source": "Vinyl Hero Figure",
-    "Target": "塑料英雄人偶"
+    "Target": "塑料英雄人偶",
+    "JP": "ソフビ製のヒーロー"
   },
   {
     "Source": "%s: %s picked up!",
-    "Target": "%s拿到了%s！"
+    "Target": "%s拿到了%s！",
+    "JP": null
   },
   {
     "Source": "Blackboard Eraser",
-    "Target": "黑板擦"
+    "Target": "黑板擦",
+    "JP": "黒板消し"
   },
   {
     "Source": "Oh, a butterfly～.",
-    "Target": "哦，一只蝴蝶～。"
+    "Target": "哦，一只蝴蝶～。",
+    "JP": "「ちょうちょがいるよー」"
   },
   {
     "Source": "Small Clip-on Fan",
-    "Target": "小型夹扇"
+    "Target": "小型夹扇",
+    "JP": "クリップ式小型扇風機"
   },
   {
     "Source": "Let's wrap it up.",
-    "Target": "结束吧。"
+    "Target": "结束吧。",
+    "JP": "「そろそろこれ終わろうぜ」"
   },
   {
     "Source": "Saito Family Seal",
-    "Target": "齐藤家族印章"
+    "Target": "齐藤家族印章",
+    "JP": "斉藤さんの判子"
   },
   {
     "Source": "That was perfect.",
-    "Target": "那真是完美。"
+    "Target": "那真是完美。",
+    "JP": "「バッチリですヨ」"
   },
   {
     "Source": "Nine! Impossible!",
-    "Target": "九球！不可能！"
+    "Target": "九球！不可能！",
+    "JP": "「きゅう！　ありえねぇぜ！」"
   },
   {
     "Source": "Isn't this great!",
-    "Target": "这不是很棒吗！"
+    "Target": "这不是很棒吗！",
+    "JP": "「すごいじゃないか！」"
   },
   {
     "Source": "Hit a better one.",
-    "Target": "打得更好一点。"
+    "Target": "打得更好一点。",
+    "JP": "「もっとすごいのくれよ」"
   },
   {
     "Source": "All right, Kengo!",
-    "Target": "好，谦吾！"
+    "Target": "好，谦吾！",
+    "JP": "「よしっ、謙吾っ」"
   },
   {
     "Source": "I'm taking this.",
-    "Target": "我拿走这个了。"
+    "Target": "我拿走这个了。",
+    "JP": "「こいつはもらったっ」"
   },
   {
     "Source": "Riki-kun, fight!",
-    "Target": "理树君，加油！"
+    "Target": "理树君，加油！",
+    "JP": "「理樹君ふぁいとぉーっ」"
   },
   {
     "Source": "That was simple.",
-    "Target": "那太简单了。"
+    "Target": "那太简单了。",
+    "JP": "「おやすいご用だ」"
   },
   {
     "Source": "Uoriiaaaaaaaaa!!",
-    "Target": "呜哦里啊啊啊啊啊啊啊！！"
+    "Target": "呜哦里啊啊啊啊啊啊啊！！",
+    "JP": "「うおりゃあああぁぁぁーーっ！！」"
   },
   {
     "Source": "Counting Machine",
-    "Target": "计数器"
+    "Target": "计数器",
+    "JP": "数取器"
   },
   {
     "Source": "It disappeared～.",
-    "Target": "它消失了～。"
+    "Target": "它消失了～。",
+    "JP": "「とれたよ～」"
   },
   {
     "Source": "Papercraft Plane",
-    "Target": "纸制飞机"
+    "Target": "纸制飞机",
+    "JP": "ペーパークラフト（飛行機）"
   },
   {
     "Source": "Superalloy Robot",
-    "Target": "超合金机器人"
+    "Target": "超合金机器人",
+    "JP": "超合金のロボット"
   },
   {
     "Source": "Still not done!?",
-    "Target": "你没完了吗！？"
+    "Target": "又来！？",
+    "JP": "「またかっ」"
   },
   {
     "Source": "Stop on New Page",
-    "Target": "翻页时停止"
+    "Target": "翻页时停止",
+    "JP": null
   },
   {
     "Source": "Unknown Lifeform",
-    "Target": "迷之生命体"
+    "Target": "迷之生命体",
+    "JP": "謎の生命体"
   },
   {
     "Source": "Watch it closer.",
-    "Target": "再仔细点看。"
+    "Target": "再仔细点看。",
+    "JP": "「ちゃんと良く見て当てろ」"
   },
   {
     "Source": "There is danger!",
-    "Target": "有危险！"
+    "Target": "有危险！",
+    "JP": "「でんじゃぁーですっ」"
   },
   {
     "Source": "Rin-chan, fight!",
-    "Target": "小铃，加油！"
+    "Target": "小铃，加油！",
+    "JP": "「鈴ちゃんふぁいとぉーっ」"
   },
   {
     "Source": "Process Priority",
-    "Target": "进程优先级"
+    "Target": "进程优先级",
+    "JP": null
   },
   {
     "Source": "We got a point～.",
-    "Target": "我们得了一分～。"
+    "Target": "我们得了一分～。",
+    "JP": "「げっとですよ～」"
   },
   {
     "Source": "Ping Pong Paddle",
-    "Target": "乒乓球拍"
+    "Target": "乒乓球拍",
+    "JP": "卓球ラケット"
   },
   {
     "Source": "Badminton Racket",
-    "Target": "羽毛球拍"
+    "Target": "羽毛球拍",
+    "JP": "バドミントンラケット"
   },
   {
     "Source": "Well, work hard.",
-    "Target": "那么，努力吧。"
+    "Target": "那么，努力吧。",
+    "JP": "「まあがんばれ」"
   },
   {
     "Source": "Remove the cats!",
-    "Target": "把猫移走！"
+    "Target": "把猫移走！",
+    "JP": "「猫どかせ」"
   },
   {
     "Source": "You made it cry!",
-    "Target": "它都哭了！"
+    "Target": "它都哭了！",
+    "JP": "「あんなに鳴いてるだろっ！」"
   },
   {
     "Source": "Unknown Lifeform",
-    "Target": "迷之生命体"
+    "Target": "迷之生命体",
+    "JP": "謎の生命体"
   },
   {
     "Source": "How about that?",
-    "Target": "怎么样？"
+    "Target": "怎么样？",
+    "JP": "「どうだ」"
   },
   {
     "Source": "Find the balls.",
-    "Target": "找到球。"
+    "Target": "找到球。",
+    "JP": "「つかもうぜ」"
   },
   {
     "Source": "Now I did it...",
-    "Target": "我怎么会…"
+    "Target": "我怎么会…",
+    "JP": "「やっちゃった…」"
   },
   {
     "Source": "It's a miracle!",
-    "Target": "真是个奇迹！"
+    "Target": "真是个奇迹！",
+    "JP": "「イッツミラクゥ！」"
   },
   {
     "Source": "Splendid catch!",
-    "Target": "精彩的接球！"
+    "Target": "精彩的接球！",
+    "JP": "「華麗にキャッチ！」"
   },
   {
     "Source": "That was weak～.",
-    "Target": "刚才太弱了～。"
+    "Target": "刚才太弱了～。",
+    "JP": "「よわいね～」"
   },
   {
     "Source": "This way, huh!?",
-    "Target": "是这边吗！？"
+    "Target": "是这边吗！？",
+    "JP": "「こっちかっ」"
   },
   {
     "Source": "Okay, wan tsu-!",
-    "Target": "好，开始一二～！"
+    "Target": "好，开始一二～！",
+    "JP": "「はい、わん・つー！」"
   },
   {
     "Source": "Six. Holy crap!",
-    "Target": "六球。天哪！"
+    "Target": "六球。天哪！",
+    "JP": "「ろくっ、とすげぇぞ！」"
   },
   {
     "Source": "60GB MP3 Player",
-    "Target": "60GB MP3播放器"
+    "Target": "60GB MP3播放器",
+    "JP": "MP3プレイヤー(60GB)"
   },
   {
     "Source": "Mini MP3 Player",
-    "Target": "迷你MP3播放器"
+    "Target": "迷你MP3播放器",
+    "JP": "MP3プレイヤー(mini)"
   },
   {
     "Source": "Ride-on Toy Car",
-    "Target": "骑乘玩具车"
+    "Target": "骑乘玩具车",
+    "JP": "乗れる車のおもちゃ"
   },
   {
     "Source": "Digital Cameras",
-    "Target": "数码相机"
+    "Target": "数码相机",
+    "JP": "デジタルカメラ"
   },
   {
     "Source": "Select Language",
-    "Target": "选择语言"
+    "Target": "选择语言",
+    "JP": null
   },
   {
     "Source": "Adhesive roller",
-    "Target": "粘尘滚筒"
+    "Target": "粘尘滚筒",
+    "JP": "コロコロ"
   },
   {
     "Source": "Leave it to me!",
-    "Target": "交给我吧！"
+    "Target": "交给我吧！",
+    "JP": "「よし、きた！」"
   },
   {
     "Source": "Computer Virus",
-    "Target": "计算机病毒"
+    "Target": "计算机病毒",
+    "JP": "ウィルス"
   },
   {
     "Source": "No principles.",
-    "Target": "毫无节操。"
+    "Target": "毫无节操。",
+    "JP": "「節操もない」"
   },
   {
     "Source": "Cheap Magazine",
-    "Target": "廉价杂志"
+    "Target": "廉价杂志",
+    "JP": "薄っぺらい本"
   },
   {
     "Source": "Isn't it fine?",
-    "Target": "不是挺好吗？"
+    "Target": "不是挺好吗？",
+    "JP": "「いいんじゃないか？」"
   },
   {
     "Source": "The other way?",
-    "Target": "换个方向？"
+    "Target": "换个方向？",
+    "JP": "「他の方を」"
   },
   {
     "Source": "That sucked...",
-    "Target": "刚才真烂…"
+    "Target": "刚才真烂…",
+    "JP": "「最悪です…」"
   },
   {
     "Source": "Piece of cake.",
-    "Target": "小菜一碟。"
+    "Target": "小菜一碟。",
+    "JP": "「なんてことない」"
   },
   {
     "Source": "Eleven, o-hoo!",
-    "Target": "十一，哦呼～！"
+    "Target": "十一，哦呼～！",
+    "JP": "「じゅういちっ、ひゅ～！」"
   },
   {
     "Source": "Kitchen Mitten",
-    "Target": "厨房手套"
+    "Target": "厨房手套",
+    "JP": "キッチンミトン"
   },
   {
     "Source": "Piece of cake!",
-    "Target": "小菜一碟！"
+    "Target": "小菜一碟！",
+    "JP": "「朝飯前ですっ」"
   },
   {
     "Source": "Haruchin good!",
-    "Target": "小叶子真棒！"
+    "Target": "小叶子真棒！",
+    "JP": "「はるちんうまいっ」"
   },
   {
     "Source": "That was easy!",
-    "Target": "这太简单了！"
+    "Target": "这太简单了！",
+    "JP": "「余裕でキャッチ！」"
   },
   {
     "Source": "It came here～!",
-    "Target": "来了～！"
+    "Target": "来了～！",
+    "JP": "「こっちきたーっ」"
   },
   {
     "Source": "Bolit (Hurts)!",
-    "Target": "Болит (疼)！"
+    "Target": "Болит (疼)！",
+    "JP": "「ばりーとー！（いたいっ）」"
   },
   {
     "Source": "%s gathers %s!",
-    "Target": "%s聚集了%s！"
+    "Target": "%s选中了『%s』！",
+    "JP": "%sは『%s』を選び取った！"
   },
   {
     "Source": "Position of　　　",
-    "Target": "选项"
+    "Target": "选项",
+    "JP": null
   },
   {
     "Source": "　　Transparency",
-    "Target": "　　透明度"
+    "Target": "　　透明度",
+    "JP": null
   },
   {
     "Source": "　Per Character",
-    "Target": "等待时间"
+    "Target": "等待时间",
+    "JP": null
   },
   {
     "Source": "Base Wait Time",
-    "Target": "等待时间"
+    "Target": "等待时间",
+    "JP": null
   },
   {
     "Source": "Mask the Saito",
-    "Target": "假面 齐藤"
+    "Target": "假面 齐藤",
+    "JP": "マスクザ斉藤"
   },
   {
     "Source": "Cleansing Soap",
-    "Target": "洁面皂"
+    "Target": "洁面皂",
+    "JP": "洗顔用石けん"
   },
   {
     "Source": "Two finger tap",
-    "Target": "双指点击"
+    "Target": "双指点击",
+    "JP": null
   },
   {
     "Source": "Low resolution",
-    "Target": "低分辨率"
+    "Target": "低分辨率",
+    "JP": null
   },
   {
     "Source": "Zuzu～ Howa～...",
-    "Target": "呼呼～呜哇～…"
+    "Target": "呼呼～呜哇～…",
+    "JP": "「ずず～…ほわ～」"
   },
   {
     "Source": "Ping Pong Ball",
-    "Target": "乒乓球"
+    "Target": "乒乓球",
+    "JP": "ピンポン球"
   },
   {
     "Source": "Cosmetic Paper",
-    "Target": "化妆纸"
+    "Target": "化妆纸",
+    "JP": "あぶらとり紙"
   },
   {
     "Source": "MP3プレイヤー(mini)",
-    "Target": "MP3播放器（迷你）"
+    "Target": "MP3播放器（迷你）",
+    "JP": null
   },
   {
     "Source": "MP3プレイヤー(60GB)",
-    "Target": "MP3播放器（60GB）"
+    "Target": "MP3播放器（60GB）",
+    "JP": null
   },
   {
     "Source": "Ha Ka Ta salt!",
-    "Target": "哈卡塔盐！"
+    "Target": "哈卡塔盐！",
+    "JP": "「は・か・たのしおっ♪」"
   },
   {
     "Source": "You can do it!",
-    "Target": "你可以的！"
+    "Target": "你可以的！",
+    "JP": "「いけるっ」"
   },
   {
     "Source": "%s: %s chosen!",
-    "Target": "%s选择了%s！"
+    "Target": "%s选择了%s！",
+    "JP": null
   },
   {
     "Source": "Wait a little.",
-    "Target": "稍等一下。"
+    "Target": "稍等一下。",
+    "JP": "「ちょっとまってねー」"
   },
   {
     "Source": "Watch closely.",
-    "Target": "仔细看好了。"
+    "Target": "仔细看好了。",
+    "JP": "「見るといい」"
   },
   {
     "Source": "What was that!",
-    "Target": "那是什么！"
+    "Target": "那是什么！",
+    "JP": "「なにすんじゃっ」"
   },
   {
     "Source": "That was low!",
-    "Target": "刚才太低了！"
+    "Target": "刚才太低了！",
+    "JP": "「最低だね！」"
   },
   {
     "Source": "Master Volume",
-    "Target": "主音量"
+    "Target": "主音量",
+    "JP": null
   },
   {
     "Source": "Wasse, wasse!",
-    "Target": "哇塞，哇塞！"
+    "Target": "哇塞，哇塞！",
+    "JP": "「わっせっわっせっ」"
   },
   {
     "Source": "Pop up Pirate",
-    "Target": "弹出海盗"
+    "Target": "弹出海盗",
+    "JP": "あおひげ"
   },
   {
     "Source": "Boxing Gloves",
-    "Target": "拳击手套"
+    "Target": "拳击手套",
+    "JP": "ボクシンググローブ"
   },
   {
     "Source": "Movie Quality",
-    "Target": "影片质量"
+    "Target": "影片质量",
+    "JP": null
   },
   {
     "Source": "There's more.",
-    "Target": "还有更多。"
+    "Target": "还有更多。",
+    "JP": "「まだまだっ」"
   },
   {
     "Source": "Natural high!",
-    "Target": "自然兴奋！"
+    "Target": "自然兴奋！",
+    "JP": "「ナチュラルハイ！」"
   },
   {
     "Source": "Yes, my lord!",
-    "Target": "是，阁下！"
+    "Target": "是，阁下！",
+    "JP": "「いえす、まいろーどっ」"
   },
   {
     "Source": "While pressed",
-    "Target": "按住时"
+    "Target": "按住时",
+    "JP": null
   },
   {
     "Source": "Nice, turkey!",
-    "Target": "好球，本垒！"
+    "Target": "好，三连中！",
+    "JP": "「よし、ターキーだ！」"
   },
   {
     "Source": "Fiiniishiing!",
-    "Target": "决战时刻！"
+    "Target": "必杀——！",
+    "JP": "「ひっさーーーつっ！」"
   },
   {
     "Source": "This is fuun.",
-    "Target": "这很有趣。"
+    "Target": "这很有趣。",
+    "JP": "「たのしいよー」"
   },
   {
     "Source": "I can see it!",
-    "Target": "我看见了！"
+    "Target": "我看见了！",
+    "JP": "「見えたっ！」"
   },
   {
     "Source": "Aluminium Peg",
-    "Target": "铝夹"
+    "Target": "铝夹",
+    "JP": "アルミピンチ"
   },
   {
     "Source": "Granny's Bike",
-    "Target": "奶奶的自行车"
+    "Target": "奶奶的自行车",
+    "JP": "ママチャリ"
   },
   {
     "Source": "Business card",
-    "Target": "名片"
+    "Target": "名片",
+    "JP": "名刺"
   },
   {
     "Source": "Hun hun hu-n.",
-    "Target": "哼哼哼～。"
+    "Target": "哼哼哼～。",
+    "JP": "「ふんふんふーん」"
   },
   {
     "Source": "This is fun～.",
-    "Target": "这很有趣～。"
+    "Target": "这很有趣～。",
+    "JP": "「たのしいねー」"
   },
   {
     "Source": "Eep, again...",
-    "Target": "哎呀，又来了…"
+    "Target": "哎呀，又来了…",
+    "JP": "「ああ、またっ」"
   },
   {
     "Source": "Thick Burdock",
-    "Target": "粗牛蒡"
+    "Target": "粗牛蒡",
+    "JP": "太いごぼう"
   },
   {
     "Source": "Tennis Racket",
-    "Target": "网球拍"
+    "Target": "网球拍",
+    "JP": "テニスラケット"
   },
   {
     "Source": "It's a catch!",
-    "Target": "接住了！"
+    "Target": "接住了！",
+    "JP": "「キャッチですヨ」"
   },
   {
     "Source": "Have it back.",
-    "Target": "还给你。"
+    "Target": "还给你。",
+    "JP": "「返すぞ」"
   },
   {
     "Source": "Plush Penguin",
-    "Target": "企鹅玩偶"
+    "Target": "企鹅玩偶",
+    "JP": "ぺんぎんぬいぐるみ"
   },
   {
     "Source": "Above Normal",
-    "Target": "高于正常"
+    "Target": "高于正常",
+    "JP": null
   },
   {
     "Source": "Jump Forward",
-    "Target": "向前跳"
+    "Target": "向前跳",
+    "JP": null
   },
   {
     "Source": "An easy out.",
-    "Target": "轻松出局。"
+    "Target": "轻松出局。",
+    "JP": "「余裕でアウトだぜ」"
   },
   {
     "Source": "Not so fast!",
-    "Target": "没那么快！"
+    "Target": "没那么快！",
+    "JP": "「そうはさせるかっ」"
   },
   {
     "Source": "0.2 sec/char",
-    "Target": "0.2秒/字符"
+    "Target": "0.2秒/字符",
+    "JP": null
   },
   {
     "Source": "Not so easy!",
-    "Target": "没那么容易！"
+    "Target": "没那么容易！",
+    "JP": "「そうは簡単にいくかいっ」"
   },
   {
     "Source": "Body Shampoo",
-    "Target": "沐浴露"
+    "Target": "沐浴露",
+    "JP": "ボディーシャンプー"
   },
   {
     "Source": "There we go.",
-    "Target": "这就对了。"
+    "Target": "这就对了。",
+    "JP": "「あらよっと」"
   },
   {
     "Source": "Too fast～...",
-    "Target": "太快了～…"
+    "Target": "太快了～…",
+    "JP": "「はやすぎるよ～」"
   },
   {
     "Source": "Mega Bazooka",
-    "Target": "超级火箭筒"
+    "Target": "超级火箭筒",
+    "JP": "メガバズーカランチャー"
   },
   {
     "Source": "Ran ran ra～.",
-    "Target": "啦啦啦～。"
+    "Target": "啦啦啦～。",
+    "JP": "「らんらんら～」"
   },
   {
     "Source": "Nail Clipper",
-    "Target": "指甲剪"
+    "Target": "指甲剪",
+    "JP": "爪切り"
   },
   {
     "Source": "Toilet Brush",
-    "Target": "马桶刷"
+    "Target": "马桶刷",
+    "JP": "トイレブラシ"
   },
   {
     "Source": "You are out!",
-    "Target": "你出局了！"
+    "Target": "你出局了！",
+    "JP": "「アウトですヨ」"
   },
   {
     "Source": "Double play!",
-    "Target": "双杀！"
+    "Target": "双杀！",
+    "JP": "「ゲッツーですヨ」"
   },
   {
     "Source": "Is that all?",
-    "Target": "就这样？"
+    "Target": "就这样？",
+    "JP": "「この程度か」"
   },
   {
     "Source": "Snap pointer",
-    "Target": "指针吸附"
+    "Target": "指针吸附",
+    "JP": null
   },
   {
     "Source": "You hurt it!",
-    "Target": "你打到它了！"
+    "Target": "你打到它了！",
+    "JP": "「いたそーだろっ！」"
   },
   {
     "Source": "Toilet Paper",
-    "Target": "卫生纸"
+    "Target": "卫生纸",
+    "JP": "トイレットペーパー"
   },
   {
     "Source": "Ora ora ora!",
-    "Target": "欧拉欧拉欧拉！"
+    "Target": "欧拉欧拉欧拉！",
+    "JP": null
   },
   {
     "Source": "Instant Glue",
-    "Target": "瞬间胶"
+    "Target": "瞬间胶",
+    "JP": "瞬間接着剤"
   },
   {
     "Source": "A miracle...",
-    "Target": "一个奇迹…"
+    "Target": "一个奇迹…",
+    "JP": "「奇跡をっ」"
   },
   {
     "Source": "Misc(Female)",
-    "Target": "女配角"
+    "Target": "女配角",
+    "JP": null
   },
   {
     "Source": "　　　Read Text",
-    "Target": "文本颜色"
+    "Target": "文本颜色",
+    "JP": null
   },
   {
     "Source": "Only choices",
-    "Target": "仅限选项"
+    "Target": "仅限选项",
+    "JP": null
   },
   {
     "Source": "Sleeping Bag",
-    "Target": "睡袋"
+    "Target": "睡袋",
+    "JP": "寝袋"
   },
   {
     "Source": "Forward Once",
-    "Target": "向前一次"
+    "Target": "向前一次",
+    "JP": null
   },
   {
     "Source": "Display date",
-    "Target": "显示日期"
+    "Target": "显示日期",
+    "JP": null
   },
   {
     "Source": "Start/Cancel",
-    "Target": "开始/取消"
+    "Target": "开始/取消",
+    "JP": null
   },
   {
     "Source": "Odinnadtsat!",
-    "Target": "十一！"
+    "Target": "十一！",
+    "JP": "「あじなーつぁー！」"
   },
   {
     "Source": "Watch out-!",
-    "Target": "小心——！"
+    "Target": "小心——！",
+    "JP": "「あぶないあぶないー」"
   },
   {
     "Source": "Laundry Peg",
-    "Target": "晾衣夹"
+    "Target": "晾衣夹",
+    "JP": "洗濯バサミ"
   },
   {
     "Source": "Rubber Band",
-    "Target": "橡皮筋"
+    "Target": "橡皮筋",
+    "JP": "輪ゴム"
   },
   {
     "Source": "Uooooryaaa!",
-    "Target": "呜哦哦哦哦哦哦哦哦！"
+    "Target": "呜哦哦哦哦哦哦哦哦！",
+    "JP": null
   },
   {
     "Source": "Full house!",
-    "Target": "满堂红！"
+    "Target": "满堂红！",
+    "JP": "「フルハウスっ」"
   },
   {
     "Source": "Firecracker",
-    "Target": "鞭炮"
+    "Target": "鞭炮",
+    "JP": "ねずみ花火"
   },
   {
     "Source": "Club Member",
-    "Target": "垒球部部员"
+    "Target": "垒球部部员",
+    "JP": "ソフト部員"
   },
   {
     "Source": "Bull's eye.",
-    "Target": "正中目标。"
+    "Target": "正中目标。",
+    "JP": "「ばっちりー」"
   },
   {
     "Source": "Machine Gun",
-    "Target": "机枪"
+    "Target": "机枪",
+    "JP": "マシンガン"
   },
   {
     "Source": "System Data",
-    "Target": "系统数据"
+    "Target": "系统数据",
+    "JP": "システムデータ"
   },
   {
     "Source": "Fine by me.",
-    "Target": "我没意见。"
+    "Target": "我没意见。",
+    "JP": "「いいだろう」"
   },
   {
     "Source": "Eh, uh, oh?",
-    "Target": "诶，嗯，哦？"
+    "Target": "诶，嗯，哦？",
+    "JP": "「ありゃりゃ？」"
   },
   {
     "Source": "Soccer Ball",
-    "Target": "足球"
+    "Target": "足球",
+    "JP": "サッカーボール"
   },
   {
     "Source": "Quiet, you!",
-    "Target": "安静点！"
+    "Target": "安静点！",
+    "JP": "「お静かに」"
   },
   {
     "Source": "Busterpedia",
-    "Target": "关键字"
+    "Target": "关键字",
+    "JP": null
   },
   {
     "Source": "No trouble.",
-    "Target": "没问题。"
+    "Target": "没问题。",
+    "JP": "「造作もない」"
   },
   {
     "Source": "　　　　Choices",
-    "Target": "　　　　位置"
+    "Target": "　　　　位置",
+    "JP": null
   },
   {
     "Source": "Window　　　　　",
-    "Target": "窗口　　　　　"
+    "Target": "窗口　　　　　",
+    "JP": null
   },
   {
     "Source": "Fine play～.",
-    "Target": "精彩的表现～。"
+    "Target": "精彩的表现～。",
+    "JP": "「ふぁいんぷれ～」"
   },
   {
     "Source": "It's okay～.",
-    "Target": "没问题～。"
+    "Target": "没问题～。",
+    "JP": "「おっけーだねー」"
   },
   {
     "Source": "Whoo, cool!",
-    "Target": "哇，太酷了！"
+    "Target": "哇，太酷了！",
+    "JP": "「ひゅークール！」"
   },
   {
     "Source": "Don't mind!",
-    "Target": "别在意！"
+    "Target": "别在意！",
+    "JP": "「ドンマイですヨ」"
   },
   {
     "Source": "Wait Time　　",
-    "Target": "每字符"
+    "Target": "每字符",
+    "JP": null
   },
   {
     "Source": "Hide Window",
-    "Target": "关界面"
+    "Target": "关界面",
+    "JP": null
   },
   {
     "Source": "Banana Peel",
-    "Target": "香蕉皮"
+    "Target": "香蕉皮",
+    "JP": "バナナの皮"
   },
   {
     "Source": "Full Screen",
-    "Target": "全屏"
+    "Target": "全屏",
+    "JP": null
   },
   {
     "Source": "Window Size",
-    "Target": "缩放"
+    "Target": "缩放",
+    "JP": null
   },
   {
     "Source": "Select BGM",
-    "Target": "选择BGM"
+    "Target": "选择BGM",
+    "JP": null
   },
   {
     "Source": "Club Member",
-    "Target": "垒球部部员"
+    "Target": "垒球部部员",
+    "JP": "ソフト部員"
   },
   {
     "Source": "Right Arrow",
-    "Target": "右箭头"
+    "Target": "右箭头",
+    "JP": null
   },
   {
     "Source": "Rewind Once",
-    "Target": "上一句"
+    "Target": "上一句",
+    "JP": null
   },
   {
     "Source": "Screen Mode",
-    "Target": "显示"
+    "Target": "显示",
+    "JP": null
   },
   {
     "Source": "How's this!",
-    "Target": "怎么样！"
+    "Target": "怎么样！",
+    "JP": "「どうだっ」"
   },
   {
     "Source": "All cursors",
-    "Target": "所有"
+    "Target": "所有",
+    "JP": null
   },
   {
     "Source": "Sticky Tape",
-    "Target": "胶带"
+    "Target": "胶带",
+    "JP": "粘着テープ"
   },
   {
     "Source": "Yeah, yeah!",
-    "Target": "好，好！"
+    "Target": "好，好！",
+    "JP": "「はいはいーっ」"
   },
   {
     "Source": "Nice swing.",
-    "Target": "挥棒很棒。"
+    "Target": "挥棒很棒。",
+    "JP": "「ナイススイングだわ」"
   },
   {
     "Source": "Stag Beetle",
-    "Target": "锹形虫"
+    "Target": "锹形虫",
+    "JP": "かなぶん"
   },
   {
     "Source": "3D Glasses",
-    "Target": "3D眼镜"
+    "Target": "3D眼镜",
+    "JP": "３Ｄ眼鏡"
   },
   {
     "Source": "Pellet Gun",
-    "Target": "气枪"
+    "Target": "气枪",
+    "JP": "銀玉鉄砲"
   },
   {
     "Source": "Quick Save",
-    "Target": "Quick Save"
+    "Target": "Quick Save",
+    "JP": null
   },
   {
     "Source": "0 sec/char",
-    "Target": "0秒/字符"
+    "Target": "0秒/字符",
+    "JP": null
   },
   {
     "Source": "Z (Rewind)",
-    "Target": "Z(回退)"
+    "Target": "Z(回退)",
+    "JP": null
   },
   {
     "Source": "I made it.",
-    "Target": "我做到了。"
+    "Target": "我做到了。",
+    "JP": "「うまくできたよー」"
   },
   {
     "Source": "Chopsticks",
-    "Target": "筷子"
+    "Target": "筷子",
+    "JP": "割り箸"
   },
   {
     "Source": "All right.",
-    "Target": "好了。"
+    "Target": "好了。",
+    "JP": "「よし」"
   },
   {
     "Source": "Go, Kengo!",
-    "Target": "加油，谦吾！"
+    "Target": "加油，谦吾！",
+    "JP": "「いくぜ、謙吾っ」"
   },
   {
     "Source": "No sense",
-    "Target": "毫无意义"
+    "Target": "毫无意义",
+    "JP": null
   },
   {
     "Source": "Oraoraaaa!",
-    "Target": "欧拉欧拉啊啊啊！"
+    "Target": "欧拉欧拉啊啊啊！",
+    "JP": "「おらおらああぁーーっ！」"
   },
   {
     "Source": "Wheel down",
-    "Target": "下滚"
+    "Target": "下滚",
+    "JP": null
   },
   {
     "Source": "Mouse Trap",
-    "Target": "捕鼠器"
+    "Target": "捕鼠器",
+    "JP": "ねずみ捕り"
   },
   {
     "Source": "Left Arrow",
-    "Target": "左箭头"
+    "Target": "左箭头",
+    "JP": null
   },
   {
     "Source": "Riki, bad!",
-    "Target": "理树，坏！"
+    "Target": "理树，坏！",
+    "JP": "「理樹、めっだ！」"
   },
   {
     "Source": "Toothbrush",
-    "Target": "牙刷"
+    "Target": "牙刷",
+    "JP": "歯ブラシ"
   },
   {
     "Source": "I got it～.",
-    "Target": "我接到了～。"
+    "Target": "我接到了～。",
+    "JP": "「とったよ～」"
   },
   {
     "Source": "Chewed Gum",
-    "Target": "嚼过的口香糖"
+    "Target": "嚼过的口香糖",
+    "JP": "噛み捨てたガム"
   },
   {
     "Source": "Fine play!",
-    "Target": "精彩的表现！"
+    "Target": "精彩的表现！",
+    "JP": "「ファインプレーっ」"
   },
   {
     "Source": "Back home!",
-    "Target": "回家！"
+    "Target": "回家！",
+    "JP": "「ばっくほーむー」"
   },
   {
     "Source": "Exciting!!",
-    "Target": "太刺激了！！"
+    "Target": "太刺激了！！",
+    "JP": "「えきさいと！！」"
   },
   {
     "Source": "Text Speed",
-    "Target": "速度"
+    "Target": "速度",
+    "JP": null
   },
   {
     "Source": "Glue Stick",
-    "Target": "固体胶"
+    "Target": "固体胶",
+    "JP": "スティックのり"
   },
   {
     "Source": "Misc(Male)",
-    "Target": "男配角"
+    "Target": "男配角",
+    "JP": null
   },
   {
     "Source": "Cyber Yoyo",
-    "Target": "赛博悠悠球"
+    "Target": "赛博悠悠球",
+    "JP": "サイバーヨーヨー"
   },
   {
     "Source": "Rugby Ball",
-    "Target": "橄榄球"
+    "Target": "橄榄球",
+    "JP": "ラグビーボール"
   },
   {
     "Source": "Lightsaber",
-    "Target": "光剑"
+    "Target": "光剑",
+    "JP": "ライトセイバー"
   },
   {
     "Source": "Look here!",
-    "Target": "看这里！"
+    "Target": "看这里！",
+    "JP": "「こりゃさっ」"
   },
   {
     "Source": "Volleyball",
-    "Target": "排球"
+    "Target": "排球",
+    "JP": "バレーボール"
   },
   {
     "Source": "Beam Rifle",
-    "Target": "光束步枪"
+    "Target": "光束步枪",
+    "JP": "ビームライフル"
   },
   {
     "Source": "Basketball",
-    "Target": "篮球"
+    "Target": "篮球",
+    "JP": "バスケットボール"
   },
   {
     "Source": "Super Ball",
-    "Target": "超级球"
+    "Target": "超级球",
+    "JP": "スーパーボール"
   },
   {
     "Source": "Why you...",
-    "Target": "你这个…"
+    "Target": "你这个…",
+    "JP": "「このやろっ」"
   },
   {
     "Source": "Dust Cloth",
-    "Target": "抹布"
+    "Target": "抹布",
+    "JP": "ぞうきん"
   },
   {
     "Source": "Sea Urchin",
-    "Target": "海胆"
+    "Target": "海胆",
+    "JP": "うに"
   },
   {
     "Source": "No way...",
-    "Target": "怎么这样…"
+    "Target": "怎么这样…",
+    "JP": "「そんなぁ…」"
   },
   {
     "Source": "Hand Soap",
-    "Target": "肥皂"
+    "Target": "肥皂",
+    "JP": "ハンドソープ"
   },
   {
     "Source": "Magic Hat",
-    "Target": "魔术帽"
+    "Target": "魔术帽",
+    "JP": "手品セット"
   },
   {
     "Source": "Skyrocket",
-    "Target": "冲天炮"
+    "Target": "冲天炮",
+    "JP": "ロケット花火"
   },
   {
     "Source": "...Sorry!",
-    "Target": "…对不起！"
+    "Target": "…对不起！",
+    "JP": "「…ごめん！」"
   },
   {
     "Source": "Ouchie...",
-    "Target": "哎呀…"
+    "Target": "哎呀…",
+    "JP": "「わちゃー…」"
   },
   {
     "Source": "Toy Knife",
-    "Target": "玩具刀"
+    "Target": "玩具刀",
+    "JP": "おもちゃのナイフ"
   },
   {
     "Source": "Sound API",
-    "Target": "声音API"
+    "Target": "声音API",
+    "JP": null
   },
   {
     "Source": "Exciting!",
-    "Target": "太刺激了！"
+    "Target": "太刺激了！",
+    "JP": "「エキサイティング！」"
   },
   {
     "Source": "Fufufu...",
-    "Target": "呵呵呵…"
+    "Target": "呵呵呵…",
+    "JP": "「フフフ…」"
   },
   {
     "Source": "It's OK～.",
-    "Target": "没事～。"
+    "Target": "没事～。",
+    "JP": "「おっけーですよ～」"
   },
   {
     "Source": "...Sorry.",
-    "Target": "…对不起。"
+    "Target": "…对不起。",
+    "JP": "「…すまん」"
   },
   {
     "Source": "Read Only",
-    "Target": "已读"
+    "Target": "已读",
+    "JP": null
   },
   {
     "Source": "S, sorry!",
-    "Target": "对，对不起！"
+    "Target": "对，对不起！",
+    "JP": "「ご、ごめん！」"
   },
   {
     "Source": "Ha ha ha.",
-    "Target": "哈哈哈。"
+    "Target": "哈哈哈。",
+    "JP": "「はっはっは」"
   },
   {
     "Source": "Hu, hu...",
-    "Target": "呼，呼…"
+    "Target": "呼，呼…",
+    "JP": "「ふっ、ふっ…」"
   },
   {
     "Source": "Careful～!",
-    "Target": "小心～！"
+    "Target": "小心～！",
+    "JP": "「あぶなーいっ」"
   },
   {
     "Source": "System SE",
-    "Target": "系统"
+    "Target": "系统",
+    "JP": null
   },
   {
     "Source": "Horosho～.",
-    "Target": "很好～。"
+    "Target": "很好～。",
+    "JP": "「はらしょ～」"
   },
   {
     "Source": "One outs!",
-    "Target": "一出局！"
+    "Target": "一出局！",
+    "JP": "「ワンナウツ！」"
   },
   {
     "Source": "Ta-daah～.",
-    "Target": "哒哒～。"
+    "Target": "哒哒～。",
+    "JP": "「たらった～」"
   },
   {
     "Source": "Not yet～.",
-    "Target": "还没结束～。"
+    "Target": "还没结束～。",
+    "JP": "「まだまだ～」"
   },
   {
     "Source": "S, she...",
-    "Target": "她，她…"
+    "Target": "她，她…",
+    "JP": "「こ、こいつは…」"
   },
   {
     "Source": "Jump Back",
-    "Target": "向后跳"
+    "Target": "向后跳",
+    "JP": null
   },
   {
     "Source": "Newspaper",
-    "Target": "报纸"
+    "Target": "报纸",
+    "JP": "新聞紙"
   },
   {
     "Source": "Aauuu～...",
-    "Target": "啊啊呜～…"
+    "Target": "啊啊呜～…",
+    "JP": "「あぁうぅぅ～」"
   },
   {
     "Source": "U, uee-n!",
-    "Target": "呜，呜呜——！"
+    "Target": "呜，呜呜——！",
+    "JP": "「う、うえぇーんっ」"
   },
   {
     "Source": "Get away!",
-    "Target": "走开！"
+    "Target": "走开！",
+    "JP": "「どっかいけっ」"
   },
   {
     "Source": "Bring it!",
-    "Target": "放马过来！"
+    "Target": "放马过来！",
+    "JP": "「さあ来なさいっ！」"
   },
   {
     "Source": "Fly, fly!",
-    "Target": "飞吧，飞吧！"
+    "Target": "飞吧，飞吧！",
+    "JP": "「とんでとんでーっ」"
   },
   {
     "Source": "Box Tape",
-    "Target": "封箱胶带"
+    "Target": "封箱胶带",
+    "JP": "ガムテープ"
   },
   {
     "Source": "Magazine",
-    "Target": "杂志"
+    "Target": "杂志",
+    "JP": "週刊誌"
   },
   {
     "Source": "Continue",
-    "Target": "继续"
+    "Target": "继续",
+    "JP": null
   },
   {
     "Source": "Tricycle",
-    "Target": "三轮车"
+    "Target": "三轮车",
+    "JP": "三輪車"
   },
   {
     "Source": "Baseball",
-    "Target": "棒球"
+    "Target": "棒球",
+    "JP": "軟球"
   },
   {
     "Source": "Color of　　　",
-    "Target": "已读"
+    "Target": "已读",
+    "JP": null
   },
   {
     "Source": "Gothic 1",
-    "Target": "哥特1"
+    "Target": "哥特1",
+    "JP": null
   },
   {
     "Source": "Gothic 2",
-    "Target": "哥特2"
+    "Target": "哥特2",
+    "JP": null
   },
   {
     "Source": "Not bad!",
-    "Target": "不错！"
+    "Target": "不错！",
+    "JP": "「悪くないよね」"
   },
   {
     "Source": "Kurugaya",
-    "Target": "来谷"
+    "Target": "来谷",
+    "JP": "来ヶ谷"
   },
   {
     "Source": "Kyousuke",
-    "Target": "恭介"
+    "Target": "恭介",
+    "JP": "恭介"
   },
   {
     "Source": "C (Skip)",
-    "Target": "C(跳过)"
+    "Target": "C(跳过)",
+    "JP": null
   },
   {
     "Source": "Up Arrow",
-    "Target": "上箭头"
+    "Target": "上箭头",
+    "JP": null
   },
   {
     "Source": "Wheel up",
-    "Target": "上滚"
+    "Target": "上滚",
+    "JP": null
   },
   {
     "Source": "Language",
-    "Target": "语言"
+    "Target": "语言",
+    "JP": null
   },
   {
     "Source": "Howaa-!?",
-    "Target": "呜哇——！？"
+    "Target": "呜哇——！？",
+    "JP": "「ほわぁー！？」"
   },
   {
     "Source": "Standard",
-    "Target": "标准"
+    "Target": "标准",
+    "JP": null
   },
   {
     "Source": "Mini Car",
-    "Target": "迷你车"
+    "Target": "迷你车",
+    "JP": "ミニカー"
   },
   {
     "Source": "Careful!",
-    "Target": "小心！"
+    "Target": "小心！",
+    "JP": "「あぶなっ」"
   },
   {
     "Source": "Not bad.",
-    "Target": "不错。"
+    "Target": "不错。",
+    "JP": "「いい感じだ」"
   },
   {
     "Source": "So good!",
-    "Target": "太棒了！"
+    "Target": "太棒了！",
+    "JP": "「ソーグッ！」"
   },
   {
     "Source": "Yahhooo!",
-    "Target": "呀吼～！"
+    "Target": "呀吼～！",
+    "JP": "「やっほーぅ！」"
   },
   {
     "Source": "Tan yao!",
-    "Target": "断幺！"
+    "Target": "断幺！",
+    "JP": "「タンヤオ！」"
   },
   {
     "Source": "Whaaa-!?",
-    "Target": "什么！？"
+    "Target": "什么！？",
+    "JP": "「なああぁっ！？」"
   },
   {
     "Source": "Notebook",
-    "Target": "笔记本"
+    "Target": "笔记本",
+    "JP": "ノート"
   },
   {
     "Source": "Awesome!",
-    "Target": "太棒了！"
+    "Target": "太棒了！",
+    "JP": "「やるな！」"
   },
   {
     "Source": "My ball!",
-    "Target": "我的球！"
+    "Target": "我的球！",
+    "JP": "「私のボールっ」"
   },
   {
     "Source": "Nichego!",
-    "Target": "没什么！"
+    "Target": "没什么！",
+    "JP": "「にちぇぼー！」"
   },
   {
     "Source": "Alright!",
-    "Target": "好！"
+    "Target": "好！",
+    "JP": "「おーらいー」"
   },
   {
     "Source": "Oshambe!",
-    "Target": "哦酱啵！"
+    "Target": "哦酱啵！",
+    "JP": "「おしゃまんべ！」"
   },
   {
     "Source": "Chetire!",
-    "Target": "四！"
+    "Target": "四！",
+    "JP": "「ちとーり！」"
   },
   {
     "Source": "Uoogh...",
-    "Target": "呜哦…"
+    "Target": "呜哦…",
+    "JP": "「うおぅっ…！」"
   },
   {
     "Source": "Horyasa!",
-    "Target": "嘿呀！"
+    "Target": "嘿呀！",
+    "JP": "「ほりゃさっ」"
   },
   {
     "Source": "12 Cats",
-    "Target": "12只猫"
+    "Target": "12只猫",
+    "JP": "猫１２匹"
   },
   {
     "Source": "Funyaa!",
-    "Target": "喵呀呀！"
+    "Target": "喵呀呀！",
+    "JP": "「ふにゃっ！」"
   },
   {
     "Source": "11 Cats",
-    "Target": "11只猫"
+    "Target": "11只猫",
+    "JP": "猫１１匹"
   },
   {
     "Source": "Fuyuu～.",
-    "Target": "芜湖~"
+    "Target": "芜湖~",
+    "JP": "「ふゅ～」"
   },
   {
     "Source": "Other 4",
-    "Target": "其他4"
+    "Target": "其他4",
+    "JP": "他４"
   },
   {
     "Source": "10 Cats",
-    "Target": "10只猫"
+    "Target": "10只猫",
+    "JP": "猫１０匹"
   },
   {
     "Source": "Strelka",
-    "Target": "斯特勒鲁卡"
+    "Target": "斯特勒鲁卡",
+    "JP": "ストレルカ"
   },
   {
     "Source": "Yessir!",
-    "Target": "遵命！"
+    "Target": "遵命！",
+    "JP": "「いえっさー！」"
   },
   {
     "Source": "Burdock",
-    "Target": "牛蒡"
+    "Target": "牛蒡",
+    "JP": "ごぼう"
   },
   {
     "Source": "Nnnyaa!",
-    "Target": "喵喵喵！"
+    "Target": "喵喵喵！",
+    "JP": "「んにゃっ！」"
   },
   {
     "Source": "There!!",
-    "Target": "那里！！"
+    "Target": "那里！！",
+    "JP": "「ていっ！」"
   },
   {
     "Source": "Beigoma",
-    "Target": "陀螺"
+    "Target": "陀螺",
+    "JP": "べーごま"
   },
   {
     "Source": "Eel Pie",
-    "Target": "鳗鱼派"
+    "Target": "鳗鱼派",
+    "JP": "うなぎパイ"
   },
   {
     "Source": "Soryaa!",
-    "Target": "嘿呀！"
+    "Target": "嘿呀！",
+    "JP": "「そりゃあぁーーーーっ！！」"
   },
   {
     "Source": "Fumble!",
-    "Target": "失误！"
+    "Target": "失误！",
+    "JP": "「ファンブル！」"
   },
   {
     "Source": "Devyat!",
-    "Target": "九！"
+    "Target": "九！",
+    "JP": "「じぇーびゃー！」"
   },
   {
     "Source": "Backlog",
-    "Target": "日志"
+    "Target": "日志",
+    "JP": null
   },
   {
     "Source": "English",
-    "Target": "中文"
+    "Target": "中文",
+    "JP": null
   },
   {
     "Source": "Da, da!",
-    "Target": "是的，是的！"
+    "Target": "是的，是的！",
+    "JP": "「だーだー！」"
   },
   {
     "Source": "Genius!",
-    "Target": "天才！"
+    "Target": "天才！",
+    "JP": "「天才的っ」"
   },
   {
     "Source": "Got it!",
-    "Target": "得到了！"
+    "Target": "得到了！",
+    "JP": "「げーっと」"
   },
   {
     "Source": "Gesture",
-    "Target": "手势"
+    "Target": "手势",
+    "JP": null
   },
   {
     "Source": "Caught!",
-    "Target": "抓住了！"
+    "Target": "抓住了！",
+    "JP": "「とったー」"
   },
   {
     "Source": "\t Off\t ",
-    "Target": "关闭"
+    "Target": "关闭",
+    "JP": null
   },
   {
     "Source": "     Off     ",
-    "Target": "关闭"
+    "Target": "关闭",
+    "JP": null
   },
   {
     "Source": "OK, OK.",
-    "Target": "好，好。"
+    "Target": "好，好。",
+    "JP": "「はいはい」"
   },
   {
     "Source": "Disable",
     "Target": "禁用",
-    "Strict": true
+    "Strict": true,
+    "JP": null
   },
   {
     "Source": "Sample Voice",
     "Target": "示例语音",
-    "Strict": true
+    "Strict": true,
+    "JP": "サンプルボイス再生"
   },
   {
     "Source": "Play Voice",
     "Target": "播放",
-    "Strict": true
+    "Strict": true,
+    "JP": "ボイス再生"
   },
   {
     "Source": "parasol",
-    "Target": "遮阳伞"
+    "Target": "遮阳伞",
+    "JP": "日傘"
   },
   {
     "Source": "Page Up",
-    "Target": "Page Up"
+    "Target": "Page Up",
+    "JP": null
   },
   {
     "Source": "Yahooo!",
-    "Target": "呀吼！"
+    "Target": "呀吼！",
+    "JP": "「いやっほーぅ！」"
   },
   {
     "Source": "Uraaaa!",
-    "Target": "呜啦啊啊！"
+    "Target": "呜啦啊啊！",
+    "JP": "「うらああああぁぁぁーーっ！！」"
   },
   {
     "Source": "Blanket",
-    "Target": "毯子"
+    "Target": "毯子",
+    "JP": "毛布"
   },
   {
     "Source": "Uwaa...",
-    "Target": "呜哇…"
+    "Target": "呜哇…",
+    "JP": "「うわぁ…」"
   },
   {
     "Source": "Fuka――!",
-    "Target": "吓——！"
+    "Target": "吓——！",
+    "JP": "「ふかーっ！」"
   },
   {
     "Source": "Uh-huh.",
-    "Target": "嗯嗯。"
+    "Target": "嗯嗯。",
+    "JP": null
   },
   {
     "Source": "Guhu...",
-    "Target": "咕呼…"
+    "Target": "咕呼…",
+    "JP": "「ぐふっ…」"
   },
   {
     "Source": "Gym Net",
-    "Target": "体育馆网"
+    "Target": "体育馆网",
+    "JP": "体育館のネット"
   },
   {
     "Source": "Keyword",
     "Target": "显示",
-    "Strict": true
+    "Strict": true,
+    "JP": null
   },
   {
     "Source": "Sweet!",
-    "Target": "太棒了！"
+    "Target": "太棒了！",
+    "JP": "「うまいっ」"
   },
   {
     "Source": "Normal",
-    "Target": "正常"
+    "Target": "正常",
+    "JP": null
   },
   {
     "Source": "Oh no!",
-    "Target": "糟糕！"
+    "Target": "糟糕！",
+    "JP": "「しまったあぁぁ！」"
   },
   {
     "Source": "Modern",
-    "Target": "现代"
+    "Target": "现代",
+    "JP": null
   },
   {
     "Source": "Wafu!!",
-    "Target": "哇呼！！"
+    "Target": "哇呼！！",
+    "JP": "「わふっ！」"
   },
   {
     "Source": "Yahoo!",
-    "Target": "呀吼！"
+    "Target": "呀吼！",
+    "JP": "「やふー！」"
   },
   {
     "Source": "Mincho",
-    "Target": "明朝"
+    "Target": "明朝",
+    "JP": null
   },
   {
     "Source": "Yellow",
-    "Target": "黄"
+    "Target": "黄",
+    "JP": null
   },
   {
     "Source": "Catch!",
-    "Target": "接住！"
+    "Target": "接住！",
+    "JP": "「きゃっちー」"
   },
   {
     "Source": "Shest!",
-    "Target": "六！"
+    "Target": "六！",
+    "JP": "「しぇすちー！」"
   },
   {
     "Source": "Naive.",
-    "Target": "天真。"
+    "Target": "天真。",
+    "JP": "「甘い」"
   },
   {
     "Source": "Purple",
-    "Target": "紫"
+    "Target": "紫",
+    "JP": null
   },
   {
     "Source": "Fight.",
-    "Target": "加油。"
+    "Target": "加油。",
+    "JP": "「ファイトです」"
   },
   {
     "Source": "Ehh...",
-    "Target": "诶…"
+    "Target": "诶…",
+    "JP": "「えぇー…」"
   },
   {
     "Source": "Nnyau.",
-    "Target": "喵～。"
+    "Target": "喵～。",
+    "JP": "「んにゃうーっ」"
   },
   {
     "Source": "Humph!",
-    "Target": "哼！"
+    "Target": "哼！",
+    "JP": "「ふんっ！」"
   },
   {
     "Source": "Vosem!",
-    "Target": "八！"
+    "Target": "八！",
+    "JP": "「う゛ぉーすみー！」"
   },
   {
     "Source": "Uwa...",
-    "Target": "呜哇…"
+    "Target": "呜哇…",
+    "JP": "「うわ…」"
   },
   {
     "Source": "Window",
     "Target": "窗口",
-    "Strict": true
+    "Strict": true,
+    "JP": null
   },
   {
     "Source": "Bottom",
     "Target": "底部",
-    "Strict": true
+    "Strict": true,
+    "JP": null
   },
   {
     "Source": "Center",
     "Target": "中心",
-    "Strict": true
+    "Strict": true,
+    "JP": null
   },
   {
     "Source": "Latest",
     "Target": "最新",
-    "Strict": true
+    "Strict": true,
+    "JP": "最新へ"
   },
   {
     "Source": "Defaults",
     "Target": "默认",
-    "Strict": true
+    "Strict": true,
+    "JP": null
   },
   {
     "Source": "Pliers",
-    "Target": "钳子"
+    "Target": "钳子",
+    "JP": "ペンチ"
   },
   {
     "Source": "Delete",
-    "Target": "删除"
+    "Target": "删除",
+    "JP": " 削除 "
   },
   {
     "Source": "Rewind",
-    "Target": "倒带"
+    "Target": "倒带",
+    "JP": null
   },
   {
     "Source": "Maaan!",
-    "Target": "蛮！"
+    "Target": "蛮！",
+    "JP": "「まーん！」"
   },
   {
     "Source": "Meeen!",
-    "Target": "面！"
+    "Target": "面！",
+    "JP": "「めーん！」"
   },
   {
     "Source": "Marble",
-    "Target": "弹珠"
+    "Target": "弹珠",
+    "JP": "ビーだま"
   },
   {
     "Source": "Juump!",
-    "Target": "跳！"
+    "Target": "跳！",
+    "JP": "「とびまーすっ」"
   },
   {
     "Source": "Howaa!",
-    "Target": "哇！"
+    "Target": "哇！",
+    "JP": "「ほわぁっ」"
   },
   {
     "Source": "Heere!",
-    "Target": "嘿咧！"
+    "Target": "嘿咧！",
+    "JP": "「そーれっ」"
   },
   {
     "Source": "3 Cats",
-    "Target": "3只猫"
+    "Target": "3只猫",
+    "JP": "猫３匹"
   },
   {
     "Source": "4 Cats",
-    "Target": "4只猫"
+    "Target": "4只猫",
+    "JP": "猫４匹"
   },
   {
     "Source": "Haruka",
     "Target": "叶留佳",
-    "SingleByteString": "三枝"
+    "SingleByteString": "三枝",
+    "JP": "葉留佳"
   },
   {
     "Source": "5 Cats",
-    "Target": "5只猫"
+    "Target": "5只猫",
+    "JP": "猫５匹"
   },
   {
     "Source": "6 Cats",
-    "Target": "6只猫"
+    "Target": "6只猫",
+    "JP": "猫６匹"
   },
   {
     "Source": "7 Cats",
-    "Target": "7只猫"
+    "Target": "7只猫",
+    "JP": "猫７匹"
   },
   {
     "Source": "Clear!",
-    "Target": "干得好！"
+    "Target": "干得好！",
+    "JP": "「クリア！」"
   },
   {
     "Source": "Masato",
-    "Target": "真人"
+    "Target": "真人",
+    "JP": "真人"
   },
   {
     "Source": "8 Cats",
-    "Target": "8只猫"
+    "Target": "8只猫",
+    "JP": "猫８匹"
   },
   {
     "Source": "9 Cats",
-    "Target": "9只猫"
+    "Target": "9只猫",
+    "JP": "猫９匹"
   },
   {
     "Source": "There.",
-    "Target": "在那里。"
+    "Target": "在那里。",
+    "JP": null
   },
   {
     "Source": "Fuyaa!",
-    "Target": "咻呀！"
+    "Target": "咻呀！",
+    "JP": "「ふゃーっ」"
   },
   {
     "Source": "Fuuee!",
-    "Target": "呜诶！"
+    "Target": "呜诶！",
+    "JP": "「ふえぇぇーんっ」"
   },
   {
     "Source": "2 Cats",
-    "Target": "2只猫"
+    "Target": "2只猫",
+    "JP": "猫２匹"
   },
   {
     "Source": "Hyaa!?",
-    "Target": "吓！？"
+    "Target": "吓！？",
+    "JP": "「ひゃぁっ！？」"
   },
   {
     "Source": "Pillow",
-    "Target": "枕头"
+    "Target": "枕头",
+    "JP": "枕"
   },
   {
     "Source": "Haah!?",
-    "Target": "哈啊！？"
+    "Target": "哈啊！？",
+    "JP": "「はっ！？」"
   },
   {
     "Source": "Go on!",
-    "Target": "继续吧！"
+    "Target": "继续吧！",
+    "JP": "「続けっ」"
   },
   {
     "Source": "Kengo!",
-    "Target": "谦吾！"
+    "Target": "谦吾！",
+    "JP": "「謙吾！」"
   },
   {
     "Source": "Eraser",
-    "Target": "橡皮擦"
+    "Target": "橡皮擦",
+    "JP": "消しゴム"
   },
   {
     "Source": "Unyaa!",
-    "Target": "喵呀！"
+    "Target": "喵呀！",
+    "JP": "「うにゃっ！」"
   },
   {
     "Source": "There!",
-    "Target": "在那里！"
+    "Target": "在那里！",
+    "JP": "「ほらよっと」"
   },
   {
     "Source": "Sasami",
-    "Target": "佐佐美"
+    "Target": "佐佐美",
+    "JP": "佐々美"
   },
   {
     "Source": "Ehehe!",
-    "Target": "嘿嘿！"
+    "Target": "嘿嘿！",
+    "JP": "「えへへっ」"
   },
   {
     "Source": "Kanata",
     "Target": "佳奈多",
-    "SingleByteString": "二木"
+    "SingleByteString": "二木",
+    "JP": null
   },
   {
     "Source": "Bucket",
-    "Target": "桶"
+    "Target": "桶",
+    "JP": "バケツ"
   },
   {
     "Source": "Komari",
-    "Target": "小毬"
+    "Target": "小毬",
+    "JP": "小毬"
   },
   {
     "Source": "Here!",
-    "Target": "给你！"
+    "Target": "给你！",
+    "JP": "「はいっ」"
   },
   {
     "Source": "Five!",
-    "Target": "五球！"
+    "Target": "五球！",
+    "JP": "「ご！」"
   },
   {
     "Source": "Uyaa!",
-    "Target": "呜呀！"
+    "Target": "呜呀！",
+    "JP": "「うゃ～っ」"
   },
   {
     "Source": "Close",
-    "Target": "关闭"
+    "Target": "关闭",
+    "JP": null
   },
   {
     "Source": "0 sec",
-    "Target": "0秒"
+    "Target": "0秒",
+    "JP": null
   },
   {
     "Source": "Yeah.",
-    "Target": "耶。"
+    "Target": "耶。",
+    "JP": "「うんー」"
   },
   {
     "Source": "Color",
-    "Target": "颜色"
+    "Target": "颜色",
+    "JP": null
   },
   {
     "Source": "Voice",
-    "Target": "语音"
+    "Target": "语音",
+    "JP": null
   },
   {
     "Source": "Here.",
-    "Target": "给你。"
+    "Target": "给你。",
+    "JP": "「ほら」"
   },
   {
     "Source": "Humu.",
-    "Target": "嗯嗯。"
+    "Target": "嗯嗯。",
+    "JP": "「ふむ」"
   },
   {
     "Source": "2 sec",
-    "Target": "2秒"
+    "Target": "2秒",
+    "JP": null
   },
   {
     "Source": "3 sec",
-    "Target": "3秒"
+    "Target": "3秒",
+    "JP": null
   },
   {
     "Source": "Heyy!",
-    "Target": "嘿～！"
+    "Target": "嘿～！",
+    "JP": "「こらー！」"
   },
   {
     "Source": "Ouch!",
-    "Target": "好痛！"
+    "Target": "好痛！",
+    "JP": "「ぁうちーっ」"
   },
   {
     "Source": "Pyat!",
-    "Target": "五！"
+    "Target": "五！",
+    "JP": "「びゃーち！」"
   },
   {
     "Source": "Kengo",
-    "Target": "谦吾"
+    "Target": "谦吾",
+    "JP": "謙吾"
   },
   {
     "Source": "Green",
-    "Target": "绿"
+    "Target": "绿",
+    "JP": null
   },
   {
     "Source": "Odin!",
-    "Target": "一！"
+    "Target": "一！",
+    "JP": "「あじーん！」"
   },
   {
     "Source": "1 sec",
-    "Target": "1秒"
+    "Target": "1秒",
+    "JP": null
   },
   {
     "Source": "Goho!",
-    "Target": "咳嗽！"
+    "Target": "咳嗽！",
+    "JP": "「ごぼっ！！」"
   },
   {
     "Source": "Nice!",
-    "Target": "好球！"
+    "Target": "好球！",
+    "JP": "「いいぞ！」"
   },
   {
     "Source": "1 Cat",
-    "Target": "1只猫"
+    "Target": "1只猫",
+    "JP": "猫１匹"
   },
   {
     "Source": "Shot!",
-    "Target": "射中！"
+    "Target": "射中！",
+    "JP": "「ショット！」"
   },
   {
     "Source": "Four!",
-    "Target": "四球！"
+    "Target": "四球！",
+    "JP": "「よん！」"
   },
   {
     "Source": "Hyah!",
-    "Target": "吓！"
+    "Target": "吓！",
+    "JP": "「てあっ」"
   },
   {
     "Source": "Fue～?",
-    "Target": "呼诶～？"
+    "Target": "呼诶～？",
+    "JP": "「ふえ～」"
   },
   {
     "Source": "Taah!",
-    "Target": "嗒啊！"
+    "Target": "嗒啊！",
+    "JP": "「たあっ」"
   },
   {
     "Source": "Gofu!",
-    "Target": "噶呜！"
+    "Target": "噶呜！",
+    "JP": "「ごふっ」"
   },
   {
     "Source": "Good!",
-    "Target": "很好！"
+    "Target": "很好！",
+    "JP": "「いいな！」"
   },
   {
     "Source": "Gufu!",
-    "Target": "噶呜！"
+    "Target": "噶呜！",
+    "JP": "「ぐふっ」"
   },
   {
     "Source": "Broom",
-    "Target": "扫帚"
+    "Target": "扫帚",
+    "JP": "ほうき"
   },
   {
     "Source": "Eeh!?",
-    "Target": "诶诶！？"
+    "Target": "诶诶！？",
+    "JP": "「ええっ！？」"
   },
   {
     "Source": "Eeeh!",
-    "Target": "诶诶诶！"
+    "Target": "诶诶诶！",
+    "JP": "「えええーっ」"
   },
   {
     "Source": "Aight",
-    "Target": "好吧"
+    "Target": "好吧",
+    "JP": "「しゃあーっ！！」"
   },
   {
     "Source": "Easy.",
-    "Target": "简单。"
+    "Target": "简单。",
+    "JP": "「容易い」"
   },
   {
     "Source": "Hmph.",
-    "Target": "哼。"
+    "Target": "哼。",
+    "JP": null
   },
   {
     "Source": "Chalk",
-    "Target": "粉笔"
+    "Target": "粉笔",
+    "JP": "チョーク"
   },
   {
     "Source": "Teei!",
-    "Target": "嘿！"
+    "Target": "嘿！",
+    "JP": "「てぃっ！」"
   },
   {
     "Source": "Fuah!",
-    "Target": "呼啊！"
+    "Target": "呼啊！",
+    "JP": "「ふんっ」"
   },
   {
     "Source": "Dive!",
-    "Target": "扑！"
+    "Target": "扑！",
+    "JP": "「だーいぶっ」"
   },
   {
     "Source": "Belka",
-    "Target": "威尔卡"
+    "Target": "威尔卡",
+    "JP": "ヴェルカ"
   },
   {
     "Source": "Fuee!",
-    "Target": "呜咿！"
+    "Target": "呜咿！",
+    "JP": "「ふええっ」"
   },
   {
     "Source": "Ho-!!",
-    "Target": "吼——！"
+    "Target": "吼——！",
+    "JP": "「ほーっ！」"
   },
   {
     "Source": "Okay!",
-    "Target": "好！"
+    "Target": "好！",
+    "JP": "「はいっ！」"
   },
   {
     "Source": "Aau～!",
-    "Target": "啊呜～！"
+    "Target": "啊呜～！",
+    "JP": "「ああう～」"
   },
   {
     "Source": "Jump!",
-    "Target": "跳！"
+    "Target": "跳！",
+    "JP": "「じゃーんぷっ」"
   },
   {
     "Source": "Blue",
-    "Target": "蓝"
+    "Target": "蓝",
+    "JP": null
   },
   {
     "Source": "Dorj",
-    "Target": "多鲁基"
+    "Target": "多鲁基",
+    "JP": "ドルジ"
   },
   {
     "Source": "Ugh!",
-    "Target": "呃！"
+    "Target": "呃！",
+    "JP": "「うぐっ」"
   },
   {
     "Source": "Dice",
-    "Target": "骰子"
+    "Target": "骰子",
+    "JP": "サイコロ"
   },
   {
     "Source": "Sem!",
-    "Target": "七！"
+    "Target": "七！",
+    "JP": "「すいえー！」"
   },
   {
     "Source": "Hmm.",
-    "Target": "嗯。"
+    "Target": "嗯。",
+    "JP": "「ふん」"
   },
   {
     "Source": "Ehh!",
-    "Target": "诶诶！"
+    "Target": "诶诶！",
+    "JP": "「ええー」"
   },
   {
     "Source": "Auto",
-    "Target": "自动"
+    "Target": "自动",
+    "JP": null
   },
   {
     "Source": "Skip",
-    "Target": "跳过"
+    "Target": "跳过",
+    "JP": null
   },
   {
     "Source": "Hey!",
-    "Target": "嘿！"
+    "Target": "嘿！",
+    "JP": "「こらっ」"
   },
   {
     "Source": "Out!",
-    "Target": "出局！"
+    "Target": "出局！",
+    "JP": "「アウトだ」"
   },
   {
     "Source": "Tei!",
-    "Target": "嘿！"
+    "Target": "嘿！",
+    "JP": "「ていっ」"
   },
   {
     "Source": "Tong",
-    "Target": "夹子"
+    "Target": "夹子",
+    "JP": "トング"
   },
   {
     "Source": "Sei!",
-    "Target": "嘿！"
+    "Target": "嘿！",
+    "JP": "「せいっ！」"
   },
   {
     "Source": "Eii!",
-    "Target": "诶！"
+    "Target": "诶！",
+    "JP": "「えいっ」"
   },
   {
     "Source": "Fast",
-    "Target": "快"
+    "Target": "快",
+    "JP": null
   },
   {
     "Source": "High",
-    "Target": "高"
+    "Target": "高",
+    "JP": null
   },
   {
     "Source": "Die!",
-    "Target": "去死！"
+    "Target": "去死！",
+    "JP": "「しねっ」"
   },
   {
     "Source": "Tri!",
-    "Target": "三！"
+    "Target": "三！",
+    "JP": "「とぅり！」"
   },
   {
     "Source": "Saya",
-    "Target": "沙耶"
+    "Target": "沙耶",
+    "JP": null
   },
   {
     "Source": "Toh!",
-    "Target": "嘿！"
+    "Target": "嘿！",
+    "JP": "「とぅっ」"
   },
   {
     "Source": "Riki",
-    "Target": "理树"
+    "Target": "理树",
+    "JP": null
   },
   {
     "Source": "Dva!",
-    "Target": "二！"
+    "Target": "二！",
+    "JP": "「どう゛ぁ！」"
   },
   {
     "Source": "Slow",
-    "Target": "慢"
+    "Target": "慢",
+    "JP": null
   },
   {
     "Source": "Umu.",
-    "Target": "嗯。"
+    "Target": "嗯。",
+    "JP": "「うむ」"
   },
   {
     "Source": "Font",
-    "Target": "字体"
+    "Target": "字体",
+    "JP": null
   },
   {
     "Source": "Guu!",
-    "Target": "咕～！"
+    "Target": "咕～！",
+    "JP": "「グゥッ！」"
   },
   {
     "Source": "Haa!",
-    "Target": "哈！"
+    "Target": "哈！",
+    "JP": "「はぁっ！」"
   },
   {
     "Source": "Dou!",
-    "Target": "咚！"
+    "Target": "咚！",
+    "JP": "「とうっ」"
   },
   {
     "Source": "Yaa!",
-    "Target": "呀～！"
+    "Target": "呀～！",
+    "JP": "「やあっ」"
   },
   {
     "Source": "Ha!",
-    "Target": "哈！"
+    "Target": "哈！",
+    "JP": "「はっ！」"
   },
   {
     "Source": "Yes",
-    "Target": "是"
+    "Target": "是",
+    "JP": null
   },
   {
     "Source": "Ei!",
-    "Target": "诶！"
+    "Target": "诶！",
+    "JP": null
   },
   {
     "Source": "Oar",
-    "Target": "桨"
+    "Target": "桨",
+    "JP": "パドル"
   },
   {
     "Source": "Oh!",
-    "Target": "哦！"
+    "Target": "哦！",
+    "JP": "「おっ」"
   },
   {
     "Source": "Red",
-    "Target": "红"
+    "Target": "红",
+    "JP": null
   },
   {
     "Source": "Yo!",
-    "Target": "哟！"
+    "Target": "哟！",
+    "JP": "「よっ」"
   },
   {
     "Source": "Mio",
-    "Target": "美鱼"
+    "Target": "美鱼",
+    "JP": "美魚"
   },
   {
     "Source": "Cat",
-    "Target": "猫"
+    "Target": "猫",
+    "JP": "猫"
   },
   {
     "Source": "Hu.",
-    "Target": "哼。"
+    "Target": "哼。",
+    "JP": "「ふっ」"
   },
   {
     "Source": "Ta!",
-    "Target": "嗒！"
+    "Target": "嗒！",
+    "JP": "「たっ」"
   },
   {
     "Source": "Off",
-    "Target": "关"
+    "Target": "关",
+    "JP": null
   },
   {
     "Source": "Ya!",
-    "Target": "呀！"
+    "Target": "呀！",
+    "JP": "「やっ」"
   },
   {
     "Source": "Kud",
-    "Target": "库特"
+    "Target": "库特",
+    "JP": "クド"
   },
   {
     "Source": "Mop",
-    "Target": "拖把"
+    "Target": "拖把",
+    "JP": "モップ"
   },
   {
     "Source": "All",
-    "Target": "All"
+    "Target": "All",
+    "JP": null
   },
   {
     "Source": "Rin",
-    "Target": "铃"
+    "Target": "铃",
+    "JP": null
   },
   {
     "Source": "Hu!",
-    "Target": "哼！"
+    "Target": "哼！",
+    "JP": null
   },
   {
     "Source": "Ho!",
-    "Target": "吼！"
+    "Target": "吼！",
+    "JP": "「ほっ」"
   },
   {
     "Source": "Nh!",
-    "Target": "嗯！"
+    "Target": "嗯！",
+    "JP": "「んっ」"
   },
   {
     "Source": "On",
-    "Target": "开"
+    "Target": "开",
+    "JP": null
   },
   {
     "Source": "No",
-    "Target": "否"
+    "Target": "否",
+    "JP": null
   }
 ]

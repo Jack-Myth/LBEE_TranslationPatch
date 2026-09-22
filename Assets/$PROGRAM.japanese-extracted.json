@@ -1,0 +1,4377 @@
+{
+  "Executable": "F:\\SteamLibrary\\steamapps\\common\\Little Busters! English Edition\\LITBUS_WIN32.exe",
+  "Encoding": "UTF-16LE",
+  "Note": "Japanese strings containing kana, extracted from executable; offsets refer to file bytes. Order does not establish English pairing.",
+  "Strings": [
+    {
+      "Offset": 3777384,
+      "Section": ".rdata",
+      "Japanese": "この作品はフィクションです。\n登場する人物・団体・地名・事件および職業などは全て架空の物であり、実在の物とは一切関係ありません。\n\nこの製品の著作権を含む一切の権利は株式会社ビジュアルアーツが保有しています。\n当社の許諾を得ずに賃貸業に使用すること、私的使用その他法律によって明示的に認められる範囲を超えて、複製、改変、ネットワーク上へのアップロード、P2Pソフトでの交換・送信・頒布することを禁止します。"
+    },
+    {
+      "Offset": 3779208,
+      "Section": ".rdata",
+      "Japanese": "魔法のアンサンブル"
+    },
+    {
+      "Offset": 3779260,
+      "Section": ".rdata",
+      "Japanese": "騒がし乙女の憂愁"
+    },
+    {
+      "Offset": 3779336,
+      "Section": ".rdata",
+      "Japanese": "えきぞちっく・といぼっくす"
+    },
+    {
+      "Offset": 3779452,
+      "Section": ".rdata",
+      "Japanese": "光に寄せて"
+    },
+    {
+      "Offset": 3779552,
+      "Section": ".rdata",
+      "Japanese": "猫と硝子と円い月"
+    },
+    {
+      "Offset": 3779652,
+      "Section": ".rdata",
+      "Japanese": "駆ける"
+    },
+    {
+      "Offset": 3779844,
+      "Section": ".rdata",
+      "Japanese": "目覚めた朝に"
+    },
+    {
+      "Offset": 3779896,
+      "Section": ".rdata",
+      "Japanese": "密やかなさざめき"
+    },
+    {
+      "Offset": 3780008,
+      "Section": ".rdata",
+      "Japanese": "スローカーブ"
+    },
+    {
+      "Offset": 3780048,
+      "Section": ".rdata",
+      "Japanese": "少女たちの午後4時半"
+    },
+    {
+      "Offset": 3780108,
+      "Section": ".rdata",
+      "Japanese": "デーゲーム"
+    },
+    {
+      "Offset": 3780140,
+      "Section": ".rdata",
+      "Japanese": "チクタク・ルーチン"
+    },
+    {
+      "Offset": 3780196,
+      "Section": ".rdata",
+      "Japanese": "かけっこ"
+    },
+    {
+      "Offset": 3780220,
+      "Section": ".rdata",
+      "Japanese": "シンクロニクル"
+    },
+    {
+      "Offset": 3780268,
+      "Section": ".rdata",
+      "Japanese": "お砂糖ふたつ"
+    },
+    {
+      "Offset": 3780580,
+      "Section": ".rdata",
+      "Japanese": "勇壮なる闘い"
+    },
+    {
+      "Offset": 3780624,
+      "Section": ".rdata",
+      "Japanese": "死闘は凜然なりて"
+    },
+    {
+      "Offset": 3780672,
+      "Section": ".rdata",
+      "Japanese": "ぼくのいやなこと"
+    },
+    {
+      "Offset": 3780876,
+      "Section": ".rdata",
+      "Japanese": "ともしび"
+    },
+    {
+      "Offset": 3780908,
+      "Section": ".rdata",
+      "Japanese": "降り続く雨の街で"
+    },
+    {
+      "Offset": 3780988,
+      "Section": ".rdata",
+      "Japanese": "いつか気付くかな"
+    },
+    {
+      "Offset": 3781092,
+      "Section": ".rdata",
+      "Japanese": "れっつ・りたーん"
+    },
+    {
+      "Offset": 3781140,
+      "Section": ".rdata",
+      "Japanese": "伝えられないメッセージ"
+    },
+    {
+      "Offset": 3781212,
+      "Section": ".rdata",
+      "Japanese": "無題『恋心を奏でる綺想曲』"
+    },
+    {
+      "Offset": 3781360,
+      "Section": ".rdata",
+      "Japanese": "たったひとつの魔法の言葉"
+    },
+    {
+      "Offset": 3781708,
+      "Section": ".rdata",
+      "Japanese": "少年たちとの別れ～piano only～"
+    },
+    {
+      "Offset": 3781816,
+      "Section": ".rdata",
+      "Japanese": "何も起こらなかった世界"
+    },
+    {
+      "Offset": 3781904,
+      "Section": ".rdata",
+      "Japanese": "生まれ落ちる世界"
+    },
+    {
+      "Offset": 3781956,
+      "Section": ".rdata",
+      "Japanese": "リグレット"
+    },
+    {
+      "Offset": 3781984,
+      "Section": ".rdata",
+      "Japanese": "少年たちとの別れ"
+    },
+    {
+      "Offset": 3782044,
+      "Section": ".rdata",
+      "Japanese": "遥か彼方"
+    },
+    {
+      "Offset": 3782128,
+      "Section": ".rdata",
+      "Japanese": "雨のち晴れ"
+    },
+    {
+      "Offset": 3790476,
+      "Section": ".rdata",
+      "Japanese": "作曲：折戸伸治\n編曲：戸越まごめ"
+    },
+    {
+      "Offset": 3791040,
+      "Section": ".rdata",
+      "Japanese": "作曲：戸越まごめ\n編曲：戸越まごめ"
+    },
+    {
+      "Offset": 3798768,
+      "Section": ".rdata",
+      "Japanese": "バッティング練習をオンにしますか？\n（オフにしても物語を進める上で支障はありません）"
+    },
+    {
+      "Offset": 3799064,
+      "Section": ".rdata",
+      "Japanese": "バトルランキングをオンにしますか？\n（オフにしても物語を進める上で支障はありません）"
+    },
+    {
+      "Offset": 3799352,
+      "Section": ".rdata",
+      "Japanese": "射撃ゲームをオンにしますか？\nオンの場合、ノーマルモードと難易度を下げたイージーモードが選べます。\n（オフやイージーモードにしても物語を進める上で支障はありません）"
+    },
+    {
+      "Offset": 3799840,
+      "Section": ".rdata",
+      "Japanese": "沙耶をもう一度攻略できるようにしますか？\n（「はい」を選ぶと再び沙耶を攻略できるようになります）"
+    },
+    {
+      "Offset": 3803692,
+      "Section": ".rdata",
+      "Japanese": "%sは『%s』の称号を得た！"
+    },
+    {
+      "Offset": 3803780,
+      "Section": ".rdata",
+      "Japanese": "バトルランキング暫定王者"
+    },
+    {
+      "Offset": 3803808,
+      "Section": ".rdata",
+      "Japanese": "%sは『%s』を返上して『バトルランキング暫定王者』の称号を得た！"
+    },
+    {
+      "Offset": 3804052,
+      "Section": ".rdata",
+      "Japanese": "%sは『バトルランキング暫定王者』の称号を得た！"
+    },
+    {
+      "Offset": 3807456,
+      "Section": ".rdata",
+      "Japanese": "野次馬達から次々と武器が投げ込まれる！"
+    },
+    {
+      "Offset": 3807652,
+      "Section": ".rdata",
+      "Japanese": "%sの元に『%s』が集まった！"
+    },
+    {
+      "Offset": 3807684,
+      "Section": ".rdata",
+      "Japanese": "%sの元に『%s』が現れた！"
+    },
+    {
+      "Offset": 3807716,
+      "Section": ".rdata",
+      "Japanese": "%sの元に『%s』が駆けつけた！"
+    },
+    {
+      "Offset": 3807752,
+      "Section": ".rdata",
+      "Japanese": "%sは『%s』を手に取った！"
+    },
+    {
+      "Offset": 3807784,
+      "Section": ".rdata",
+      "Japanese": "%sは『%s』を選び取った！"
+    },
+    {
+      "Offset": 3808964,
+      "Section": ".rdata",
+      "Japanese": "来ヶ谷"
+    },
+    {
+      "Offset": 3808992,
+      "Section": ".rdata",
+      "Japanese": "クド"
+    },
+    {
+      "Offset": 3809132,
+      "Section": ".rdata",
+      "Japanese": "マスクザ斉藤"
+    },
+    {
+      "Offset": 3809204,
+      "Section": ".rdata",
+      "Japanese": "ソフト部員"
+    },
+    {
+      "Offset": 3809240,
+      "Section": ".rdata",
+      "Japanese": "謎の生命体"
+    },
+    {
+      "Offset": 3809312,
+      "Section": ".rdata",
+      "Japanese": "ピンポン球"
+    },
+    {
+      "Offset": 3809384,
+      "Section": ".rdata",
+      "Japanese": "バレーボール"
+    },
+    {
+      "Offset": 3809424,
+      "Section": ".rdata",
+      "Japanese": "バスケットボール"
+    },
+    {
+      "Offset": 3809468,
+      "Section": ".rdata",
+      "Japanese": "かごごとバスケットボール"
+    },
+    {
+      "Offset": 3809540,
+      "Section": ".rdata",
+      "Japanese": "スーパーボール"
+    },
+    {
+      "Offset": 3809580,
+      "Section": ".rdata",
+      "Japanese": "消しゴム"
+    },
+    {
+      "Offset": 3809608,
+      "Section": ".rdata",
+      "Japanese": "チョーク"
+    },
+    {
+      "Offset": 3809652,
+      "Section": ".rdata",
+      "Japanese": "甲子園の土"
+    },
+    {
+      "Offset": 3809700,
+      "Section": ".rdata",
+      "Japanese": "うに"
+    },
+    {
+      "Offset": 3809732,
+      "Section": ".rdata",
+      "Japanese": "かごごとうに"
+    },
+    {
+      "Offset": 3809792,
+      "Section": ".rdata",
+      "Japanese": "サッカーボール"
+    },
+    {
+      "Offset": 3809832,
+      "Section": ".rdata",
+      "Japanese": "ラグビーボール"
+    },
+    {
+      "Offset": 3809872,
+      "Section": ".rdata",
+      "Japanese": "卓球ラケット"
+    },
+    {
+      "Offset": 3809924,
+      "Section": ".rdata",
+      "Japanese": "バドミントンラケット"
+    },
+    {
+      "Offset": 3809984,
+      "Section": ".rdata",
+      "Japanese": "テニスラケット"
+    },
+    {
+      "Offset": 3810028,
+      "Section": ".rdata",
+      "Japanese": "ごぼう"
+    },
+    {
+      "Offset": 3810052,
+      "Section": ".rdata",
+      "Japanese": "太いごぼう"
+    },
+    {
+      "Offset": 3810092,
+      "Section": ".rdata",
+      "Japanese": "うなぎパイ"
+    },
+    {
+      "Offset": 3810120,
+      "Section": ".rdata",
+      "Japanese": "田中さんの判子"
+    },
+    {
+      "Offset": 3810176,
+      "Section": ".rdata",
+      "Japanese": "斉藤さんの判子"
+    },
+    {
+      "Offset": 3810228,
+      "Section": ".rdata",
+      "Japanese": "あぶらとり紙"
+    },
+    {
+      "Offset": 3810276,
+      "Section": ".rdata",
+      "Japanese": "高級あぶらとり紙"
+    },
+    {
+      "Offset": 3810348,
+      "Section": ".rdata",
+      "Japanese": "ソフビ製のヒーロー"
+    },
+    {
+      "Offset": 3810404,
+      "Section": ".rdata",
+      "Japanese": "ソフビ製の怪人"
+    },
+    {
+      "Offset": 3810464,
+      "Section": ".rdata",
+      "Japanese": "超合金のロボット"
+    },
+    {
+      "Offset": 3810520,
+      "Section": ".rdata",
+      "Japanese": "乗れる車のおもちゃ"
+    },
+    {
+      "Offset": 3810600,
+      "Section": ".rdata",
+      "Japanese": "ママチャリ"
+    },
+    {
+      "Offset": 3810860,
+      "Section": ".rdata",
+      "Japanese": "お中元"
+    },
+    {
+      "Offset": 3810944,
+      "Section": ".rdata",
+      "Japanese": "体育館のネット"
+    },
+    {
+      "Offset": 3810976,
+      "Section": ".rdata",
+      "Japanese": "虎模様のペルシャじゅうたん"
+    },
+    {
+      "Offset": 3811048,
+      "Section": ".rdata",
+      "Japanese": "輪ゴム"
+    },
+    {
+      "Offset": 3811116,
+      "Section": ".rdata",
+      "Japanese": "ゴム風船・小"
+    },
+    {
+      "Offset": 3811172,
+      "Section": ".rdata",
+      "Japanese": "ゴム風船・中"
+    },
+    {
+      "Offset": 3811232,
+      "Section": ".rdata",
+      "Japanese": "ゴム風船・大"
+    },
+    {
+      "Offset": 3811288,
+      "Section": ".rdata",
+      "Japanese": "噛み捨てたガム"
+    },
+    {
+      "Offset": 3811328,
+      "Section": ".rdata",
+      "Japanese": "バナナの皮"
+    },
+    {
+      "Offset": 3811364,
+      "Section": ".rdata",
+      "Japanese": "バケツ"
+    },
+    {
+      "Offset": 3811388,
+      "Section": ".rdata",
+      "Japanese": "ねずみ捕り"
+    },
+    {
+      "Offset": 3811424,
+      "Section": ".rdata",
+      "Japanese": "ハンドソープ"
+    },
+    {
+      "Offset": 3811460,
+      "Section": ".rdata",
+      "Japanese": "洗顔用石けん"
+    },
+    {
+      "Offset": 3811508,
+      "Section": ".rdata",
+      "Japanese": "ボディーシャンプー"
+    },
+    {
+      "Offset": 3811556,
+      "Section": ".rdata",
+      "Japanese": "コロコロ"
+    },
+    {
+      "Offset": 3811600,
+      "Section": ".rdata",
+      "Japanese": "ほうき"
+    },
+    {
+      "Offset": 3811620,
+      "Section": ".rdata",
+      "Japanese": "モップ"
+    },
+    {
+      "Offset": 3811636,
+      "Section": ".rdata",
+      "Japanese": "トイレブラシ"
+    },
+    {
+      "Offset": 3811680,
+      "Section": ".rdata",
+      "Japanese": "ぞうきん"
+    },
+    {
+      "Offset": 3811716,
+      "Section": ".rdata",
+      "Japanese": "ねずみ花火"
+    },
+    {
+      "Offset": 3811752,
+      "Section": ".rdata",
+      "Japanese": "ロケット花火"
+    },
+    {
+      "Offset": 3811788,
+      "Section": ".rdata",
+      "Japanese": "打ち上げ花火"
+    },
+    {
+      "Offset": 3811844,
+      "Section": ".rdata",
+      "Japanese": "ミニカー"
+    },
+    {
+      "Offset": 3811876,
+      "Section": ".rdata",
+      "Japanese": "ラジコン"
+    },
+    {
+      "Offset": 3811932,
+      "Section": ".rdata",
+      "Japanese": "ペーパークラフト（飛行機）"
+    },
+    {
+      "Offset": 3811996,
+      "Section": ".rdata",
+      "Japanese": "ペーパークラフト（ステゴザウルス）"
+    },
+    {
+      "Offset": 3812080,
+      "Section": ".rdata",
+      "Japanese": "ペーパークラフト（姫路城）"
+    },
+    {
+      "Offset": 3812160,
+      "Section": ".rdata",
+      "Japanese": "ペーパークラフト（機動戦艦）"
+    },
+    {
+      "Offset": 3812252,
+      "Section": ".rdata",
+      "Japanese": "粘着テープ"
+    },
+    {
+      "Offset": 3812288,
+      "Section": ".rdata",
+      "Japanese": "ガムテープ"
+    },
+    {
+      "Offset": 3812320,
+      "Section": ".rdata",
+      "Japanese": "工業用耐熱超強力粘着テープ"
+    },
+    {
+      "Offset": 3812464,
+      "Section": ".rdata",
+      "Japanese": "スティックのり"
+    },
+    {
+      "Offset": 3812504,
+      "Section": ".rdata",
+      "Japanese": "業務用液状のり"
+    },
+    {
+      "Offset": 3812608,
+      "Section": ".rdata",
+      "Japanese": "歯ブラシ"
+    },
+    {
+      "Offset": 3812644,
+      "Section": ".rdata",
+      "Japanese": "電動歯ブラシ"
+    },
+    {
+      "Offset": 3812700,
+      "Section": ".rdata",
+      "Japanese": "キッチンミトン"
+    },
+    {
+      "Offset": 3812748,
+      "Section": ".rdata",
+      "Japanese": "割り箸"
+    },
+    {
+      "Offset": 3812780,
+      "Section": ".rdata",
+      "Japanese": "トング"
+    },
+    {
+      "Offset": 3812800,
+      "Section": ".rdata",
+      "Japanese": "ペンチ"
+    },
+    {
+      "Offset": 3812824,
+      "Section": ".rdata",
+      "Japanese": "洗濯バサミ"
+    },
+    {
+      "Offset": 3812860,
+      "Section": ".rdata",
+      "Japanese": "アルミピンチ"
+    },
+    {
+      "Offset": 3812904,
+      "Section": ".rdata",
+      "Japanese": "クリップ式小型扇風機"
+    },
+    {
+      "Offset": 3812964,
+      "Section": ".rdata",
+      "Japanese": "おもちゃのナイフ"
+    },
+    {
+      "Offset": 3813004,
+      "Section": ".rdata",
+      "Japanese": "あおひげ"
+    },
+    {
+      "Offset": 3813044,
+      "Section": ".rdata",
+      "Japanese": "ボクシンググローブ"
+    },
+    {
+      "Offset": 3813092,
+      "Section": ".rdata",
+      "Japanese": "パドル"
+    },
+    {
+      "Offset": 3813156,
+      "Section": ".rdata",
+      "Japanese": "黒板消し"
+    },
+    {
+      "Offset": 3813240,
+      "Section": ".rdata",
+      "Japanese": "かなぶん"
+    },
+    {
+      "Offset": 3813276,
+      "Section": ".rdata",
+      "Japanese": "手品セット"
+    },
+    {
+      "Offset": 3813360,
+      "Section": ".rdata",
+      "Japanese": "実験プリズムキット"
+    },
+    {
+      "Offset": 3813460,
+      "Section": ".rdata",
+      "Japanese": "デジタルカメラ"
+    },
+    {
+      "Offset": 3813508,
+      "Section": ".rdata",
+      "Japanese": "爪切り"
+    },
+    {
+      "Offset": 3813544,
+      "Section": ".rdata",
+      "Japanese": "トイレットペーパー"
+    },
+    {
+      "Offset": 3813636,
+      "Section": ".rdata",
+      "Japanese": "サイコロ"
+    },
+    {
+      "Offset": 3813968,
+      "Section": ".rdata",
+      "Japanese": "ドルジ"
+    },
+    {
+      "Offset": 3813988,
+      "Section": ".rdata",
+      "Japanese": "ぺんぎんぬいぐるみ"
+    },
+    {
+      "Offset": 3814036,
+      "Section": ".rdata",
+      "Japanese": "ノート"
+    },
+    {
+      "Offset": 3814064,
+      "Section": ".rdata",
+      "Japanese": "レプリカノリムネ"
+    },
+    {
+      "Offset": 3814124,
+      "Section": ".rdata",
+      "Japanese": "マシンガン"
+    },
+    {
+      "Offset": 3814160,
+      "Section": ".rdata",
+      "Japanese": "ストレルカ"
+    },
+    {
+      "Offset": 3814188,
+      "Section": ".rdata",
+      "Japanese": "ヴェルカ"
+    },
+    {
+      "Offset": 3814212,
+      "Section": ".rdata",
+      "Japanese": "ヴェルカ＆ストレルカ"
+    },
+    {
+      "Offset": 3814272,
+      "Section": ".rdata",
+      "Japanese": "ビーだま"
+    },
+    {
+      "Offset": 3814300,
+      "Section": ".rdata",
+      "Japanese": "べーごま"
+    },
+    {
+      "Offset": 3814352,
+      "Section": ".rdata",
+      "Japanese": "薄っぺらい本"
+    },
+    {
+      "Offset": 3814400,
+      "Section": ".rdata",
+      "Japanese": "サイバーヨーヨー"
+    },
+    {
+      "Offset": 3814444,
+      "Section": ".rdata",
+      "Japanese": "ウィルス"
+    },
+    {
+      "Offset": 3814488,
+      "Section": ".rdata",
+      "Japanese": "電磁バリア"
+    },
+    {
+      "Offset": 3814548,
+      "Section": ".rdata",
+      "Japanese": "ライトセイバー"
+    },
+    {
+      "Offset": 3814588,
+      "Section": ".rdata",
+      "Japanese": "ビームライフル"
+    },
+    {
+      "Offset": 3814628,
+      "Section": ".rdata",
+      "Japanese": "メガバズーカランチャー"
+    },
+    {
+      "Offset": 3814680,
+      "Section": ".rdata",
+      "Japanese": "女子は丸めてブレード化してよし(By恭介)"
+    },
+    {
+      "Offset": 3814848,
+      "Section": ".rdata",
+      "Japanese": "授業中にちぎって投げつける奴がいるからな、それは許可しよう(By恭介)"
+    },
+    {
+      "Offset": 3815112,
+      "Section": ".rdata",
+      "Japanese": "まあ、投げつけてもいいだろ。教師もそうする奴がいるからな(By恭介)"
+    },
+    {
+      "Offset": 3815316,
+      "Section": ".rdata",
+      "Japanese": "枕投げの要領で投げつけてよし(By恭介)"
+    },
+    {
+      "Offset": 3815512,
+      "Section": ".rdata",
+      "Japanese": "願掛けとして投げつけてよし(By恭介)"
+    },
+    {
+      "Offset": 3815720,
+      "Section": ".rdata",
+      "Japanese": "投げつけるために生まれてきたようなフォルムだな。投げつけることを許可しよう(By恭介)"
+    },
+    {
+      "Offset": 3815976,
+      "Section": ".rdata",
+      "Japanese": "男子はやわっこいラバー部分でのみ攻撃可とする(By恭介)"
+    },
+    {
+      "Offset": 3816148,
+      "Section": ".rdata",
+      "Japanese": "男子はやわっこい網の部分でのみ攻撃可とする(By恭介)"
+    },
+    {
+      "Offset": 3816304,
+      "Section": ".rdata",
+      "Japanese": "前テレビでごぼうで殴りあいしてたから、それは直接叩きつけてよし(By恭介)"
+    },
+    {
+      "Offset": 3816584,
+      "Section": ".rdata",
+      "Japanese": "すでに真人がこれで戦っていたな。よし、叩きつけることを許可しよう(By恭介)"
+    },
+    {
+      "Offset": 3816828,
+      "Section": ".rdata",
+      "Japanese": "手で動かして、あくまでもヒーローに戦わせること(By恭介)"
+    },
+    {
+      "Offset": 3817008,
+      "Section": ".rdata",
+      "Japanese": "手で動かして、あくまでも怪人に戦わせること(By恭介)"
+    },
+    {
+      "Offset": 3817188,
+      "Section": ".rdata",
+      "Japanese": "手で動かして、あくまでもロボットに戦わせること(By恭介)"
+    },
+    {
+      "Offset": 3817368,
+      "Section": ".rdata",
+      "Japanese": "リズミカルに踊って攻撃することを可とするが、音楽に没頭しているから目は閉じること(By恭介)"
+    },
+    {
+      "Offset": 3817668,
+      "Section": ".rdata",
+      "Japanese": "男子は羽虫を追い払うようにはたくことを許可しよう(By恭介)"
+    },
+    {
+      "Offset": 3817864,
+      "Section": ".rdata",
+      "Japanese": "まあ、指でっぽうで撃ってもいいだろ。子供もそうして遊ぶぐらいだ(By恭介)"
+    },
+    {
+      "Offset": 3818148,
+      "Section": ".rdata",
+      "Japanese": "本当は人に向けちゃ危険なのでマネしないように(By恭介)"
+    },
+    {
+      "Offset": 3818400,
+      "Section": ".rdata",
+      "Japanese": "組み立てて完成したら、ぶつけてよしとしよう。どうせ紙だしな(By恭介)"
+    },
+    {
+      "Offset": 3818664,
+      "Section": ".rdata",
+      "Japanese": "虫嫌いな女子に対しては効果的な武器だな(By恭介)"
+    },
+    {
+      "Offset": 3818872,
+      "Section": ".rdata",
+      "Japanese": "まあ、必死な時は乱舞もするだろう。舞わせてよしとする(By恭介)"
+    },
+    {
+      "Offset": 3819128,
+      "Section": ".rdata",
+      "Japanese": "９９９９でカウントストップできたらその時点で相手の負けとする(By恭介)"
+    },
+    {
+      "Offset": 3819332,
+      "Section": ".rdata",
+      "Japanese": "ゾロ目が出たら相手が即死、としよう(By恭介)"
+    },
+    {
+      "Offset": 3819528,
+      "Section": ".rdata",
+      "Japanese": "叩くことを許可しよう。男子に対してだけは、本気で叩くことを許可する(By恭介)"
+    },
+    {
+      "Offset": 3819800,
+      "Section": ".rdata",
+      "Japanese": "「おまんら、許さんぜよ！」と言ったら攻撃を許可しよう(By恭介)"
+    },
+    {
+      "Offset": 3821948,
+      "Section": ".rdata",
+      "Japanese": "さて、どうしよう…。"
+    },
+    {
+      "Offset": 3822032,
+      "Section": ".rdata",
+      "Japanese": "さて、どうしよう…。センターがいないから変則的でよくわからない…。"
+    },
+    {
+      "Offset": 3822300,
+      "Section": ".rdata",
+      "Japanese": "変えるならこれが最後だ。このままでいくか慎重に決めよう。"
+    },
+    {
+      "Offset": 3822504,
+      "Section": ".rdata",
+      "Japanese": "さすが恭介。こんなに早くぱぱっと決めて、しかもちゃんと考えてある…。"
+    },
+    {
+      "Offset": 3822784,
+      "Section": ".rdata",
+      "Japanese": "鉄壁の内野陣だ…。って、単に自分を囲んでほしいだけのポジションじゃん！"
+    },
+    {
+      "Offset": 3823008,
+      "Section": ".rdata",
+      "Japanese": "お、意外にまともだ。…って、真人がふたりもいるじゃん！"
+    },
+    {
+      "Offset": 3823200,
+      "Section": ".rdata",
+      "Japanese": "異世界だ…。"
+    },
+    {
+      "Offset": 3823328,
+      "Section": ".rdata",
+      "Japanese": "可能でもお断りします…。"
+    },
+    {
+      "Offset": 3823460,
+      "Section": ".rdata",
+      "Japanese": "彼らは誰に何を問いかけているのだろう…。"
+    },
+    {
+      "Offset": 3824028,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「そもそも何も載ってないじゃねーか！」"
+    },
+    {
+      "Offset": 3824180,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「ご飯がないじゃないか！」"
+    },
+    {
+      "Offset": 3824292,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「ご飯がないじゃねーか！」"
+    },
+    {
+      "Offset": 3824412,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「みそ汁がないじゃないか！」"
+    },
+    {
+      "Offset": 3824532,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「みそ汁がないじゃねーか！」"
+    },
+    {
+      "Offset": 3824664,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「皿しかないじゃないか！」"
+    },
+    {
+      "Offset": 3824792,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「皿しかないじゃねーか！」"
+    },
+    {
+      "Offset": 3824932,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「キャベツ定食かよ！」"
+    },
+    {
+      "Offset": 3825056,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「おかず足りてないじゃないか！」"
+    },
+    {
+      "Offset": 3825204,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「おかず足りてないじゃねーか！」"
+    },
+    {
+      "Offset": 3825364,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「ご飯がかぶってるじゃないか！」"
+    },
+    {
+      "Offset": 3825508,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「ご飯がかぶってるじゃねぇか！」"
+    },
+    {
+      "Offset": 3825556,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「こんなにみそ汁のめないよ！」"
+    },
+    {
+      "Offset": 3825600,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「こんなにみそ汁のめねーよ！」"
+    },
+    {
+      "Offset": 3825760,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「ご飯とおにぎり、かぶってるじゃないか！」"
+    },
+    {
+      "Offset": 3825932,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「ご飯とおにぎり、かぶってるじゃねぇか！」"
+    },
+    {
+      "Offset": 3825988,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「ありがとう！」"
+    },
+    {
+      "Offset": 3826076,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「ありがとよ！」"
+    },
+    {
+      "Offset": 3826156,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「サンキュー！」"
+    },
+    {
+      "Offset": 3826240,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「ゼリーだけじゃないか！」"
+    },
+    {
+      "Offset": 3826364,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「ゼリーだけじゃねーか！」"
+    },
+    {
+      "Offset": 3826504,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「どれだけゼリー食わせたいんだよ！」"
+    },
+    {
+      "Offset": 3826676,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「ゼリーだらけじゃないか！」"
+    },
+    {
+      "Offset": 3826820,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「ゼリーだらけじゃねーか！」"
+    },
+    {
+      "Offset": 3826972,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「ゼリーに埋め尽くされてるじゃないか！」"
+    },
+    {
+      "Offset": 3827136,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「ゼリーに埋め尽くされてるじゃねーか！」"
+    },
+    {
+      "Offset": 3827292,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「これっぽっちで何を食えってんだよ！」"
+    },
+    {
+      "Offset": 3827456,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「こんなに食ったら胃がもたれるだろ！」"
+    },
+    {
+      "Offset": 3827632,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「こんなに食えないんだけど…」"
+    },
+    {
+      "Offset": 3827760,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「こんなに食えないんだが…」"
+    },
+    {
+      "Offset": 3827920,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「これで合ってるのか…？」"
+    },
+    {
+      "Offset": 3828048,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「これなんかおかしくないか？」"
+    },
+    {
+      "Offset": 3828208,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「これなんかおかしくねーか？」"
+    },
+    {
+      "Offset": 3828376,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「おいおい、間違ってるじゃないか！」"
+    },
+    {
+      "Offset": 3828524,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「おいおい、間違ってるじゃねーか！」"
+    },
+    {
+      "Offset": 3828576,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「おい、なんだよこりゃあ！」"
+    },
+    {
+      "Offset": 3828820,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「何も載ってないんだけど…」"
+    },
+    {
+      "Offset": 3828968,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「何も載ってないんだけど？」"
+    },
+    {
+      "Offset": 3829120,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「おにぎりがないんだけど…」"
+    },
+    {
+      "Offset": 3829248,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「おみそ汁がないんだけど？」"
+    },
+    {
+      "Offset": 3829376,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「おみそ汁がないんだけど…」"
+    },
+    {
+      "Offset": 3829508,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「ゼリーがないんだけど…」"
+    },
+    {
+      "Offset": 3829628,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「ゼリーがないんだけど？」"
+    },
+    {
+      "Offset": 3829744,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「ゼリーがないんだけど…特に欲しいわけじゃないけど」"
+    },
+    {
+      "Offset": 3829960,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「こんなにみそ汁飲めないんだけど…」"
+    },
+    {
+      "Offset": 3830120,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「このコロッケはサービスなの！？」"
+    },
+    {
+      "Offset": 3830260,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「カツなんて頼んでないんだけど…」"
+    },
+    {
+      "Offset": 3830404,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「なんでカツが乗ってんのよ！」"
+    },
+    {
+      "Offset": 3830536,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「なんでカツが乗ってんのよ…」"
+    },
+    {
+      "Offset": 3830688,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「このエビフライはなに！？」"
+    },
+    {
+      "Offset": 3830840,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「フライなんて頼んでないわよ？」"
+    },
+    {
+      "Offset": 3830968,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「おにぎりにキャベツ！？」"
+    },
+    {
+      "Offset": 3831088,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「ありがとう」"
+    },
+    {
+      "Offset": 3831176,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「ゼリーしかないんだけど…」"
+    },
+    {
+      "Offset": 3831304,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「ゼリーしかないんだけど？」"
+    },
+    {
+      "Offset": 3831452,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「ゼリーこれで合ってるの？」"
+    },
+    {
+      "Offset": 3831600,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「ゼリー定食かしら…？」"
+    },
+    {
+      "Offset": 3831732,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「こんな高カロリーな定食頼んでないわよ！？」"
+    },
+    {
+      "Offset": 3831924,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「定食になってないじゃない！」"
+    },
+    {
+      "Offset": 3832160,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「なにっこの組み合わせ！？」"
+    },
+    {
+      "Offset": 3832320,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「よく堂々とこんなトレイ渡せるわね…」"
+    },
+    {
+      "Offset": 3832516,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「むちゃくちゃじゃない！」"
+    },
+    {
+      "Offset": 3832628,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「ちょっと…これ真剣だったら怒るわよ…」"
+    },
+    {
+      "Offset": 3832796,
+      "Section": ".rdata",
+      "Japanese": "`女子生徒@「ちょっと…これ真剣だったら怒るわよ！」"
+    },
+    {
+      "Offset": 3832852,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「何も載ってないじゃないか！」"
+    },
+    {
+      "Offset": 3832896,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「何も載ってないじゃねーか！」"
+    },
+    {
+      "Offset": 3832940,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「何も載ってないじゃないか…」"
+    },
+    {
+      "Offset": 3832984,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「ご飯だけじゃないか！」"
+    },
+    {
+      "Offset": 3833096,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「ご飯だけじゃねぇか！」"
+    },
+    {
+      "Offset": 3833216,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「ご飯とゼリーだけでどうするんだよ！」"
+    },
+    {
+      "Offset": 3833400,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「ご飯とゼリーだけでどうすんだよ！」"
+    },
+    {
+      "Offset": 3833452,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「コロッケカレーだ、ラッキー！」"
+    },
+    {
+      "Offset": 3833592,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「カツカレーだ、ラッキー！」"
+    },
+    {
+      "Offset": 3833724,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「エビフライカレーだ、ラッキー！」"
+    },
+    {
+      "Offset": 3833868,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「ミックスフライカレーだ、ラッキー！」"
+    },
+    {
+      "Offset": 3834008,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「カレーにキャベツは合わないだろっ！」"
+    },
+    {
+      "Offset": 3834168,
+      "Section": ".rdata",
+      "Japanese": "`男子生徒@「カレーにキャベツは合わねーだろっ！」"
+    },
+    {
+      "Offset": 3835080,
+      "Section": ".rdata",
+      "Japanese": "`恭介@「しまっていくぞ！」"
+    },
+    {
+      "Offset": 3835176,
+      "Section": ".rdata",
+      "Japanese": "`恭介@「じゃあ、始めるぞ！」"
+    },
+    {
+      "Offset": 3835284,
+      "Section": ".rdata",
+      "Japanese": "`恭介@「練習開始だ！」"
+    },
+    {
+      "Offset": 3835412,
+      "Section": ".rdata",
+      "Japanese": "`恭介@「バッティングと守備練習スタートだ！」"
+    },
+    {
+      "Offset": 3835616,
+      "Section": ".rdata",
+      "Japanese": "`恭介@「試合までまだあるが、気を抜くなよ！」"
+    },
+    {
+      "Offset": 3835800,
+      "Section": ".rdata",
+      "Japanese": "`恭介@「試合はもうすぐだ。しまっていくぞ！」"
+    },
+    {
+      "Offset": 3835984,
+      "Section": ".rdata",
+      "Japanese": "`恭介@「明日は試合だ、理樹、しまっていくぞって声を掛けろ！」"
+    },
+    {
+      "Offset": 3836112,
+      "Section": ".rdata",
+      "Japanese": "`恭介@「練習再開だ！」"
+    },
+    {
+      "Offset": 3836224,
+      "Section": ".rdata",
+      "Japanese": "`恭介@「よし、いったん休憩にしよう」"
+    },
+    {
+      "Offset": 3836352,
+      "Section": ".rdata",
+      "Japanese": "`恭介@「よし、ここらで休憩にしよう」"
+    },
+    {
+      "Offset": 3836484,
+      "Section": ".rdata",
+      "Japanese": "`恭介@「よし、今日はこのくらいにしておこう」"
+    },
+    {
+      "Offset": 3836660,
+      "Section": ".rdata",
+      "Japanese": "`恭介@「よし、終わろう。いい汗かいたな」"
+    },
+    {
+      "Offset": 3836792,
+      "Section": ".rdata",
+      "Japanese": "`恭介@「よし、今日はここまでだ」"
+    },
+    {
+      "Offset": 3837008,
+      "Section": ".rdata",
+      "Japanese": "`恭介@「よし、終わろう。日に日によくなっていくじゃないか、さすがだな」"
+    },
+    {
+      "Offset": 3837160,
+      "Section": ".rdata",
+      "Japanese": "`恭介@「よし、次はこっちだ！」"
+    },
+    {
+      "Offset": 3837264,
+      "Section": ".rdata",
+      "Japanese": "`恭介@「理樹、今度はこっちだ！」"
+    },
+    {
+      "Offset": 3837360,
+      "Section": ".rdata",
+      "Japanese": "`恭介@「理樹、次はここだ！」"
+    },
+    {
+      "Offset": 3837484,
+      "Section": ".rdata",
+      "Japanese": "「な、なんだ！？　鈴の様子がいつもと違うぞ！？」"
+    },
+    {
+      "Offset": 3837556,
+      "Section": ".rdata",
+      "Japanese": "「こ、こいつは…」"
+    },
+    {
+      "Offset": 3837636,
+      "Section": ".rdata",
+      "Japanese": "`理樹@「うわっ、だいじょうぶ！？」"
+    },
+    {
+      "Offset": 3837752,
+      "Section": ".rdata",
+      "Japanese": "`小毬@「痛いけどだいじょうぶ～」"
+    },
+    {
+      "Offset": 3837872,
+      "Section": ".rdata",
+      "Japanese": "幸い、怪我はなかったみたいだ。"
+    },
+    {
+      "Offset": 3837960,
+      "Section": ".rdata",
+      "Japanese": "`理樹@「クドーっ、大丈夫！？」"
+    },
+    {
+      "Offset": 3838124,
+      "Section": ".rdata",
+      "Japanese": "`クド@「わ、わふー…とらぶるてりぶるあくしでんとです…」"
+    },
+    {
+      "Offset": 3838336,
+      "Section": ".rdata",
+      "Japanese": "みんなも心配そうに駆け寄ったけど、たいしたことはなかったようだ。"
+    },
+    {
+      "Offset": 3842360,
+      "Section": ".rdata",
+      "Japanese": "「益体もない」"
+    },
+    {
+      "Offset": 3842408,
+      "Section": ".rdata",
+      "Japanese": "「節操もない」"
+    },
+    {
+      "Offset": 3842480,
+      "Section": ".rdata",
+      "Japanese": "「はるちんダイナミック投げー！！」"
+    },
+    {
+      "Offset": 3842576,
+      "Section": ".rdata",
+      "Japanese": "「はるちん話がなげー！！」"
+    },
+    {
+      "Offset": 3842680,
+      "Section": ".rdata",
+      "Japanese": "「はるちんうなじがせつなげー！！」"
+    },
+    {
+      "Offset": 3842792,
+      "Section": ".rdata",
+      "Japanese": "「最後まで言わせて～」"
+    },
+    {
+      "Offset": 3842968,
+      "Section": ".rdata",
+      "Japanese": "「そんなにハンバーグが食いたいのかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3843164,
+      "Section": ".rdata",
+      "Japanese": "「またハンバーグかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3843388,
+      "Section": ".rdata",
+      "Japanese": "「理樹はハンバーグが好きだなあ。球筋に出まくってるぜ？」"
+    },
+    {
+      "Offset": 3843600,
+      "Section": ".rdata",
+      "Japanese": "「もうハンバーグはいいだろ、少しはハンバーグ以外のことも考えろよ」"
+    },
+    {
+      "Offset": 3843828,
+      "Section": ".rdata",
+      "Japanese": "「そんなにとんがりコーンが食いたいのかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3844032,
+      "Section": ".rdata",
+      "Japanese": "「またとんがりコーンかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3844264,
+      "Section": ".rdata",
+      "Japanese": "「理樹はとんがりコーンが好きだなあ。球筋に出まくってるぜ？」"
+    },
+    {
+      "Offset": 3844472,
+      "Section": ".rdata",
+      "Japanese": "「もうとんがりコーンはいいだろ、少しはとんがりコーン以外のことも考えろよ」"
+    },
+    {
+      "Offset": 3844744,
+      "Section": ".rdata",
+      "Japanese": "「そんなに回転寿司でがりだけ食いまくりたいのかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3844936,
+      "Section": ".rdata",
+      "Japanese": "「また回転寿司のがりかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3845152,
+      "Section": ".rdata",
+      "Japanese": "「理樹は回転寿司のがりが好きだなあ。球筋に出まくってるぜ？」"
+    },
+    {
+      "Offset": 3845400,
+      "Section": ".rdata",
+      "Japanese": "「もう回転寿司でがりはいいだろ、少しはがり以外のネタのことも考えてやれよ」"
+    },
+    {
+      "Offset": 3845664,
+      "Section": ".rdata",
+      "Japanese": "「そんなに餡の入っていない生八つ橋だけを食いたいのかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3845920,
+      "Section": ".rdata",
+      "Japanese": "「また餡の入っていない生八つ橋かい。球筋に出てるぜ？　ほんとに餡なしのほうがいいのか？」"
+    },
+    {
+      "Offset": 3846224,
+      "Section": ".rdata",
+      "Japanese": "「理樹は餡の入っていない生八つ橋が好きだなあ。球筋に出まくってるぜ？」"
+    },
+    {
+      "Offset": 3846480,
+      "Section": ".rdata",
+      "Japanese": "「もう餡の入っていない生八つ橋はいいだろ、少しは餡が入ってるほうの生八つ橋のことも考えてやれよ」"
+    },
+    {
+      "Offset": 3846752,
+      "Section": ".rdata",
+      "Japanese": "「そんなにあきらかな毒キノコが食いたいのかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3846996,
+      "Section": ".rdata",
+      "Japanese": "「またあきらかな毒キノコかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3847248,
+      "Section": ".rdata",
+      "Japanese": "「理樹はあきらかな毒キノコが好きだなあ。球筋に出まくってるぜ？」"
+    },
+    {
+      "Offset": 3847480,
+      "Section": ".rdata",
+      "Japanese": "「もうあきらかな毒キノコはいいだろ、せめて食えるキノコのことを考えろよ」"
+    },
+    {
+      "Offset": 3847720,
+      "Section": ".rdata",
+      "Japanese": "「そんなに真っ黒に変色したバナナが食いたいのかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3847936,
+      "Section": ".rdata",
+      "Japanese": "「また真っ黒に変色したバナナかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3848208,
+      "Section": ".rdata",
+      "Japanese": "「理樹は真っ黒に変色したバナナが好きだなあ。球筋に出まくってるぜ？」"
+    },
+    {
+      "Offset": 3848424,
+      "Section": ".rdata",
+      "Japanese": "「もう真っ黒なバナナはいいだろ、少しは食べ頃の黄色いバナナのことも考えろよ」"
+    },
+    {
+      "Offset": 3848696,
+      "Section": ".rdata",
+      "Japanese": "「そんなにケチャップでハートマークが書かれたオムレツが食いたいのかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3848952,
+      "Section": ".rdata",
+      "Japanese": "「またケチャップでハートマークが書かれたオムレツかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3849240,
+      "Section": ".rdata",
+      "Japanese": "「理樹はケチャップでハートマークが書かれたオムレツが好きだなあ。球筋に出まくってるぜ？」"
+    },
+    {
+      "Offset": 3849480,
+      "Section": ".rdata",
+      "Japanese": "「もうケチャップでハートマークが書かれたオムレツはいいだろ、少しは地味なオムレツのことも考えろよ」"
+    },
+    {
+      "Offset": 3849776,
+      "Section": ".rdata",
+      "Japanese": "「そんなに一か八かの生牡蠣が食いたいのかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3850020,
+      "Section": ".rdata",
+      "Japanese": "「また一か八かの生牡蠣かい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3850072,
+      "Section": ".rdata",
+      "Japanese": "「理樹は一か八かの生牡蠣が好きだなあ。球筋に出まくってるぜ？」"
+    },
+    {
+      "Offset": 3850352,
+      "Section": ".rdata",
+      "Japanese": "「もう一か八かの生牡蠣はいいだろ、あたった時の苦しみも考えろよ」"
+    },
+    {
+      "Offset": 3850616,
+      "Section": ".rdata",
+      "Japanese": "「そんなに足が１５本生えた未知の生物が食いたいのかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3850908,
+      "Section": ".rdata",
+      "Japanese": "「また足が１５本生えた未知の生物かい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3850968,
+      "Section": ".rdata",
+      "Japanese": "「理樹は足が１５本生えた未知の生物が好きだなあ。球筋に出まくってるぜ？」"
+    },
+    {
+      "Offset": 3851224,
+      "Section": ".rdata",
+      "Japanese": "「もう足が１５本生えた未知の生物はいいだろ、少しは八本や十本の足の生物のことも考えろよ」"
+    },
+    {
+      "Offset": 3851444,
+      "Section": ".rdata",
+      "Japanese": "「そんなにヤクルトが飲みたいのかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3851628,
+      "Section": ".rdata",
+      "Japanese": "「またヤクルトかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3851844,
+      "Section": ".rdata",
+      "Japanese": "「理樹はヤクルトが好きだなあ。球筋に出まくってるぜ？」"
+    },
+    {
+      "Offset": 3852040,
+      "Section": ".rdata",
+      "Japanese": "「もうヤクルトはいいだろ、少しはヤクルト以外のことも考えろよ」"
+    },
+    {
+      "Offset": 3852236,
+      "Section": ".rdata",
+      "Japanese": "「そんなに搾り立ての牛乳が飲みたいのかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3852436,
+      "Section": ".rdata",
+      "Japanese": "「また搾り立ての牛乳かい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3852668,
+      "Section": ".rdata",
+      "Japanese": "「理樹は搾り立ての牛乳が好きだなあ。球筋に出まくってるぜ？」"
+    },
+    {
+      "Offset": 3852880,
+      "Section": ".rdata",
+      "Japanese": "「もう搾り立ての牛乳はいいだろ、少しは搾り立ての牛乳以外のことも考えろよ」"
+    },
+    {
+      "Offset": 3853120,
+      "Section": ".rdata",
+      "Japanese": "「そんなにトロピカルなココナッツミルクが飲みたいのかい。球筋に出まくってるぜ？」"
+    },
+    {
+      "Offset": 3853364,
+      "Section": ".rdata",
+      "Japanese": "「またトロピカルなココナッツミルクかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3853608,
+      "Section": ".rdata",
+      "Japanese": "「理樹はトロピカルなココナッツミルクが好きだなあ。球筋に出まくってるぜ？」"
+    },
+    {
+      "Offset": 3853856,
+      "Section": ".rdata",
+      "Japanese": "「もうトロピカルなココナッツミルクはいいだろ、少しはココナッツミルク以外のことも考えろよ」"
+    },
+    {
+      "Offset": 3854088,
+      "Section": ".rdata",
+      "Japanese": "「そんなにエロティックなジュースが飲みたいのかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3854296,
+      "Section": ".rdata",
+      "Japanese": "「またエロティックなジュースかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3854536,
+      "Section": ".rdata",
+      "Japanese": "「理樹はエロティックなジュースが好きだなあ。球筋に出まくってるぜ？」"
+    },
+    {
+      "Offset": 3854752,
+      "Section": ".rdata",
+      "Japanese": "「もうエロティックなジュースはいいだろ、少しはエロティックなジュース以外のことも考えろよ」"
+    },
+    {
+      "Offset": 3855000,
+      "Section": ".rdata",
+      "Japanese": "「そんなにマヨネーズが飲みたいのかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3855196,
+      "Section": ".rdata",
+      "Japanese": "「またマヨネーズかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3855420,
+      "Section": ".rdata",
+      "Japanese": "「理樹はマヨネーズが好きだなあ。球筋に出まくってるぜ？」"
+    },
+    {
+      "Offset": 3855640,
+      "Section": ".rdata",
+      "Japanese": "「もうマヨネーズはいいだろ、少しはマヨネーズ以外のことも考えろよ」"
+    },
+    {
+      "Offset": 3855888,
+      "Section": ".rdata",
+      "Japanese": "「そんなに熱いコーヒーをストローで飲みたいのかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3856136,
+      "Section": ".rdata",
+      "Japanese": "「また熱いコーヒーをストローでかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3856376,
+      "Section": ".rdata",
+      "Japanese": "「理樹は熱いコーヒーをストローで飲むのが好きだなあ。球筋に出まくってるぜ？」"
+    },
+    {
+      "Offset": 3856624,
+      "Section": ".rdata",
+      "Japanese": "「もう熱いコーヒーをストローで飲むのはいいだろ、火傷するってことも学習しろよ」"
+    },
+    {
+      "Offset": 3856872,
+      "Section": ".rdata",
+      "Japanese": "「そんなにカルピスを原液のまま飲みたいのかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3857088,
+      "Section": ".rdata",
+      "Japanese": "「またカルピスの原液かい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3857328,
+      "Section": ".rdata",
+      "Japanese": "「理樹はカルピスの原液が好きだなあ。球筋に出まくってるぜ？」"
+    },
+    {
+      "Offset": 3857516,
+      "Section": ".rdata",
+      "Japanese": "「もうカルピスの原液はいいだろ、少しは割って飲めよ」"
+    },
+    {
+      "Offset": 3857592,
+      "Section": ".rdata",
+      "Japanese": "「やるな！」"
+    },
+    {
+      "Offset": 3857648,
+      "Section": ".rdata",
+      "Japanese": "「やるじゃないか！」"
+    },
+    {
+      "Offset": 3857704,
+      "Section": ".rdata",
+      "Japanese": "「よし、きた！」"
+    },
+    {
+      "Offset": 3857736,
+      "Section": ".rdata",
+      "Japanese": "「いいぞ！」"
+    },
+    {
+      "Offset": 3857780,
+      "Section": ".rdata",
+      "Japanese": "「よし、ターキーだ！」"
+    },
+    {
+      "Offset": 3857840,
+      "Section": ".rdata",
+      "Japanese": "「すごいじゃないか！」"
+    },
+    {
+      "Offset": 3857912,
+      "Section": ".rdata",
+      "Japanese": "「三連続だぜ！」"
+    },
+    {
+      "Offset": 3857992,
+      "Section": ".rdata",
+      "Japanese": "「こいつはびっくりだぜ！」"
+    },
+    {
+      "Offset": 3858032,
+      "Section": ".rdata",
+      "Japanese": "「よん！」"
+    },
+    {
+      "Offset": 3858060,
+      "Section": ".rdata",
+      "Japanese": "「ふゅ～」"
+    },
+    {
+      "Offset": 3858164,
+      "Section": ".rdata",
+      "Japanese": "「まさか、ここまでとはっ」"
+    },
+    {
+      "Offset": 3858224,
+      "Section": ".rdata",
+      "Japanese": "「ろくっ、とすげぇぞ！」"
+    },
+    {
+      "Offset": 3858380,
+      "Section": ".rdata",
+      "Japanese": "「すげぇ…とんでもないダイヤの原石だぜ」"
+    },
+    {
+      "Offset": 3858468,
+      "Section": ".rdata",
+      "Japanese": "「これで、ななかよっ！」"
+    },
+    {
+      "Offset": 3858624,
+      "Section": ".rdata",
+      "Japanese": "「もっと昔から野球やってたら、プロ目指せたぜ…」"
+    },
+    {
+      "Offset": 3858752,
+      "Section": ".rdata",
+      "Japanese": "「はちっ、奇跡か！？」"
+    },
+    {
+      "Offset": 3858848,
+      "Section": ".rdata",
+      "Japanese": "「おまえは野球をするために生まれてきたんじゃないか！？」"
+    },
+    {
+      "Offset": 3858944,
+      "Section": ".rdata",
+      "Japanese": "「きゅう！　ありえねぇぜ！」"
+    },
+    {
+      "Offset": 3859112,
+      "Section": ".rdata",
+      "Japanese": "「おまえ、こんなところでくすぶってていいのか、すごい才能じゃないかっ！」"
+    },
+    {
+      "Offset": 3859252,
+      "Section": ".rdata",
+      "Japanese": "「じゅう、っと、なんなんだ、おまえ！？」"
+    },
+    {
+      "Offset": 3859384,
+      "Section": ".rdata",
+      "Japanese": "「いますぐプロの門を叩け」"
+    },
+    {
+      "Offset": 3859444,
+      "Section": ".rdata",
+      "Japanese": "「じゅういちっ、ひゅ～！」"
+    },
+    {
+      "Offset": 3859592,
+      "Section": ".rdata",
+      "Japanese": "「もうおまえのすごさはわかったから」"
+    },
+    {
+      "Offset": 3859700,
+      "Section": ".rdata",
+      "Japanese": "「じゅうにっ、おまえはバッティングの神様だ！」"
+    },
+    {
+      "Offset": 3859784,
+      "Section": ".rdata",
+      "Japanese": "「そろそろこれ終わろうぜ」"
+    },
+    {
+      "Offset": 3859852,
+      "Section": ".rdata",
+      "Japanese": "「飽きてきたんだが」"
+    },
+    {
+      "Offset": 3859952,
+      "Section": ".rdata",
+      "Japanese": "「もう十分おまえはすごいぜ」"
+    },
+    {
+      "Offset": 3860096,
+      "Section": ".rdata",
+      "Japanese": "「ちょっと褒められたからって調子に乗ってるなっ」"
+    },
+    {
+      "Offset": 3860208,
+      "Section": ".rdata",
+      "Japanese": "「むしろ、不気味だぞ」"
+    },
+    {
+      "Offset": 3860300,
+      "Section": ".rdata",
+      "Japanese": "「どれだけ運動神経いいんだよ、おまえ」"
+    },
+    {
+      "Offset": 3860352,
+      "Section": ".rdata",
+      "Japanese": "「えいっ」"
+    },
+    {
+      "Offset": 3860388,
+      "Section": ".rdata",
+      "Japanese": "「どうだっ」"
+    },
+    {
+      "Offset": 3860432,
+      "Section": ".rdata",
+      "Japanese": "「まだまだっ」"
+    },
+    {
+      "Offset": 3860464,
+      "Section": ".rdata",
+      "Japanese": "「続けっ」"
+    },
+    {
+      "Offset": 3860508,
+      "Section": ".rdata",
+      "Japanese": "「いけるっ」"
+    },
+    {
+      "Offset": 3860552,
+      "Section": ".rdata",
+      "Japanese": "「奇跡をっ」"
+    },
+    {
+      "Offset": 3860568,
+      "Section": ".rdata",
+      "Japanese": "「すごいぞっ」"
+    },
+    {
+      "Offset": 3860604,
+      "Section": ".rdata",
+      "Japanese": "「やっほーぅ！」"
+    },
+    {
+      "Offset": 3860668,
+      "Section": ".rdata",
+      "Japanese": "「はは、止まらないよ」"
+    },
+    {
+      "Offset": 3860744,
+      "Section": ".rdata",
+      "Japanese": "「ははは、笑うしかないよ」"
+    },
+    {
+      "Offset": 3860812,
+      "Section": ".rdata",
+      "Japanese": "「すごいチームワークだよ！」"
+    },
+    {
+      "Offset": 3860888,
+      "Section": ".rdata",
+      "Japanese": "「みんな、ありがとう！」"
+    },
+    {
+      "Offset": 3860964,
+      "Section": ".rdata",
+      "Japanese": "「僕はずっと忘れないよ！」"
+    },
+    {
+      "Offset": 3861000,
+      "Section": ".rdata",
+      "Japanese": "「はっ！」"
+    },
+    {
+      "Offset": 3861172,
+      "Section": ".rdata",
+      "Japanese": "「狙ったわけじゃないが猫の苦しみがわかったかっ」"
+    },
+    {
+      "Offset": 3861284,
+      "Section": ".rdata",
+      "Japanese": "「今のは猫たちからの一球だ」"
+    },
+    {
+      "Offset": 3861336,
+      "Section": ".rdata",
+      "Japanese": "「ご、ごめん！」"
+    },
+    {
+      "Offset": 3861372,
+      "Section": ".rdata",
+      "Japanese": "「うわ…」"
+    },
+    {
+      "Offset": 3861424,
+      "Section": ".rdata",
+      "Japanese": "「えらいことになった…」"
+    },
+    {
+      "Offset": 3861508,
+      "Section": ".rdata",
+      "Japanese": "「いたそうだ…」"
+    },
+    {
+      "Offset": 3861548,
+      "Section": ".rdata",
+      "Japanese": "「…すまん」"
+    },
+    {
+      "Offset": 3861604,
+      "Section": ".rdata",
+      "Japanese": "「てもとが狂った…」"
+    },
+    {
+      "Offset": 3861700,
+      "Section": ".rdata",
+      "Japanese": "「狙ってるわけじゃないんだぞっ」"
+    },
+    {
+      "Offset": 3861744,
+      "Section": ".rdata",
+      "Japanese": "「んっ」"
+    },
+    {
+      "Offset": 3861764,
+      "Section": ".rdata",
+      "Japanese": "「ほっ」"
+    },
+    {
+      "Offset": 3861784,
+      "Section": ".rdata",
+      "Japanese": "「よっ」"
+    },
+    {
+      "Offset": 3861808,
+      "Section": ".rdata",
+      "Japanese": "「ていっ」"
+    },
+    {
+      "Offset": 3861828,
+      "Section": ".rdata",
+      "Japanese": "「おっ」"
+    },
+    {
+      "Offset": 3861860,
+      "Section": ".rdata",
+      "Japanese": "「あぶなっ」"
+    },
+    {
+      "Offset": 3861936,
+      "Section": ".rdata",
+      "Japanese": "「あたしかっ！　あたしのせいなのか！？」"
+    },
+    {
+      "Offset": 3862024,
+      "Section": ".rdata",
+      "Japanese": "「うあぁっ、大丈夫か！？」"
+    },
+    {
+      "Offset": 3862068,
+      "Section": ".rdata",
+      "Japanese": "「しまったあぁぁ！」"
+    },
+    {
+      "Offset": 3862108,
+      "Section": ".rdata",
+      "Japanese": "「はっ！？」"
+    },
+    {
+      "Offset": 3862180,
+      "Section": ".rdata",
+      "Japanese": "「やってしまった！！」"
+    },
+    {
+      "Offset": 3862216,
+      "Section": ".rdata",
+      "Japanese": "「こらー！」"
+    },
+    {
+      "Offset": 3862244,
+      "Section": ".rdata",
+      "Japanese": "「こらっ」"
+    },
+    {
+      "Offset": 3862288,
+      "Section": ".rdata",
+      "Japanese": "「なにすんじゃっ」"
+    },
+    {
+      "Offset": 3862348,
+      "Section": ".rdata",
+      "Japanese": "「かわいそうだろ！」"
+    },
+    {
+      "Offset": 3862392,
+      "Section": ".rdata",
+      "Japanese": "「なああぁっ！？」"
+    },
+    {
+      "Offset": 3862440,
+      "Section": ".rdata",
+      "Japanese": "「いたそーだろっ！」"
+    },
+    {
+      "Offset": 3862500,
+      "Section": ".rdata",
+      "Japanese": "「あんなに鳴いてるだろっ！」"
+    },
+    {
+      "Offset": 3862620,
+      "Section": ".rdata",
+      "Japanese": "「あたしに寄ってこなくなるだろっ！」"
+    },
+    {
+      "Offset": 3862696,
+      "Section": ".rdata",
+      "Japanese": "「またかっ」"
+    },
+    {
+      "Offset": 3862776,
+      "Section": ".rdata",
+      "Japanese": "「なんど当てるんだっ」"
+    },
+    {
+      "Offset": 3862852,
+      "Section": ".rdata",
+      "Japanese": "「狙ってるのかっ」"
+    },
+    {
+      "Offset": 3862936,
+      "Section": ".rdata",
+      "Japanese": "「これで何度目だっ」"
+    },
+    {
+      "Offset": 3863000,
+      "Section": ".rdata",
+      "Japanese": "「おまえ猫きらいなのかっ」"
+    },
+    {
+      "Offset": 3863068,
+      "Section": ".rdata",
+      "Japanese": "「あたしもおまえにぶつけるぞっ」"
+    },
+    {
+      "Offset": 3863212,
+      "Section": ".rdata",
+      "Japanese": "「なんだ猫で嫌な思い出でもあるのかっ」"
+    },
+    {
+      "Offset": 3863324,
+      "Section": ".rdata",
+      "Japanese": "「猫に八つ当たりかっ」"
+    },
+    {
+      "Offset": 3863404,
+      "Section": ".rdata",
+      "Japanese": "「そんなことし続けて楽しいかっ」"
+    },
+    {
+      "Offset": 3863476,
+      "Section": ".rdata",
+      "Japanese": "「理樹なんて嫌いだっ」"
+    },
+    {
+      "Offset": 3863624,
+      "Section": ".rdata",
+      "Japanese": "「ふかーっ！」"
+    },
+    {
+      "Offset": 3863676,
+      "Section": ".rdata",
+      "Japanese": "「おまえは…死ぬ」"
+    },
+    {
+      "Offset": 3863720,
+      "Section": ".rdata",
+      "Japanese": "「理樹、めっだ！」"
+    },
+    {
+      "Offset": 3863784,
+      "Section": ".rdata",
+      "Japanese": "「そんなことしたらめーっ！　だっ」"
+    },
+    {
+      "Offset": 3863840,
+      "Section": ".rdata",
+      "Japanese": "「ほわぁー！？」"
+    },
+    {
+      "Offset": 3863880,
+      "Section": ".rdata",
+      "Japanese": "「う、うえぇーんっ」"
+    },
+    {
+      "Offset": 3863948,
+      "Section": ".rdata",
+      "Japanese": "「はらほろひれー」"
+    },
+    {
+      "Offset": 3864004,
+      "Section": ".rdata",
+      "Japanese": "「はうぁ～…きゅう」"
+    },
+    {
+      "Offset": 3864040,
+      "Section": ".rdata",
+      "Japanese": "「ああう～」"
+    },
+    {
+      "Offset": 3864068,
+      "Section": ".rdata",
+      "Japanese": "「ふええっ」"
+    },
+    {
+      "Offset": 3864104,
+      "Section": ".rdata",
+      "Japanese": "「あぶなーいっ」"
+    },
+    {
+      "Offset": 3864156,
+      "Section": ".rdata",
+      "Japanese": "「こっちきたーっ」"
+    },
+    {
+      "Offset": 3864200,
+      "Section": ".rdata",
+      "Japanese": "「とったよ～」"
+    },
+    {
+      "Offset": 3864252,
+      "Section": ".rdata",
+      "Japanese": "「げっとですよ～」"
+    },
+    {
+      "Offset": 3864284,
+      "Section": ".rdata",
+      "Japanese": "「うんー」"
+    },
+    {
+      "Offset": 3864316,
+      "Section": ".rdata",
+      "Japanese": "「おっけーですよ～」"
+    },
+    {
+      "Offset": 3864364,
+      "Section": ".rdata",
+      "Japanese": "「うまくできたよー」"
+    },
+    {
+      "Offset": 3864440,
+      "Section": ".rdata",
+      "Japanese": "「すぐなげるよー」"
+    },
+    {
+      "Offset": 3864484,
+      "Section": ".rdata",
+      "Japanese": "「ばっくほーむー」"
+    },
+    {
+      "Offset": 3864520,
+      "Section": ".rdata",
+      "Japanese": "「きゃっちー」"
+    },
+    {
+      "Offset": 3864568,
+      "Section": ".rdata",
+      "Japanese": "「ちょっとまってねー」"
+    },
+    {
+      "Offset": 3864636,
+      "Section": ".rdata",
+      "Japanese": "「かえすよ～」"
+    },
+    {
+      "Offset": 3864672,
+      "Section": ".rdata",
+      "Japanese": "「たらった～」"
+    },
+    {
+      "Offset": 3864784,
+      "Section": ".rdata",
+      "Japanese": "「今日が私のきゃっち記念日ー」"
+    },
+    {
+      "Offset": 3864828,
+      "Section": ".rdata",
+      "Japanese": "「はいっ！」"
+    },
+    {
+      "Offset": 3864868,
+      "Section": ".rdata",
+      "Japanese": "「ばっちりー」"
+    },
+    {
+      "Offset": 3864908,
+      "Section": ".rdata",
+      "Japanese": "「ふぁいんぷれ～」"
+    },
+    {
+      "Offset": 3864952,
+      "Section": ".rdata",
+      "Japanese": "「おっけーだねー」"
+    },
+    {
+      "Offset": 3865008,
+      "Section": ".rdata",
+      "Japanese": "「とれたよ～」"
+    },
+    {
+      "Offset": 3865048,
+      "Section": ".rdata",
+      "Japanese": "「あぶないあぶないー」"
+    },
+    {
+      "Offset": 3865100,
+      "Section": ".rdata",
+      "Japanese": "「らんらんら～」"
+    },
+    {
+      "Offset": 3865148,
+      "Section": ".rdata",
+      "Japanese": "「ふんふんふーん」"
+    },
+    {
+      "Offset": 3865180,
+      "Section": ".rdata",
+      "Japanese": "「ふえ～」"
+    },
+    {
+      "Offset": 3865220,
+      "Section": ".rdata",
+      "Japanese": "「たのしいねー」"
+    },
+    {
+      "Offset": 3865284,
+      "Section": ".rdata",
+      "Japanese": "「おちゃらかほいっ」"
+    },
+    {
+      "Offset": 3865404,
+      "Section": ".rdata",
+      "Japanese": "「いちろーさんがまきばでれーざーびーむ～」"
+    },
+    {
+      "Offset": 3865556,
+      "Section": ".rdata",
+      "Japanese": "「恭介さん直伝とうほうっ」"
+    },
+    {
+      "Offset": 3865596,
+      "Section": ".rdata",
+      "Japanese": "「容易い」"
+    },
+    {
+      "Offset": 3865620,
+      "Section": ".rdata",
+      "Japanese": "「うむ」"
+    },
+    {
+      "Offset": 3865660,
+      "Section": ".rdata",
+      "Japanese": "「この程度か」"
+    },
+    {
+      "Offset": 3865724,
+      "Section": ".rdata",
+      "Japanese": "「ちゃんと打て」"
+    },
+    {
+      "Offset": 3865784,
+      "Section": ".rdata",
+      "Japanese": "「まだまだだな」"
+    },
+    {
+      "Offset": 3865840,
+      "Section": ".rdata",
+      "Japanese": "「猫どかせ」"
+    },
+    {
+      "Offset": 3865892,
+      "Section": ".rdata",
+      "Japanese": "「まあがんばれ」"
+    },
+    {
+      "Offset": 3865944,
+      "Section": ".rdata",
+      "Japanese": "「見るといい」"
+    },
+    {
+      "Offset": 3865968,
+      "Section": ".rdata",
+      "Japanese": "「ふっ」"
+    },
+    {
+      "Offset": 3865996,
+      "Section": ".rdata",
+      "Japanese": "「甘い」"
+    },
+    {
+      "Offset": 3866048,
+      "Section": ".rdata",
+      "Japanese": "「抜かせん」"
+    },
+    {
+      "Offset": 3866100,
+      "Section": ".rdata",
+      "Japanese": "「イリュージョンだ」"
+    },
+    {
+      "Offset": 3866164,
+      "Section": ".rdata",
+      "Japanese": "「残像だ」"
+    },
+    {
+      "Offset": 3866188,
+      "Section": ".rdata",
+      "Japanese": "「アウトだ」"
+    },
+    {
+      "Offset": 3866248,
+      "Section": ".rdata",
+      "Japanese": "「次回にチャレンジ」"
+    },
+    {
+      "Offset": 3866292,
+      "Section": ".rdata",
+      "Japanese": "「フフフ…」"
+    },
+    {
+      "Offset": 3866344,
+      "Section": ".rdata",
+      "Japanese": "「フハハハハハハハ」"
+    },
+    {
+      "Offset": 3866392,
+      "Section": ".rdata",
+      "Japanese": "「造作もない」"
+    },
+    {
+      "Offset": 3866440,
+      "Section": ".rdata",
+      "Japanese": "「つかもうぜ」"
+    },
+    {
+      "Offset": 3866504,
+      "Section": ".rdata",
+      "Japanese": "「追いかけろ」"
+    },
+    {
+      "Offset": 3866588,
+      "Section": ".rdata",
+      "Japanese": "「ちなみに結構疲れる」"
+    },
+    {
+      "Offset": 3866692,
+      "Section": ".rdata",
+      "Japanese": "「何故ボールが白いか知っているか」"
+    },
+    {
+      "Offset": 3866844,
+      "Section": ".rdata",
+      "Japanese": "「何か別の競技のほうが向いてるんじゃないか」"
+    },
+    {
+      "Offset": 3867044,
+      "Section": ".rdata",
+      "Japanese": "「たまには『恐怖・消える打球』くらい打ってくれ」"
+    },
+    {
+      "Offset": 3867180,
+      "Section": ".rdata",
+      "Japanese": "「内野くらい越えろ」"
+    },
+    {
+      "Offset": 3867216,
+      "Section": ".rdata",
+      "Japanese": "「ほら」"
+    },
+    {
+      "Offset": 3867240,
+      "Section": ".rdata",
+      "Japanese": "「ふん」"
+    },
+    {
+      "Offset": 3867300,
+      "Section": ".rdata",
+      "Japanese": "「手緩いな」"
+    },
+    {
+      "Offset": 3867336,
+      "Section": ".rdata",
+      "Japanese": "「はっはっは」"
+    },
+    {
+      "Offset": 3867364,
+      "Section": ".rdata",
+      "Japanese": "「ふむ」"
+    },
+    {
+      "Offset": 3867404,
+      "Section": ".rdata",
+      "Japanese": "「返すぞ」"
+    },
+    {
+      "Offset": 3867468,
+      "Section": ".rdata",
+      "Japanese": "「うめにゃー・ばりーとー（いたいですー）」"
+    },
+    {
+      "Offset": 3867572,
+      "Section": ".rdata",
+      "Japanese": "「ばりーと・がらばー（頭が痛いですー）」"
+    },
+    {
+      "Offset": 3867684,
+      "Section": ".rdata",
+      "Japanese": "「ばりーと・じおー（おなかがいたいですー）」"
+    },
+    {
+      "Offset": 3867748,
+      "Section": ".rdata",
+      "Japanese": "「わふっ！」"
+    },
+    {
+      "Offset": 3867796,
+      "Section": ".rdata",
+      "Japanese": "「ばりーとー！（いたいっ）」"
+    },
+    {
+      "Offset": 3867864,
+      "Section": ".rdata",
+      "Japanese": "「でんじゃぁーですっ」"
+    },
+    {
+      "Offset": 3867900,
+      "Section": ".rdata",
+      "Japanese": "「ぁうちーっ」"
+    },
+    {
+      "Offset": 3867928,
+      "Section": ".rdata",
+      "Japanese": "「うゃ～っ」"
+    },
+    {
+      "Offset": 3867960,
+      "Section": ".rdata",
+      "Japanese": "「ふゃーっ」"
+    },
+    {
+      "Offset": 3867988,
+      "Section": ".rdata",
+      "Japanese": "「はいっ」"
+    },
+    {
+      "Offset": 3868012,
+      "Section": ".rdata",
+      "Japanese": "「あじーん！」"
+    },
+    {
+      "Offset": 3868040,
+      "Section": ".rdata",
+      "Japanese": "「どう゛ぁ！」"
+    },
+    {
+      "Offset": 3868068,
+      "Section": ".rdata",
+      "Japanese": "「とぅり！」"
+    },
+    {
+      "Offset": 3868104,
+      "Section": ".rdata",
+      "Japanese": "「ちとーり！」"
+    },
+    {
+      "Offset": 3868132,
+      "Section": ".rdata",
+      "Japanese": "「びゃーち！」"
+    },
+    {
+      "Offset": 3868164,
+      "Section": ".rdata",
+      "Japanese": "「しぇすちー！」"
+    },
+    {
+      "Offset": 3868216,
+      "Section": ".rdata",
+      "Japanese": "「はい、わん・つー！」"
+    },
+    {
+      "Offset": 3868280,
+      "Section": ".rdata",
+      "Japanese": "「おちゃのこさいさいっ！」"
+    },
+    {
+      "Offset": 3868340,
+      "Section": ".rdata",
+      "Japanese": "「朝飯前ですっ」"
+    },
+    {
+      "Offset": 3868388,
+      "Section": ".rdata",
+      "Japanese": "「いえす、まいろーどっ」"
+    },
+    {
+      "Offset": 3868432,
+      "Section": ".rdata",
+      "Japanese": "「いえっさー！」"
+    },
+    {
+      "Offset": 3868492,
+      "Section": ".rdata",
+      "Japanese": "「窓はあくのーですっ」"
+    },
+    {
+      "Offset": 3868576,
+      "Section": ".rdata",
+      "Japanese": "「きゃっちんぐ！　あいむきゃっちんがーですっ！」"
+    },
+    {
+      "Offset": 3868648,
+      "Section": ".rdata",
+      "Japanese": "「すいえー！」"
+    },
+    {
+      "Offset": 3868680,
+      "Section": ".rdata",
+      "Japanese": "「う゛ぉーすみー！」"
+    },
+    {
+      "Offset": 3868720,
+      "Section": ".rdata",
+      "Japanese": "「じぇーびゃー！」"
+    },
+    {
+      "Offset": 3868740,
+      "Section": ".rdata",
+      "Japanese": "「じぇーしゃー」"
+    },
+    {
+      "Offset": 3868788,
+      "Section": ".rdata",
+      "Japanese": "「あじなーつぁー！」"
+    },
+    {
+      "Offset": 3868832,
+      "Section": ".rdata",
+      "Japanese": "「にちぇぼー！」"
+    },
+    {
+      "Offset": 3868872,
+      "Section": ".rdata",
+      "Japanese": "「はらしょ～」"
+    },
+    {
+      "Offset": 3868904,
+      "Section": ".rdata",
+      "Japanese": "「だーだー！」"
+    },
+    {
+      "Offset": 3868972,
+      "Section": ".rdata",
+      "Japanese": "「せいびんぐ！　あいむせいびんがーですっ！」"
+    },
+    {
+      "Offset": 3869148,
+      "Section": ".rdata",
+      "Japanese": "「すろーいんぐ！　あいむすろーいんがー…長いのですっ」"
+    },
+    {
+      "Offset": 3869224,
+      "Section": ".rdata",
+      "Japanese": "「ほりゃさっ」"
+    },
+    {
+      "Offset": 3869256,
+      "Section": ".rdata",
+      "Japanese": "「はいはい」"
+    },
+    {
+      "Offset": 3869300,
+      "Section": ".rdata",
+      "Japanese": "「キャッチですヨ」"
+    },
+    {
+      "Offset": 3869356,
+      "Section": ".rdata",
+      "Japanese": "「バッチリですヨ」"
+    },
+    {
+      "Offset": 3869392,
+      "Section": ".rdata",
+      "Japanese": "「とったー」"
+    },
+    {
+      "Offset": 3869424,
+      "Section": ".rdata",
+      "Japanese": "「げーっと」"
+    },
+    {
+      "Offset": 3869456,
+      "Section": ".rdata",
+      "Japanese": "「天才的っ」"
+    },
+    {
+      "Offset": 3869516,
+      "Section": ".rdata",
+      "Japanese": "「華麗だねー」"
+    },
+    {
+      "Offset": 3869584,
+      "Section": ".rdata",
+      "Japanese": "「見て見て～」"
+    },
+    {
+      "Offset": 3869648,
+      "Section": ".rdata",
+      "Japanese": "「ライアンもびっくり！」"
+    },
+    {
+      "Offset": 3869676,
+      "Section": ".rdata",
+      "Japanese": "「私に任せてっ」"
+    },
+    {
+      "Offset": 3869716,
+      "Section": ".rdata",
+      "Japanese": "「私のボールっ」"
+    },
+    {
+      "Offset": 3869784,
+      "Section": ".rdata",
+      "Japanese": "「足元が怖いですネ」"
+    },
+    {
+      "Offset": 3869852,
+      "Section": ".rdata",
+      "Japanese": "「猫じゃまーっ」"
+    },
+    {
+      "Offset": 3869904,
+      "Section": ".rdata",
+      "Japanese": "「はるちんうまいっ」"
+    },
+    {
+      "Offset": 3869948,
+      "Section": ".rdata",
+      "Japanese": "「まだまだ～」"
+    },
+    {
+      "Offset": 3870000,
+      "Section": ".rdata",
+      "Japanese": "「むちむちぼーるっ」"
+    },
+    {
+      "Offset": 3870040,
+      "Section": ".rdata",
+      "Japanese": "「ファンブル！」"
+    },
+    {
+      "Offset": 3870088,
+      "Section": ".rdata",
+      "Japanese": "「最低だね！」"
+    },
+    {
+      "Offset": 3870120,
+      "Section": ".rdata",
+      "Japanese": "「ふんっ！」"
+    },
+    {
+      "Offset": 3870196,
+      "Section": ".rdata",
+      "Japanese": "「ダメな子返上！」"
+    },
+    {
+      "Offset": 3870264,
+      "Section": ".rdata",
+      "Japanese": "「ヤクタタズってゆーなー！」"
+    },
+    {
+      "Offset": 3870348,
+      "Section": ".rdata",
+      "Japanese": "「はるちんウルトラ投げー！！」"
+    },
+    {
+      "Offset": 3870616,
+      "Section": ".rdata",
+      "Japanese": "「はるちん超ウルトラスーパーダイナミックミラクルハイパーアルティメットグローバルエクセレントデリシャスボンバード迫力スローイングッ！！」"
+    },
+    {
+      "Offset": 3870756,
+      "Section": ".rdata",
+      "Japanese": "「それっ」"
+    },
+    {
+      "Offset": 3870792,
+      "Section": ".rdata",
+      "Japanese": "「こりゃさっ」"
+    },
+    {
+      "Offset": 3870840,
+      "Section": ".rdata",
+      "Japanese": "「こっちかっ」"
+    },
+    {
+      "Offset": 3870880,
+      "Section": ".rdata",
+      "Japanese": "「はいはいーっ」"
+    },
+    {
+      "Offset": 3870940,
+      "Section": ".rdata",
+      "Japanese": "「がんばってるよん」"
+    },
+    {
+      "Offset": 3871020,
+      "Section": ".rdata",
+      "Japanese": "「とれるとれる～」"
+    },
+    {
+      "Offset": 3871072,
+      "Section": ".rdata",
+      "Japanese": "「よわいね～」"
+    },
+    {
+      "Offset": 3871116,
+      "Section": ".rdata",
+      "Japanese": "「アウトですヨ」"
+    },
+    {
+      "Offset": 3871164,
+      "Section": ".rdata",
+      "Japanese": "「ゲッツーですヨ」"
+    },
+    {
+      "Offset": 3871208,
+      "Section": ".rdata",
+      "Japanese": "「ファインプレーっ」"
+    },
+    {
+      "Offset": 3871300,
+      "Section": ".rdata",
+      "Japanese": "「メジャーも目じゃないですヨ」"
+    },
+    {
+      "Offset": 3871348,
+      "Section": ".rdata",
+      "Japanese": "「やふー！」"
+    },
+    {
+      "Offset": 3871388,
+      "Section": ".rdata",
+      "Japanese": "「えきさいと！！」"
+    },
+    {
+      "Offset": 3871436,
+      "Section": ".rdata",
+      "Japanese": "「ナチュラルハイ！」"
+    },
+    {
+      "Offset": 3871480,
+      "Section": ".rdata",
+      "Japanese": "「おーらいー」"
+    },
+    {
+      "Offset": 3871512,
+      "Section": ".rdata",
+      "Japanese": "「うまいっ」"
+    },
+    {
+      "Offset": 3871548,
+      "Section": ".rdata",
+      "Japanese": "「おしゃまんべ！」"
+    },
+    {
+      "Offset": 3871588,
+      "Section": ".rdata",
+      "Japanese": "「タンヤオ！」"
+    },
+    {
+      "Offset": 3871628,
+      "Section": ".rdata",
+      "Japanese": "「フルハウスっ」"
+    },
+    {
+      "Offset": 3871764,
+      "Section": ".rdata",
+      "Japanese": "「最高だね！」"
+    },
+    {
+      "Offset": 3871784,
+      "Section": ".rdata",
+      "Japanese": "$S020「はるちん超ウルトラスーパーダイナミックミラクルハイパーアルティメットグローバルエクセレントデリシャスボンバード迫力スローイングッ！！」"
+    },
+    {
+      "Offset": 3871944,
+      "Section": ".rdata",
+      "Japanese": "「ほーっ！」"
+    },
+    {
+      "Offset": 3871972,
+      "Section": ".rdata",
+      "Japanese": "「じゃーんぷっ」"
+    },
+    {
+      "Offset": 3872004,
+      "Section": ".rdata",
+      "Japanese": "「だーいぶっ」"
+    },
+    {
+      "Offset": 3872064,
+      "Section": ".rdata",
+      "Japanese": "「はるちんかっこいーっ！！」"
+    },
+    {
+      "Offset": 3872128,
+      "Section": ".rdata",
+      "Japanese": "「華麗にキャッチ！」"
+    },
+    {
+      "Offset": 3872168,
+      "Section": ".rdata",
+      "Japanese": "「とびまーすっ」"
+    },
+    {
+      "Offset": 3872248,
+      "Section": ".rdata",
+      "Japanese": "「服汚れますネ」"
+    },
+    {
+      "Offset": 3872308,
+      "Section": ".rdata",
+      "Japanese": "「はるちんまくすぱわー！」"
+    },
+    {
+      "Offset": 3872352,
+      "Section": ".rdata",
+      "Japanese": "「ていっ！」"
+    },
+    {
+      "Offset": 3872420,
+      "Section": ".rdata",
+      "Japanese": "「ぬかせるかーっ」"
+    },
+    {
+      "Offset": 3872472,
+      "Section": ".rdata",
+      "Japanese": "「余裕でキャッチ！」"
+    },
+    {
+      "Offset": 3872516,
+      "Section": ".rdata",
+      "Japanese": "「とんでとんでーっ」"
+    },
+    {
+      "Offset": 3872556,
+      "Section": ".rdata",
+      "Japanese": "「えへへっ」"
+    },
+    {
+      "Offset": 3872596,
+      "Section": ".rdata",
+      "Japanese": "「ありゃりゃ？」"
+    },
+    {
+      "Offset": 3872660,
+      "Section": ".rdata",
+      "Japanese": "「しっぱいしちゃった」"
+    },
+    {
+      "Offset": 3872708,
+      "Section": ".rdata",
+      "Japanese": "「ドンマイですヨ」"
+    },
+    {
+      "Offset": 3872800,
+      "Section": ".rdata",
+      "Japanese": "「あーまあそんな日もありますヨ」"
+    },
+    {
+      "Offset": 3872896,
+      "Section": ".rdata",
+      "Japanese": "「はるちんも筆の誤り！」"
+    },
+    {
+      "Offset": 3872948,
+      "Section": ".rdata",
+      "Japanese": "「お静かに」"
+    },
+    {
+      "Offset": 3873008,
+      "Section": ".rdata",
+      "Japanese": "「邪魔しないように」"
+    },
+    {
+      "Offset": 3873080,
+      "Section": ".rdata",
+      "Japanese": "「危ないですよ？」"
+    },
+    {
+      "Offset": 3873140,
+      "Section": ".rdata",
+      "Japanese": "「狙ってませんか」"
+    },
+    {
+      "Offset": 3873208,
+      "Section": ".rdata",
+      "Japanese": "「…守備、やってません」"
+    },
+    {
+      "Offset": 3873268,
+      "Section": ".rdata",
+      "Japanese": "「他の方を」"
+    },
+    {
+      "Offset": 3873316,
+      "Section": ".rdata",
+      "Japanese": "「最悪です…」"
+    },
+    {
+      "Offset": 3873428,
+      "Section": ".rdata",
+      "Japanese": "「犬も歩けば棒に当たる、とは言いますが…」"
+    },
+    {
+      "Offset": 3873512,
+      "Section": ".rdata",
+      "Japanese": "「気をつけてください」"
+    },
+    {
+      "Offset": 3873580,
+      "Section": ".rdata",
+      "Japanese": "「また、ぶつけましたね」"
+    },
+    {
+      "Offset": 3873704,
+      "Section": ".rdata",
+      "Japanese": "「わたしに何か恨みでも…」"
+    },
+    {
+      "Offset": 3873744,
+      "Section": ".rdata",
+      "Japanese": "「ショット！」"
+    },
+    {
+      "Offset": 3873784,
+      "Section": ".rdata",
+      "Japanese": "「ひゅークール！」"
+    },
+    {
+      "Offset": 3873820,
+      "Section": ".rdata",
+      "Japanese": "「クリア！」"
+    },
+    {
+      "Offset": 3873848,
+      "Section": ".rdata",
+      "Japanese": "「グゥッ！」"
+    },
+    {
+      "Offset": 3873884,
+      "Section": ".rdata",
+      "Japanese": "「エキサイティング！」"
+    },
+    {
+      "Offset": 3873940,
+      "Section": ".rdata",
+      "Japanese": "「イッツミラクゥ！」"
+    },
+    {
+      "Offset": 3873984,
+      "Section": ".rdata",
+      "Japanese": "「ソーグッ！」"
+    },
+    {
+      "Offset": 3874000,
+      "Section": ".rdata",
+      "Japanese": "「ナイス！」"
+    },
+    {
+      "Offset": 3874032,
+      "Section": ".rdata",
+      "Japanese": "「やっ」"
+    },
+    {
+      "Offset": 3874044,
+      "Section": ".rdata",
+      "Japanese": "「はっ」"
+    },
+    {
+      "Offset": 3874064,
+      "Section": ".rdata",
+      "Japanese": "「たっ」"
+    },
+    {
+      "Offset": 3874092,
+      "Section": ".rdata",
+      "Japanese": "「そーれっ」"
+    },
+    {
+      "Offset": 3874136,
+      "Section": ".rdata",
+      "Japanese": "「やあっ」"
+    },
+    {
+      "Offset": 3874160,
+      "Section": ".rdata",
+      "Japanese": "「とうっ」"
+    },
+    {
+      "Offset": 3874184,
+      "Section": ".rdata",
+      "Japanese": "「ふんっ」"
+    },
+    {
+      "Offset": 3874208,
+      "Section": ".rdata",
+      "Japanese": "「てあっ」"
+    },
+    {
+      "Offset": 3874232,
+      "Section": ".rdata",
+      "Japanese": "「たあっ」"
+    },
+    {
+      "Offset": 3874244,
+      "Section": ".rdata",
+      "Japanese": "「いてっ！」"
+    },
+    {
+      "Offset": 3874272,
+      "Section": ".rdata",
+      "Japanese": "「ごふっ」"
+    },
+    {
+      "Offset": 3874296,
+      "Section": ".rdata",
+      "Japanese": "「ぐふっ」"
+    },
+    {
+      "Offset": 3874320,
+      "Section": ".rdata",
+      "Japanese": "「うぐっ」"
+    },
+    {
+      "Offset": 3874352,
+      "Section": ".rdata",
+      "Japanese": "「…ごめん！」"
+    },
+    {
+      "Offset": 3874384,
+      "Section": ".rdata",
+      "Japanese": "「うわぁ…」"
+    },
+    {
+      "Offset": 3874420,
+      "Section": ".rdata",
+      "Japanese": "「わちゃー…」"
+    },
+    {
+      "Offset": 3874468,
+      "Section": ".rdata",
+      "Japanese": "「やっちゃった…」"
+    },
+    {
+      "Offset": 3874508,
+      "Section": ".rdata",
+      "Japanese": "「そんなぁ…」"
+    },
+    {
+      "Offset": 3874552,
+      "Section": ".rdata",
+      "Japanese": "「ああ、またっ」"
+    },
+    {
+      "Offset": 3874668,
+      "Section": ".rdata",
+      "Japanese": "「今の自ら当たりにいったよね！？」"
+    },
+    {
+      "Offset": 3874780,
+      "Section": ".rdata",
+      "Japanese": "「今のはよけてよっ」"
+    },
+    {
+      "Offset": 3874820,
+      "Section": ".rdata",
+      "Japanese": "「えぇー…」"
+    },
+    {
+      "Offset": 3874848,
+      "Section": ".rdata",
+      "Japanese": "「ええっ！？」"
+    },
+    {
+      "Offset": 3874876,
+      "Section": ".rdata",
+      "Japanese": "「ええー」"
+    },
+    {
+      "Offset": 3874900,
+      "Section": ".rdata",
+      "Japanese": "「えええーっ」"
+    },
+    {
+      "Offset": 3874928,
+      "Section": ".rdata",
+      "Japanese": "「しゃあーっ！！」"
+    },
+    {
+      "Offset": 3874996,
+      "Section": ".rdata",
+      "Japanese": "「よしきたーーっ！！」"
+    },
+    {
+      "Offset": 3875076,
+      "Section": ".rdata",
+      "Japanese": "「待ってました！」"
+    },
+    {
+      "Offset": 3875124,
+      "Section": ".rdata",
+      "Japanese": "「ひっさーーーつっ！」"
+    },
+    {
+      "Offset": 3875172,
+      "Section": ".rdata",
+      "Japanese": "「おらおらああぁーーっ！」"
+    },
+    {
+      "Offset": 3875236,
+      "Section": ".rdata",
+      "Japanese": "「うおりゃあああぁぁぁーーっ！！」"
+    },
+    {
+      "Offset": 3875364,
+      "Section": ".rdata",
+      "Japanese": "「甘いぜ！　何年バッターやってんだよっ！」"
+    },
+    {
+      "Offset": 3875488,
+      "Section": ".rdata",
+      "Japanese": "「まだまだこんなもんじゃなかったはずだぜ！？」"
+    },
+    {
+      "Offset": 3875596,
+      "Section": ".rdata",
+      "Japanese": "「あの頃のおまえを取り戻せよ！！」"
+    },
+    {
+      "Offset": 3875732,
+      "Section": ".rdata",
+      "Japanese": "「もっとすごかったはずだぜ、おまえは！！」"
+    },
+    {
+      "Offset": 3875852,
+      "Section": ".rdata",
+      "Japanese": "「こんなところでくすぶってんじゃねぇよ！！」"
+    },
+    {
+      "Offset": 3876032,
+      "Section": ".rdata",
+      "Japanese": "「おまえ誓ったろ、忘れたけどさ！」"
+    },
+    {
+      "Offset": 3876256,
+      "Section": ".rdata",
+      "Japanese": "「ふたりだけの約束だったはずだろ、みんなに言って回ったけどさ」"
+    },
+    {
+      "Offset": 3876428,
+      "Section": ".rdata",
+      "Japanese": "「あの頃のおまえはハングリーだったぜっ、若干肥えてたけどさ」"
+    },
+    {
+      "Offset": 3876600,
+      "Section": ".rdata",
+      "Japanese": "「もっと飢えるんだ、飢える゛ん゛だあ゛ぁ゛ぁ゛…」"
+    },
+    {
+      "Offset": 3876756,
+      "Section": ".rdata",
+      "Japanese": "「故郷に錦飾りたいんだろ、おまえはっ」"
+    },
+    {
+      "Offset": 3876892,
+      "Section": ".rdata",
+      "Japanese": "「こんなところで立ち止まってんじゃねぇ…おまえは進めよ！」"
+    },
+    {
+      "Offset": 3876980,
+      "Section": ".rdata",
+      "Japanese": "「ぐふっ…」"
+    },
+    {
+      "Offset": 3877008,
+      "Section": ".rdata",
+      "Japanese": "「ごぼっ！！」"
+    },
+    {
+      "Offset": 3877024,
+      "Section": ".rdata",
+      "Japanese": "「うっ！」"
+    },
+    {
+      "Offset": 3877056,
+      "Section": ".rdata",
+      "Japanese": "「うおぅっ…！」"
+    },
+    {
+      "Offset": 3877116,
+      "Section": ".rdata",
+      "Japanese": "「うらああああぁぁぁーーっ！！」"
+    },
+    {
+      "Offset": 3877196,
+      "Section": ".rdata",
+      "Japanese": "「そりゃあぁーーーーっ！！」"
+    },
+    {
+      "Offset": 3877240,
+      "Section": ".rdata",
+      "Japanese": "「はぁっ！」"
+    },
+    {
+      "Offset": 3877256,
+      "Section": ".rdata",
+      "Japanese": "「ふっ！」"
+    },
+    {
+      "Offset": 3877280,
+      "Section": ".rdata",
+      "Japanese": "「せいっ！」"
+    },
+    {
+      "Offset": 3877324,
+      "Section": ".rdata",
+      "Japanese": "「見えたっ！」"
+    },
+    {
+      "Offset": 3877356,
+      "Section": ".rdata",
+      "Japanese": "「めーん！」"
+    },
+    {
+      "Offset": 3877388,
+      "Section": ".rdata",
+      "Japanese": "「まーん！」"
+    },
+    {
+      "Offset": 3877436,
+      "Section": ".rdata",
+      "Japanese": "「なんてことない」"
+    },
+    {
+      "Offset": 3877552,
+      "Section": ".rdata",
+      "Japanese": "「はっはっは、おまえも腕を上げたじゃないか」"
+    },
+    {
+      "Offset": 3877640,
+      "Section": ".rdata",
+      "Japanese": "「よし」"
+    },
+    {
+      "Offset": 3877684,
+      "Section": ".rdata",
+      "Japanese": "「どうだ」"
+    },
+    {
+      "Offset": 3877720,
+      "Section": ".rdata",
+      "Japanese": "「いいだろう」"
+    },
+    {
+      "Offset": 3877784,
+      "Section": ".rdata",
+      "Japanese": "「よし、いいぞ！」"
+    },
+    {
+      "Offset": 3877848,
+      "Section": ".rdata",
+      "Japanese": "「よしきた！」"
+    },
+    {
+      "Offset": 3877864,
+      "Section": ".rdata",
+      "Japanese": "「オーケー！」"
+    },
+    {
+      "Offset": 3877900,
+      "Section": ".rdata",
+      "Japanese": "「いい感じだ」"
+    },
+    {
+      "Offset": 3877948,
+      "Section": ".rdata",
+      "Japanese": "「いいんじゃないか？」"
+    },
+    {
+      "Offset": 3878000,
+      "Section": ".rdata",
+      "Japanese": "「あらよっと」"
+    },
+    {
+      "Offset": 3878052,
+      "Section": ".rdata",
+      "Japanese": "「おやすいご用だ」"
+    },
+    {
+      "Offset": 3878124,
+      "Section": ".rdata",
+      "Japanese": "「もっと強いの打っていいんだぜ？」"
+    },
+    {
+      "Offset": 3878260,
+      "Section": ".rdata",
+      "Japanese": "「まだまだこんなんじゃ燃えねーな」"
+    },
+    {
+      "Offset": 3878348,
+      "Section": ".rdata",
+      "Japanese": "「もっと熱くなろうぜ」"
+    },
+    {
+      "Offset": 3878388,
+      "Section": ".rdata",
+      "Japanese": "「いやっほーぅ！」"
+    },
+    {
+      "Offset": 3878468,
+      "Section": ".rdata",
+      "Japanese": "「朝飯前だ」"
+    },
+    {
+      "Offset": 3878564,
+      "Section": ".rdata",
+      "Japanese": "「理樹は花粉症じゃなかったかい」"
+    },
+    {
+      "Offset": 3878676,
+      "Section": ".rdata",
+      "Japanese": "「か弱いおまえの心のような球だな」"
+    },
+    {
+      "Offset": 3878776,
+      "Section": ".rdata",
+      "Japanese": "「そろそろ慣れてきたかい」"
+    },
+    {
+      "Offset": 3878840,
+      "Section": ".rdata",
+      "Japanese": "「もっとすごいのくれよ」"
+    },
+    {
+      "Offset": 3878996,
+      "Section": ".rdata",
+      "Japanese": "「なにを憂いでいる。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3879048,
+      "Section": ".rdata",
+      "Japanese": "「いいな！」"
+    },
+    {
+      "Offset": 3879116,
+      "Section": ".rdata",
+      "Japanese": "「こいつは抜けさせないぜっ」"
+    },
+    {
+      "Offset": 3879148,
+      "Section": ".rdata",
+      "Japanese": "「おてのものよっ」"
+    },
+    {
+      "Offset": 3879196,
+      "Section": ".rdata",
+      "Japanese": "「そうは簡単にいくかいっ」"
+    },
+    {
+      "Offset": 3879224,
+      "Section": ".rdata",
+      "Japanese": "「いいじゃねーか」"
+    },
+    {
+      "Offset": 3879292,
+      "Section": ".rdata",
+      "Japanese": "「いいとこついてくるじゃねーか」"
+    },
+    {
+      "Offset": 3879380,
+      "Section": ".rdata",
+      "Japanese": "「ぜんぜん楽勝だぜ」"
+    },
+    {
+      "Offset": 3879484,
+      "Section": ".rdata",
+      "Japanese": "「蚊がとまって見えるぜ」"
+    },
+    {
+      "Offset": 3879580,
+      "Section": ".rdata",
+      "Japanese": "「このキャッチが俺たちの絆だ」"
+    },
+    {
+      "Offset": 3879708,
+      "Section": ".rdata",
+      "Japanese": "「どうした、ちょっとキレがなくなってきたぜ？」"
+    },
+    {
+      "Offset": 3879908,
+      "Section": ".rdata",
+      "Japanese": "「抜け毛が気になり始めたか？　球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3880148,
+      "Section": ".rdata",
+      "Japanese": "「今更２０００年問題を気にしてるのかよ。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3880316,
+      "Section": ".rdata",
+      "Japanese": "「そんなに腹が減ったか。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3880472,
+      "Section": ".rdata",
+      "Japanese": "「そんなに喉が渇いたか。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3880584,
+      "Section": ".rdata",
+      "Japanese": "「ファースト、謙吾！」"
+    },
+    {
+      "Offset": 3880632,
+      "Section": ".rdata",
+      "Japanese": "「いくぜ、謙吾っ」"
+    },
+    {
+      "Offset": 3880688,
+      "Section": ".rdata",
+      "Japanese": "「よしっ、謙吾っ」"
+    },
+    {
+      "Offset": 3880736,
+      "Section": ".rdata",
+      "Japanese": "「余裕でアウトだぜ」"
+    },
+    {
+      "Offset": 3880776,
+      "Section": ".rdata",
+      "Japanese": "「ほらよっと」"
+    },
+    {
+      "Offset": 3880812,
+      "Section": ".rdata",
+      "Japanese": "「ワンナウツ！」"
+    },
+    {
+      "Offset": 3880832,
+      "Section": ".rdata",
+      "Japanese": "「ほっ！」"
+    },
+    {
+      "Offset": 3880872,
+      "Section": ".rdata",
+      "Japanese": "「そうはさせるかっ」"
+    },
+    {
+      "Offset": 3880932,
+      "Section": ".rdata",
+      "Japanese": "「こいつはもらったっ」"
+    },
+    {
+      "Offset": 3881012,
+      "Section": ".rdata",
+      "Japanese": "「ぜんぜん追いつけるぜっ」"
+    },
+    {
+      "Offset": 3881112,
+      "Section": ".rdata",
+      "Japanese": "「もっとこいよ、もっとホットなのをぶつけてこいよ…」"
+    },
+    {
+      "Offset": 3881236,
+      "Section": ".rdata",
+      "Japanese": "「ははっ、なかなかいいぜ。その調子だ」"
+    },
+    {
+      "Offset": 3881320,
+      "Section": ".rdata",
+      "Japanese": "「もう、ぜーんぜん余裕だ」"
+    },
+    {
+      "Offset": 3881512,
+      "Section": ".rdata",
+      "Japanese": "「ここに来て反抗期かい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3881676,
+      "Section": ".rdata",
+      "Japanese": "「好きな子でもできたのかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3881772,
+      "Section": ".rdata",
+      "Japanese": "「とんだじゃじゃ馬だな」"
+    },
+    {
+      "Offset": 3881876,
+      "Section": ".rdata",
+      "Japanese": "「日々精進の心がけが大切だぜ！」"
+    },
+    {
+      "Offset": 3882032,
+      "Section": ".rdata",
+      "Japanese": "「いいぞ、打って打って打ちまくれ！」"
+    },
+    {
+      "Offset": 3882156,
+      "Section": ".rdata",
+      "Japanese": "「おっと、おまえのナイーブな部分をキャッチしちまったかな」"
+    },
+    {
+      "Offset": 3882340,
+      "Section": ".rdata",
+      "Japanese": "「その歳で生えてきたのかい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3882388,
+      "Section": ".rdata",
+      "Japanese": "「よっと！」"
+    },
+    {
+      "Offset": 3882404,
+      "Section": ".rdata",
+      "Japanese": "「ほっと！」"
+    },
+    {
+      "Offset": 3882548,
+      "Section": ".rdata",
+      "Japanese": "「ちょっと心が荒れ模様かい。球筋に出てるぜ？」"
+    },
+    {
+      "Offset": 3882668,
+      "Section": ".rdata",
+      "Japanese": "「おっと、とんだじゃじゃ馬だな」"
+    },
+    {
+      "Offset": 3882792,
+      "Section": ".rdata",
+      "Japanese": "「確かにおまえの言う通りだ。おまえは正しい」"
+    },
+    {
+      "Offset": 3882932,
+      "Section": ".rdata",
+      "Japanese": "「なるほど。そうなるな。当然だわな」"
+    },
+    {
+      "Offset": 3882988,
+      "Section": ".rdata",
+      "Japanese": "「ほわぁっ」"
+    },
+    {
+      "Offset": 3883020,
+      "Section": ".rdata",
+      "Japanese": "「ふえぇぇーんっ」"
+    },
+    {
+      "Offset": 3883056,
+      "Section": ".rdata",
+      "Japanese": "「ひゃぁっ！？」"
+    },
+    {
+      "Offset": 3883136,
+      "Section": ".rdata",
+      "Japanese": "「なにかとんできたです！？」"
+    },
+    {
+      "Offset": 3883252,
+      "Section": ".rdata",
+      "Japanese": "「怒りますよ」"
+    },
+    {
+      "Offset": 3883288,
+      "Section": ".rdata",
+      "Japanese": "「さあ来なさいっ！」"
+    },
+    {
+      "Offset": 3883324,
+      "Section": ".rdata",
+      "Japanese": "「とぅっ」"
+    },
+    {
+      "Offset": 3883348,
+      "Section": ".rdata",
+      "Japanese": "「てぃっ！」"
+    },
+    {
+      "Offset": 3883436,
+      "Section": ".rdata",
+      "Japanese": "「打てるもんならっ」"
+    },
+    {
+      "Offset": 3883476,
+      "Section": ".rdata",
+      "Japanese": "「うにゃっ！」"
+    },
+    {
+      "Offset": 3883508,
+      "Section": ".rdata",
+      "Japanese": "「ふにゃっ！」"
+    },
+    {
+      "Offset": 3883540,
+      "Section": ".rdata",
+      "Japanese": "「んにゃっ！」"
+    },
+    {
+      "Offset": 3883580,
+      "Section": ".rdata",
+      "Japanese": "「このやろっ」"
+    },
+    {
+      "Offset": 3883688,
+      "Section": ".rdata",
+      "Japanese": "「これ終わったらみんなでもんぺちだっ」"
+    },
+    {
+      "Offset": 3883812,
+      "Section": ".rdata",
+      "Japanese": "「もんぺち、残ってたかな…」"
+    },
+    {
+      "Offset": 3883904,
+      "Section": ".rdata",
+      "Japanese": "「ねこの行進、にゃんにゃん」"
+    },
+    {
+      "Offset": 3883952,
+      "Section": ".rdata",
+      "Japanese": "「んにゃうーっ」"
+    },
+    {
+      "Offset": 3884084,
+      "Section": ".rdata",
+      "Japanese": "「モンペチの新しい味が楽しみだ」"
+    },
+    {
+      "Offset": 3884180,
+      "Section": ".rdata",
+      "Japanese": "「おまえら、どうしてそんな可愛いんだ？」"
+    },
+    {
+      "Offset": 3884280,
+      "Section": ".rdata",
+      "Japanese": "「猫はいいなー、にゃ～にゃ～」"
+    },
+    {
+      "Offset": 3884368,
+      "Section": ".rdata",
+      "Japanese": "「一度猫になりたいな」"
+    },
+    {
+      "Offset": 3884492,
+      "Section": ".rdata",
+      "Japanese": "「理樹も一回猫になってみたらどうだ」"
+    },
+    {
+      "Offset": 3884580,
+      "Section": ".rdata",
+      "Japanese": "「今日の理樹ははりきってるな」"
+    },
+    {
+      "Offset": 3884696,
+      "Section": ".rdata",
+      "Japanese": "「理樹、いいことでもあったのか？」"
+    },
+    {
+      "Offset": 3884788,
+      "Section": ".rdata",
+      "Japanese": "「今日の理樹は暗いな」"
+    },
+    {
+      "Offset": 3884896,
+      "Section": ".rdata",
+      "Japanese": "「理樹、よくないことでもあったのか？」"
+    },
+    {
+      "Offset": 3884956,
+      "Section": ".rdata",
+      "Japanese": "「どっかいけっ」"
+    },
+    {
+      "Offset": 3884988,
+      "Section": ".rdata",
+      "Japanese": "「しねっ」"
+    },
+    {
+      "Offset": 3885032,
+      "Section": ".rdata",
+      "Japanese": "「ずず～…ほわ～」"
+    },
+    {
+      "Offset": 3885112,
+      "Section": ".rdata",
+      "Japanese": "「今日もいいお天気ですね～」"
+    },
+    {
+      "Offset": 3885188,
+      "Section": ".rdata",
+      "Japanese": "「はるうらら～うらうら～♪」"
+    },
+    {
+      "Offset": 3885268,
+      "Section": ".rdata",
+      "Japanese": "「特訓は大変だ～」"
+    },
+    {
+      "Offset": 3885316,
+      "Section": ".rdata",
+      "Japanese": "「はやすぎるよ～」"
+    },
+    {
+      "Offset": 3885356,
+      "Section": ".rdata",
+      "Japanese": "「あぁうぅぅ～」"
+    },
+    {
+      "Offset": 3885460,
+      "Section": ".rdata",
+      "Japanese": "「わんちゃんはほえるがこまりは逃げる…」"
+    },
+    {
+      "Offset": 3885556,
+      "Section": ".rdata",
+      "Japanese": "「理樹君がんばって～」"
+    },
+    {
+      "Offset": 3885608,
+      "Section": ".rdata",
+      "Japanese": "「わっせっわっせっ」"
+    },
+    {
+      "Offset": 3885676,
+      "Section": ".rdata",
+      "Japanese": "「がんばってるよー」"
+    },
+    {
+      "Offset": 3885736,
+      "Section": ".rdata",
+      "Japanese": "「ちょうちょがいるよー」"
+    },
+    {
+      "Offset": 3885808,
+      "Section": ".rdata",
+      "Japanese": "「ねこさんにゃーにゃー」"
+    },
+    {
+      "Offset": 3885864,
+      "Section": ".rdata",
+      "Japanese": "「たのしいよー」"
+    },
+    {
+      "Offset": 3885932,
+      "Section": ".rdata",
+      "Japanese": "「みんながんばってー」"
+    },
+    {
+      "Offset": 3885996,
+      "Section": ".rdata",
+      "Japanese": "「りんちゃーん、ふぁいとですよー」"
+    },
+    {
+      "Offset": 3886108,
+      "Section": ".rdata",
+      "Japanese": "「ダイエットしたほうがいいのかなぁ…」"
+    },
+    {
+      "Offset": 3886276,
+      "Section": ".rdata",
+      "Japanese": "「あなたの元気～は私の元気～さ、ふぁいっ♪」"
+    },
+    {
+      "Offset": 3886356,
+      "Section": ".rdata",
+      "Japanese": "「は・か・たのしおっ♪」"
+    },
+    {
+      "Offset": 3886484,
+      "Section": ".rdata",
+      "Japanese": "「風が語りかけます…うまい、うますぎる…」"
+    },
+    {
+      "Offset": 3886568,
+      "Section": ".rdata",
+      "Japanese": "「あくびが出る」"
+    },
+    {
+      "Offset": 3886632,
+      "Section": ".rdata",
+      "Japanese": "「ほらほら頑張れ」"
+    },
+    {
+      "Offset": 3886688,
+      "Section": ".rdata",
+      "Japanese": "「ちゃんと良く見て当てろ」"
+    },
+    {
+      "Offset": 3886804,
+      "Section": ".rdata",
+      "Japanese": "「…猫はどうにかならんのか」"
+    },
+    {
+      "Offset": 3886876,
+      "Section": ".rdata",
+      "Japanese": "「こっちくるな」"
+    },
+    {
+      "Offset": 3886992,
+      "Section": ".rdata",
+      "Japanese": "「猫の肉球をふにふにしてみたいが…ぐむぅ…」"
+    },
+    {
+      "Offset": 3887080,
+      "Section": ".rdata",
+      "Japanese": "「がんばるのですっ」"
+    },
+    {
+      "Offset": 3887152,
+      "Section": ".rdata",
+      "Japanese": "「ふう…まだまだですー」"
+    },
+    {
+      "Offset": 3887232,
+      "Section": ".rdata",
+      "Japanese": "「熱いお茶が飲みたいですー」"
+    },
+    {
+      "Offset": 3887316,
+      "Section": ".rdata",
+      "Japanese": "「がっつでがっつんがっつんですっ」"
+    },
+    {
+      "Offset": 3887432,
+      "Section": ".rdata",
+      "Japanese": "「バッチこいこい～」"
+    },
+    {
+      "Offset": 3887504,
+      "Section": ".rdata",
+      "Japanese": "「こっちにも打ってこーい！」"
+    },
+    {
+      "Offset": 3887596,
+      "Section": ".rdata",
+      "Japanese": "「やる気まんマンですヨ！」"
+    },
+    {
+      "Offset": 3887732,
+      "Section": ".rdata",
+      "Japanese": "「実はあんまり動いてないですヨ！」"
+    },
+    {
+      "Offset": 3887804,
+      "Section": ".rdata",
+      "Japanese": "「理樹君ふぁいとぉーっ」"
+    },
+    {
+      "Offset": 3887868,
+      "Section": ".rdata",
+      "Japanese": "「鈴ちゃんふぁいとぉーっ」"
+    },
+    {
+      "Offset": 3888024,
+      "Section": ".rdata",
+      "Japanese": "「本日は絶好のはるちん日和ですナ。意味わかんないけど！」"
+    },
+    {
+      "Offset": 3888268,
+      "Section": ".rdata",
+      "Japanese": "「明日は全国的に晴れ。ところによりはるちんです」"
+    },
+    {
+      "Offset": 3888432,
+      "Section": ".rdata",
+      "Japanese": "「かうんとだうんてぃーびーをご覧の皆様。はるちんです」"
+    },
+    {
+      "Offset": 3888612,
+      "Section": ".rdata",
+      "Japanese": "「こんばんは。１９時５５分、夜のはるちんです」"
+    },
+    {
+      "Offset": 3888724,
+      "Section": ".rdata",
+      "Japanese": "「みなさん、頑張ってください」"
+    },
+    {
+      "Offset": 3888800,
+      "Section": ".rdata",
+      "Japanese": "「目指せ、武道館」"
+    },
+    {
+      "Offset": 3888868,
+      "Section": ".rdata",
+      "Japanese": "「目指せ、東京ドーム」"
+    },
+    {
+      "Offset": 3888908,
+      "Section": ".rdata",
+      "Japanese": "「ファイトです」"
+    },
+    {
+      "Offset": 3889024,
+      "Section": ".rdata",
+      "Japanese": "「怪我をしたらいつでもおっしゃってください」"
+    },
+    {
+      "Offset": 3889180,
+      "Section": ".rdata",
+      "Japanese": "「唐突にジャパーンとか言ったら受けるでしょうか」"
+    },
+    {
+      "Offset": 3889404,
+      "Section": ".rdata",
+      "Japanese": "「唐突にバリバリだっゼとか言ったら受けるでしょうか」"
+    },
+    {
+      "Offset": 3889532,
+      "Section": ".rdata",
+      "Japanese": "「誰にも気づかれていないわ…」"
+    },
+    {
+      "Offset": 3889612,
+      "Section": ".rdata",
+      "Japanese": "「完璧に隠れてるわ…」"
+    },
+    {
+      "Offset": 3889692,
+      "Section": ".rdata",
+      "Japanese": "「ははっ、遊んでなさい…」"
+    },
+    {
+      "Offset": 3889780,
+      "Section": ".rdata",
+      "Japanese": "「平和ね…」"
+    },
+    {
+      "Offset": 3889864,
+      "Section": ".rdata",
+      "Japanese": "「のんきなものね…」"
+    },
+    {
+      "Offset": 3889940,
+      "Section": ".rdata",
+      "Japanese": "「楽しいのかしら…」"
+    },
+    {
+      "Offset": 3890056,
+      "Section": ".rdata",
+      "Japanese": "「別にうらやましくなんてないわよ…」"
+    },
+    {
+      "Offset": 3890188,
+      "Section": ".rdata",
+      "Japanese": "「理樹くん、意外と男らしいのね…」"
+    },
+    {
+      "Offset": 3890268,
+      "Section": ".rdata",
+      "Japanese": "「がんばれ、理樹くん」"
+    },
+    {
+      "Offset": 3890388,
+      "Section": ".rdata",
+      "Japanese": "「陰から応援してるわよ、理樹くん」"
+    },
+    {
+      "Offset": 3890448,
+      "Section": ".rdata",
+      "Japanese": "「ナイススイングだわ」"
+    },
+    {
+      "Offset": 3890556,
+      "Section": ".rdata",
+      "Japanese": "「あの子とどういう関係！？」"
+    },
+    {
+      "Offset": 3890708,
+      "Section": ".rdata",
+      "Japanese": "「あの子、理樹くんを狙ってないかしら…」"
+    },
+    {
+      "Offset": 3890852,
+      "Section": ".rdata",
+      "Japanese": "「あの子、ちょっと可愛いわね…」"
+    },
+    {
+      "Offset": 3890976,
+      "Section": ".rdata",
+      "Japanese": "「間抜けな理樹くん…」"
+    },
+    {
+      "Offset": 3891044,
+      "Section": ".rdata",
+      "Japanese": "「しまっていこー」"
+    },
+    {
+      "Offset": 3891148,
+      "Section": ".rdata",
+      "Japanese": "「どこにとぶかわかんないからね」"
+    },
+    {
+      "Offset": 3891240,
+      "Section": ".rdata",
+      "Japanese": "「いい感じだよね？」"
+    },
+    {
+      "Offset": 3891284,
+      "Section": ".rdata",
+      "Japanese": "「悪くないよね」"
+    },
+    {
+      "Offset": 3891376,
+      "Section": ".rdata",
+      "Japanese": "「ちょっとは慣れてきたかな」"
+    },
+    {
+      "Offset": 3891448,
+      "Section": ".rdata",
+      "Japanese": "「まだまだかな…」"
+    },
+    {
+      "Offset": 3891524,
+      "Section": ".rdata",
+      "Japanese": "「力ないな、僕は…」"
+    },
+    {
+      "Offset": 3891624,
+      "Section": ".rdata",
+      "Japanese": "「そこそこ器用だとは思うんだけど…」"
+    },
+    {
+      "Offset": 3891724,
+      "Section": ".rdata",
+      "Japanese": "「鈴は慣れてきたね」"
+    },
+    {
+      "Offset": 3891788,
+      "Section": ".rdata",
+      "Japanese": "「鈴、いい調子だよ」"
+    },
+    {
+      "Offset": 3891912,
+      "Section": ".rdata",
+      "Japanese": "「猫をよけて打つのが難しい…」"
+    },
+    {
+      "Offset": 3891992,
+      "Section": ".rdata",
+      "Japanese": "「猫だらけだなぁ…」"
+    },
+    {
+      "Offset": 3892108,
+      "Section": ".rdata",
+      "Japanese": "「当たってもしらないよ？」"
+    },
+    {
+      "Offset": 3892208,
+      "Section": ".rdata",
+      "Japanese": "「スポーツやっときゃよかったなあ」"
+    },
+    {
+      "Offset": 3892328,
+      "Section": ".rdata",
+      "Japanese": "「いきなり上手くならないかなあ」"
+    },
+    {
+      "Offset": 3892476,
+      "Section": ".rdata",
+      "Japanese": "「はい、筋肉が通りまーす、逞しい筋肉が通りまーす」"
+    },
+    {
+      "Offset": 3892648,
+      "Section": ".rdata",
+      "Japanese": "「筋肉が通りまーす。かなりの筋肉が通りまーす」"
+    },
+    {
+      "Offset": 3892808,
+      "Section": ".rdata",
+      "Japanese": "「筋肉が通りまーす。ご協力ありがとうございまーす」"
+    },
+    {
+      "Offset": 3892980,
+      "Section": ".rdata",
+      "Japanese": "「筋肉が通りまーす。相当な筋肉が通りまーす」"
+    },
+    {
+      "Offset": 3893156,
+      "Section": ".rdata",
+      "Japanese": "「毎度おなじみの～筋肉交換でございま～す」"
+    },
+    {
+      "Offset": 3893292,
+      "Section": ".rdata",
+      "Japanese": "「ジッ…こちら筋肉、ただちに現場に向かいます」"
+    },
+    {
+      "Offset": 3893460,
+      "Section": ".rdata",
+      "Japanese": "「ジッ…こちらかなりの筋肉、ただちに現場に向かいます」"
+    },
+    {
+      "Offset": 3893632,
+      "Section": ".rdata",
+      "Japanese": "「ジッ…こちら相当な筋肉、ただちに現場に向かいます」"
+    },
+    {
+      "Offset": 3893776,
+      "Section": ".rdata",
+      "Japanese": "「筋肉が通過しまーす、白線の内側までお下がりくださ～い」"
+    },
+    {
+      "Offset": 3893900,
+      "Section": ".rdata",
+      "Japanese": "「ふっ、ふっ…筋肉、筋肉っ」"
+    },
+    {
+      "Offset": 3894060,
+      "Section": ".rdata",
+      "Japanese": "「ふっ…ふっ…筋肉がうなる！　うなりを上げる！」"
+    },
+    {
+      "Offset": 3894172,
+      "Section": ".rdata",
+      "Japanese": "「おおっ、すげぇうなりだ！」"
+    },
+    {
+      "Offset": 3894224,
+      "Section": ".rdata",
+      "Japanese": "「ふっ、ふっ…」"
+    },
+    {
+      "Offset": 3894356,
+      "Section": ".rdata",
+      "Japanese": "「やべぇっ、あまりのうなりにオレ自身がついていけねぇっ」"
+    },
+    {
+      "Offset": 3894524,
+      "Section": ".rdata",
+      "Japanese": "「うおおっ、筋肉が暴走だ！　暴徒と化した！」"
+    },
+    {
+      "Offset": 3894652,
+      "Section": ".rdata",
+      "Japanese": "「こいつは…筋肉革命だあぁぁぁーーーーっ！！」"
+    },
+    {
+      "Offset": 3894800,
+      "Section": ".rdata",
+      "Japanese": "「はいはーい、暑苦しい筋肉が通りまーす。道をあけてくださーい」"
+    },
+    {
+      "Offset": 3894960,
+      "Section": ".rdata",
+      "Japanese": "「どいてくださーい、暑苦しい筋肉が通りまーす」"
+    },
+    {
+      "Offset": 3895072,
+      "Section": ".rdata",
+      "Japanese": "「ご協力ありがとうございまーす」"
+    },
+    {
+      "Offset": 3895252,
+      "Section": ".rdata",
+      "Japanese": "「その前の筋肉、とまりなさーい。暑苦しいのでとまりなさーい」"
+    },
+    {
+      "Offset": 3895316,
+      "Section": ".rdata",
+      "Japanese": "「見えた！」"
+    },
+    {
+      "Offset": 3895376,
+      "Section": ".rdata",
+      "Japanese": "「繰り返される諸行は無常…」"
+    },
+    {
+      "Offset": 3895464,
+      "Section": ".rdata",
+      "Japanese": "「まだまだひよっこだな」"
+    },
+    {
+      "Offset": 3895576,
+      "Section": ".rdata",
+      "Japanese": "「大切なのはチームプレイだ」"
+    },
+    {
+      "Offset": 3895660,
+      "Section": ".rdata",
+      "Japanese": "「もっと強く、絆を深めるんだ！」"
+    },
+    {
+      "Offset": 3895788,
+      "Section": ".rdata",
+      "Japanese": "「そーだ。いいぞー。もっと絆を深めていくんだ」"
+    },
+    {
+      "Offset": 3895976,
+      "Section": ".rdata",
+      "Japanese": "「どろどろになってよ、それでも得難い何かがあるのさ」"
+    },
+    {
+      "Offset": 3896168,
+      "Section": ".rdata",
+      "Japanese": "「ぼろぼろになってよ、それでも得難い何かがあるのさ」"
+    },
+    {
+      "Offset": 3896292,
+      "Section": ".rdata",
+      "Japanese": "「よーし、いいチームになってきたな」"
+    },
+    {
+      "Offset": 3896388,
+      "Section": ".rdata",
+      "Japanese": "「俺たちリトルバスターズ！」"
+    },
+    {
+      "Offset": 3896512,
+      "Section": ".rdata",
+      "Japanese": "「いけるっ、こいつはいけるぞっ」"
+    },
+    {
+      "Offset": 3896596,
+      "Section": ".rdata",
+      "Japanese": "「チームプレイを忘れるな！」"
+    }
+  ]
+}
