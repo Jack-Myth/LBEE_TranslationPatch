@@ -4500,6 +4500,12 @@
     "JP": "葉留佳"
   },
   {
+    "Source": "Game Start",
+    "Target": "开始游戏",
+    "SingleByteString": "开始",
+    "JP": null
+  },
+  {
     "Source": "5 Cats",
     "Target": "5只猫",
     "JP": "猫５匹"
