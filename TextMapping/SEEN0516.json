@@ -558,29 +558,9 @@
       "Translation": "`真人@「根本没在听！？你这混蛋把老子惹怒了…」"
     },
     {
-      "JP": "`謙吾@「ちなみに、おまえも俺を怒らせた…」",
-      "EN": "`Kengo@❝By the way, you too are making me angry...❞",
-      "Translation": "`谦吾@「还有，你把我也惹怒了…」"
-    },
-    {
-      "JP": "`真人@「やんのか、てめぇ…」",
-      "EN": "`Masato@❝You asking for it?❞",
-      "Translation": "`真人@「要打吗，你小子…」"
-    },
-    {
-      "JP": "`謙吾@「それはこっちのセリフだ…」",
-      "EN": "`Kengo@❝That's my line.❞",
-      "Translation": "`谦吾@「这是我该说的…」"
-    },
-    {
       "JP": "`理樹@「いやいやいや…」",
       "EN": "`Riki@❝No, no, no...❞",
       "Translation": "`理树@「不不不…」"
-    },
-    {
-      "JP": "関係のないところで張り合いを始めるふたり。",
-      "EN": "They were getting worked up over something completely unrelated.",
-      "Translation": "两个人开始在毫无关系的地方对峙起来。"
     },
     {
       "JP": "止めようとした次の瞬間、ばぁん！と扉が開く音がして、みんながそっちを向いた。",
@@ -1106,11 +1086,6 @@
       "JP": "どすっ！",
       "EN": "*Wham*!",
       "Translation": "咚！"
-    },
-    {
-      "JP": "　",
-      "EN": "　",
-      "Translation": "　"
     },
     {
       "JP": "`真人@「うっ、うっ、次はちゃんと確認しますっ」",
@@ -4388,21 +4363,6 @@
       "Translation": "`来谷@「正好，关于那个地方我们慢慢谈吧，少年」"
     },
     {
-      "JP": "`理樹@「いや、あの…だからさ…」",
-      "EN": "`Riki@❝No, um... like I've been trying to say...❞",
-      "Translation": "`理树@「不，那个…所以说…」"
-    },
-    {
-      "JP": "`来ヶ谷@「まずはホモと友情って紙一重だよね、という議題からだ」",
-      "EN": "`Kurugaya@❝First of all, the line between gay relationship and friendship is drawn in water, don't you think?❞",
-      "Translation": "`来谷@「首先是同性恋和友情只有一线之差，从这个话题开始」"
-    },
-    {
-      "JP": "`理樹@「いや、すっごいしたくないからその議論っ」",
-      "EN": "`Riki@❝No, I don't really want to talk about that.❞",
-      "Translation": "`理树@「不，那个话题我很不想谈」"
-    },
-    {
       "JP": "…なんか、言うこと聞かないとエンドレスで理屈をこねられそうだ…。",
       "EN": "...There would be no end to this pointless argument since she wasn't paying any heed to what I was saying.",
       "Translation": "…总觉得像这种她完全不听我说话的情况继续下去的话什么道理都没有用了…。"
@@ -4426,6 +4386,11 @@
       "JP": "はあ、とため息をつきながら、丸椅子に腰を下ろす。",
       "EN": "I let out a sigh and sat down on the stool.",
       "Translation": "唉，我一边叹气一边坐在了圆椅子上。"
+    },
+    {
+      "JP": " ",
+      "EN": " ",
+      "Translation": " "
     },
     {
       "JP": "がたっ。",
@@ -6681,11 +6646,6 @@
       "JP": "どすっ！",
       "EN": "*Wham*!",
       "Translation": "咚！"
-    },
-    {
-      "JP": "　",
-      "EN": "　",
-      "Translation": "　"
     },
     {
       "JP": "いつものように真人が蹴られる。",
@@ -11328,11 +11288,6 @@
       "Translation": "`朱鹭户@「呃，全家？那是什么？」"
     },
     {
-      "JP": "`理樹@「ファミリーマートの略。こちらもコンビニ」",
-      "EN": "`Riki@❝Short for FamilyMart. This, too, is a convenience store.❞",
-      "Translation": "`理树@「FamilyMart，全家便利店，和罗森差不多的。」"
-    },
-    {
       "JP": "`朱鷺戸@「それも、単なる直方体よね？」",
       "EN": "`Tokido@❝Isn't that a box too?❞",
       "Translation": "`朱鹭户@「那不也是个长方体吗？」"
@@ -11341,11 +11296,6 @@
       "JP": "`理樹@「そうだよ」",
       "EN": "`Riki@❝Exactly.❞",
       "Translation": "`理树@「是啊」"
-    },
-    {
-      "JP": "`理樹@「でも、ファミリーマートなんだよ？」",
-      "EN": "`Riki@❝Yeah, but it's FamilyMart?❞",
-      "Translation": "`理树@「是，但那是全家？」"
     },
     {
       "JP": "`朱鷺戸@「また根拠もなくプッシュしてくるわね…」",

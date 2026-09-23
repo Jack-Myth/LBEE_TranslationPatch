@@ -7090,6 +7090,16 @@
       "EN": "*Ba-dum*...",
       "Translation": "咚…"
     },
+        {
+      "JP": "どく…",
+      "EN": " *ba-dum*...",
+      "Translation": "咚…"
+    },
+    {
+      "JP": "",
+      "EN": "",
+      "Translation": ""
+    },
     {
       "JP": "自分の鼓動が聞こえてくる。",
       "EN": "I could hear my heart beating.",
@@ -7104,6 +7114,16 @@
       "JP": "どく…",
       "EN": "*Ba-dum*...",
       "Translation": "咚…"
+    },
+    {
+      "JP": "どく…",
+      "EN": " *ba-dum*...",
+      "Translation": "咚…"
+    },
+    {
+      "JP": "",
+      "EN": "",
+      "Translation": ""
     },
     {
       "JP": "緊張している？",
@@ -7139,6 +7159,16 @@
       "JP": "どく…",
       "EN": "*Ba-dum*...",
       "Translation": "咚…"
+    },
+    {
+      "JP": "どく…",
+      "EN": " *ba-dum*...",
+      "Translation": "咚…"
+    },
+    {
+      "JP": "",
+      "EN": "",
+      "Translation": ""
     },
     {
       "JP": "投げよう、早く！",
@@ -7724,6 +7754,11 @@
       "JP": "いつか壊れる日まで。",
       "EN": "Until one day things would break down.",
       "Translation": "直到崩坏的那一天。"
+    },
+    {
+      "JP": "",
+      "EN": "",
+      "Translation": ""
     },
     {
       "JP": "僕はコーヒーカップで手を温めながら、考え続けていた。",

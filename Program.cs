@@ -1,4 +1,4 @@
-﻿namespace LBEE_TranslationPatch
+namespace LBEE_TranslationPatch
 {
     using System;
     using System.Collections.Generic;
@@ -11,32 +11,17 @@
     using System.Diagnostics;
     using System.Runtime.InteropServices;
 
-    [StructLayout(LayoutKind.Sequential, CharSet = CharSet.Auto)]
-    public struct OpenFileName
+    [StructLayout(LayoutKind.Sequential, CharSet = CharSet.Unicode)]
+    public struct BrowseInfo
     {
-        public int lStructSize;
         public IntPtr hwndOwner;
-        public IntPtr hInstance;
-        public string lpstrFilter;
-        public string lpstrCustomFilter;
-        public int nMaxCustFilter;
-        public int nFilterIndex;
-        public string lpstrFile;
-        public int nMaxFile;
-        public string lpstrFileTitle;
-        public int nMaxFileTitle;
-        public string lpstrInitialDir;
-        public string lpstrTitle;
-        public int Flags;
-        public short nFileOffset;
-        public short nFileExtension;
-        public string lpstrDefExt;
-        public IntPtr lCustData;
-        public IntPtr lpfnHook;
-        public string lpTemplateName;
-        public IntPtr pvReserved;
-        public int dwReserved;
-        public int flagsEx;
+        public IntPtr root;
+        public IntPtr displayName;
+        public string title;
+        public uint flags;
+        public IntPtr callback;
+        public IntPtr parameter;
+        public int image;
     }
 
     class Program
@@ -52,46 +37,40 @@
         static string DEBUG_DebugJumpScript = "SEEN2803";
         static uint DEBUG_DebugJumpPtr = 0x14d0;
 
-        [DllImport("comdlg32.dll", SetLastError = true, CharSet = CharSet.Auto)]
-        private static extern bool GetOpenFileName(ref OpenFileName ofn);
+        [DllImport("shell32.dll", CharSet = CharSet.Unicode)]
+        private static extern IntPtr SHBrowseForFolderW(ref BrowseInfo info);
+
+        [DllImport("shell32.dll", CharSet = CharSet.Unicode)]
+        [return: MarshalAs(UnmanagedType.Bool)]
+        private static extern bool SHGetPathFromIDListW(IntPtr idList, StringBuilder path);
 
         [DllImport("user32.dll")]
         public static extern int MessageBox(IntPtr hWnd, String text, String caption, int options);
 
-        [DllImport("kernel32.dll", SetLastError = true, CharSet = CharSet.Auto)]
-        private static extern IntPtr BeginUpdateResource(string pFileName, bool bDeleteExistingResources);
-
-        [DllImport("kernel32.dll", SetLastError = true, CharSet = CharSet.Auto)]
-        private static extern bool UpdateResource(IntPtr hUpdate, IntPtr lpType, IntPtr lpName, ushort wLanguage, byte[] lpData, uint cbData);
-
-        [DllImport("kernel32.dll", SetLastError = true, CharSet = CharSet.Auto)]
-        private static extern bool EndUpdateResource(IntPtr hUpdate, bool fDiscard);
-
-
-        private static string Select_LBEEEXE()
+        private static string SelectRomfsFolder()
         {
-            var CacheWD = Directory.GetCurrentDirectory();
-            var ofn = new OpenFileName();
-            ofn.lStructSize = Marshal.SizeOf(ofn);
-            // Define Filter for your extensions (Excel, ...)
-            ofn.lpstrFilter = "LBEE EXE\0*.exe";
-            ofn.lpstrFile = new string(new char[256]);
-            ofn.nMaxFile = ofn.lpstrFile.Length;
-            ofn.lpstrFileTitle = new string(new char[64]);
-            ofn.nMaxFileTitle = ofn.lpstrFileTitle.Length;
-            ofn.lpstrTitle = "选择Little Busters English Edition的主程序(LITBUS_WIN32.exe)";
-            var Result = GetOpenFileName(ref ofn);
-            Directory.SetCurrentDirectory(CacheWD);
-            return Result?ofn.lpstrFile:string.Empty;
+            var info = new BrowseInfo
+            {
+                title = "选择 Switch 版 romfs 文件夹（内含 SCRIPT.PAK 和 FONT.PAK）", flags = 1,
+                displayName = Marshal.AllocHGlobal(260 * sizeof(char))
+            };
+            IntPtr idList = IntPtr.Zero;
+            try
+            {
+                idList = SHBrowseForFolderW(ref info);
+                if (idList == IntPtr.Zero) return string.Empty;
+                var path = new StringBuilder(260);
+                return SHGetPathFromIDListW(idList, path) ? path.ToString() : string.Empty;
+            }
+            finally
+            {
+                if (idList != IntPtr.Zero) Marshal.FreeCoTaskMem(idList);
+                Marshal.FreeHGlobal(info.displayName);
+            }
         }
 
-#if RELEASE
-        static string LBEEGamePath = "";
-#else
-        static string LBEEGamePath = @"E:\SteamLibrary\steamapps\common\Little Busters! English Edition";
-#endif
-        static string LBEE_EXE = "";
-        static string TMPPath = Path.GetFullPath(@".\.tmp");
+        static string RomfsPath = "";
+        static string TMPPath = Path.GetFullPath(@".\.tmp\switch-patch");
         static string TextMappingPath = Path.GetFullPath(@".\TextMapping");
         static string ImageMappingPath = Path.GetFullPath(@".\ImageMapping");
         static string CzTempPath = Path.Combine(TMPPath, "CzTemp");
@@ -108,189 +87,102 @@
         static string[] Operators = new string[0];
         static StreamWriter? InstructionLayoutHandle = null;
         public static Stack<string> ScriptNameContext = new();
-        static List<string> IgnoredScriptList = new List<string> 
+        internal static HashSet<string> IgnoredScriptList = new(StringComparer.OrdinalIgnoreCase)
         { 
             "SEEN8500", "SEEN8501",
 
             // 这些脚本应该是一些数值变量或者控制逻辑，看起来没有翻译的必要
             "_ARFLAG","_BUILD_COUNT","_CGMODE","_QUAKE",
-            "_SCR_LABEL","_TASK","_VARNUM","_VOICE_PARAM"
+            "_SCR_LABEL","_TASK","_VARNUM","_VOICE_PARAM","_VARNAME"
         };
 
-        public static void ProcessScript(string scriptFile,bool PreComputeLayout)
+        internal static void ConfigureScriptProcessing(string mappingPath)
         {
-            Dictionary<int, int> CommandsRedirectors = new();
-            var fileName = Path.GetFileNameWithoutExtension(scriptFile);
-            if (IgnoredScriptList.Contains(fileName))
-            {
-                return;
-            }
-            ScriptNameContext.Push(fileName.ToLower());
-            // 首先读出所有指令
-            var allCommands = new List<LucaCommand>();
-            var commandBytes = File.ReadAllBytes(scriptFile);
-            int index = 0;
-            while (index < commandBytes.Length)
-            {
-                var curCommand = new LucaCommand();
-                index += curCommand.ReadCommand(commandBytes, index);
-                allCommands.Add(curCommand);
-            }
-
-            // 对所有指令执行AssignCommand，绑定到对应的指令上
-            // 由于有跳转指令的存在，以及脚本翻译后各指令的指针会发生变化
-            // 此处需要解析部分跳转指令，绑定到要跳转的目标指令上，然后在翻译结束后执行FixPtr修正跳转指针
-            for (int i = 0; i < allCommands.Count; i++)
-            {
-                allCommands[i].AssignCommand(allCommands, i);
-            }
-
-            // 没有对应翻译的话，新建一个翻译文件
-            var scriptTextMapping = Path.Combine(TextMappingPath, $"{fileName}.json");
-            if (!File.Exists(scriptTextMapping))
-            {
-                var translationJson = new JsonObject();
-                foreach (var command in allCommands)
-                {
-                    if (InstructionProcessor.InstructionGetMapping.ContainsKey(command.GetInstruction()))
-                    {
-                        var commandName = Operators[command.GetInstruction()];
-                        if (translationJson[commandName] is not JsonArray commandTranslations)
-                        {
-                            commandTranslations = new JsonArray();
-                            translationJson[commandName] = commandTranslations;
-                        }
-                        var TranslationObj = command.GetTranslationObj();
-                        if (TranslationObj != null)
-                        {
-                            commandTranslations.Add((JsonNode)TranslationObj);
-                        }
-                    }
-                }
-                File.WriteAllText(scriptTextMapping, translationJson.ToJsonString(JsonWriteOptions));
-                ScriptNameContext.Pop();
-                return;
-            }
-
-            // 记下原有脚本中各指令的数量用于验证
-            var translationJsonCounts = new Dictionary<string, int>();
-            foreach (var command in allCommands)
-            {
-                if (InstructionProcessor.InstructionGetMapping.ContainsKey(command.GetInstruction()))
-                {
-                    var commandName = Operators[command.GetInstruction()];
-                    if (!translationJsonCounts.ContainsKey(commandName))
-                    {
-                        translationJsonCounts[commandName] = 0;
-                    }
-                    var TranslationObj = command.GetTranslationObj();
-                    if (TranslationObj != null)
-                    {
-                        translationJsonCounts[commandName] += 1;
-                    }
-                }
-            }
-            // 如果有翻译文件的话，执行翻译
-            List<byte> NewScriptBuffer = new List<byte>();
-            var ScriptTextMappingObj = JsonNode.Parse(File.ReadAllText(scriptTextMapping))!.AsObject();
-            var CmdIndexMap = new Dictionary<byte, int>();
-            //Console.WriteLine(scriptFile);
-            int CommandPtr = 0;
-
-            foreach (var command in allCommands)
-            {
-                var CurInstruction = command.GetInstruction();
-                /*if(Operators[CurInstruction]== "BATTLE" && command.GetCmdLength()>8)
-                {
-                    Console.WriteLine($"{Operators[CurInstruction]} {command.CmdPtr}");
-                }*/
-                if (InstructionProcessor.InstructionSetMapping.ContainsKey(CurInstruction))
-                {
-                    var commandName = Operators[CurInstruction];
-                    if (ScriptTextMappingObj[commandName] is JsonArray CommandTranslationCollection)
-                    {
-                        int CurCmdIndex;
-                        if (CmdIndexMap.ContainsKey(CurInstruction))
-                        {
-                            CmdIndexMap[CurInstruction]++;
-                            CurCmdIndex = CmdIndexMap[CurInstruction];
-                        }
-                        else
-                        {
-                            CmdIndexMap.Add(CurInstruction, 0);
-                            CurCmdIndex = 0;
-                        }
-                        if (CommandTranslationCollection.Count > CurCmdIndex)
-                        {
-                            var CommandTranslationObj = CommandTranslationCollection[CurCmdIndex] as JsonObject;
-                            if (CommandTranslationObj != null)
-                            {
-                                if (!command.SetTranslationObj(CommandTranslationObj))
-                                {
-                                    // 如果指令未被接受，则往前退一步
-                                    CmdIndexMap[CurInstruction]--;
-                                }
-                            }
-                            else
-                            {
-                                Console.Error.WriteLine("Error: Invalid TextMapping Json!");
-                                Console.Error.WriteLine(Operators[CurInstruction] + ":" + CurCmdIndex.ToString() + " is not a JsonObject!");
-                                Environment.Exit(-1);
-                            }
-                        }
-                        else
-                        {
-                            // 如果指令未被接受，则往前退一步
-                            CmdIndexMap[CurInstruction]--;
-                        }
-                    }
-                }
-                // 为Command设置翻译后的指针
-                CommandsRedirectors.Add(command.CmdPtr, CommandPtr);
-                command.SetCmdPtr(CommandPtr);
-                CommandPtr += command.GetCmdLength() + command.GetPendingLength();
-            }
-            if (!InstructionProcessor.ScriptCommandRedirectors.ContainsKey(fileName.ToLower()))
-            {
-                InstructionProcessor.ScriptCommandRedirectors.Add(fileName.ToLower(), CommandsRedirectors);
-            }
-            if(PreComputeLayout)
-            {
-                // 如果是预计算布局的话，直接返回，不进行保存
-                return;
-            }
-            if (InstructionLayoutHandle != null)
-            {
-                InstructionLayoutHandle.WriteLine("Script:" + fileName);
-            }
-            foreach (var command in allCommands)
-            {
-                // 修正跳转指令的指针
-                command.FixCommandPtr();
-                if (InstructionLayoutHandle != null)
-                {
-                    string OPCode = Operators[command.GetInstruction()];
-                    InstructionLayoutHandle.WriteLine("\t" + OPCode + "\t" + NewScriptBuffer.Count.ToString());
-                }
-                NewScriptBuffer.AddRange(command.Command!);
-                if (command.GetPendingLength() > 0)
-                {
-                    NewScriptBuffer.Add(0);
-                }
-            }
-            foreach (var cmdIndexKV in CmdIndexMap)
-            {
-                if (translationJsonCounts.ContainsKey(Operators[cmdIndexKV.Key]) &&
-                    translationJsonCounts[Operators[cmdIndexKV.Key]] != cmdIndexKV.Value + 1)
-                {
-                    Console.Error.WriteLine("Error: TextMapping Instruction Count Mismatch(" + fileName + "," + Operators[cmdIndexKV.Key] + "), Exit!");
-                    Environment.Exit(-1);
-                }
-            }
-            File.WriteAllBytes(scriptFile, NewScriptBuffer.ToArray());
-            ScriptNameContext.Pop();
+            TextMappingPath = Path.GetFullPath(mappingPath);
+            Operators = File.ReadAllLines("Files/OPCODE-Switch.txt");
+            // Keep the established JSON key used by the translation project.
+            Operators[0x82] = "SAYAVOICETEXT";
+            InstructionProcessor.ScriptCommandRedirectors.Clear();
+            InstructionProcessor.CharCollection.Clear();
+            ScriptNameContext.Clear();
         }
 
+        public static void ProcessScript(string scriptFile, bool preComputeLayout)
+        {
+            string fileName = Path.GetFileNameWithoutExtension(scriptFile);
+            if (IgnoredScriptList.Contains(fileName)) return;
+            string scriptName = fileName.ToLowerInvariant();
+            ScriptNameContext.Push(scriptName);
+            try
+            {
+                byte[] original = File.ReadAllBytes(scriptFile);
+                var commands = new List<LucaCommand>();
+                for (int index = 0; index < original.Length;)
+                {
+                    var command = new LucaCommand();
+                    index += command.ReadCommand(original, index);
+                    commands.Add(command);
+                }
+                for (int i = 0; i < commands.Count; i++) commands[i].AssignCommand(commands, i);
+
+                var textCommands = new Dictionary<string, List<(LucaCommand Command, JsonObject Text)>>();
+                foreach (var command in commands)
+                {
+                    JsonObject? text;
+                    try { text = command.GetTranslationObj(); }
+                    catch (Exception error) { throw new InvalidDataException($"Text at 0x{command.CmdPtr:X}: {error.Message}", error); }
+                    if (text == null) continue;
+                    string op = Operators[command.GetInstruction()];
+                    if (!textCommands.TryGetValue(op, out var group)) textCommands[op] = group = [];
+                    group.Add((command, text));
+                }
+                string mappingFile = Path.Combine(TextMappingPath, fileName + ".json");
+                if (!File.Exists(mappingFile))
+                {
+                    var exported = new JsonObject();
+                    foreach (var (op, group) in textCommands)
+                        exported[op] = new JsonArray(group.Select(item => (JsonNode)item.Text).ToArray());
+                    File.WriteAllText(mappingFile, exported.ToJsonString(JsonWriteOptions));
+                }
+                var mapping = JsonNode.Parse(File.ReadAllText(mappingFile))!.AsObject();
+                foreach (var (op, node) in mapping)
+                {
+                    if (node is not JsonArray entries) throw new InvalidDataException($"{op}: expected a translation array.");
+                    int count = textCommands.TryGetValue(op, out var group) ? group.Count : 0;
+                    if (entries.Count != count)
+                        throw new InvalidDataException($"{op}: translation count {entries.Count}, Switch script count {count}.");
+                    for (int i = 0; i < count; i++)
+                    {
+                        if (entries[i] is not JsonObject translation) throw new InvalidDataException($"{op}[{i}]: expected a translation object.");
+                        group![i].Command.SetTranslationObj(translation);
+                    }
+                }
+                var redirects = new Dictionary<int, int>();
+                int position = 0;
+                foreach (var command in commands)
+                {
+                    redirects.Add(command.CmdPtr, position);
+                    command.SetCmdPtr(position);
+                    position += command.GetCmdLength() + command.GetPendingLength();
+                }
+                redirects[original.Length] = position;
+                InstructionProcessor.ScriptCommandRedirectors[scriptName] = redirects;
+                if (preComputeLayout) return;
+
+                var output = new List<byte>(position);
+                InstructionLayoutHandle?.WriteLine("Script:" + fileName);
+                foreach (var command in commands)
+                {
+                    command.FixCommandPtr();
+                    InstructionLayoutHandle?.WriteLine($"\t{Operators[command.GetInstruction()]}\t{output.Count}");
+                    output.AddRange(command.Command!);
+                    if (command.GetPendingLength() != 0) output.Add(0);
+                }
+                File.WriteAllBytes(scriptFile, output.ToArray());
+            }
+            catch (Exception error) { throw new InvalidDataException($"{fileName}: {error.Message}", error); }
+            finally { ScriptNameContext.Pop(); }
+        }
         public static void ProcessFont(int[] FontSize,HashSet<char> FullCharset,bool AddMode)
         {
             foreach (var fSize in FontSize)
@@ -306,7 +198,7 @@
                     File.Delete(TmpCharset);
                 }
                 // 从字符集Dump出字符集
-                Process.Start("Files\\lucksystem.exe", $"font extract -s \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" -S \"{ExtractedFontPath}\\info{fSize}\" -o \"{TmpPng}\" -O \"{TmpCharset}\"").WaitForExit();
+                RunTool("Files\\lucksystem.exe", $"font extract -s \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" -S \"{ExtractedFontPath}\\info{fSize}\" -o \"{TmpPng}\" -O \"{TmpCharset}\"");
                 string Charset = File.ReadAllText(TmpCharset);
                 HashSet<char> CurCharset = new HashSet<char>(FullCharset);
                 CurCharset.Remove('　');
@@ -394,8 +286,8 @@
                 // 针对Template进行重绘，然后复制到各个字体
                 // 如果每个字体都进行重绘，那么重绘后的游戏会崩溃，但只用一份的话就正常，很奇怪，不清楚原因
                 // 看起来很像是字体过大了，这里指定一下ReplaceIndex，把一部分原有字体替换掉
-                Process.Start("Files\\lucksystem.exe", $"font edit -s \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" -i {FontReplaceIndex + AddOffset} -S \"{ExtractedFontPath}\\info{fSize}\" -f \"{TargetFontPath}\" -c \"{AllNewCharFile}\" -o \"{Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")}\" -O \"{Path.Combine(PendingReplacePath, $"info{fSize}")}\"").WaitForExit();
-                Process.Start("Files\\czutil.exe", $"replace \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" \"{Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")}\" \"{Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}")}\"").WaitForExit();
+                RunTool("Files\\lucksystem.exe", $"font edit -s \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" -i {FontReplaceIndex + AddOffset} -S \"{ExtractedFontPath}\\info{fSize}\" -f \"{TargetFontPath}\" -c \"{AllNewCharFile}\" -o \"{Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")}\" -O \"{Path.Combine(PendingReplacePath, $"info{fSize}")}\"");
+                RunTool("Files\\czutil.exe", $"replace \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" \"{Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")}\" \"{Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}")}\"");
                 File.Delete(Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png"));
                 foreach (var fName in FontName)
                 {
@@ -407,16 +299,33 @@
             }
         }
 
+        [STAThread]
         static void Main(string[] args)
+        {
+            try { Run(args); }
+            catch (Exception error)
+            {
+                Console.Error.WriteLine("汉化失败：" + error.Message);
+                Environment.ExitCode = 1;
+            }
+        }
+
+        private static void RunTool(string executable, string arguments)
+        {
+            using var process = Process.Start(new ProcessStartInfo(executable, arguments) { UseShellExecute = false })
+                ?? throw new IOException($"Failed to start {executable}.");
+            process.WaitForExit();
+            if (process.ExitCode != 0) throw new IOException($"{executable} failed with exit code {process.ExitCode}.");
+        }
+
+        static void Run(string[] args)
         {
             HashSet<char> TitleUsedCharset = new HashSet<char>(); // 称号所需的字符集后面要单独处理
 
             // 检查必须的组件
             if (!(File.Exists(".\\Files\\lucksystem.exe") && 
                 File.Exists(".\\Files\\czutil.exe") &&
-                File.Exists(".\\Files\\OPCODE.txt") &&
-                File.Exists(".\\Files\\DxHook.base") &&
-                File.Exists(".\\Files\\UnicodeToShiftJis.bin") &&
+                File.Exists(".\\Files\\OPCODE-Switch.txt") &&
                 File.Exists(TargetFontPath)))
             {
                 string Notice = "组件缺失，你是否将补丁文件夹完整解压出来了？";
@@ -426,26 +335,25 @@
             }
 
             int DescriptionWaitingTime = 30;
+            bool textOnly = false;
             for (int i = 0; i < args.Count(); i++)
             {
                 switch (args[i])
                 {
-                    case "--LBEE_EXE":
-                        LBEE_EXE = args[++i];
-                        // 获取LBEE_Exe所在文件夹
-                        LBEEGamePath = Path.GetDirectoryName(LBEE_EXE) ?? "";
+                    case "--romfs":
+                        if (++i >= args.Length) throw new ArgumentException("--romfs requires a folder path.");
+                        RomfsPath = Path.GetFullPath(args[i]);
+                        break;
+                    case "--TextOnly":
+                        textOnly = true;
                         break;
                     case "--Skip_Description":
                         DescriptionWaitingTime = 0;
                         break;
-#if !RELEASE
-                    case "--DxHookOnly":
-                        goto DxHook;
-#endif
                 }
             }
-            Console.WriteLine("《Little Busters! English Edition》汉化程序 ——By JackMyth\n");
-            Console.WriteLine("参考了来自LittleBusters贴吧的翻译文本，替换了原有的英文。仅支持Steam正式版本。");
+            Console.WriteLine("《Little Busters! Converted Edition》Switch 汉化程序 ——By JackMyth\n");
+            Console.WriteLine("参考了来自LittleBusters贴吧的翻译文本，替换 romfs 中的英文资源。");
             Console.WriteLine("应用补丁后切换至英文即可看到汉化翻译。\n");
             Console.WriteLine("已知问题：\n为避免查看历史文本出现Bug，限制了选项的字库，部分选项显示为繁体中文。\n");
             Console.WriteLine("若发现文本错误或遗漏，或汉化后游戏存在Bug，请访问 https://github.com/Jack-Myth/LBEE_TranslationPatch 并提交Issue，欢迎讨论。\n");
@@ -455,7 +363,7 @@
             Console.Write("大概率导致现有存档损坏");
             Console.ResetColor();
             Console.WriteLine("，请使用新存档进行游戏。\n");
-            Console.WriteLine("如果需要恢复原版，请删除游戏文件夹下的dsound.dll，并使用Steam验证游戏文件完整性，会自动还原被修改的文件。");
+            Console.WriteLine("原始 PAK 保存在 romfs/template 中，恢复时可将其复制回 romfs。");
             Console.Write("如果之前安装过汉化补丁，建议先还原，再进行安装，否则可能出现奇怪的问题(如");
             Console.BackgroundColor = ConsoleColor.White;
             Console.ForegroundColor = ConsoleColor.Black;
@@ -467,24 +375,22 @@
                 char[] TimerIcon = ['-', '\\', '|', '/'];
                 for (int j = 0; j < 4; j++)
                 {
-                    Console.Write("\r" + new String(' ', Console.CursorLeft));
-                    Console.CursorLeft = 0;
+                    if (!Console.IsOutputRedirected) Console.Write("\r" + new String(' ', Console.CursorLeft));
+                    if (!Console.IsOutputRedirected) Console.CursorLeft = 0;
                     Console.Write($"[{TimerIcon[j]}]请阅读上述说明。{i}");
                     Thread.Sleep(250);
                 }
             }
-            Console.CursorLeft = 0;
-            Console.WriteLine("若已阅读上述说明，请按任意键开始汉化流程。");
-            Console.ReadKey();
-            if(!Path.Exists(LBEEGamePath))
+            if (!Console.IsOutputRedirected) Console.CursorLeft = 0;
+            if (DescriptionWaitingTime > 0)
             {
-                LBEE_EXE = Select_LBEEEXE();
-                LBEEGamePath = Path.GetDirectoryName(LBEE_EXE) ?? "";
-                if (!Directory.Exists(LBEEGamePath))
-                {
-                    Environment.Exit(-1);
-                }
+                Console.WriteLine("若已阅读上述说明，请按任意键开始汉化流程。");
+                Console.ReadKey();
             }
+            if (string.IsNullOrEmpty(RomfsPath)) RomfsPath = SelectRomfsFolder();
+            if (string.IsNullOrEmpty(RomfsPath)) return;
+            if (!File.Exists(Path.Combine(RomfsPath, "SCRIPT.PAK")) || !File.Exists(Path.Combine(RomfsPath, "FONT.PAK")))
+                throw new InvalidDataException("请选择直接包含 SCRIPT.PAK 和 FONT.PAK 的 romfs 文件夹。");
 
             Directory.CreateDirectory(TMPPath);
             Directory.CreateDirectory(TextMappingPath);
@@ -496,16 +402,16 @@
             }
             Directory.CreateDirectory(PendingReplacePath);
 
-            string TemplateDir = Path.Combine(LBEEGamePath, "files", "template");
-            string LBEEScriptPak = Path.Combine(LBEEGamePath, @"files\SCRIPT.PAK");
-            string LBEEFontPak = Path.Combine(LBEEGamePath, @"files\FONT.PAK");
+            string TemplateDir = Path.Combine(RomfsPath, "template");
+            string LBEEScriptPak = Path.Combine(RomfsPath, "SCRIPT.PAK");
+            string LBEEFontPak = Path.Combine(RomfsPath, "FONT.PAK");
             string TemplateLBEEScriptPak = Path.Combine(TemplateDir, "SCRIPT.PAK");
             string TemplateLBEEFontPak = Path.Combine(TemplateDir, "FONT.PAK");
             if (!Directory.Exists(TemplateDir))
             {
                 if (File.Exists(LBEEScriptPak) && File.Exists(LBEEFontPak))
                 {
-                    Directory.CreateDirectory(Path.Combine(LBEEGamePath, @"files\template"));
+                    Directory.CreateDirectory(TemplateDir);
                     File.Copy(LBEEScriptPak, TemplateLBEEScriptPak);
                     File.Copy(LBEEFontPak, TemplateLBEEFontPak);
                 }
@@ -517,9 +423,9 @@
             }
 
             // Assuming LuckSystem is a separate executable that needs to be run
-            Process.Start(".\\Files\\lucksystem.exe", $"pak extract -i \"{TemplateLBEEScriptPak}\" -o \"{Path.Combine(TMPPath, "ScriptFileList.txt")}\" --all \"{ExtractedScriptPath}\"").WaitForExit();
+            RunTool(".\\Files\\lucksystem.exe", $"pak extract -i \"{TemplateLBEEScriptPak}\" -o \"{Path.Combine(TMPPath, "ScriptFileList.txt")}\" --all \"{ExtractedScriptPath}\"");
 
-            Operators = File.ReadAllText(".\\Files\\OPCODE.txt").ReplaceLineEndings().Split(Environment.NewLine);
+            ConfigureScriptProcessing(TextMappingPath);
             var scriptFiles = Directory.GetFiles(ExtractedScriptPath);
 
             if (DEBUG_DumpInstructionLayout)
@@ -527,20 +433,18 @@
                 InstructionLayoutHandle = new StreamWriter("InstructionLayout.txt");
             }
 
-            Dictionary<string, Dictionary<int, int>> ScriptCommandRedirectors = new();
-
             for(int i = 0;i<scriptFiles.Length;i++)
             {
                 // 由于FARCALL指令的存在，需要先进行一次预计算，然后再进行翻译
                 ProcessScript(scriptFiles[i], true);
-                Console.Write("\r" + new String(' ', Console.CursorLeft));
+                if (!Console.IsOutputRedirected) Console.Write("\r" + new String(' ', Console.CursorLeft));
                 Console.Write($"\rPrecompute Instruction Layout...[{i + 1}/{scriptFiles.Length}]");
             }
             Console.WriteLine("");
             for (int i = 0; i < scriptFiles.Length; i++)
             {
                 ProcessScript(scriptFiles[i], false);
-                Console.Write("\r" + new String(' ', Console.CursorLeft));
+                if (!Console.IsOutputRedirected) Console.Write("\r" + new String(' ', Console.CursorLeft));
                 Console.Write($"\rProcess Script...[{i + 1}/{scriptFiles.Length}]");
             }
             Console.WriteLine("");
@@ -557,16 +461,15 @@
             {
                 var JumpCommandsPre = new byte[]
                 {
-                    0x13,0x00,0x14,0x01,0x21,0x0a
+                    0x15,0x00,0x15,0x01,0x21,0x0a
                 };
                 var JumpCommandsPost = new byte[]
                 {
-                    0x00,0x06,0x00,0x18,0x01,0x14,0x03
+                    0x00,0x06,0x00,0x19,0x01,0x14,0x03
                 };
                 var JumpCommands = new List<byte>();
                 JumpCommands.AddRange(JumpCommandsPre);
-                JumpCommands.AddRange(Encoding.ASCII.GetBytes(DEBUG_DebugJumpScript.ToLower()));
-                JumpCommands.Add(0);
+                JumpCommands.AddRange(SwitchString.Encode(DEBUG_DebugJumpScript.ToLowerInvariant(), true));
                 JumpCommands.AddRange(BitConverter.IsLittleEndian ?
                     BitConverter.GetBytes(DEBUG_DebugJumpPtr) :
                     BitConverter.GetBytes(DEBUG_DebugJumpPtr).Reverse());
@@ -580,107 +483,36 @@
             {
                 string TextScriptPath = Path.Combine(ExtractedScriptPath, TextScriptName);
                 string TextScriptJson = Path.Combine(TextMappingPath, $"{TextScriptName}.json");
-                byte[] ScirptBuffer = File.ReadAllBytes(TextScriptPath);
-                int StartIndex = 0x0a;
-                bool UseIcon = ScirptBuffer[8] != 1;
-                const int TailLength = 8;  // 尾部固定保留8字节
-                List<string> StrList = new List<string>();
-                List<byte> StrBytes = new List<byte>();
-                List <byte[]> IconBytes = new List<byte[]>();
-                bool NeedParseIcon = UseIcon;
-                for (int i = StartIndex; i < ScirptBuffer.Length - TailLength; i += 2)
-                {
-                    if(NeedParseIcon)
-                    {
-                        IconBytes.Add(ScirptBuffer[i..(i + 3)]);
-                        i++; // i=i+3-2;
-                        NeedParseIcon = false;
-                        continue;
-                    }
-                    if (ScirptBuffer[i] == 0 && ScirptBuffer[i + 1] == 0)
-                    {
-                        StrList.Add(Encoding.Unicode.GetString(StrBytes.ToArray()));
-                        StrBytes.Clear();
-                        if(UseIcon && StrList.Count % 2==0)
-                        {
-                            NeedParseIcon = true;
-                        }
-                    }
-                    else
-                    {
-                        StrBytes.Add(ScirptBuffer[i]);
-                        StrBytes.Add(ScirptBuffer[i + 1]);
-                    }
-                }
+                var table = new SwitchTextTable(File.ReadAllBytes(TextScriptPath));
                 if (!File.Exists(TextScriptJson))
                 {
-                    JsonArray TargetJson = new JsonArray();
-                    foreach (var Str in StrList)
-                    {
-                        TargetJson.Add((JsonNode?)JsonValue.Create(Str));
-                    }
-                    File.WriteAllText(TextScriptJson, TargetJson.ToJsonString(JsonWriteOptions));
+                    var json = new JsonArray();
+                    foreach (var text in table.Strings) json.Add((JsonNode?)JsonValue.Create(text.Text));
+                    File.WriteAllText(TextScriptJson, json.ToJsonString(JsonWriteOptions));
                 }
-                else
-                {
-                    var TargetJson = JsonNode.Parse(File.ReadAllText(TextScriptJson))!.AsArray();
-                    if(TargetJson.Count != StrList.Count)
-                    {
-                        Console.Error.WriteLine("Error: TextScript Json Count Mismatch(" + TextScriptName + "), Exit!");
-                        Environment.Exit(-1);
-                    }
-                    StrList.Clear();
-                    for(int i=0;i<TargetJson.Count;i++)
-                    {
-                        StrList.Add(TargetJson[i]?.GetValue<string>() ?? "");
-                    }
-                    List<byte> NewScript = new List<byte>();
-                    NewScript.AddRange(ScirptBuffer[0..StartIndex]);
-                    for (int i = 0; i < StrList.Count; i++)
-                    {
-                        if(UseIcon && i % 2==0)
-                        {
-                            NewScript.AddRange(IconBytes[i / 2]);
-                        }
-                        byte[] TmpStrBytes = Encoding.Unicode.GetBytes(StrList[i]);
-                        NewScript.AddRange(TmpStrBytes);
-                        foreach(char StrChar in StrList[i])
-                        {
-                            TitleUsedCharset.Add(StrChar);
-                        }
-                        NewScript.Add(0);
-                        NewScript.Add(0);
-                    }
-                    NewScript.AddRange(ScirptBuffer[(ScirptBuffer.Length - TailLength)..]);
-                    File.WriteAllBytes(TextScriptPath, NewScript.ToArray());
-                }
+                var translations = JsonNode.Parse(File.ReadAllText(TextScriptJson))!.AsArray()
+                    .Select(node => node?.GetValue<string>() ?? "").ToArray();
+                File.WriteAllBytes(TextScriptPath, table.Replace(translations));
+                foreach (var text in translations) TitleUsedCharset.UnionWith(text);
             }
 
-            // 将所有的Program.json里的文本加入字符集
+            RunTool("Files\\lucksystem.exe", $"pak replace -s \"{TemplateLBEEScriptPak}\" -i \"{ExtractedScriptPath}\" -o \"{LBEEScriptPak}\"");
+
+            if (textOnly)
             {
-                var ProgmJson = JsonNode.Parse(File.ReadAllText(Path.Combine(TextMappingPath, "$PROGRAM.json")))!.AsArray();
-                foreach (var ProgmItem in ProgmJson)
-                {
-                    var ProgmItemObj = ProgmItem as JsonObject;
-                    var TargetStr = ProgmItemObj?["Target"]?.GetValue<string>() ?? "";
-                    foreach (char StrChar in TargetStr)
-                    {
-                        InstructionProcessor.CharCollection.Add(StrChar);
-                    }
-                }
+                Console.WriteLine("SCRIPT.PAK 文本处理完成。");
+                return;
             }
-
-            Process.Start("Files\\lucksystem.exe", $"pak replace -s \"{TemplateLBEEScriptPak}\" -i \"{ExtractedScriptPath}\" -o \"{LBEEScriptPak}\"").WaitForExit();
 
             // 解开字体
-            Process.Start("Files\\lucksystem.exe", $"pak extract -i \"{TemplateLBEEFontPak}\" -o \"{Path.Combine(TMPPath, "FontFileList.txt")}\" --all \"{ExtractedFontPath}\"").WaitForExit();
+            RunTool("Files\\lucksystem.exe", $"pak extract -i \"{TemplateLBEEFontPak}\" -o \"{Path.Combine(TMPPath, "FontFileList.txt")}\" --all \"{ExtractedFontPath}\"");
 
             // 重绘字体
             var FontSize = new int[]
             {
                 // 这些字体貌似有点问题,重绘后会导致游戏崩溃，先放着不动
                 //36,72,12,14
-                16,18,20,24,28,30,32
+                16,20,24,27,28,29,30,32,33,34,35,37,38
                 //28
             };
 
@@ -705,9 +537,9 @@
                 string AllNewChar36 = new string(PendingAddChar.Order().ToArray());
                 string AllNewCharFile36 = Path.Combine(TMPPath, "AllNewChar36.txt");
                 File.WriteAllText(AllNewCharFile36, AllNewChar36);
-                Process.Start("Files\\lucksystem.exe", $"font edit -s \"{ExtractedFontPath}\\{FontTemplate}36\" -i {Charset36.Length} -S \"{ExtractedFontPath}\\info36\" -f \"{TargetFontPath}\" -c \"{AllNewCharFile36}\" -o \"{Path.Combine(PendingReplacePath, $"{FontTemplate}36.png")}\" -O \"{Path.Combine(PendingReplacePath, $"info36")}\"").WaitForExit();
-                //Process.Start("Files\\lucksystem.exe", $"font edit -s \"{ExtractedFontPath}\\{FontTemplate}36\" -a -S \"{ExtractedFontPath}\\info36\" -f \"{TargetFontPath}\" -c \"{AllNewCharFile36}\" -o \"{Path.Combine(PendingReplacePath, $"{FontTemplate}36.png")}\" -O \"{Path.Combine(PendingReplacePath, $"info36")}\"").WaitForExit();
-                Process.Start("Files\\czutil.exe", $"replace \"{ExtractedFontPath}\\{FontTemplate}36\" \"{Path.Combine(PendingReplacePath, $"{FontTemplate}36.png")}\" \"{Path.Combine(PendingReplacePath, $"{FontTemplate}36")}\"").WaitForExit();
+                RunTool("Files\\lucksystem.exe", $"font edit -s \"{ExtractedFontPath}\\{FontTemplate}36\" -i {Charset36.Length} -S \"{ExtractedFontPath}\\info36\" -f \"{TargetFontPath}\" -c \"{AllNewCharFile36}\" -o \"{Path.Combine(PendingReplacePath, $"{FontTemplate}36.png")}\" -O \"{Path.Combine(PendingReplacePath, $"info36")}\"");
+                //RunTool("Files\\lucksystem.exe", $"font edit -s \"{ExtractedFontPath}\\{FontTemplate}36\" -a -S \"{ExtractedFontPath}\\info36\" -f \"{TargetFontPath}\" -c \"{AllNewCharFile36}\" -o \"{Path.Combine(PendingReplacePath, $"{FontTemplate}36.png")}\" -O \"{Path.Combine(PendingReplacePath, $"info36")}\"");
+                RunTool("Files\\czutil.exe", $"replace \"{ExtractedFontPath}\\{FontTemplate}36\" \"{Path.Combine(PendingReplacePath, $"{FontTemplate}36.png")}\" \"{Path.Combine(PendingReplacePath, $"{FontTemplate}36")}\"");
                 File.Delete(Path.Combine(PendingReplacePath, $"{FontTemplate}36.png"));
                 foreach (var fName in FontName)
                 {
@@ -718,7 +550,7 @@
                 }
             }*/
 
-            Process.Start("Files\\lucksystem.exe", $"pak replace -s \"{TemplateLBEEFontPak}\" -i \"{PendingReplacePath}\" -o \"{LBEEFontPak}\"").WaitForExit();
+            RunTool("Files\\lucksystem.exe", $"pak replace -s \"{TemplateLBEEFontPak}\" -i \"{PendingReplacePath}\" -o \"{LBEEFontPak}\"");
 
             var ImgPakDirList = Directory.GetDirectories(ImageMappingPath);
             foreach (var ImgPakDir in ImgPakDirList)
@@ -727,7 +559,7 @@
                 Directory.CreateDirectory(PendingReplacePath);
                 var ImgPakName = Path.GetFileName(ImgPakDir);
                 string TemplatePak = Path.Combine(TemplateDir, $"{ImgPakName}.PAK");
-                string SourcePak = Path.Combine(LBEEGamePath, $"files\\{ImgPakName}.PAK");
+                string SourcePak = Path.Combine(RomfsPath, $"{ImgPakName}.PAK");
                 if (!File.Exists(SourcePak))
                 {
                     continue;
@@ -751,7 +583,7 @@
                     Directory.Delete(CzTempPath, true);
                     Directory.CreateDirectory(CzTempPath);
                 }
-                Process.Start("Files\\lucksystem.exe", $"pak extract -i \"{TemplatePak}\" -o \"{ImageFileListTxt}\" --all \"{CzTempPath}\"").WaitForExit();
+                RunTool("Files\\lucksystem.exe", $"pak extract -i \"{TemplatePak}\" -o \"{ImageFileListTxt}\" --all \"{CzTempPath}\"");
 
                 // czutil的速度还是比较慢的，这里使用多线程处理
                 int ProcessedImg = 0;
@@ -767,80 +599,23 @@
                     {
                         // 如果确实有对应的czImg被提取出来了，那么就替换
                         var PendingReplaceCzImg = Path.Combine(PendingReplacePath, ImgFileName);
-                        Process.Start("Files\\czutil.exe", $"replace \"{ExtractedImgName}\" \"{PendingReplacementPNG}\" \"{PendingReplaceCzImg}\"").WaitForExit();
+                        RunTool("Files\\czutil.exe", $"replace \"{ExtractedImgName}\" \"{PendingReplacementPNG}\" \"{PendingReplaceCzImg}\"");
                     }
 
                     // 同步输出进度，不会让进度混乱
                     lock (SyncLock)
                     {
                         ProcessedImg++;
-                        Console.Write("\r" + new String(' ', Console.CursorLeft));
-                        Console.CursorLeft = 0;
+                        if (!Console.IsOutputRedirected) Console.Write("\r" + new String(' ', Console.CursorLeft));
+                        if (!Console.IsOutputRedirected) Console.CursorLeft = 0;
                         Console.Write($"\rReplace CzImg...[{ProcessedImg}/{PendingReplacementPNGs.Length}]");
                     }
                 });
                 Console.WriteLine("");
-                Process.Start("Files\\lucksystem.exe", $"pak replace -s \"{TemplatePak}\" -i \"{PendingReplacePath}\" -o \"{SourcePak}\"").WaitForExit();
+                RunTool("Files\\lucksystem.exe", $"pak replace -s \"{TemplatePak}\" -i \"{PendingReplacePath}\" -o \"{SourcePak}\"");
             }
-#if !RELEASE
-        DxHook:
-#endif
-            // 将$Program.json和Unicode转换表塞进DxHook.base中
-            HashSet<char> UsedCharset = new HashSet<char>(InstructionProcessor.CharCollection);
-            UsedCharset.UnionWith(TitleUsedCharset);
-            if (UsedCharset.Count == 0)
             {
-                throw new InvalidDataException("有效字符集为空，无法生成Unicode转换表。");
-            }
-            byte[] OriginalUnicodeTable = File.ReadAllBytes("Files\\UnicodeToShiftJis.bin");
-            if (OriginalUnicodeTable.Length != 65536 * sizeof(ushort))
-            {
-                throw new InvalidDataException("Unicode转换表大小错误。");
-            }
-            byte[] PatchedUnicodeTable = (byte[])OriginalUnicodeTable.Clone();
-            int FallbackOffset = '漢' * sizeof(ushort);
-            if (OriginalUnicodeTable[FallbackOffset] == 0 && OriginalUnicodeTable[FallbackOffset + 1] == 0)
-            {
-                throw new InvalidDataException("Unicode转换表中没有“漢”的映射。");
-            }
-            foreach (char character in UsedCharset)
-            {
-                if (char.IsControl(character) || char.IsSurrogate(character))
-                {
-                    continue;
-                }
-                int offset = character * sizeof(ushort);
-                if (OriginalUnicodeTable[offset] == 0 && OriginalUnicodeTable[offset + 1] == 0)
-                {
-                    PatchedUnicodeTable[offset] = OriginalUnicodeTable[FallbackOffset];
-                    PatchedUnicodeTable[offset + 1] = OriginalUnicodeTable[FallbackOffset + 1];
-                }
-            }
-
-            string DXHookPath = Path.Combine(TMPPath, "dsound.dll");
-            string DxHookSourcePath = "Files\\DxHook.base";
-            if(File.Exists(DXHookPath))
-            {
-                File.Delete(DXHookPath);
-            }
-            File.Copy(DxHookSourcePath, DXHookPath);
-            IntPtr hUpdate = BeginUpdateResource(DXHookPath, false);
-            IntPtr lpType = Marshal.StringToHGlobalAuto("JSON");
-            byte[] PROGRAMBytes = File.ReadAllBytes(Path.Combine(TextMappingPath, "$PROGRAM.json"));
-            UpdateResource(hUpdate, lpType, 101, 0, PROGRAMBytes, (uint)PROGRAMBytes.Length);
-            Marshal.FreeHGlobal(lpType);
-
-            lpType = Marshal.StringToHGlobalAuto("BINARY");
-            UpdateResource(hUpdate, lpType, 102, 0, OriginalUnicodeTable, (uint)OriginalUnicodeTable.Length);
-            UpdateResource(hUpdate, lpType, 103, 0, PatchedUnicodeTable, (uint)PatchedUnicodeTable.Length);
-            Marshal.FreeHGlobal(lpType);
-            EndUpdateResource(hUpdate, false);
-            File.Move(DXHookPath, Path.Combine(LBEEGamePath, "dsound.dll"), true);
-#if RELEASE
-            Directory.Delete(TemplateDir, true);
-#endif
-            {
-                string Notice = "汉化完成。\n如果需要恢复原版，请删除游戏文件夹下的dsound.dll，并使用Steam验证游戏文件完整性，会自动还原被修改的文件。";
+                string Notice = "romfs 汉化处理完成。\n原始 PAK 保存在 romfs/template 中，可复制回去恢复。";
                 Console.WriteLine(Notice);
                 MessageBox(IntPtr.Zero, Notice, "LBEE_TranslationPatch", 0);
             }
@@ -880,7 +655,10 @@
 
         public int ReadCommand(byte[] scriptBytes, int index)
         {
+            if (index < 0 || index > scriptBytes.Length - 4) throw new InvalidDataException($"Incomplete command at 0x{index:X}.");
             int commandLength = scriptBytes[index] + scriptBytes[index + 1] * 256;
+            if (commandLength < 4 || commandLength + commandLength % 2 > scriptBytes.Length - index || scriptBytes[index + 3] > 3)
+                throw new InvalidDataException($"Invalid command at 0x{index:X} (length {commandLength}).");
             Command = scriptBytes.Skip(index).Take(commandLength).ToArray();
             CmdPtr = index;
             return commandLength + commandLength % 2;
@@ -917,6 +695,7 @@
                 {
                     return false;
                 }
+                if (NewCommand.Length > ushort.MaxValue) throw new InvalidDataException("Translated command exceeds UInt16 length.");
                 Command = NewCommand;
                 Command[1] = (byte)(Command.Length / 256);
                 Command[0] = (byte)(Command.Length % 256);

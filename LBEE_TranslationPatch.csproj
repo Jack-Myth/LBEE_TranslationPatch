@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <Compile Remove="TextMapper\**" />
+    <Compile Remove="Tests\**" />
     <EmbeddedResource Remove="TextMapper\**" />
     <None Remove="TextMapper\**" />
   </ItemGroup>

@@ -22,663 +22,168 @@ namespace LBEE_TranslationPatch
         {
             // 这两个字体在绘制的时候有问题，由于字体太小，所以直接绘制到了字符的顶端
             // 通过调整绘制的位置大概可以解决问题，但这里先替换为相近的字符，暂时规避问题。
-            return In.Replace('—', 'ー').Replace('－', 'ー').Replace('·', '・');
-        }
-
-        public static int GetStrLength(byte[] Command,int StartIndex)
-        {
-            int index = StartIndex;
-            while (Command[index] != 0 || Command[index + 1] != 0)
+            string InStr = In;
+            if(InStr.StartsWith('`') && InStr.Contains('@'))
             {
-                index += 2;
+                // 这是个旧版格式，将第一个字节改为@
+                InStr = string.Concat("@", InStr.AsSpan(1));
             }
-            return index - StartIndex;
+            return InStr.Replace('—', 'ー').Replace('－', 'ー').Replace('·', '・');
         }
 
-        public static int GetSingleByteStrLength(byte[] Command, int StartIndex)
+        public static Dictionary<byte, Func<byte[], JsonObject?>> InstructionGetMapping = new()
         {
-            int index = StartIndex;
-            while (Command[index] != 0)
-            {
-                index++;
-            }
-            return index - StartIndex;
-        }
-
-        public static Dictionary<byte, Func<byte[], JsonObject?>> InstructionGetMapping = new ()
+            { 0x23, MESSAGE_GET }, { 0x26, SELECT_GET }, { 0x1C, VARSTR_SET_GET },
+            { 0x72, TASK_GET }, { 0x78, BATTLE_GET }, { 0x82, SAYAVOICETEXT_GET }
+        };
+        public static Dictionary<byte, Func<byte[], JsonObject, byte[]?>> InstructionSetMapping = new()
         {
-            { 0x1F, MESSAGE_GET },
-            { 0x21, SELECT_GET },
-            { 0x19, VARSTR_SET_GET },
-            { 0x5A, TASK_GET },
-            { 0x5C, BATTLE_GET },
-            { 0x69, SAYAVOICETEXT_GET }
+            { 0x23, MESSAGE_SET }, { 0x26, SELECT_SET }, { 0x1C, VARSTR_SET_SET },
+            { 0x72, TASK_SET }, { 0x78, BATTLE_SET }, { 0x82, SAYAVOICETEXT_SET }
+        };
+        public static Dictionary<byte, Func<List<LucaCommand>, int, LucaCommand[]?>> AssignCmdMapping = new()
+        {
+            { 0x0F, TAIL4Ptr_ASSIGN_CMD }, { 0x11, TAIL4Ptr_ASSIGN_CMD },
+            { 0x12, TAIL4Ptr_ASSIGN_CMD }, { 0x13, TAIL4Ptr_ASSIGN_CMD },
+            { 0x15, JUMP_ASSIGN_CMD }, { 0x16, FARCALL_ASSIGN_CMD }, { 0x10, ONGOTO_ASSIGN_CMD }
+        };
+        public static Dictionary<byte, Action<LucaCommand, LucaCommand[]>> FixPtrMapping = new()
+        {
+            { 0x0F, TAIL4Ptr_FIX_PTR }, { 0x11, TAIL4Ptr_FIX_PTR },
+            { 0x12, TAIL4Ptr_FIX_PTR }, { 0x13, TAIL4Ptr_FIX_PTR },
+            { 0x15, JUMP_FIX_PTR }, { 0x16, FARCALL_FIX_PTR }, { 0x10, ONGOTO_FIX_PTR }
         };
 
-        public static Dictionary<byte, Func<byte[], JsonObject, byte[]?>> InstructionSetMapping = new ()
-        {
-            { 0x1F, MESSAGE_SET },
-            { 0x21, SELECT_SET },
-            { 0x19, VARSTR_SET_SET },
-            { 0x5A, TASK_SET },
-            { 0x5C, BATTLE_SET },
-            { 0x69, SAYAVOICETEXT_SET }
-        };
+        private record TextField(string Name, string? Translation, SwitchString Value);
 
-        public static Dictionary<byte, Func<List<LucaCommand>, int, LucaCommand[]?>> AssignCmdMapping = new ()
+        // GET and SET share the same field layout, including UTF-8 expressions between texts.
+        private static List<TextField> GetTextFields(byte[] command)
         {
-            { 14, TAIL4Ptr_ASSIGN_CMD },    // GOTO
-            { 16, TAIL4Ptr_ASSIGN_CMD },    // GOSUB
-            { 17, TAIL4Ptr_ASSIGN_CMD },    // IFY
-            { 18, TAIL4Ptr_ASSIGN_CMD },    // IFN
-            { 20, JUMP_ASSIGN_CMD },        // JUMP
-            { 21, FARCALL_ASSIGN_CMD },     // FARCALL
-            { 15, ONGOTO_ASSIGN_CMD }       // ONGOTO
-        };
-
-        public static Dictionary<byte, Action<LucaCommand,LucaCommand[]>> FixPtrMapping = new()
-        {
-            { 14, TAIL4Ptr_FIX_PTR },
-            { 16, TAIL4Ptr_FIX_PTR },
-            { 17, TAIL4Ptr_FIX_PTR },
-            { 18, TAIL4Ptr_FIX_PTR },
-            { 20, JUMP_FIX_PTR },
-            { 21, FARCALL_FIX_PTR },
-            { 15, ONGOTO_FIX_PTR }
-        };
-
-        public static JsonObject? MESSAGE_GET(byte[] command)
-        {
-            int index = GetCmdHeaderLength(command)+2;
-            int strALength = GetStrLength(command,index);
-            int strBLength = GetStrLength(command, index + strALength + 2);
-
-            var outObj = new JsonObject
+            var fields = new List<TextField>();
+            int index = GetCmdHeaderLength(command);
+            int ReadNumber() { int value = System.Buffers.Binary.BinaryPrimitives.ReadUInt16LittleEndian(command.AsSpan(index, 2)); index += 2; return value; }
+            void SkipString() { index = SwitchString.Read(command, index).End; }
+            void Add(string name, string? translation = null)
             {
-                ["JP"] = Encoding.Unicode.GetString(command, index,strALength),
-                ["EN"] = Encoding.Unicode.GetString(command, index+ strALength + 2, strBLength),
-            };
-
-            outObj["Translation"] = outObj["EN"]?.DeepClone();
-
-            return outObj;
-        }
-
-        public static byte[]? MESSAGE_SET(byte[] command, JsonObject inJsonObj)
-        {
-            int index = GetCmdHeaderLength(command)+2;
-            int strStart = index + GetStrLength(command, index) + 2;
-            int strEnd = GetStrLength(command, strStart) + strStart;
-            List<byte> newCommand = new List<byte>(command[..strStart]);
-            string Translation = PostProcessText(inJsonObj["Translation"]?.GetValue<string>()??"");
-            string EN = inJsonObj["EN"]?.GetValue<string>()??"";
-            if(Translation!=EN)
-            {
-                foreach(var newChar in Translation.ToCharArray())
-                {
-                    CharCollection.Add(newChar);
-                }
+                var value = SwitchString.Read(command, index);
+                fields.Add(new(name, translation, value));
+                index = value.End;
             }
-            newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
-            newCommand.AddRange(command.Skip(strEnd));
-
-            // 不需要修正指令长度，交由上层修复
-            return newCommand.ToArray();
-        }
-
-        public static JsonObject? VARSTR_SET_GET(byte[] command)
-        {
-            JsonObject TrasnlationObj = new JsonObject();
-            int index = GetCmdHeaderLength(command) + 2; // Header+ID
-            TrasnlationObj["Text"] = Encoding.Unicode.GetString(command[index..(index+GetStrLength(command, index))]);
-            TrasnlationObj["Translation"] = TrasnlationObj["Text"]?.DeepClone();
-            return TrasnlationObj;
-        }
-
-        public static byte[]? VARSTR_SET_SET(byte[] command, JsonObject inJsonObj)
-        {
-            int index = GetCmdHeaderLength(command) + 2; // Header+ID
-            string Translation = PostProcessText(inJsonObj["Translation"]?.GetValue<string>() ?? "");
-            List<byte> newCommand = new List<byte>();
-            newCommand.AddRange(command[..index]);
-            newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
-            newCommand.Add(0);
-            newCommand.Add(0);
-            foreach (var newChar in Translation.ToCharArray())
+            void Pair(string suffix = "", string? translation = null)
             {
-                CharCollection.Add(newChar);
+                Add("JP" + suffix);
+                Add("EN" + suffix, translation ?? "Translation" + suffix);
             }
-            return newCommand.ToArray();
-        }
-
-        public static JsonObject? SELECT_GET(byte[] command)
-        {
-            JsonObject TrasnlationObj = new JsonObject();
-            int index = GetCmdHeaderLength(command) + 4*2; // Header+ID+VAR123
-            int StrLength = GetStrLength(command, index);
-            TrasnlationObj["JP"] = Encoding.Unicode.GetString(command[index..(index + StrLength)]);
-            index += StrLength + 2;
-            StrLength = GetStrLength(command, index);
-            TrasnlationObj["EN"] = Encoding.Unicode.GetString(command[index..(index + StrLength)]);
-            TrasnlationObj["Translation"] = TrasnlationObj["EN"]?.DeepClone();
-            return TrasnlationObj;
-        }
-
-        public static byte[]? SELECT_SET(byte[] command, JsonObject inJsonObj)
-        {
-            int index = GetCmdHeaderLength(command) + 4*2; // Header+ID
-            int StrLength = GetStrLength(command, index); // Jp
-            index += StrLength + 2;
-            StrLength = GetStrLength(command, index);
-            string Translation = PostProcessText(inJsonObj["Translation"]?.GetValue<string>() ?? "");
-            List<byte> newCommand = new List<byte>();
-            newCommand.AddRange(command[..index]);
-            newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
-            newCommand.AddRange(command.Skip(index + StrLength));
-            foreach (var newChar in Translation.ToCharArray())
+            switch (command[2])
             {
-                CharCollection.Add(newChar);
-            }
-            return newCommand.ToArray();
-        }
-
-        public static JsonObject? TASK_GET(byte[] command)
-        {
-            JsonObject TrasnlationObj = new JsonObject();
-            int index = GetCmdHeaderLength(command); // Header
-            int TaskID = command[index] + command[index + 1] * 256;
-            index += 2;
-            string? msgStr_jp1 = null;
-            string? msgStr_en1 = null;
-            string? msgStr_jp2 = null;
-            string? msgStr_en2 = null;
-            if (command.Length <= index)
-            {
-                return null;
-            }
-            if (TaskID == 4)
-            {
-                int TaskVar1 = command[index]+command[index+1]*256;
-                index += 2;
-                if (command.Length <= index)
-                {
-                    return null;
-                }
-                if (TaskVar1 == 0 || TaskVar1 == 4 || TaskVar1 == 5 || TaskVar1 == 6)
-                {
-                    index += 2; // TaskVar2
-                    if (TaskVar1 == 6)
+                case 0x23: // MESSAGE
+                case 0x82: // CSAYAVOICETEXT
+                    index += 2;
+                    Pair();
+                    break;
+                case 0x26: // SELECT
+                    index += 8;
+                    Pair();
+                    break;
+                case 0x1C: // VARSTR_SET
+                    index += 2;
+                    Add("Text", "Translation");
+                    break;
+                case 0x72: // TASK
+                    int task = ReadNumber();
+                    if (index >= command.Length) break;
+                    if (task == 4)
                     {
-                        index += 2; //TaskVar3
+                        int variant = ReadNumber();
+                        if (index >= command.Length) break;
+                        if (variant is 0 or 4 or 5 or 6)
+                        {
+                            index += variant == 6 ? 4 : 2;
+                            Pair("1");
+                        }
+                        else if (variant == 1)
+                        {
+                            index += 6;
+                            Pair("1"); Pair("2");
+                        }
                     }
-                    int strLength = GetStrLength(command, index);
-                    msgStr_jp1 = Encoding.Unicode.GetString(command[index..(index + strLength)]);
-                    index += strLength+2; // Include \0;
-                    msgStr_en1 = Encoding.Unicode.GetString(command[index..(index + GetStrLength(command, index))]);
-                }
-                else if (TaskVar1 == 1)
-                {
-                    index += 2 * 3; // TaskVar2,3,4
-                    int strLength = GetStrLength(command, index);
-                    msgStr_jp1 = Encoding.Unicode.GetString(command[index..(index + strLength)]);
-                    index += strLength+2;
-                    strLength = GetStrLength(command, index);
-                    msgStr_en1 = Encoding.Unicode.GetString(command[index..(index + strLength)]);
-                    index += strLength + 2;
-                    strLength = GetStrLength(command, index);
-                    msgStr_jp2 = Encoding.Unicode.GetString(command[index..(index + strLength)]);
-                    index += strLength+2;
-                    msgStr_en2 = Encoding.Unicode.GetString(command[index..(index + GetStrLength(command, index))]);
-                }
-            }
-            else if (TaskID == 54)
-            {
-                // 只有英文？有点怪
-                int strLength = GetStrLength(command, index);
-                msgStr_en1 = Encoding.Unicode.GetString(command[index..(index + strLength)]);
-            }
-            else if (TaskID == 69)
-            {
-                index += 2;
-                int strLength = GetStrLength(command, index);
-                msgStr_jp1 = Encoding.Unicode.GetString(command[index..(index + strLength)]);
-                index += strLength + 2;
-                strLength = GetStrLength(command, index);
-                msgStr_en1 = Encoding.Unicode.GetString(command[index..(index + strLength)]);
-                index += strLength + 2;
-                strLength = GetStrLength(command, index);
-                msgStr_jp2 = Encoding.Unicode.GetString(command[index..(index + strLength)]);
-                index += strLength + 2;
-                msgStr_en2 = Encoding.Unicode.GetString(command[index..(index + GetStrLength(command, index))]);
-            }
-
-            if (msgStr_en1 == null && msgStr_jp1 == null &&
-                msgStr_en2 == null && msgStr_jp2 == null)
-            {
-                return null;
-            }
-
-            if (msgStr_jp1 != null)
-            {
-                TrasnlationObj["JP1"] = msgStr_jp1;
-            }
-            if (msgStr_jp2 != null)
-            {
-                TrasnlationObj["JP2"] = msgStr_jp2;
-            }
-            if (msgStr_en1 != null)
-            {
-                TrasnlationObj["EN1"] = msgStr_en1;
-                TrasnlationObj["Translation1"] = msgStr_en1;
-            }
-            if (msgStr_en2 != null)
-            {
-                TrasnlationObj["EN2"] = msgStr_en2;
-                TrasnlationObj["Translation2"] = msgStr_en2;
-            }
-            return TrasnlationObj;
-        }
-
-        public static byte[]? TASK_SET(byte[] command, JsonObject inJsonObj)
-        {
-            int index = GetCmdHeaderLength(command); // Header
-            int TaskID = command[index] + command[index + 1] * 256;
-            index += 2;
-            if (command.Length <= index)
-            {
-                return null;
-            }
-            if (TaskID == 4)
-            {
-                int TaskVar1 = command[index] + command[index + 1] * 256;
-                index += 2;
-                if (command.Length <= index)
-                {
-                    return null;
-                }
-                if (TaskVar1 == 0 || TaskVar1 == 4 || TaskVar1 == 5 || TaskVar1 == 6)
-                {
-                    var newCommand = new List<byte>();
-                    index += 2; // TaskVar2
-                    if (TaskVar1 == 6)
+                    else if (task == 54) Add("EN1", "Translation1");
+                    else if (task == 69)
                     {
-                        index += 2; //TaskVar3
+                        index += 2;
+                        Pair("1"); Pair("2");
                     }
-                    index += GetStrLength(command, index) + 2;
-                    newCommand.AddRange(command[..index]);
-                    int strLength = GetStrLength(command, index);
-                    string Translation = PostProcessText(inJsonObj["Translation1"]?.GetValue<string>() ?? "");
-                    newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
-                    newCommand.AddRange(command.Skip(index+strLength));
-                    return newCommand.ToArray();
-                }
-                else if (TaskVar1 == 1)
-                {
-                    var newCommand = new List<byte>();
-                    index += 2 * 3; // TaskVar2,3,4
-                    index += GetStrLength(command, index) + 2;
-                    newCommand.AddRange(command[..index]); //str1
-
-                    int strLength = GetStrLength(command, index);
-                    string Translation = PostProcessText(inJsonObj["Translation1"]?.GetValue<string>() ?? "");
-                    newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
-                    index += strLength + 2;  // str2
-
-                    strLength = GetStrLength(command, index);
-                    // -2包含str2的\0
-                    newCommand.AddRange(command[(index-2)..(index + strLength + 2)]);
-                    index += strLength + 2; //str3
-
-                    strLength = GetStrLength(command, index);
-                    string Translation2 = PostProcessText(inJsonObj["Translation2"]?.GetValue<string>() ?? "");
-                    newCommand.AddRange(Encoding.Unicode.GetBytes(Translation2));
-                    newCommand.AddRange(command.Skip(index + strLength)); //str4
-
-                    foreach (var newChar in Translation.ToCharArray())
+                    break;
+                case 0x78: // BATTLE
+                    int battle = ReadNumber();
+                    if (index >= command.Length || battle is not (101 or 102 or 103)) break;
+                    if (battle == 101) index += 2;
+                    if (System.Buffers.Binary.BinaryPrimitives.ReadUInt16LittleEndian(command.AsSpan(index, 2)) == 0)
                     {
-                        CharCollection.Add(newChar);
+                        index += 4;
+                        SkipString();
                     }
-                    foreach (var newChar in Translation2.ToCharArray())
+                    Pair();
+                    if (battle is 102 or 103)
                     {
-                        CharCollection.Add(newChar);
+                        for (int n = 2; index < command.Length; n++)
+                        {
+                            SkipString();
+                            Pair(n.ToString());
+                        }
                     }
-
-                    return newCommand.ToArray();
-                }
+                    break;
             }
-            else if (TaskID == 54)
-            {
-                // 只有英文？有点怪
-                int strLength = GetStrLength(command, index);
-                string Translation = PostProcessText(inJsonObj["Translation1"]?.GetValue<string>() ?? "");
-                foreach (var newChar in Translation.ToCharArray())
-                {
-                    CharCollection.Add(newChar);
-                }
-                List<byte> newCommand = new List<byte>(command[..index]);
-                newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
-                newCommand.AddRange(command.Skip(index + strLength));
-                return newCommand.ToArray();
-            }
-            else if (TaskID == 69)
-            {
-                var newCommand = new List<byte>();
-                index += 2;
-                index += GetStrLength(command, index) + 2;
-                newCommand.AddRange(command[..index]); //str1
-
-                int strLength = GetStrLength(command, index);
-                string Translation = PostProcessText(inJsonObj["Translation1"]?.GetValue<string>() ?? "");
-                newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
-                index += strLength + 2;  // str2
-
-                strLength = GetStrLength(command, index);
-                newCommand.AddRange(command[(index-2)..(index + strLength + 2)]);
-                index += strLength + 2; //str3
-
-                strLength = GetStrLength(command, index);
-                string Translation2 = PostProcessText(inJsonObj["Translation2"]?.GetValue<string>() ?? "");
-                newCommand.AddRange(Encoding.Unicode.GetBytes(Translation2));
-                newCommand.AddRange(command.Skip(index + strLength)); //str4
-                foreach (var newChar in Translation.ToCharArray())
-                {
-                    CharCollection.Add(newChar);
-                }
-                foreach (var newChar in Translation2.ToCharArray())
-                {
-                    CharCollection.Add(newChar);
-                }
-                return newCommand.ToArray();
-            }
-            return null;
+            return fields;
         }
 
-        public static JsonObject? BATTLE_GET(byte[] command)
+        private static JsonObject? GetText(byte[] command)
         {
-            JsonObject TrasnlationObj = new JsonObject();
-            int index = GetCmdHeaderLength(command); // Header+ID
-            int BattleID = command[index] + command[index+1] * 256;
-            string? msgStr_jp = null;
-            string? msgStr_jp2 = null;
-            string? msgStr_jp3 = null;
-            string? msgStr_en = null;
-            string? msgStr_en2 = null;
-            string? msgStr_en3 = null;
-            index += 2;
-            if(index >= command.Length)
+            var fields = GetTextFields(command);
+            if (fields.Count == 0) return null;
+            var result = new JsonObject();
+            foreach (var field in fields)
             {
-                return null;
+                result[field.Name] = field.Value.Text;
+                if (field.Translation != null) result[field.Translation] = field.Value.Text;
             }
-            /*if(BattleID == 300)
-            {
-                // LucaSystem中认为BattleID为300的指令只有日文文本，不确定是否需要翻译
-                // 英文语言不全？先返回空白,不做进一步处理
-                return null;
-            }*/
-            else if (BattleID == 101)
-            {
-                index += 2; //Skip Var1
-                int Var2 = command[index] + command[index + 1] * 256;
-                if (Var2 == 0)
-                {
-                    index += 4; //Skip Var2,3
-                    int strLength = GetSingleByteStrLength(command, index);
-                    index += strLength + 1; // Skip ExprStr
-                    strLength = GetStrLength(command, index);
-                    msgStr_jp = Encoding.Unicode.GetString(command[index..(index + strLength)]);
-                    index += strLength + 2;
-                    strLength = GetStrLength(command, index);
-                    msgStr_en = Encoding.Unicode.GetString(command[index..(index + strLength)]);
-                }
-                else
-                {
-                    // 当下的var2就是文本
-                    int strLength = GetStrLength(command, index);
-                    msgStr_jp = Encoding.Unicode.GetString(command[index..(index + strLength)]);
-                    index += strLength + 2;
-                    strLength = GetStrLength(command, index);
-                    msgStr_en = Encoding.Unicode.GetString(command[index..(index + strLength)]);
-                }
-            }
-            else if (BattleID == 102||BattleID == 103)
-            {
-                int Var1 = command[index] + command[index + 1] * 256;
-                if (Var1 == 0)
-                {
-                    index += 4; //Skip Var1,2
-                    int strLength = GetSingleByteStrLength(command, index);
-                    index += strLength + 1; // 跳过ExprStr，ExprStr为单字节字符串
-                    strLength = GetStrLength(command, index);
-                    msgStr_jp = Encoding.Unicode.GetString(command[index..(index + strLength)]);
-                    index += strLength + 2;
-                    strLength = GetStrLength(command, index);
-                    msgStr_en = Encoding.Unicode.GetString(command[index..(index + strLength)]);
-                    index += strLength + 2;
-                }
-                else
-                {
-                    // 当下的Var1就是文本
-                    int strLength = GetStrLength(command, index);
-                    msgStr_jp = Encoding.Unicode.GetString(command[index..(index + strLength)]);
-                    index += strLength + 2;
-                    strLength = GetStrLength(command, index);
-                    msgStr_en = Encoding.Unicode.GetString(command[index..(index + strLength)]);
-                    index += strLength + 2;
-                }
-                // 有时候会有多余的文本，感觉这个指令真的很复杂
-                if (index < command.Length)
-                {
-                    int strLength = GetSingleByteStrLength(command, index);
-                    index += strLength + 1; // Skip ExprStr
-                    strLength = GetStrLength(command, index);
-                    msgStr_jp2 = Encoding.Unicode.GetString(command[index..(index + strLength)]);
-                    index += strLength + 2;
-                    strLength = GetStrLength(command, index);
-                    msgStr_en2 = Encoding.Unicode.GetString(command[index..(index + strLength)]);
-                    index += strLength + 2;
-                }
-                // 居然有Translation3？这个是没限制的吗？
-                if (index < command.Length)
-                {
-                    int strLength = GetSingleByteStrLength(command, index);
-                    index += strLength + 1; // Skip ExprStr
-                    strLength = GetStrLength(command, index);
-                    msgStr_jp3 = Encoding.Unicode.GetString(command[index..(index + strLength)]);
-                    index += strLength + 2;
-                    strLength = GetStrLength(command, index);
-                    msgStr_en3 = Encoding.Unicode.GetString(command[index..(index + strLength)]);
-                }
-            }
-
-            if (msgStr_en == null && msgStr_jp == null)
-            {
-                return null;
-            }
-            if (msgStr_jp != null)
-            {
-                TrasnlationObj["JP"] = msgStr_jp;
-            }
-            if (msgStr_en != null)
-            {
-                TrasnlationObj["EN"] = msgStr_en;
-                TrasnlationObj["Translation"] = msgStr_en;
-            }
-            if (msgStr_jp2 != null)
-            {
-                TrasnlationObj["JP2"] = msgStr_jp2;
-            }
-            if (msgStr_en2 != null)
-            {
-                TrasnlationObj["EN2"] = msgStr_en2;
-                TrasnlationObj["Translation2"] = msgStr_en2;
-            }
-            if (msgStr_jp3 != null)
-            {
-                TrasnlationObj["JP3"] = msgStr_jp3;
-            }
-            if (msgStr_en3 != null)
-            {
-                TrasnlationObj["EN3"] = msgStr_en3;
-                TrasnlationObj["Translation3"] = msgStr_en3;
-            }
-            return TrasnlationObj;
+            return result;
         }
 
-        public static byte[]? BATTLE_SET(byte[] command, JsonObject inJsonObj)
+        private static byte[]? SetText(byte[] command, JsonObject translations)
         {
-            JsonObject TrasnlationObj = new JsonObject();
-            int index = GetCmdHeaderLength(command); // Header+ID
-            int BattleID = command[index] + command[index+1] * 256;
-            index += 2;
-            if (index >= command.Length)
+            var fields = GetTextFields(command);
+            if (fields.Count == 0) return null;
+            var result = new List<byte>();
+            int copied = 0;
+            foreach (var field in fields)
             {
-                return null;
+                if (field.Translation == null || translations[field.Translation] is not JsonValue value) continue;
+                string translation = value.GetValue<string>();
+                // Preserve untouched strings exactly, including their original encoding.
+                if (translation == field.Value.Text) continue;
+                translation = PostProcessText(translation);
+                result.AddRange(command[copied..field.Value.Offset]);
+                result.AddRange(SwitchString.Encode(translation, field.Value.IsUtf8));
+                copied = field.Value.End;
+                CharCollection.UnionWith(translation);
             }
-            /*if (BattleID == 300)
-            {
-                return command;
-            }*/
-            else if (BattleID == 101)
-            {
-                index += 2; //Skip Var1
-                int Var2 = command[index] + command[index + 1] * 256;
-                string Translation = PostProcessText(inJsonObj["Translation"]?.GetValue<string>() ?? "");
-                foreach (var newChar in Translation.ToCharArray())
-                {
-                    CharCollection.Add(newChar);
-                }
-                List<byte>? newCommand = null;
-                if (Var2 == 0)
-                {
-                    index += 4; //Skip Var2,3
-                    int strLength = GetSingleByteStrLength(command, index);
-                    index += strLength + 1; // Skip ExprStr
-                    strLength = GetStrLength(command, index);
-                    index += strLength + 2; // Skip JP
-                    newCommand = new List<byte>(command[..index]);
-                    strLength = GetStrLength(command, index);
-                    newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
-                    index += strLength;
-                }
-                else
-                {
-                    // 当下的var2就是文本
-                    int strLength = GetStrLength(command, index);
-                    index += strLength + 2;
-                    newCommand = new List<byte>(command[..index]);
-                    strLength = GetStrLength(command, index);
-                    newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
-                    index += strLength;
-                }
-                newCommand.AddRange(command.Skip(index));
-                return newCommand.ToArray();
-            }
-            else if (BattleID == 102 || BattleID == 103)
-            {
-                string Translation = PostProcessText(inJsonObj["Translation"]?.GetValue<string>() ?? "");
-                foreach (var newChar in Translation.ToCharArray())
-                {
-                    CharCollection.Add(newChar);
-                }
-                List<byte>? newCommand = null;
-                int Var1 = command[index] + command[index + 1] * 256;
-                if (Var1 == 0)
-                {
-                    index += 4; //Skip Var1,2
-                    int strLength = GetSingleByteStrLength(command, index);
-                    index += strLength + 1; // Skip ExprStr
-                    strLength = GetStrLength(command, index);
-                    index += strLength + 2;
-                    newCommand = new List<byte>(command[..index]);
-                    strLength = GetStrLength(command, index);
-                    newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
-                    newCommand.Add(0);
-                    newCommand.Add(0);
-                    index += strLength + 2;
-                }
-                else
-                {
-                    // 当下的Var1就是文本
-                    int strLength = GetStrLength(command, index);
-                    index += strLength + 2;
-                    newCommand = new List<byte>(command[..index]);
-                    strLength = GetStrLength(command, index);
-                    newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
-                    newCommand.Add(0);
-                    newCommand.Add(0);
-                    index += strLength + 2;
-                }
-                if (index < command.Length)
-                {
-                    string? Translation2 = inJsonObj["Translation2"]?.GetValue<string>() is string translation2 ? PostProcessText(translation2) : null;
-                    if (Translation2 != null)
-                    {
-                        int strLength = GetSingleByteStrLength(command, index);
-                        newCommand.AddRange(command[index..(index + strLength + 1)]);
-                        index += strLength + 1; // Skip ExprStr
-                        strLength = GetStrLength(command, index);
-                        newCommand.AddRange(command[index..(index + strLength + 2)]);
-                        index += strLength + 2;
-                        strLength = GetStrLength(command, index);
-                        newCommand.AddRange(Encoding.Unicode.GetBytes(Translation2));
-                        newCommand.Add(0);
-                        newCommand.Add(0);
-                        index += strLength + 2;
-                    }
-                }
-                if (index < command.Length)
-                {
-                    string? Translation3 = inJsonObj["Translation3"]?.GetValue<string>() is string translation3 ? PostProcessText(translation3) : null;
-                    if (Translation3 != null)
-                    {
-                        int strLength = GetSingleByteStrLength(command, index);
-                        newCommand.AddRange(command[index..(index + strLength + 1)]);
-                        index += strLength + 1; // Skip ExprStr
-                        strLength = GetStrLength(command, index);
-                        newCommand.AddRange(command[index..(index + strLength + 2)]);
-                        index += strLength + 2;
-                        strLength = GetStrLength(command, index);
-                        newCommand.AddRange(Encoding.Unicode.GetBytes(Translation3));
-                        index += strLength;
-                    }
-                }
-                newCommand.AddRange(command.Skip(index));
-                return newCommand.ToArray();
-            }
-            return null;
+            result.AddRange(command[copied..]);
+            return result.ToArray();
         }
 
-        public static JsonObject? SAYAVOICETEXT_GET(byte[] command)
-        {
-            JsonObject TrasnlationObj = new JsonObject();
-            int index = GetCmdHeaderLength(command) + 2; // Header+ID
-            int StrLength = GetStrLength(command, index);
-            TrasnlationObj["JP"] = Encoding.Unicode.GetString(command[index..(index + StrLength)]);
-            index += StrLength + 2;
-            StrLength = GetStrLength(command, index);
-            TrasnlationObj["EN"] = Encoding.Unicode.GetString(command[index..(index + StrLength)]);
-            TrasnlationObj["Translation"] = TrasnlationObj["EN"]?.DeepClone();
-            return TrasnlationObj;
-        }
-
-        public static byte[]? SAYAVOICETEXT_SET(byte[] command, JsonObject inJsonObj)
-        {
-            int index = GetCmdHeaderLength(command) + 2; // Header+ID
-            int StrLength = GetStrLength(command, index); // Jp
-            index += StrLength + 2;
-            StrLength = GetStrLength(command, index);
-            string Translation = PostProcessText(inJsonObj["Translation"]?.GetValue<string>() ?? "");
-            List<byte> newCommand = new List<byte>();
-            newCommand.AddRange(command[..index]);
-            newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
-            newCommand.AddRange(command.Skip(index + StrLength));
-            foreach (var newChar in Translation.ToCharArray())
-            {
-                CharCollection.Add(newChar);
-            }
-            return newCommand.ToArray();
-        }
-
+        public static JsonObject? MESSAGE_GET(byte[] command) => GetText(command);
+        public static byte[]? MESSAGE_SET(byte[] command, JsonObject json) => SetText(command, json);
+        public static JsonObject? SELECT_GET(byte[] command) => GetText(command);
+        public static byte[]? SELECT_SET(byte[] command, JsonObject json) => SetText(command, json);
+        public static JsonObject? VARSTR_SET_GET(byte[] command) => GetText(command);
+        public static byte[]? VARSTR_SET_SET(byte[] command, JsonObject json) => SetText(command, json);
+        public static JsonObject? TASK_GET(byte[] command) => GetText(command);
+        public static byte[]? TASK_SET(byte[] command, JsonObject json) => SetText(command, json);
+        public static JsonObject? BATTLE_GET(byte[] command) => GetText(command);
+        public static byte[]? BATTLE_SET(byte[] command, JsonObject json) => SetText(command, json);
+        public static JsonObject? SAYAVOICETEXT_GET(byte[] command) => GetText(command);
+        public static byte[]? SAYAVOICETEXT_SET(byte[] command, JsonObject json) => SetText(command, json);
         public static int LittleEndian2Int(byte[] InBytes)
         {
             int result = 0;
@@ -700,136 +205,49 @@ namespace LBEE_TranslationPatch
         // 用于修正指令中的指针
         // 感觉在有了CommandRedirectors之后是不需要Assign的步骤了，但是为了避免出Bug，旧代码就不动了
         // 感觉屎山正在慢慢堆积。。
-        public static LucaCommand[]? TAIL4Ptr_ASSIGN_CMD(List<LucaCommand> InAllCommands,int CmdIndex)
+        public static LucaCommand[] TAIL4Ptr_ASSIGN_CMD(List<LucaCommand> commands, int index) => [];
+        public static void TAIL4Ptr_FIX_PTR(LucaCommand current, LucaCommand[] commands)
         {
-            var CurCmd = InAllCommands[CmdIndex];
-            if(CurCmd.Command==null)
-            {
-                return null;
-            }
-            int TargetCmdPtr = LittleEndian2Int(CurCmd.Command[^4..]);
-            for (int i = 0; i < InAllCommands.Count; i++)
-            {
-                if (InAllCommands[i].CmdPtr == TargetCmdPtr)
-                {
-                    return new LucaCommand[] { InAllCommands[i] };
-                }
-            }
-            return null;
+            if (current.Command != null)
+                Redirect(current.Command, current.Command.Length - 4, Program.ScriptNameContext.Peek());
+        }
+        public static LucaCommand[] FARCALL_ASSIGN_CMD(List<LucaCommand> commands, int index) => [];
+        public static LucaCommand[] JUMP_ASSIGN_CMD(List<LucaCommand> commands, int index) => [];
+        public static LucaCommand[] ONGOTO_ASSIGN_CMD(List<LucaCommand> commands, int index) => [];
+
+        private static void Redirect(byte[] command, int offset, string script)
+        {
+            int original = LittleEndian2Int(command[offset..(offset + 4)]);
+            if (!ScriptCommandRedirectors.TryGetValue(script, out var redirects) ||
+                !redirects.TryGetValue(original, out int replacement))
+                throw new InvalidDataException($"No jump target for {script} at 0x{original:X}.");
+            Int2LittleEndian(command, offset, replacement);
         }
 
-        public static void TAIL4Ptr_FIX_PTR(LucaCommand CurCmd, LucaCommand[] InCommands)
+        public static void FARCALL_FIX_PTR(LucaCommand current, LucaCommand[] commands)
         {
-            if (CurCmd.Command != null && InCommands.Length>0)
-            {
-                Int2LittleEndian(CurCmd.Command, CurCmd.Command.Length - 4, InCommands[0].CmdPtr);
-            }
+            if (current.Command == null) return;
+            var target = SwitchString.Read(current.Command, GetCmdHeaderLength(current.Command) + 2);
+            Redirect(current.Command, target.End, target.Text.ToLowerInvariant());
         }
 
-        public static LucaCommand[]? FARCALL_ASSIGN_CMD(List<LucaCommand> InAllCommands, int CmdIndex)
+        public static void JUMP_FIX_PTR(LucaCommand current, LucaCommand[] commands)
         {
-            // 这里只是一个占位符，即使不再需要ASSIGN_CMD，但还是传回一个非null值，确保接下来能正常执行FIX_PTR
-            return new LucaCommand[0];
+            if (current.Command == null) return;
+            var target = SwitchString.Read(current.Command, GetCmdHeaderLength(current.Command));
+            if (target.End == current.Command.Length) return; // JUMP without an explicit offset.
+            if (target.End + 4 != current.Command.Length) throw new InvalidDataException("Invalid JUMP operands.");
+            Redirect(current.Command, target.End, target.Text.ToLowerInvariant());
         }
 
-        public static void FARCALL_FIX_PTR(LucaCommand CurCmd, LucaCommand[] InCommands)
+        public static void ONGOTO_FIX_PTR(LucaCommand current, LucaCommand[] commands)
         {
-            if (CurCmd.Command == null)
-            {
-                return;
-            }
-            int index = GetCmdHeaderLength(CurCmd.Command);
-            int ExpLength = GetSingleByteStrLength(CurCmd.Command, index + 2);
-            string TargetScript = Encoding.ASCII.GetString(CurCmd.Command[(index + 2)..(index + 2 + ExpLength)]).ToLower();
-            int SourceCmdPtr = LittleEndian2Int(CurCmd.Command[(index + 2 + ExpLength + 1)..(index + 2 + ExpLength + 1 + 4)]);
-            if (!ScriptCommandRedirectors.ContainsKey(TargetScript))
-            {
-                Console.Error.WriteLine("Error: Failed to find redirectors for script " + TargetScript);
-                Environment.Exit(-1);
-            }
-            var TargetRedirectors = ScriptCommandRedirectors[TargetScript];
-            if(!TargetRedirectors.ContainsKey(SourceCmdPtr))
-            {
-                Console.Error.WriteLine("Error: Failed to find redirectors for script " + TargetScript + " SourcePtr " + SourceCmdPtr);
-                Environment.Exit(-1);
-            }
-            Int2LittleEndian(CurCmd.Command, index + 2 + ExpLength + 1, TargetRedirectors[SourceCmdPtr]);
-        }
-
-        public static LucaCommand[]? JUMP_ASSIGN_CMD(List<LucaCommand> InAllCommands, int CmdIndex)
-        {
-            return new LucaCommand[0];
-        }
-
-        // 与FARCALL_FIX_PTR相同，但Header和脚本名之间少了2个字节的变量。
-        public static void JUMP_FIX_PTR(LucaCommand CurCmd, LucaCommand[] InCommands)
-        {
-            if (CurCmd.Command == null)
-            {
-                return;
-            }
-            int index = GetCmdHeaderLength(CurCmd.Command);
-            int ExpLength = GetSingleByteStrLength(CurCmd.Command, index);
-            if (index + ExpLength + 1 >= CurCmd.GetCmdLength())
-            {
-                // 这个JUMP可能不带参数，直接返回
-                return;
-            }
-            string TargetScript = Encoding.ASCII.GetString(CurCmd.Command[index..(index + ExpLength)]).ToLower();
-            int SourceCmdPtr = LittleEndian2Int(CurCmd.Command[(index + ExpLength + 1)..(index + ExpLength + 1 + 4)]);
-            if (!ScriptCommandRedirectors.ContainsKey(TargetScript))
-            {
-                Console.Error.WriteLine("Error: Failed to find redirectors for script " + TargetScript);
-                Environment.Exit(-1);
-            }
-            var TargetRedirectors = ScriptCommandRedirectors[TargetScript];
-            if (!TargetRedirectors.ContainsKey(SourceCmdPtr))
-            {
-                Console.Error.WriteLine("Error: Failed to find redirectors for script " + TargetScript + " SourcePtr " + SourceCmdPtr);
-                Environment.Exit(-1);
-            }
-            Int2LittleEndian(CurCmd.Command, index + ExpLength + 1, TargetRedirectors[SourceCmdPtr]);
-        }
-
-        public static LucaCommand[]? ONGOTO_ASSIGN_CMD(List<LucaCommand> InAllCommands, int CmdIndex)
-        {
-            return new LucaCommand[0];
-        }
-
-        // 原来ONGOTO的含义不是当跳转结束后XXX，而是当XXX时跳转
-        // 感觉当初的思路完全错误了。
-        public static void ONGOTO_FIX_PTR(LucaCommand CurCmd, LucaCommand[] InCommands)
-        {
-            if (CurCmd.Command == null)
-            {
-                return;
-            }
-            int index = GetCmdHeaderLength(CurCmd.Command);
-            int ExpLength = GetSingleByteStrLength(CurCmd.Command, index);
-            byte[] PtrArray = CurCmd.Command.Skip(index + ExpLength + 1).ToArray();
-            if(PtrArray.Length % 4!=0)
-            {
-                // 怎么会不能被整除呢？
-                Console.Error.WriteLine("Error: ONGOTO PtrArray length is not multiple of 4,Script may contains error,Exit!");
-                Environment.Exit(-1);
-            }
-            var CurScript = Program.ScriptNameContext.Peek();
-            var TargetRedirectors = ScriptCommandRedirectors[CurScript];
-            for (int i = 0; i < PtrArray.Length; i += 4)
-            {
-                byte[] PtrByteArray = PtrArray[i..(i + 4)];
-                // 这里其实应该是uint的，但鉴于脚本里不可能出现大于2G的指针，所以用int还是uint都无所谓了
-                int SourceCmdPtr = BitConverter.IsLittleEndian ?
-                    BitConverter.ToInt32(PtrArray, i) :
-                    BitConverter.ToInt32(PtrArray.Reverse().ToArray(), i);
-                if (!TargetRedirectors.ContainsKey(SourceCmdPtr))
-                {
-                    Console.Error.WriteLine("Error: Failed to find redirectors for script " + CurScript + " SourcePtr " + SourceCmdPtr);
-                    Environment.Exit(-1);
-                }
-                Int2LittleEndian(CurCmd.Command, index + ExpLength + 1 + i, TargetRedirectors[SourceCmdPtr]);
-            }
+            if (current.Command == null) return;
+            int index = SwitchString.Read(current.Command, GetCmdHeaderLength(current.Command)).End;
+            // Switch entries contain a 16-bit field followed by a 32-bit script offset.
+            if ((current.Command.Length - index) % 6 != 0) throw new InvalidDataException("Invalid ONGOTO table.");
+            string script = Program.ScriptNameContext.Peek();
+            for (; index < current.Command.Length; index += 6) Redirect(current.Command, index + 2, script);
         }
     }
-
 }
