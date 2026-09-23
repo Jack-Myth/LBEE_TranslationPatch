@@ -496,20 +496,6 @@
             }
             Directory.CreateDirectory(PendingReplacePath);
 
-            // 首先将所有的Program.json里的文本加入字符集
-            {
-                var ProgmJson = JsonNode.Parse(File.ReadAllText(Path.Combine(TextMappingPath, "$PROGRAM.json")))!.AsArray();
-                foreach(var ProgmItem in ProgmJson)
-                {
-                    var ProgmItemObj = ProgmItem as JsonObject;
-                    var TargetStr = ProgmItemObj?["Target"]?.GetValue<string>() ?? "";
-                    foreach(char StrChar in TargetStr)
-                    {
-                        InstructionProcessor.CharCollection.Add(StrChar);
-                    }
-                }
-            }
-
             string TemplateDir = Path.Combine(LBEEGamePath, "files", "template");
             string LBEEScriptPak = Path.Combine(LBEEGamePath, @"files\SCRIPT.PAK");
             string LBEEFontPak = Path.Combine(LBEEGamePath, @"files\FONT.PAK");
@@ -667,6 +653,20 @@
                     }
                     NewScript.AddRange(ScirptBuffer[(ScirptBuffer.Length - TailLength)..]);
                     File.WriteAllBytes(TextScriptPath, NewScript.ToArray());
+                }
+            }
+
+            // 将所有的Program.json里的文本加入字符集
+            {
+                var ProgmJson = JsonNode.Parse(File.ReadAllText(Path.Combine(TextMappingPath, "$PROGRAM.json")))!.AsArray();
+                foreach (var ProgmItem in ProgmJson)
+                {
+                    var ProgmItemObj = ProgmItem as JsonObject;
+                    var TargetStr = ProgmItemObj?["Target"]?.GetValue<string>() ?? "";
+                    foreach (char StrChar in TargetStr)
+                    {
+                        InstructionProcessor.CharCollection.Add(StrChar);
+                    }
                 }
             }
 
