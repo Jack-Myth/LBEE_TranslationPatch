@@ -1496,14 +1496,9 @@
       "Translation": "$d　啊，要陷下去了…。"
     },
     {
-      "JP": "$d　遠くから父の叫び声が聞こえた。",
-      "EN": "$dI heard my father yell from somewhere far off.",
-      "Translation": "$d　远处传来了父亲的喊声。"
-    },
-    {
-      "JP": "$d",
-      "EN": "$d",
-      "Translation": "$d"
+      "JP": "$d　遠くから父の叫び声が聞こえた。$d",
+      "EN": "$dI heard my father yell from somewhere far off.$d",
+      "Translation": "$d　远处传来了父亲的喊声。$d"
     },
     {
       "JP": "あたしの名前を何度も…。",

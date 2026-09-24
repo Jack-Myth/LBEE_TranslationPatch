@@ -1789,7 +1789,6 @@
     {
       "JP": "　",
       "EN": " ",
-      
       "Translation": " "
     },
     {
@@ -1953,11 +1952,6 @@
       "Translation": "$d三垒跑者到达本垒。"
     },
     {
-      "JP": "　",
-      "EN": " ",
-      "Translation": " "
-    },
-    {
       "JP": "",
       "EN": "",
       "Translation": ""
@@ -1976,11 +1970,6 @@
       "JP": "$d三塁ランナー、ホームに到達",
       "EN": "$dThird base runner crosses home plate.",
       "Translation": "$d三垒跑者到达本垒。"
-    },
-    {
-      "JP": "　",
-      "EN": " ",
-      "Translation": " "
     },
     {
       "JP": "",
