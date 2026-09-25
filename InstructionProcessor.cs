@@ -71,8 +71,8 @@ namespace LBEE_TranslationPatch
             }
             void Pair(string suffix = "", string? translation = null)
             {
-                Add("JP" + suffix);
-                Add("EN" + suffix, translation ?? "Translation" + suffix);
+                Add("JP" + suffix, translation ?? "Translation" + suffix);
+                Add("EN" + suffix);
             }
             switch (command[2])
             {
@@ -107,7 +107,7 @@ namespace LBEE_TranslationPatch
                             Pair("1"); Pair("2");
                         }
                     }
-                    else if (task == 54) Add("EN1", "Translation1");
+                    else if (task == 54) Add("EN1");
                     else if (task == 69)
                     {
                         index += 2;

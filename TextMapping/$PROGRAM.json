@@ -211,7 +211,7 @@
   },
   {
     "Source": "It's going to be sunny across the nation tomorrow, with a hint of Haruchin in some areas.",
-    "Target": "明天全国都会是晴天，部分地区会有一点小叶子的气息。",
+    "Target": "明天全国都会是晴天，部分地区会有一点小叶子的气息",
     "JP": "「明日は全国的に晴れ。ところによりはるちんです」"
   },
   {
@@ -306,7 +306,7 @@
   },
   {
     "Source": "It's okay to throw the soil from Koshien like you would be praying. (By Kyousuke)",
-    "Target": "像祈祷一样扔甲子园的土也是可以的。（By 恭介）",
+    "Target": "像祈祷一样扔甲子园的土也可以 By恭介",
     "JP": "願掛けとして投げつけてよし(By恭介)"
   },
   {
@@ -341,7 +341,7 @@
   },
   {
     "Source": "Did coming here launch your rebellious period? It's clear from the way you bat.",
-    "Target": "来这里让你进入叛逆期了吗？看你的挥棒就知道了。",
+    "Target": "来这里让你进入叛逆期了吗?看你挥棒就知道了",
     "JP": "「ここに来て反抗期かい。球筋に出てるぜ？」"
   },
   {
@@ -391,7 +391,7 @@
   },
   {
     "Source": "It's a weapon of great potential against girls who hate bugs. (By Kyousuke)",
-    "Target": "对于讨厌虫子的女孩来说，它是有很大潜力的武器。（By 恭介）",
+    "Target": "对付讨厌虫子的女孩,它是很有潜力的武器(By恭介)",
     "JP": "虫嫌いな女子に対しては効果的な武器だな(By恭介)"
   },
   {
@@ -406,7 +406,7 @@
   },
   {
     "Source": "It's okay to throw pillows like you would in a pillow fight. (By Kyousuke)",
-    "Target": "像枕头大战一样扔枕头也是可以的。（By 恭介）",
+    "Target": "像枕头大战一样扔枕头也可以的(By恭介)",
     "JP": "枕投げの要領で投げつけてよし(By恭介)"
   },
   {
@@ -451,7 +451,7 @@
   },
   {
     "Source": "Thinking about undiluted Calpis again? It's clear from the way you bat.",
-    "Target": "又在想着未稀释的可尔必思了？看你的挥棒就知道了。",
+    "Target": "又在想着未稀释的可尔必思了?看你的挥棒就知道了",
     "JP": "「またカルピスの原液かい。球筋に出てるぜ？」"
   },
   {
@@ -591,7 +591,7 @@
   },
   {
     "Source": "Didn't we make a promise! Though I forgot what it was already!",
-    "Target": "我们不是有个约定吗！虽然我已经忘了是什么！",
+    "Target": "我们不是有个约定吗!虽然我已经忘了是什么!",
     "JP": "「おまえ誓ったろ、忘れたけどさ！」"
   },
   {
@@ -751,7 +751,7 @@
   },
   {
     "Source": "Girls can roll it up and use it as a sword. (By Kyousuke)",
-    "Target": "女生可以把它卷起来当作剑来用。（By 恭介）",
+    "Target": "女生可以把它卷起来当作剑来用(By恭介)",
     "JP": "女子は丸めてブレード化してよし(By恭介)"
   },
   {
@@ -926,7 +926,7 @@
   },
   {
     "Source": "I can't wait for a new flavor Mon Petit to come out.",
-    "Target": "我迫不及待地想看到猫罐头推出新口味了。 ",
+    "Target": "我等不及想看到猫罐头推出新口味了",
     "JP": "「モンペチの新しい味が楽しみだ」"
   },
   {
@@ -996,7 +996,7 @@
   },
   {
     "Source": "Rejected on the grounds of plain impossibility...",
-    "Target": "因为明显不可能，所以被拒绝了…",
+    "Target": "明显不可能,所以被拒绝了",
     "JP": "可能でもお断りします…。"
   },
   {
@@ -1156,12 +1156,12 @@
   },
   {
     "Source": "Riki-kun, you're more manly than I thought...",
-    "Target": "理树君，你比我想象的还要有男子气概…",
+    "Target": "理树君,你比我想象的还要有男子气概",
     "JP": "「理樹くん、意外と男らしいのね…」"
   },
   {
     "Source": "I can't guarantee I won't hit them, you know?",
-    "Target": "我可不能保证不会打到它们哦？",
+    "Target": "我可不保证不会打到它们哦?",
     "JP": "「当たってもしらないよ？」"
   },
   {
@@ -1321,7 +1321,7 @@
   },
   {
     "Source": "You can even beat the pros as you are now!",
-    "Target": "现在的你甚至能打败职业选手！",
+    "Target": "现在的你能打败职业选手!",
     "JP": "「いますぐプロの門を叩け」"
   },
   {
@@ -1356,7 +1356,7 @@
   },
   {
     "Source": "...Can't you do something about the cats?",
-    "Target": "… 你能不能想办法对付那些猫？",
+    "Target": "…你能不能想办法对付那些猫?",
     "JP": "「…猫はどうにかならんのか」"
   },
   {
@@ -1386,7 +1386,7 @@
   },
   {
     "Source": "At least try to get it past the infield.",
-    "Target": "至少试着把球打过内野。",
+    "Target": "至少试着把球打过内野",
     "JP": "「内野くらい越えろ」"
   },
   {
@@ -1461,7 +1461,7 @@
   },
   {
     "Source": "What sort of parallel world is that...",
-    "Target": "那是怎样的平行世界啊…",
+    "Target": "简直是异世界",
     "JP": "異世界だ…。"
   },
   {
@@ -1481,7 +1481,7 @@
   },
   {
     "Source": "Come on, show me what you're made of～.",
-    "Target": "来吧，展示一下你的本事～。",
+    "Target": "来,展示一下你的本事!",
     "JP": "「バッチこいこい～」"
   },
   {
@@ -1506,7 +1506,7 @@
   },
   {
     "Source": "Are you sure you wish to delete this?",
-    "Target": "确定要删除此内容吗?",
+    "Target": "确定要删除吗?",
     "JP": "削除しますか？"
   },
   {
@@ -1626,7 +1626,7 @@
   },
   {
     "Source": "Eight! Am I witnessing a miracle!?",
-    "Target": "八球！难道我见证了奇迹！？",
+    "Target": "八球!难道我见证了奇迹!?",
     "JP": "「はちっ、奇跡か！？」"
   },
   {
@@ -1686,7 +1686,7 @@
   },
   {
     "Source": "Stop venting your anger on cats!",
-    "Target": "别把你的愤怒发泄在猫身上！",
+    "Target": "别对着猫撒气啊！",
     "JP": "「猫に八つ当たりかっ」"
   },
   {
@@ -1841,12 +1841,12 @@
   },
   {
     "Source": "I'll have that for breakfast.",
-    "Target": "我要把它当早餐吃。",
+    "Target": "这是我的早餐",
     "JP": "「朝飯前だ」"
   },
   {
     "Source": "Now then, what should I do...",
-    "Target": "那么，现在该怎么办呢…",
+    "Target": "那么,现在该怎么办呢?",
     "JP": "さて、どうしよう…。"
   },
   {
@@ -2006,7 +2006,7 @@
   },
   {
     "Source": "I'll get it, I'll get it～.",
-    "Target": "我会接到的，我会接到的～。",
+    "Target": "能接到,我能接到的~",
     "JP": "「とれるとれる～」"
   },
   {
@@ -2046,7 +2046,7 @@
   },
   {
     "Source": "Bon Lantern Festival Gift",
-    "Target": "中元节礼物",
+    "Target": "中元礼",
     "JP": "お中元"
   },
   {
@@ -2061,7 +2061,7 @@
   },
   {
     "Source": "I wonder if that's fun...",
-    "Target": "我在想那是不是很有趣…",
+    "Target": "我在想那是不是很有趣",
     "JP": "「楽しいのかしら…」"
   },
   {
@@ -2106,7 +2106,7 @@
   },
   {
     "Source": "Are you aiming at them!?",
-    "Target": "你是故意瞄着它们的吗！？",
+    "Target": "你故意瞄准它们的吗",
     "JP": "「狙ってるのかっ」"
   },
   {
@@ -2156,7 +2156,7 @@
   },
   {
     "Source": "I'll throw it back now～.",
-    "Target": "我现在就把它扔回去～。",
+    "Target": "我现在就把它扔回去",
     "JP": "「すぐなげるよー」"
   },
   {
@@ -2256,7 +2256,7 @@
   },
   {
     "Source": "Taking your time, huh?",
-    "Target": "你也太手下留情了吧。",
+    "Target": "你也太手软了",
     "JP": "「手緩いな」"
   },
   {
@@ -2336,7 +2336,7 @@
   },
   {
     "Source": "I'm sending it back～.",
-    "Target": "我把它送回去了～。",
+    "Target": "我把它送回去了",
     "JP": "「かえすよ～」"
   },
   {
@@ -2541,7 +2541,7 @@
   },
   {
     "Source": "Child Archer Figure",
-    "Target": "儿童弓箭手人偶",
+    "Target": "弓曳童子",
     "JP": "弓曳童子"
   },
   {
@@ -2691,7 +2691,7 @@
   },
   {
     "Source": "I won't let it go.",
-    "Target": "我不会让它过去的。",
+    "Target": "我不会让开的",
     "JP": "「抜かせん」"
   },
   {
@@ -2991,7 +2991,7 @@
   },
   {
     "Source": "Computer Virus",
-    "Target": "计算机病毒",
+    "Target": "电脑病毒",
     "JP": "ウィルス"
   },
   {
@@ -3236,7 +3236,7 @@
   },
   {
     "Source": "Granny's Bike",
-    "Target": "奶奶的自行车",
+    "Target": "奶奶自行车",
     "JP": "ママチャリ"
   },
   {
@@ -4136,7 +4136,7 @@
   },
   {
     "Source": "Other 4",
-    "Target": "其他4",
+    "Target": "其他",
     "JP": "他４"
   },
   {
@@ -4264,7 +4264,7 @@
   },
   {
     "Source": "parasol",
-    "Target": "遮阳伞",
+    "Target": "阳伞",
     "JP": "日傘"
   },
   {
@@ -4567,7 +4567,7 @@
   },
   {
     "Source": "Pillow",
-    "Target": "枕头",
+    "Target": "枕",
     "JP": "枕"
   },
   {
@@ -4890,16 +4890,6 @@
     "Source": "Ehh!",
     "Target": "诶诶！",
     "JP": "「ええー」"
-  },
-  {
-    "Source": "Auto",
-    "Target": "自动",
-    "JP": null
-  },
-  {
-    "Source": "Skip",
-    "Target": "跳过",
-    "JP": null
   },
   {
     "Source": "Hey!",

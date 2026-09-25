@@ -318,7 +318,7 @@ namespace LBEE_TranslationPatch
 
         static void Run(string[] args)
         {
-            HashSet<char> TitleUsedCharset = new HashSet<char>(); // 称号所需的字符集后面要单独处理
+            HashSet<char> TitleUsedCharset = new HashSet<char>(); // 称号与 ExeFS 文本所需的字符集单独加入 36 号字体
 
             // 检查必须的组件
             if (!(File.Exists(".\\Files\\lucksystem.exe") && 
@@ -351,8 +351,8 @@ namespace LBEE_TranslationPatch
                 }
             }
             Console.WriteLine("《Little Busters! Converted Edition》Switch 汉化程序 ——By JackMyth\n");
-            Console.WriteLine("参考了来自LittleBusters贴吧的翻译文本，替换 romfs 中的英文资源。");
-            Console.WriteLine("应用补丁后切换至英文即可看到汉化翻译。\n");
+            Console.WriteLine("参考了来自LittleBusters贴吧的翻译文本，替换 romfs 中的日文资源。");
+            Console.WriteLine("应用补丁后切换至日文即可看到汉化翻译。\n");
             Console.WriteLine("已知问题：\n为避免查看历史文本出现Bug，限制了选项的字库，部分选项显示为繁体中文。\n");
             Console.WriteLine("若发现文本错误或遗漏，或汉化后游戏存在Bug，请访问 https://github.com/Jack-Myth/LBEE_TranslationPatch 并提交Issue，欢迎讨论。\n");
             Console.Write("请注意，汉化程序会修改游戏脚本，");
@@ -500,6 +500,21 @@ namespace LBEE_TranslationPatch
             {
                 Console.WriteLine("SCRIPT.PAK 文本处理完成。");
                 return;
+            }
+
+            // ExeFS Japanese strings use the same font package as script text.
+            // Include their Chinese translations even when a character occurs only in $PROGRAM.json.
+            string ProgramMappingFile = Path.Combine(TextMappingPath, "$PROGRAM.json");
+            if (File.Exists(ProgramMappingFile))
+            {
+                foreach (var node in JsonNode.Parse(File.ReadAllText(ProgramMappingFile))!.AsArray())
+                {
+                    if (node is not JsonObject entry || entry["JP"] is not JsonValue || entry["Target"] is not JsonValue)
+                        continue;
+                    string target = entry["Target"]!.GetValue<string>();
+                    InstructionProcessor.CharCollection.UnionWith(target);
+                    TitleUsedCharset.UnionWith(target);
+                }
             }
 
             // 解开字体
