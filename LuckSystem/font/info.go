@@ -30,8 +30,9 @@ type Info struct {
 	UnicodeIndex []uint16   `struct:"size=65536"` // unicode -> imgindex
 	UnicodeSize  []CharSize `struct:"size=65536"`
 	// FontMap     map[rune]uint16 `struct:"-"` // unicode -> imgindex
-	FontFace     font.Face `struct:"-"`
-	IndexUnicode []rune    `struct:"-"` // imgindex -> unicode
+	FontFace      font.Face `struct:"-"`
+	IndexUnicode  []rune    `struct:"-"` // imgindex -> unicode
+	ExtendedCount bool      `struct:"-"` // preserve the original 100 + CharNum2 header
 }
 
 // setCharMapping updates both directions of the character/index mapping.
@@ -64,6 +65,7 @@ func LoadFontInfo(data []byte) *Info {
 		glog.Fatalln("restruct.Unpack", err)
 	}
 	if info.CharNum == 100 {
+		info.ExtendedCount = true
 		info.CharNum = info.CharNum2
 		info.CharNum2 = 100
 	}
@@ -283,8 +285,12 @@ func (i *Info) Export(w io.Writer) error {
 //	Param w io.Writer
 //	Return error
 func (i *Info) Write(w io.Writer) error {
-
-	data, err := restruct.Pack(binary.LittleEndian, i)
+	packed := *i
+	if packed.ExtendedCount {
+		packed.CharNum2 = packed.CharNum
+		packed.CharNum = 100
+	}
+	data, err := restruct.Pack(binary.LittleEndian, &packed)
 	if err != nil {
 		glog.Fatalln("restruct.Pack", err)
 	}

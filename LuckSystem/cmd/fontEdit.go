@@ -49,16 +49,22 @@ var fontEditCmd = &cobra.Command{
 			if err != nil {
 				glog.Fatalln(err)
 			}
+			defer outInfo.Close()
 		}
 
-		f.Info.Write(outInfo)
-		png.Encode(out, f.Image)
-
-		/*
+		if FontOutputCz {
 			err = f.Write(out, outInfo)
-			if err != nil {
-				glog.Fatalln(err)
-			}*/
+		} else {
+			if outInfo != nil {
+				err = f.Info.Write(outInfo)
+			}
+			if err == nil {
+				err = png.Encode(out, f.Image)
+			}
+		}
+		if err != nil {
+			glog.Fatalln(err)
+		}
 
 	},
 }
@@ -68,6 +74,7 @@ var (
 	FontRedraw       bool   // 重绘
 	FontAppend       bool   // 追加到最后
 	FontStartIndex   int    // 替换或者重绘的序号，从零开始
+	FontOutputCz     bool   // 直接输出CZ图像
 
 )
 
@@ -80,6 +87,7 @@ func init() {
 	fontEditCmd.Flags().BoolVarP(&FontAppend, "append", "a", false, "字符集绘制并添加到原字体最后")
 
 	fontEditCmd.Flags().IntVarP(&FontStartIndex, "index", "i", 0, "字符集绘制并添加到的位置，从0开始")
+	fontEditCmd.Flags().BoolVar(&FontOutputCz, "output_cz", false, "直接输出CZ图像并保留原图格式")
 	fontEditCmd.Flags().BoolVarP(&FontRedraw, "redraw", "r", false, "重绘原字体图片")
 	fontEditCmd.MarkFlagsMutuallyExclusive("append", "index")
 }

@@ -55,6 +55,40 @@ func TestSetCharMappingKeepsMovedCharacter(t *testing.T) {
 	}
 }
 
+func TestExtendedCountPreservedAfterEdit(t *testing.T) {
+	restruct.EnableExprBeta()
+	info := &Info{
+		FontSize:      16,
+		BlockSize:     17,
+		CharNum:       101,
+		ExtendedCount: true,
+		DrawSize:      make([]DrawSize, 101),
+		UnicodeIndex:  make([]uint16, 65536),
+		UnicodeSize:   make([]CharSize, 65536),
+	}
+	info.UnicodeIndex['A'] = 100
+	var original bytes.Buffer
+	if err := info.Write(&original); err != nil {
+		t.Fatal(err)
+	}
+	loaded := LoadFontInfo(original.Bytes())
+	loaded.CharNum++
+	loaded.DrawSize = append(loaded.DrawSize, DrawSize{})
+	var edited bytes.Buffer
+	if err := loaded.Write(&edited); err != nil {
+		t.Fatal(err)
+	}
+	if got := edited.Bytes()[4:8]; !bytes.Equal(got, []byte{100, 0, 102, 0}) {
+		t.Fatalf("extended count header changed: %v", got)
+	}
+	if got, want := edited.Len(), original.Len()+3; got != want {
+		t.Fatalf("edited info length = %d, want %d", got, want)
+	}
+	if got := LoadFontInfo(edited.Bytes()).UnicodeIndex['A']; got != 100 {
+		t.Fatalf("character mapping shifted: got %d, want 100", got)
+	}
+}
+
 func TestMain(m *testing.M) {
 	flag.Set("alsologtostderr", "true")
 	flag.Set("log_dir", "log")

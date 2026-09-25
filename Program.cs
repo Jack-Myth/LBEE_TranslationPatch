@@ -286,9 +286,7 @@ namespace LBEE_TranslationPatch
                 // 针对Template进行重绘，然后复制到各个字体
                 // 如果每个字体都进行重绘，那么重绘后的游戏会崩溃，但只用一份的话就正常，很奇怪，不清楚原因
                 // 看起来很像是字体过大了，这里指定一下ReplaceIndex，把一部分原有字体替换掉
-                RunTool("Files\\lucksystem.exe", $"font edit -s \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" -i {FontReplaceIndex + AddOffset} -S \"{ExtractedFontPath}\\info{fSize}\" -f \"{TargetFontPath}\" -c \"{AllNewCharFile}\" -o \"{Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")}\" -O \"{Path.Combine(PendingReplacePath, $"info{fSize}")}\"");
-                RunTool("Files\\czutil.exe", $"replace \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" \"{Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")}\" \"{Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}")}\"");
-                File.Delete(Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png"));
+                RunTool("Files\\lucksystem.exe", $"font edit --output_cz -s \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" -i {FontReplaceIndex + AddOffset} -S \"{ExtractedFontPath}\\info{fSize}\" -f \"{TargetFontPath}\" -c \"{AllNewCharFile}\" -o \"{Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}")}\" -O \"{Path.Combine(PendingReplacePath, $"info{fSize}")}\"");
                 foreach (var fName in FontName)
                 {
                     if (fName != FontTemplate)
@@ -537,10 +535,8 @@ namespace LBEE_TranslationPatch
                 string AllNewChar36 = new string(PendingAddChar.Order().ToArray());
                 string AllNewCharFile36 = Path.Combine(TMPPath, "AllNewChar36.txt");
                 File.WriteAllText(AllNewCharFile36, AllNewChar36);
-                RunTool("Files\\lucksystem.exe", $"font edit -s \"{ExtractedFontPath}\\{FontTemplate}36\" -i {Charset36.Length} -S \"{ExtractedFontPath}\\info36\" -f \"{TargetFontPath}\" -c \"{AllNewCharFile36}\" -o \"{Path.Combine(PendingReplacePath, $"{FontTemplate}36.png")}\" -O \"{Path.Combine(PendingReplacePath, $"info36")}\"");
+                RunTool("Files\\lucksystem.exe", $"font edit --output_cz -s \"{ExtractedFontPath}\\{FontTemplate}36\" -i {Charset36.Length} -S \"{ExtractedFontPath}\\info36\" -f \"{TargetFontPath}\" -c \"{AllNewCharFile36}\" -o \"{Path.Combine(PendingReplacePath, $"{FontTemplate}36")}\" -O \"{Path.Combine(PendingReplacePath, $"info36")}\"");
                 //RunTool("Files\\lucksystem.exe", $"font edit -s \"{ExtractedFontPath}\\{FontTemplate}36\" -a -S \"{ExtractedFontPath}\\info36\" -f \"{TargetFontPath}\" -c \"{AllNewCharFile36}\" -o \"{Path.Combine(PendingReplacePath, $"{FontTemplate}36.png")}\" -O \"{Path.Combine(PendingReplacePath, $"info36")}\"");
-                RunTool("Files\\czutil.exe", $"replace \"{ExtractedFontPath}\\{FontTemplate}36\" \"{Path.Combine(PendingReplacePath, $"{FontTemplate}36.png")}\" \"{Path.Combine(PendingReplacePath, $"{FontTemplate}36")}\"");
-                File.Delete(Path.Combine(PendingReplacePath, $"{FontTemplate}36.png"));
                 foreach (var fName in FontName)
                 {
                     if (fName != FontTemplate)

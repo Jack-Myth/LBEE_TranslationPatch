@@ -1,6 +1,8 @@
 package czimage
 
 import (
+	"errors"
+	"fmt"
 	"image"
 	"image/color"
 	"image/png"
@@ -14,16 +16,27 @@ import (
 //	Description Cz1.Load() 载入并解压数据，转化成Image
 type Cz1Image struct {
 	CzHeader
-	ColorPanel []color.NRGBA // []BGRA
+	ColorPanel   []color.NRGBA // []BGRA
+	HeaderExtra  []byte
+	PaletteBytes []byte
 	CzData
 }
 
 func (cz *Cz1Image) Load(header CzHeader, data []byte) {
 	cz.CzHeader = header
 	cz.Raw = data
+	if header.HeaderLength < 15 || int(header.HeaderLength) > len(data) {
+		panic("invalid CZ1 header length")
+	}
+	cz.HeaderExtra = append([]byte(nil), data[15:header.HeaderLength]...)
 
 	offset := int(cz.HeaderLength)
 	if cz.Colorbits == 4 || cz.Colorbits == 8 {
+		paletteSize := 4 << cz.Colorbits
+		if offset+paletteSize > len(data) {
+			panic("truncated CZ1 palette")
+		}
+		cz.PaletteBytes = append([]byte(nil), data[offset:offset+paletteSize]...)
 		cz.ColorPanel = make([]color.NRGBA, 1<<cz.Colorbits)
 		for i := 0; i < (1 << cz.Colorbits); i++ {
 			cz.ColorPanel[i] = color.NRGBA{
@@ -132,29 +145,47 @@ func (cz *Cz1Image) Export(w io.Writer) error {
 //	Param fillSize bool 是否填充大小
 //	Return error
 func (cz *Cz1Image) Import(r io.Reader, fillSize bool) error {
-	var err error
-	cz.PngImage, err = png.Decode(r)
+	img, err := png.Decode(r)
 	if err != nil {
-		panic(err)
-	}
-	pic := cz.PngImage.(*image.NRGBA)
-	width := int(cz.Width)
-	height := int(cz.Heigth)
-	if fillSize == true {
-		// 填充大小
-		pic = FillImage(pic, width, height)
-	}
-
-	if width != pic.Rect.Size().X || height != pic.Rect.Size().Y {
-		glog.V(2).Infof("图片大小不匹配，应该为 w%d h%d\n", width, height)
 		return err
 	}
+	if cz.Colorbits != 8 {
+		return fmt.Errorf("CZ1 font encoding requires 8-bit palette, got %d bits", cz.Colorbits)
+	}
+	width := int(cz.Width)
+	height := int(cz.Heigth)
+	if img.Bounds().Dx() > width {
+		return fmt.Errorf("font image width %d exceeds CZ1 canvas width %d", img.Bounds().Dx(), width)
+	}
+	if img.Bounds().Dy() > height {
+		height = img.Bounds().Dy()
+	}
+	if !fillSize && (img.Bounds().Dx() != width || img.Bounds().Dy() != height) {
+		return errors.New("font image dimensions do not match CZ1 canvas")
+	}
+	cz.Heigth = uint16(height)
+	pic := FillImage(img, width, height)
+	cz.PngImage = pic
+
+	// Keep the original palette: its index is not necessarily its alpha value.
+	var alphaIndex [256]byte
+	for alpha := 0; alpha < 256; alpha++ {
+		bestDistance := 256
+		for index, entry := range cz.ColorPanel {
+			distance := int(entry.A) - alpha
+			if distance < 0 {
+				distance = -distance
+			}
+			if distance < bestDistance {
+				bestDistance = distance
+				alphaIndex[alpha] = byte(index)
+			}
+		}
+	}
 	data := make([]byte, width*height)
-	i := 0
 	for y := 0; y < height; y++ {
 		for x := 0; x < width; x++ {
-			data[i] = pic.At(x, y).(color.NRGBA).A
-			i++
+			data[y*width+x] = alphaIndex[pic.NRGBAAt(x, y).A]
 		}
 	}
 	blockSize := 0
@@ -175,15 +206,21 @@ func (cz *Cz1Image) Import(r io.Reader, fillSize bool) error {
 }
 
 func (cz *Cz1Image) Write(w io.Writer) error {
-	var err error
-	glog.V(6).Infoln(cz.CzHeader)
-	err = WriteStruct(w, &cz.CzHeader, cz.ColorPanel, cz.OutputInfo)
-
-	if err != nil {
+	if int(cz.HeaderLength) != 15+len(cz.HeaderExtra) {
+		return errors.New("CZ1 header extension length changed")
+	}
+	if err := WriteStruct(w, &cz.CzHeader); err != nil {
 		return err
 	}
-	_, err = w.Write(cz.Raw)
-
+	if _, err := w.Write(cz.HeaderExtra); err != nil {
+		return err
+	}
+	if _, err := w.Write(cz.PaletteBytes); err != nil {
+		return err
+	}
+	if err := WriteStruct(w, cz.OutputInfo); err != nil {
+		return err
+	}
+	_, err := w.Write(cz.Raw)
 	return err
-
 }
