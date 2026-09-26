@@ -755,12 +755,12 @@
     {
       "JP": "机を動かす$d床を調べる",
       "EN": "Move the tables$dInvestigate the floor",
-      "Translation": "移動椅子等陳設$d注意看地板"
+      "Translation": "移动桌子$d注意看地板"
     },
     {
       "JP": "机を動かしてみる$d後ろの黒板を調べる",
       "EN": "Move the tables$dInvestigate the blackboard in the back",
-      "Translation": "移動椅子等陳設$d注意看后面的黒板"
+      "Translation": "移动桌子$d注意看后面的黒板"
     }
   ],
   "TASK": [

@@ -2166,22 +2166,22 @@
     {
       "JP": "僕$d朱鷺戸さん",
       "EN": "Me$dTokido-san",
-      "Translation": "我$d朱鷺戸"
+      "Translation": "我$d朱鹭户"
     },
     {
       "JP": "でも飛ぶ$d譲歩する",
       "EN": "But I'll still do the jump$dI compromise",
-      "Translation": "但是我依然会跳過去$d譲歩"
+      "Translation": "但是我依然会跳过去$d让步"
     },
     {
       "JP": "右に回す$d左に回す$d一回転させる",
       "EN": "Turn it right$dTurn it left$dTurn it 360 degrees",
-      "Translation": "往右轉$d往左轉$d轉一圈"
+      "Translation": "往右转$d往左转$d转一圈"
     },
     {
       "JP": "右に回す$d一回転させる",
       "EN": "Turn it right$dTurn it 360 degrees",
-      "Translation": "往右轉$d轉一圈"
+      "Translation": "往右转$d转一圈"
     }
   ]
 }

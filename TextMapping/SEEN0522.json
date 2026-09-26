@@ -16057,17 +16057,17 @@
     {
       "JP": "言う$dごまかす",
       "EN": "Say it$dKeep quiet",
-      "Translation": "説出来$d不説"
+      "Translation": "说出来$d不说"
     },
     {
       "JP": "掃除用具の整理$d例のやつが出た！$dここが僕の家",
       "EN": "Sorting out the cleaning equipment$dThat thing came out!$dThis is my home",
-      "Translation": "整理清理用具$d那玩意儿要出来了！$d那是我家"
+      "Translation": "整理扫除用具$d那东西要出来了！$d那是我家"
     },
     {
       "JP": "[,(#12009==1)]呼びにいく$d呼びにいかない",
       "EN": "[,(#12009==1)]Go find her$dDon't go",
-      "Translation": "[,(#12009==1)]去找人$d放着不管"
+      "Translation": "[,(#12009==1)]去找她$d放着不管"
     },
     {
       "JP": "教室に戻る$d真人と遊ぶ",
@@ -16087,7 +16087,7 @@
     {
       "JP": "気にしない$d耳を澄ませてみる",
       "EN": "Ignore$dListen carefully",
-      "Translation": "不管它$d仔細听"
+      "Translation": "不管它$d仔细听"
     },
     {
       "JP": "先にいく$d最後にする",
@@ -16107,12 +16107,12 @@
     {
       "JP": "謙吾を諭す$d恭介を追う",
       "EN": "Press Kengo on$dChase after Kyousuke",
-      "Translation": "勸説謙吾$d追上恭介"
+      "Translation": "劝说谦吾$d追上恭介"
     },
     {
       "JP": "何を話しているか聞きにいく$d練習に集中",
       "EN": "Go see what they're talking about$dConcentrate on practice",
-      "Translation": "去看看在聊什麼$d集中精神練習"
+      "Translation": "去看看在聊什麼$d集中精神练习"
     },
     {
       "JP": "さすらう$d休んでおく",
@@ -16122,7 +16122,7 @@
     {
       "JP": "[,(#12008==1)]クドに頷いた$dクドに首を振った",
       "EN": "[,(#12008==1)]Nodded$dShook my head",
-      "Translation": "[,(#12008==1)]点頭$d揺頭"
+      "Translation": "[,(#12008==1)]点头$d摇头"
     },
     {
       "JP": "いく$d恭介たちと遊ぶ",
@@ -16132,7 +16132,7 @@
     {
       "JP": "まじ$dごまかす",
       "EN": "Say it's true$dLie to him",
-      "Translation": "承認$d蒙混過去"
+      "Translation": "承认$d蒙混过去"
     }
   ]
 }

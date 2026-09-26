@@ -13165,7 +13165,7 @@
     {
       "JP": "中庭$dグラウンド$d廊下",
       "EN": "Courtyard$dSports grounds$dCorridor",
-      "Translation": "中庭$d運動場$d走廊"
+      "Translation": "中庭$d运动场$d走廊"
     },
     {
       "JP": "[!(#92==1),]中庭$d[!(#90==1),]グラウンド$d[!(#91==1),]廊下",
@@ -13180,7 +13180,7 @@
     {
       "JP": "これからは強く生きる$d逃げる",
       "EN": "Become stronger$dRun away",
-      "Translation": "堅強的生活下去$d逃避"
+      "Translation": "坚强的生活下去$d逃避"
     }
   ],
   "TASK": []

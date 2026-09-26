@@ -21521,12 +21521,12 @@
     {
       "JP": "好きだから$d答えられない",
       "EN": "Because I like you$dI can't answer",
-      "Translation": "因為喜歡$d答不上来"
+      "Translation": "因为喜欢$d答不上来"
     },
     {
       "JP": "キスをする$dキスをしない",
       "EN": "Kiss her$dDo not kiss her",
-      "Translation": "吻上去$d不吻"
+      "Translation": "吻她$d不吻她"
     }
   ]
 }

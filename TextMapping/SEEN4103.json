@@ -8515,12 +8515,12 @@
     {
       "JP": "学食$d購買",
       "EN": "Cafeteria$dSchool store",
-      "Translation": "食堂$d小買部"
+      "Translation": "食堂$d小买部"
     },
     {
       "JP": "言語学の書棚を見る$d自然科学・工学の書棚を見る",
       "EN": "In the linguistics section$dIn the science and engineering section",
-      "Translation": "看語言学書架$d看自然科学和工学書架"
+      "Translation": "看语言学书架$d看自然科学和工学书架"
     }
   ]
 }

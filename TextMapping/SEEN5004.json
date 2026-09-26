@@ -2835,7 +2835,7 @@
     {
       "JP": "あえて前$d後ろ$d横",
       "EN": "Forward$dBackward$dSideways",
-      "Translation": "前面$d后面$d側面"
+      "Translation": "前面$d后面$d侧面"
     }
   ]
 }

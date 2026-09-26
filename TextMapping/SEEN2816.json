@@ -1821,17 +1821,17 @@
     {
       "JP": "もう一度降りる$d部屋を出る",
       "EN": "Go down again$dLeave the room",
-      "Translation": "再下去一次$d離開房間"
+      "Translation": "再下去一次$d离开房间"
     },
     {
       "JP": "龍を氷で彫る$d別の方法を探す",
       "EN": "Carve an ice dragon$dFind another way",
-      "Translation": "用冰雕刻龍$d找其他方法"
+      "Translation": "用冰雕刻龙$d找其他方法"
     },
     {
       "JP": "戻る$d確かめる",
       "EN": "Go back$dCheck",
-      "Translation": "返回$d確認"
+      "Translation": "返回$d确认"
     },
     {
       "JP": "服を脱ぐ$d裸足になる",
@@ -1841,7 +1841,7 @@
     {
       "JP": "パンツまで脱ぐ$dその一線は越えないでおく",
       "EN": "Take off my panties$dThat's one line I won't cross",
-      "Translation": "脱下胖次$d不会逾越那条線"
+      "Translation": "脱下内裤$d不会越过那条线"
     }
   ]
 }

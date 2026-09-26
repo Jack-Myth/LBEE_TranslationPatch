@@ -1531,7 +1531,7 @@
     {
       "JP": "撃つ$d撃たない",
       "EN": "Shoot$dDon't shoot",
-      "Translation": "射撃$d不射撃"
+      "Translation": "射击$d不射击"
     }
   ]
 }
