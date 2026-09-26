@@ -356,6 +356,21 @@ func (p *Pak) Write(w io.Writer) error {
 				}
 			}
 		}
+		// Image PAKs in the Switch release end on a block boundary. A rebuild
+		// can extend the final entry beyond the original file, so preserve the
+		// archive's physical alignment as well as its per-entry alignment.
+		last := p.Files[len(p.Files)-1]
+		end := uint64(last.Offset) + uint64(last.Length)
+		block := uint64(p.BlockSize)
+		if block == 0 {
+			return errors.New("invalid PAK block size")
+		}
+		alignedEnd := (end + block - 1) / block * block
+		if alignedEnd > 0 {
+			if _, err := file.WriteAt([]byte{0}, int64(alignedEnd-1)); err != nil {
+				return err
+			}
+		}
 	} else {
 		for i, f := range p.Files {
 			if f.Replace {

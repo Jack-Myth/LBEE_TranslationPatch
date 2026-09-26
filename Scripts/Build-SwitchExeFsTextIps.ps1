@@ -150,14 +150,10 @@ $buildId = [BitConverter]::ToString($buildIdBytes, 0, $buildIdLength).Replace('-
 
 $items = @(Get-Content -LiteralPath $MappingPath -Raw -Encoding UTF8 | ConvertFrom-Json)
 if ($items.Count -eq 0) { throw 'Mapping JSON has no rows.' }
-$englishSources = New-Object 'System.Collections.Generic.HashSet[string]' ([StringComparer]::Ordinal)
-foreach ($item in $items) {
-    if ($item.Source) { [void]$englishSources.Add([string]$item.Source) }
-}
 $patched = [byte[]]$original.Clone()
 $claimed = New-Object 'System.Collections.Generic.Dictionary[int,byte]'
 $rows = New-Object 'System.Collections.Generic.List[object]'
-$counts = [ordered]@{ Patched = 0; SlackPatched = 0; TooLong = 0; NotFound = 0; MissingJapanese = 0; AmbiguousEnglish = 0; Conflict = 0; Unchanged = 0; Invalid = 0 }
+$counts = [ordered]@{ Patched = 0; SlackPatched = 0; TooLong = 0; NotFound = 0; MissingJapanese = 0; Conflict = 0; Unchanged = 0; Invalid = 0 }
 $encodings = @(
     @{ Name = 'UTF-8'; Codec = [Text.UTF8Encoding]::new($false, $true); Unit = 1 },
     @{ Name = 'UTF-16LE'; Codec = [Text.Encoding]::Unicode; Unit = 2 }
@@ -166,16 +162,25 @@ $encodings = @(
 for ($i = 0; $i -lt $items.Count; $i++) {
     $item = $items[$i]
     $jp = [string]$item.JP
-    $target = [string]$item.Target
+    $mappingTarget = [string]$item.Target
+    $target = $mappingTarget
+    # PC dialog text uses `Speaker@... while Switch stores @Speaker@....
+    # Keep the mapping's Chinese wording but write the Switch speaker marker.
+    if ($jp -match '^@[^@]+@') {
+        if ($target -match '^`[^@]+@') {
+            $target = '@' + $target.Substring(1)
+        } elseif ($target -match '^[^@`\r\n]{1,30}@') {
+            $target = '@' + $target
+        }
+    }
     $row = [ordered]@{ Index = $i; JP = $jp; Target = $target; Status = ''; Hits = @(); Reason = '' }
+    if ($target -cne $mappingTarget) { $row.MappingTarget = $mappingTarget }
     if (-not $jp) {
         $row.Status = 'MissingJapanese'; $row.Reason = 'Mapping row has no JP source.'
     } elseif (-not $target -or $jp.Contains([char]0) -or $target.Contains([char]0)) {
         $row.Status = 'Invalid'; $row.Reason = 'Empty or NUL-containing text.'
     } elseif ($jp -ceq $target) {
         $row.Status = 'Unchanged'; $row.Reason = 'JP equals Target.'
-    } elseif ($englishSources.Contains($jp)) {
-        $row.Status = 'AmbiguousEnglish'; $row.Reason = 'The same bytes also occur as an English Source; skip to preserve the English text.'
     } else {
         $hits = New-Object 'System.Collections.Generic.List[object]'
         foreach ($encoding in $encodings) {
@@ -274,7 +279,7 @@ $report = [ordered]@{
 Write-Host "IPS: $ipsPath"
 Write-Host "Report: $reportPath"
 Write-Host "Font characters: $charsetPath"
-Write-Host "Rows: $($items.Count); patched: $($counts.Patched) (zero slack: $($counts.SlackPatched)); too long: $($counts.TooLong); missing JP: $($counts.MissingJapanese); ambiguous English: $($counts.AmbiguousEnglish); not found: $($counts.NotFound); conflict: $($counts.Conflict)"
-if ($counts.TooLong -or $counts.NotFound -or $counts.MissingJapanese -or $counts.AmbiguousEnglish -or $counts.Conflict -or $counts.Invalid) {
+Write-Host "Rows: $($items.Count); patched: $($counts.Patched) (zero slack: $($counts.SlackPatched)); too long: $($counts.TooLong); missing JP: $($counts.MissingJapanese); not found: $($counts.NotFound); conflict: $($counts.Conflict)"
+if ($counts.TooLong -or $counts.NotFound -or $counts.MissingJapanese -or $counts.Conflict -or $counts.Invalid) {
     Write-Warning 'The IPS contains only safely matched Japanese strings. Review the report before distribution.'
 }

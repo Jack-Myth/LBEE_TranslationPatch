@@ -1,0 +1,594 @@
+{
+  "MESSAGE": [
+    {
+      "JP": "@男子生徒@「そもそも何も載ってないじゃないか！」",
+      "Translation": "@男子生徒@「そもそも何も載ってないじゃないか！」",
+      "EN": "@Male Student@❝There's nothing on the tray!❞"
+    },
+    {
+      "JP": "@男子生徒@「そもそも何も載ってないじゃねーか！」",
+      "Translation": "@男子生徒@「そもそも何も載ってないじゃねーか！」",
+      "EN": "Male Student@❝Hey, there's nothing on the tray!❞"
+    },
+    {
+      "JP": "@男子生徒@「そもそも何も載ってないじゃないか！」",
+      "Translation": "@男子生徒@「そもそも何も載ってないじゃないか！」",
+      "EN": "@Male Student@❝There's nothing on the tray!❞"
+    },
+    {
+      "JP": "@男子生徒@「ご飯がないじゃないか！」",
+      "Translation": "@男子生徒@「ご飯がないじゃないか！」",
+      "EN": "@Male Student@❝There's no rice!❞"
+    },
+    {
+      "JP": "@男子生徒@「ご飯がないじゃねーか！」",
+      "Translation": "@男子生徒@「ご飯がないじゃねーか！」",
+      "EN": "@Male Student@❝Hey, there's no rice!❞"
+    },
+    {
+      "JP": "@男子生徒@「みそ汁がないじゃないか！」",
+      "Translation": "@男子生徒@「みそ汁がないじゃないか！」",
+      "EN": "@Male Student@❝There's no miso soup!❞"
+    },
+    {
+      "JP": "@男子生徒@「みそ汁がないじゃねーか！」",
+      "Translation": "@男子生徒@「みそ汁がないじゃねーか！」",
+      "EN": "@Male Student@❝Hey, there's no miso soup!❞"
+    },
+    {
+      "JP": "@男子生徒@「皿しかないじゃないか！」",
+      "Translation": "@男子生徒@「皿しかないじゃないか！」",
+      "EN": "@Male Student@❝You only gave me the plate!❞"
+    },
+    {
+      "JP": "@男子生徒@「皿しかないじゃねーか！」",
+      "Translation": "@男子生徒@「皿しかないじゃねーか！」",
+      "EN": "@Male Student@❝Hey, you only gave me the plate!❞"
+    },
+    {
+      "JP": "@男子生徒@「皿しかないじゃねーか！」",
+      "Translation": "@男子生徒@「皿しかないじゃねーか！」",
+      "EN": "@Male Student@❝Hey, you only gave me the plate!❞"
+    },
+    {
+      "JP": "@男子生徒@「キャベツ定食かよ！」",
+      "Translation": "@男子生徒@「キャベツ定食かよ！」",
+      "EN": "@Male Student@❝Is that a cabbage special!?❞"
+    },
+    {
+      "JP": "@男子生徒@「キャベツ定食かよ！」",
+      "Translation": "@男子生徒@「キャベツ定食かよ！」",
+      "EN": "@Male Student@❝Is that a cabbage special!?❞"
+    },
+    {
+      "JP": "@男子生徒@「おかず足りてないじゃないか！」",
+      "Translation": "@男子生徒@「おかず足りてないじゃないか！」",
+      "EN": "@Male Student@❝There aren't enough side dishes!❞"
+    },
+    {
+      "JP": "@男子生徒@「おかず足りてないじゃねーか！」",
+      "Translation": "@男子生徒@「おかず足りてないじゃねーか！」",
+      "EN": "@Male Student@❝Hey, there aren't enough side dishes!❞"
+    },
+    {
+      "JP": "@男子生徒@「おかず足りてないじゃねーか！」",
+      "Translation": "@男子生徒@「おかず足りてないじゃねーか！」",
+      "EN": "@Male Student@❝Hey, there aren't enough side dishes!❞"
+    },
+    {
+      "JP": "@男子生徒@「ご飯がかぶってるじゃないか！」",
+      "Translation": "@男子生徒@「ご飯がかぶってるじゃないか！」",
+      "EN": "@Male Student@❝Why did you put rice on it!?❞"
+    },
+    {
+      "JP": "@男子生徒@「ご飯がかぶってるじゃねぇか！」",
+      "Translation": "@男子生徒@「ご飯がかぶってるじゃねぇか！」",
+      "EN": "@Male Student@❝Why did you put rice on it!?❞"
+    },
+    {
+      "JP": "@男子生徒@「こんなにみそ汁のめないよ！」",
+      "Translation": "@男子生徒@「こんなにみそ汁のめないよ！」",
+      "EN": "@Male Student@❝Why did you put rice on it!?❞"
+    },
+    {
+      "JP": "@男子生徒@「こんなにみそ汁のめねーよ！」",
+      "Translation": "@男子生徒@「こんなにみそ汁のめねーよ！」",
+      "EN": "@Male Student@❝Hey, I can't drink miso soup like this!❞"
+    },
+    {
+      "JP": "@男子生徒@「ご飯とおにぎり、かぶってるじゃないか！」",
+      "Translation": "@男子生徒@「ご飯とおにぎり、かぶってるじゃないか！」",
+      "EN": "@Male Student@❝Why did you put rice and onigiri on it!?❞"
+    },
+    {
+      "JP": "@男子生徒@「ご飯とおにぎり、かぶってるじゃねぇか！」",
+      "Translation": "@男子生徒@「ご飯とおにぎり、かぶってるじゃねぇか！」",
+      "EN": "@Male Student@❝Why did you put rice and onigiri on it!?❞"
+    },
+    {
+      "JP": "@男子生徒@「ありがとう！」",
+      "Translation": "@男子生徒@「ありがとう！」",
+      "EN": "@Male Student@❝Thank you!❞"
+    },
+    {
+      "JP": "@男子生徒@「ありがとよ！」",
+      "Translation": "@男子生徒@「ありがとよ！」",
+      "EN": "@Male Student@❝Thank you!❞"
+    },
+    {
+      "JP": "@男子生徒@「ありがとよ！」",
+      "Translation": "@男子生徒@「ありがとよ！」",
+      "EN": "@Male Student@❝Thanks!❞"
+    },
+    {
+      "JP": "@男子生徒@「サンキュー！」",
+      "Translation": "@男子生徒@「サンキュー！」",
+      "EN": "@Male Student@❝Sankyuu!❞"
+    },
+    {
+      "JP": "@男子生徒@「ありがとよ！」",
+      "Translation": "@男子生徒@「ありがとよ！」",
+      "EN": "@Male Student@❝Thanks!❞"
+    },
+    {
+      "JP": "@男子生徒@「ゼリーだけじゃないか！」",
+      "Translation": "@男子生徒@「ゼリーだけじゃないか！」",
+      "EN": "@Male Student@❝There's only jelly on it!❞"
+    },
+    {
+      "JP": "@男子生徒@「ゼリーだけじゃねーか！」",
+      "Translation": "@男子生徒@「ゼリーだけじゃねーか！」",
+      "EN": "@Male Student@❝Hey, there's only jelly on it!❞"
+    },
+    {
+      "JP": "@男子生徒@「ゼリーだけじゃねーか！」",
+      "Translation": "@男子生徒@「ゼリーだけじゃねーか！」",
+      "EN": "@Male Student@❝Hey, there's only jelly on it!❞"
+    },
+    {
+      "JP": "@男子生徒@「どれだけゼリー食わせたいんだよ！」",
+      "Translation": "@男子生徒@「どれだけゼリー食わせたいんだよ！」",
+      "EN": "@Male Student@❝Do you expect me to eat all this jelly!?❞"
+    },
+    {
+      "JP": "@男子生徒@「どれだけゼリー食わせたいんだよ！」",
+      "Translation": "@男子生徒@「どれだけゼリー食わせたいんだよ！」",
+      "EN": "@Male Student@❝Do you expect me to eat all this jelly!?❞"
+    },
+    {
+      "JP": "@男子生徒@「ゼリーだらけじゃないか！」",
+      "Translation": "@男子生徒@「ゼリーだらけじゃないか！」",
+      "EN": "@Male Student@❝There's nothing but jelly on it!❞"
+    },
+    {
+      "JP": "@男子生徒@「ゼリーだらけじゃねーか！」",
+      "Translation": "@男子生徒@「ゼリーだらけじゃねーか！」",
+      "EN": "@Male Student@❝Hey, there's nothing but jelly on it!❞"
+    },
+    {
+      "JP": "@男子生徒@「ゼリーだらけじゃねーか！」",
+      "Translation": "@男子生徒@「ゼリーだらけじゃねーか！」",
+      "EN": "@Male Student@❝Hey, there's nothing but jelly on it!❞"
+    },
+    {
+      "JP": "@男子生徒@「ゼリーに埋め尽くされてるじゃないか！」",
+      "Translation": "@男子生徒@「ゼリーに埋め尽くされてるじゃないか！」",
+      "EN": "@Male Student@❝Why is it all covered with jelly!?❞"
+    },
+    {
+      "JP": "@男子生徒@「ゼリーに埋め尽くされてるじゃねーか！」",
+      "Translation": "@男子生徒@「ゼリーに埋め尽くされてるじゃねーか！」",
+      "EN": "@Male Student@❝Hey, why is there so much jelly!?❞"
+    },
+    {
+      "JP": "@男子生徒@「ゼリーに埋め尽くされてるじゃねーか！」",
+      "Translation": "@男子生徒@「ゼリーに埋め尽くされてるじゃねーか！」",
+      "EN": "@Male Student@❝Hey, why is there so much jelly!?❞"
+    },
+    {
+      "JP": "@男子生徒@「これっぽっちで何を食えってんだよ！」",
+      "Translation": "@男子生徒@「これっぽっちで何を食えってんだよ！」",
+      "EN": "@Male Student@❝Hey, why is there so much jelly!?❞"
+    },
+    {
+      "JP": "@男子生徒@「これっぽっちで何を食えってんだよ！」",
+      "Translation": "@男子生徒@「これっぽっちで何を食えってんだよ！」",
+      "EN": "@Male Student@❝How about giving me something to eat!?❞"
+    },
+    {
+      "JP": "@男子生徒@「こんなに食ったら胃がもたれるだろ！」",
+      "Translation": "@男子生徒@「こんなに食ったら胃がもたれるだろ！」",
+      "EN": "@Male Student@❝My belly will blow up if I eat all of this!❞"
+    },
+    {
+      "JP": "@男子生徒@「こんなに食ったら胃がもたれるだろ！」",
+      "Translation": "@男子生徒@「こんなに食ったら胃がもたれるだろ！」",
+      "EN": "@Male Student@❝My belly will blow up if I eat all of this!❞"
+    },
+    {
+      "JP": "@男子生徒@「こんなに食えないんだけど…」",
+      "Translation": "@男子生徒@「こんなに食えないんだけど…」",
+      "EN": "@Male Student@❝I can't eat all this...❞"
+    },
+    {
+      "JP": "@男子生徒@「こんなに食えないんだが…」",
+      "Translation": "@男子生徒@「こんなに食えないんだが…」",
+      "EN": "@Male Student@❝Do you expect me to eat all of this...?❞"
+    },
+    {
+      "JP": "@男子生徒@「これで合ってるのか…？」",
+      "Translation": "@男子生徒@「これで合ってるのか…？」",
+      "EN": "@Male Student@❝Is this really correct...?❞"
+    },
+    {
+      "JP": "@男子生徒@「これで合ってるのか…？」",
+      "Translation": "@男子生徒@「これで合ってるのか…？」",
+      "EN": "@Male Student@❝Is this really correct...?❞"
+    },
+    {
+      "JP": "@男子生徒@「これなんかおかしくないか？」",
+      "Translation": "@男子生徒@「これなんかおかしくないか？」",
+      "EN": "@Male Student@❝Isn't there something wrong with this?❞"
+    },
+    {
+      "JP": "@男子生徒@「これなんかおかしくねーか？」",
+      "Translation": "@男子生徒@「これなんかおかしくねーか？」",
+      "EN": "@Male Student@❝Hey, isn't there something wrong with this?❞"
+    },
+    {
+      "JP": "@男子生徒@「これなんかおかしくねーか？」",
+      "Translation": "@男子生徒@「これなんかおかしくねーか？」",
+      "EN": "@Male Student@❝Hey, isn't there something wrong with this?❞"
+    },
+    {
+      "JP": "@男子生徒@「おいおい、間違ってるじゃないか！」",
+      "Translation": "@男子生徒@「おいおい、間違ってるじゃないか！」",
+      "EN": "@Male Student@❝Hey! It's totally not right!❞"
+    },
+    {
+      "JP": "@男子生徒@「おいおい、間違ってるじゃねーか！」",
+      "Translation": "@男子生徒@「おいおい、間違ってるじゃねーか！」",
+      "EN": "@Male Student@❝Hey! It's totally not right!❞"
+    },
+    {
+      "JP": "@男子生徒@「おい、なんだよこりゃあ！」",
+      "Translation": "@男子生徒@「おい、なんだよこりゃあ！」",
+      "EN": "@Male Student@❝Hey, what the hell is this!?❞"
+    },
+    {
+      "JP": "@男子生徒@「おい、なんだよこりゃあ！」",
+      "Translation": "@男子生徒@「おい、なんだよこりゃあ！」",
+      "EN": "@Male Student@❝Hey, what the hell is this!?❞"
+    },
+    {
+      "JP": "@男子生徒@「おい、なんだよこりゃあ！」",
+      "Translation": "@男子生徒@「おい、なんだよこりゃあ！」",
+      "EN": "@Male Student@❝Hey, what kind of joke is that!?❞"
+    },
+    {
+      "JP": "@女子生徒@「何も載ってないんだけど…」",
+      "Translation": "@女子生徒@「何も載ってないんだけど…」",
+      "EN": "@Female Student@❝You didn't put anything on it...❞"
+    },
+    {
+      "JP": "@女子生徒@「何も載ってないんだけど？」",
+      "Translation": "@女子生徒@「何も載ってないんだけど？」",
+      "EN": "@Female Student@❝You didn't put anything on it...?❞"
+    },
+    {
+      "JP": "@女子生徒@「おにぎりがないんだけど…」",
+      "Translation": "@女子生徒@「おにぎりがないんだけど…」",
+      "EN": "@Female Student@❝There's no onigiri...❞"
+    },
+    {
+      "JP": "@女子生徒@「おにぎりがないんだけど…」",
+      "Translation": "@女子生徒@「おにぎりがないんだけど…」",
+      "EN": "@Female Student@❝There's no onigiri...❞"
+    },
+    {
+      "JP": "@女子生徒@「おみそ汁がないんだけど？」",
+      "Translation": "@女子生徒@「おみそ汁がないんだけど？」",
+      "EN": "@Female Student@❝Where's my miso soup?❞"
+    },
+    {
+      "JP": "@女子生徒@「おみそ汁がないんだけど…」",
+      "Translation": "@女子生徒@「おみそ汁がないんだけど…」",
+      "EN": "@Female Student@❝There's no miso soup...❞"
+    },
+    {
+      "JP": "@女子生徒@「ゼリーがないんだけど…」",
+      "Translation": "@女子生徒@「ゼリーがないんだけど…」",
+      "EN": "@Female Student@❝There's no jelly...❞"
+    },
+    {
+      "JP": "@女子生徒@「ゼリーがないんだけど？」",
+      "Translation": "@女子生徒@「ゼリーがないんだけど？」",
+      "EN": "@Female Student@❝Where's my jelly?❞"
+    },
+    {
+      "JP": "@女子生徒@「ゼリーがないんだけど…特に欲しいわけじゃないけど」",
+      "Translation": "@女子生徒@「ゼリーがないんだけど…特に欲しいわけじゃないけど」",
+      "EN": "@Female Student@❝There's no jelly... I didn't really want it, though.❞"
+    },
+    {
+      "JP": "@女子生徒@「ゼリーがないんだけど…特に欲しいわけじゃないけど」",
+      "Translation": "@女子生徒@「ゼリーがないんだけど…特に欲しいわけじゃないけど」",
+      "EN": "@Female Student@❝There's no jelly... I didn't really want it, though.❞"
+    },
+    {
+      "JP": "@女子生徒@「こんなにみそ汁飲めないんだけど…」",
+      "Translation": "@女子生徒@「こんなにみそ汁飲めないんだけど…」",
+      "EN": "@Female Student@❝I can't eat all this miso soup...❞"
+    },
+    {
+      "JP": "@女子生徒@「こんなにみそ汁飲めないんだけど…」",
+      "Translation": "@女子生徒@「こんなにみそ汁飲めないんだけど…」",
+      "EN": "@Female Student@❝I can't eat all this miso soup...❞"
+    },
+    {
+      "JP": "@女子生徒@「このコロッケはサービスなの！？」",
+      "Translation": "@女子生徒@「このコロッケはサービスなの！？」",
+      "EN": "@Female Student@❝Is this croquette a bonus!?❞"
+    },
+    {
+      "JP": "@女子生徒@「カツなんて頼んでないんだけど…」",
+      "Translation": "@女子生徒@「カツなんて頼んでないんだけど…」",
+      "EN": "@Female Student@❝I didn't order a cutlet...❞"
+    },
+    {
+      "JP": "@女子生徒@「カツなんて頼んでないんだけど…」",
+      "Translation": "@女子生徒@「カツなんて頼んでないんだけど…」",
+      "EN": "@Female Student@❝I didn't order a cutlet...❞"
+    },
+    {
+      "JP": "@女子生徒@「なんでカツが載ってんのよ！」",
+      "Translation": "@女子生徒@「なんでカツが載ってんのよ！」",
+      "EN": "@Female Student@❝What's that cutlet for!?❞"
+    },
+    {
+      "JP": "@女子生徒@「なんでカツが載ってんのよ…」",
+      "Translation": "@女子生徒@「なんでカツが載ってんのよ…」",
+      "EN": "@Female Student@❝Why did you give me a cutlet...?❞"
+    },
+    {
+      "JP": "@女子生徒@「このエビフライはなに！？」",
+      "Translation": "@女子生徒@「このエビフライはなに！？」",
+      "EN": "@Female Student@❝When did I ask for fried prawns?❞"
+    },
+    {
+      "JP": "@女子生徒@「このエビフライはなに！？」",
+      "Translation": "@女子生徒@「このエビフライはなに！？」",
+      "EN": "@Female Student@❝When did I ask for fried prawns?❞"
+    },
+    {
+      "JP": "@女子生徒@「フライなんて頼んでないわよ？」",
+      "Translation": "@女子生徒@「フライなんて頼んでないわよ？」",
+      "EN": "@Female Student@❝I didn't order fries?❞"
+    },
+    {
+      "JP": "@女子生徒@「フライなんて頼んでないわよ？」",
+      "Translation": "@女子生徒@「フライなんて頼んでないわよ？」",
+      "EN": "@Female Student@❝I didn't order fries?❞"
+    },
+    {
+      "JP": "@女子生徒@「おにぎりにキャベツ！？」",
+      "Translation": "@女子生徒@「おにぎりにキャベツ！？」",
+      "EN": "@Female Student@❝Onigiri with cabbage?❞"
+    },
+    {
+      "JP": "@女子生徒@「おにぎりにキャベツ！？」",
+      "Translation": "@女子生徒@「おにぎりにキャベツ！？」",
+      "EN": "@Female Student@❝Onigiri with cabbage?❞"
+    },
+    {
+      "JP": "@女子生徒@「ありがとう」",
+      "Translation": "@女子生徒@「ありがとう」",
+      "EN": "@Female Student@❝Thank you.❞"
+    },
+    {
+      "JP": "@女子生徒@「ありがとう」",
+      "Translation": "@女子生徒@「ありがとう」",
+      "EN": "@Female Student@❝Thank you.❞"
+    },
+    {
+      "JP": "@女子生徒@「ゼリーしかないんだけど…」",
+      "Translation": "@女子生徒@「ゼリーしかないんだけど…」",
+      "EN": "@Female Student@❝There's only jelly...❞"
+    },
+    {
+      "JP": "@女子生徒@「ゼリーしかないんだけど？」",
+      "Translation": "@女子生徒@「ゼリーしかないんだけど？」",
+      "EN": "@Female Student@❝Why is there nothing but jelly?❞"
+    },
+    {
+      "JP": "@女子生徒@「ゼリーこれで合ってるの？」",
+      "Translation": "@女子生徒@「ゼリーこれで合ってるの？」",
+      "EN": "@Female Student@❝Should the jelly really be there?❞"
+    },
+    {
+      "JP": "@女子生徒@「ゼリーこれで合ってるの？」",
+      "Translation": "@女子生徒@「ゼリーこれで合ってるの？」",
+      "EN": "@Female Student@❝Should the jelly really be there?❞"
+    },
+    {
+      "JP": "@女子生徒@「ゼリー定食かしら…？」",
+      "Translation": "@女子生徒@「ゼリー定食かしら…？」",
+      "EN": "@Female Student@❝Is that a jelly special...?❞"
+    },
+    {
+      "JP": "@女子生徒@「ゼリー定食かしら…？」",
+      "Translation": "@女子生徒@「ゼリー定食かしら…？」",
+      "EN": "@Female Student@❝Is that a jelly special...?❞"
+    },
+    {
+      "JP": "@女子生徒@「こんな高カロリーな定食頼んでないわよ！？」",
+      "Translation": "@女子生徒@「こんな高カロリーな定食頼んでないわよ！？」",
+      "EN": "@Female Student@❝I'd never order something so high on calories!?❞"
+    },
+    {
+      "JP": "@女子生徒@「こんな高カロリーな定食頼んでないわよ！？」",
+      "Translation": "@女子生徒@「こんな高カロリーな定食頼んでないわよ！？」",
+      "EN": "@Female Student@❝I'd never order something so high on calories!?❞"
+    },
+    {
+      "JP": "@女子生徒@「定食になってないじゃない！」",
+      "Translation": "@女子生徒@「定食になってないじゃない！」",
+      "EN": "@Female Student@❝That's not even a lunch set!❞"
+    },
+    {
+      "JP": "@女子生徒@「定食になってないじゃない！」",
+      "Translation": "@女子生徒@「定食になってないじゃない！」",
+      "EN": "@Female Student@❝This isn't even a lunch set!❞"
+    },
+    {
+      "JP": "@女子生徒@「なにっこの組み合わせ！？」",
+      "Translation": "@女子生徒@「なにっこの組み合わせ！？」",
+      "EN": "@Female Student@❝What's with this weird combination!?❞"
+    },
+    {
+      "JP": "@女子生徒@「なにっこの組み合わせ！？」",
+      "Translation": "@女子生徒@「なにっこの組み合わせ！？」",
+      "EN": "@Female Student@❝What's with this weird combination!?❞"
+    },
+    {
+      "JP": "@女子生徒@「よく堂々とこんなトレイ渡せるわね…」",
+      "Translation": "@女子生徒@「よく堂々とこんなトレイ渡せるわね…」",
+      "EN": "@Female Student@❝How can you even serve this with a straight face...❞"
+    },
+    {
+      "JP": "@女子生徒@「よく堂々とこんなトレイ渡せるわね…」",
+      "Translation": "@女子生徒@「よく堂々とこんなトレイ渡せるわね…」",
+      "EN": "@Female Student@❝How can you even serve this with a straight face...❞"
+    },
+    {
+      "JP": "@女子生徒@「むちゃくちゃじゃない！」",
+      "Translation": "@女子生徒@「むちゃくちゃじゃない！」",
+      "EN": "@Female Student@❝This is a mess!❞"
+    },
+    {
+      "JP": "@女子生徒@「むちゃくちゃじゃない！」",
+      "Translation": "@女子生徒@「むちゃくちゃじゃない！」",
+      "EN": "@Female Student@❝This is a mess!❞"
+    },
+    {
+      "JP": "@女子生徒@「ちょっと…これ真剣だったら怒るわよ…」",
+      "Translation": "@女子生徒@「ちょっと…これ真剣だったら怒るわよ…」",
+      "EN": "@Female Student@❝Hey... I really hope it's a joke...❞"
+    },
+    {
+      "JP": "@女子生徒@「ちょっと…これ真剣だったら怒るわよ！」",
+      "Translation": "@女子生徒@「ちょっと…これ真剣だったら怒るわよ！」",
+      "EN": "@Female Student@❝Hey... I really hope it's a joke...❞"
+    },
+    {
+      "JP": "@男子生徒@「何も載ってないじゃないか！」",
+      "Translation": "@男子生徒@「何も載ってないじゃないか！」",
+      "EN": "@Male Student@❝There's nothing on the tray!❞"
+    },
+    {
+      "JP": "@男子生徒@「何も載ってないじゃねーか！」",
+      "Translation": "@男子生徒@「何も載ってないじゃねーか！」",
+      "EN": "@Male Student@❝There's nothing on the tray!❞"
+    },
+    {
+      "JP": "@男子生徒@「何も載ってないじゃないか…」",
+      "Translation": "@男子生徒@「何も載ってないじゃないか…」",
+      "EN": "@Male Student@❝There's nothing on the tray!❞"
+    },
+    {
+      "JP": "@男子生徒@「皿しかないじゃないか！」",
+      "Translation": "@男子生徒@「皿しかないじゃないか！」",
+      "EN": "@Male Student@❝You only gave me the plate!❞"
+    },
+    {
+      "JP": "@男子生徒@「皿しかないじゃねーか！」",
+      "Translation": "@男子生徒@「皿しかないじゃねーか！」",
+      "EN": "@Male Student@❝Hey, you only gave me the plate!❞"
+    },
+    {
+      "JP": "@男子生徒@「皿しかないじゃねーか！」",
+      "Translation": "@男子生徒@「皿しかないじゃねーか！」",
+      "EN": "@Male Student@❝Hey, you only gave me the plate!❞"
+    },
+    {
+      "JP": "@男子生徒@「ご飯だけじゃないか！」",
+      "Translation": "@男子生徒@「ご飯だけじゃないか！」",
+      "EN": "@Male Student@❝There's only rice!❞"
+    },
+    {
+      "JP": "@男子生徒@「ご飯だけじゃねぇか！」",
+      "Translation": "@男子生徒@「ご飯だけじゃねぇか！」",
+      "EN": "@Male Student@❝Hey, there's only rice!❞"
+    },
+    {
+      "JP": "@男子生徒@「ご飯とゼリーだけでどうするんだよ！」",
+      "Translation": "@男子生徒@「ご飯とゼリーだけでどうするんだよ！」",
+      "EN": "@Male Student@❝What am I supposed to do with jelly and rice!?❞"
+    },
+    {
+      "JP": "@男子生徒@「ご飯とゼリーだけでどうすんだよ！」",
+      "Translation": "@男子生徒@「ご飯とゼリーだけでどうすんだよ！」",
+      "EN": "@Male Student@❝What am I supposed to do with jelly and rice!?❞"
+    },
+    {
+      "JP": "@男子生徒@「コロッケカレーだ、ラッキー！」",
+      "Translation": "@男子生徒@「コロッケカレーだ、ラッキー！」",
+      "EN": "@Male Student@❝Croquette curry, how lucky!❞"
+    },
+    {
+      "JP": "@男子生徒@「コロッケカレーだ、ラッキー！」",
+      "Translation": "@男子生徒@「コロッケカレーだ、ラッキー！」",
+      "EN": "@Male Student@❝Croquette curry, how lucky!❞"
+    },
+    {
+      "JP": "@男子生徒@「カツカレーだ、ラッキー！」",
+      "Translation": "@男子生徒@「カツカレーだ、ラッキー！」",
+      "EN": "@Male Student@❝Cutlet curry, how lucky!❞"
+    },
+    {
+      "JP": "@男子生徒@「カツカレーだ、ラッキー！」",
+      "Translation": "@男子生徒@「カツカレーだ、ラッキー！」",
+      "EN": "@Male Student@❝Cutlet curry, how lucky!❞"
+    },
+    {
+      "JP": "@男子生徒@「エビフライカレーだ、ラッキー！」",
+      "Translation": "@男子生徒@「エビフライカレーだ、ラッキー！」",
+      "EN": "@Male Student@❝Fried prawn curry, how lucky!❞"
+    },
+    {
+      "JP": "@男子生徒@「エビフライカレーだ、ラッキー！」",
+      "Translation": "@男子生徒@「エビフライカレーだ、ラッキー！」",
+      "EN": "@Male Student@❝Fried prawn curry, how lucky!❞"
+    },
+    {
+      "JP": "@男子生徒@「エビフライカレーだ、ラッキー！」",
+      "Translation": "@男子生徒@「エビフライカレーだ、ラッキー！」",
+      "EN": "@Male Student@❝Fried prawn curry, how lucky!❞"
+    },
+    {
+      "JP": "@男子生徒@「ミックスフライカレーだ、ラッキー！」",
+      "Translation": "@男子生徒@「ミックスフライカレーだ、ラッキー！」",
+      "EN": "@Male Student@❝Assorted curry, how lucky!❞"
+    },
+    {
+      "JP": "@男子生徒@「ミックスフライカレーだ、ラッキー！」",
+      "Translation": "@男子生徒@「ミックスフライカレーだ、ラッキー！」",
+      "EN": "@Male Student@❝Assorted curry, how lucky!❞"
+    },
+    {
+      "JP": "@男子生徒@「ミックスフライカレーだ、ラッキー！」",
+      "Translation": "@男子生徒@「ミックスフライカレーだ、ラッキー！」",
+      "EN": "@Male Student@❝Assorted curry, how lucky!❞"
+    },
+    {
+      "JP": "@男子生徒@「カレーにキャベツは合わないだろっ！」",
+      "Translation": "@男子生徒@「カレーにキャベツは合わないだろっ！」",
+      "EN": "@Male Student@❝Cabbage doesn't go well with curry!❞"
+    },
+    {
+      "JP": "@男子生徒@「カレーにキャベツは合わねーだろっ！」",
+      "Translation": "@男子生徒@「カレーにキャベツは合わねーだろっ！」",
+      "EN": "@Male Student@❝Cabbage doesn't go well with curry!❞"
+    }
+  ]
+}

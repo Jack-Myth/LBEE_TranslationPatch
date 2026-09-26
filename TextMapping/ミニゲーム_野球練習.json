@@ -1,0 +1,3164 @@
+{
+  "MESSAGE": [
+    {
+      "JP": "@恭介@「しまっていくぞ！」",
+      "Translation": "@恭介@「しまっていくぞ！」",
+      "EN": "@Kyousuke@❝Here we go!❞"
+    },
+    {
+      "JP": "@恭介@「じゃあ、始めるぞ！」",
+      "Translation": "@恭介@「じゃあ、始めるぞ！」",
+      "EN": "@Kyousuke@❝Then, let's start!❞"
+    },
+    {
+      "JP": "@恭介@「練習開始だ！」",
+      "Translation": "@恭介@「練習開始だ！」",
+      "EN": "@Kyousuke@❝Batting exercise, start!❞"
+    },
+    {
+      "JP": "@恭介@「バッティングと守備練習スタートだ！」",
+      "Translation": "@恭介@「バッティングと守備練習スタートだ！」",
+      "EN": "@Kyousuke@❝Batting and defense practice, start!❞"
+    },
+    {
+      "JP": "@恭介@「試合までまだあるが、気を抜くなよ！」",
+      "Translation": "@恭介@「試合までまだあるが、気を抜くなよ！」",
+      "EN": "@Kyousuke@❝There's still some time until the game, but don't get careless!❞"
+    },
+    {
+      "JP": "@恭介@「試合はもうすぐだ。しまっていくぞ！」",
+      "Translation": "@恭介@「試合はもうすぐだ。しまっていくぞ！」",
+      "EN": "@Kyousuke@❝It's almost time for the game, put your spirit into it!❞"
+    },
+    {
+      "JP": "@恭介@「明日は試合だ、理樹、しまっていくぞって声を掛けろ！」",
+      "Translation": "@恭介@「明日は試合だ、理樹、しまっていくぞって声を掛けろ！」",
+      "EN": "@Kyousuke@❝The game is tomorrow, Riki, let loose the dogs of war!❞"
+    },
+    {
+      "JP": "@恭介@「練習再開だ！」",
+      "Translation": "@恭介@「練習再開だ！」",
+      "EN": "@Kyousuke@❝Resuming practice!❞"
+    },
+    {
+      "JP": "@恭介@「よし、いったん休憩にしよう」",
+      "Translation": "@恭介@「よし、いったん休憩にしよう」",
+      "EN": "@Kyousuke@❝Aight, let's take a break.❞"
+    },
+    {
+      "JP": "@恭介@「よし、ここらで休憩にしよう」",
+      "Translation": "@恭介@「よし、ここらで休憩にしよう」",
+      "EN": "@Kyousuke@❝Aight, let's take a break here.❞"
+    },
+    {
+      "JP": "@恭介@「よし、今日はこのくらいにしておこう」",
+      "Translation": "@恭介@「よし、今日はこのくらいにしておこう」",
+      "EN": "@Kyousuke@❝Aight, let's call it a day here.❞"
+    },
+    {
+      "JP": "@恭介@「よし、終わろう。いい汗かいたな」",
+      "Translation": "@恭介@「よし、終わろう。いい汗かいたな」",
+      "EN": "@Kyousuke@❝Aight, that was a good sweat, let's end it here.❞"
+    },
+    {
+      "JP": "@恭介@「よし、今日はここまでだ」",
+      "Translation": "@恭介@「よし、今日はここまでだ」",
+      "EN": "@Kyousuke@❝Aight, that's enough for today❞"
+    },
+    {
+      "JP": "@恭介@「よし、終わろう。日に日によくなっていくじゃないか、さすがだな」",
+      "Translation": "@恭介@「よし、終わろう。日に日によくなっていくじゃないか、さすがだな」",
+      "EN": "@Kyousuke@❝Aight, let's end it here. We really have been getting better by the day.❞"
+    },
+    {
+      "JP": "@恭介@「よし、次はこっちだ！」",
+      "Translation": "@恭介@「よし、次はこっちだ！」",
+      "EN": "@Kyousuke@❝Aight, over here next!❞"
+    },
+    {
+      "JP": "@恭介@「理樹、今度はこっちだ！」",
+      "Translation": "@恭介@「理樹、今度はこっちだ！」",
+      "EN": "@Kyousuke@❝Riki, this way now!❞"
+    },
+    {
+      "JP": "@恭介@「理樹、次はここだ！」",
+      "Translation": "@恭介@「理樹、次はここだ！」",
+      "EN": "@Kyousuke@❝Here next, Riki!❞"
+    },
+    {
+      "JP": "@小毬@「痛いけどだいじょうぶ～」",
+      "Translation": "@小毬@「痛いけどだいじょうぶ～」",
+      "EN": "@Komari@❝It hurts, but I'm okay～.❞"
+    },
+    {
+      "JP": "@クド@「わ、わふー…とらぶるてりぶるあくしでんとです…」",
+      "Translation": "@クド@「わ、わふー…とらぶるてりぶるあくしでんとです…」",
+      "EN": "@Kud@❝wa, wafu～ ... toraburu teriburu akushindento desu ...❞"
+    },
+    {
+      "JP": "「益体もない」",
+      "Translation": "「益体もない」",
+      "EN": "No sense."
+    },
+    {
+      "JP": "「節操もない」",
+      "Translation": "「節操もない」",
+      "EN": "No principles."
+    },
+    {
+      "JP": "「はるちんダイナミック投げー！！」",
+      "Translation": "「はるちんダイナミック投げー！！」",
+      "EN": "Haruchin Dynamic Throwing!!"
+    },
+    {
+      "JP": "「はるちん話がなげー！！」",
+      "Translation": "「はるちん話がなげー！！」",
+      "EN": "Haruchin's stories are long!!"
+    },
+    {
+      "JP": "「はるちんうなじがせつなげー！！」",
+      "Translation": "「はるちんうなじがせつなげー！！」",
+      "EN": "Haruchin's nape looks so wistful!!"
+    },
+    {
+      "JP": "「最後まで言わせて～」",
+      "Translation": "「最後まで言わせて～」",
+      "EN": "Let me finish what I have to say～."
+    },
+    {
+      "JP": "「そんなにハンバーグが食いたいのかい。球筋に出てるぜ？」",
+      "Translation": "「そんなにハンバーグが食いたいのかい。球筋に出てるぜ？」",
+      "EN": "Are you craving for a hamburger that bad? It's clear from the way you bat."
+    },
+    {
+      "JP": "「またハンバーグかい。球筋に出てるぜ？」",
+      "Translation": "「またハンバーグかい。球筋に出てるぜ？」",
+      "EN": "Thinking about hamburger again? It's clear from the way you bat."
+    },
+    {
+      "JP": "「理樹はハンバーグが好きだなあ。球筋に出まくってるぜ？」",
+      "Translation": "「理樹はハンバーグが好きだなあ。球筋に出まくってるぜ？」",
+      "EN": "I didn't know you were so into hamburgers, Riki. It's totally clear from the way you bat."
+    },
+    {
+      "JP": "「もうハンバーグはいいだろ、少しはハンバーグ以外のことも考えろよ」",
+      "Translation": "「もうハンバーグはいいだろ、少しはハンバーグ以外のことも考えろよ」",
+      "EN": "Give it a rest already, think of something other than hamburgers for once."
+    },
+    {
+      "JP": "「そんなにとんがりコーンが食いたいのかい。球筋に出てるぜ？」",
+      "Translation": "「そんなにとんがりコーンが食いたいのかい。球筋に出てるぜ？」",
+      "EN": "Do you want to eat a Tongari Corn that bad? It's clear from the way you bat."
+    },
+    {
+      "JP": "「またとんがりコーンかい。球筋に出てるぜ？」",
+      "Translation": "「またとんがりコーンかい。球筋に出てるぜ？」",
+      "EN": "Thinking about Tongari Corn again? It's clear from the way you bat."
+    },
+    {
+      "JP": "「理樹はとんがりコーンが好きだなあ。球筋に出まくってるぜ？」",
+      "Translation": "「理樹はとんがりコーンが好きだなあ。球筋に出まくってるぜ？」",
+      "EN": "I didn't know you were so into Tongari Corn, Riki. It's totally clear from the way you bat."
+    },
+    {
+      "JP": "「もうとんがりコーンはいいだろ、少しはとんがりコーン以外のことも考えろよ」",
+      "Translation": "「もうとんがりコーンはいいだろ、少しはとんがりコーン以外のことも考えろよ」",
+      "EN": "Give it a rest already, think of something other than Tongari Corn too."
+    },
+    {
+      "JP": "「そんなに回転寿司でがりだけ食いまくりたいのかい。球筋に出てるぜ？」",
+      "Translation": "「そんなに回転寿司でがりだけ食いまくりたいのかい。球筋に出てるぜ？」",
+      "EN": "Do you want to eat Gari in a conveyor belt sushi bar that bad? It's clear from the way you bat."
+    },
+    {
+      "JP": "「また回転寿司のがりかい。球筋に出てるぜ？」",
+      "Translation": "「また回転寿司のがりかい。球筋に出てるぜ？」",
+      "EN": "Thinking about Gari again? It's clear from the way you bat."
+    },
+    {
+      "JP": "「理樹は回転寿司のがりが好きだなあ。球筋に出まくってるぜ？」",
+      "Translation": "「理樹は回転寿司のがりが好きだなあ。球筋に出まくってるぜ？」",
+      "EN": "I didn't know you were so into Gari, Riki. It's totally clear from the way you bat."
+    },
+    {
+      "JP": "「もう回転寿司でがりはいいだろ、少しはがり以外のネタのことも考えてやれよ」",
+      "Translation": "「もう回転寿司でがりはいいだろ、少しはがり以外のネタのことも考えてやれよ」",
+      "EN": "Give it a rest already, think of something other than conveyor belt sushi bars and Gari."
+    },
+    {
+      "JP": "「そんなに餡の入っていない生八つ橋だけを食いたいのかい。球筋に出てるぜ？」",
+      "Translation": "「そんなに餡の入っていない生八つ橋だけを食いたいのかい。球筋に出てるぜ？」",
+      "EN": "You want raw yatsuhashi with no red bean paste that bad? It's clear from the way you bat."
+    },
+    {
+      "JP": "「また餡の入っていない生八つ橋かい。球筋に出てるぜ？\u3000ほんとに餡なしのほうがいいのか？」",
+      "Translation": "「また餡の入っていない生八つ橋かい。球筋に出てるぜ？\u3000ほんとに餡なしのほうがいいのか？」",
+      "EN": "Yatsuhashi again? It's clear from the way you bat. You really want no red bean paste?"
+    },
+    {
+      "JP": "「理樹は餡の入っていない生八つ橋が好きだなあ。球筋に出まくってるぜ？」",
+      "Translation": "「理樹は餡の入っていない生八つ橋が好きだなあ。球筋に出まくってるぜ？」",
+      "EN": "I didn't know you were so against red bean paste in yatsuhashi. It's totally clear from how you bat."
+    },
+    {
+      "JP": "「もう餡の入っていない生八つ橋はいいだろ、少しは餡が入ってるほうの生八つ橋のことも考えてやれよ」",
+      "Translation": "「もう餡の入っていない生八つ橋はいいだろ、少しは餡が入ってるほうの生八つ橋のことも考えてやれよ」",
+      "EN": "Give it a rest already, think of something other than raw yatsuhashi with no red bean jam."
+    },
+    {
+      "JP": "「そんなにあきらかな毒キノコが食いたいのかい。球筋に出てるぜ？」",
+      "Translation": "「そんなにあきらかな毒キノコが食いたいのかい。球筋に出てるぜ？」",
+      "EN": "Do you want to eat poisonous mushrooms that bad? It's clear from the way you bat."
+    },
+    {
+      "JP": "「またあきらかな毒キノコかい。球筋に出てるぜ？」",
+      "Translation": "「またあきらかな毒キノコかい。球筋に出てるぜ？」",
+      "EN": "Thinking about obviously poisonous mushrooms again? It's clear from the way you bat."
+    },
+    {
+      "JP": "「理樹はあきらかな毒キノコが好きだなあ。球筋に出まくってるぜ？」",
+      "Translation": "「理樹はあきらかな毒キノコが好きだなあ。球筋に出まくってるぜ？」",
+      "EN": "I didn't know you were so into poisonous mushrooms, Riki. It's totally clear from the way you bat."
+    },
+    {
+      "JP": "「もうあきらかな毒キノコはいいだろ、せめて食えるキノコのことを考えろよ」",
+      "Translation": "「もうあきらかな毒キノコはいいだろ、せめて食えるキノコのことを考えろよ」",
+      "EN": "Give it a rest already, at least think about edible mushrooms sometimes too."
+    },
+    {
+      "JP": "「そんなに真っ黒に変色したバナナが食いたいのかい。球筋に出てるぜ？」",
+      "Translation": "「そんなに真っ黒に変色したバナナが食いたいのかい。球筋に出てるぜ？」",
+      "EN": "Do you want to eat bruised bananas that bad? It's clear from the way you bat."
+    },
+    {
+      "JP": "「また真っ黒に変色したバナナかい。球筋に出てるぜ？」",
+      "Translation": "「また真っ黒に変色したバナナかい。球筋に出てるぜ？」",
+      "EN": "Thinking about bruised bananas again? It's clear from the way you bat."
+    },
+    {
+      "JP": "「理樹は真っ黒に変色したバナナが好きだなあ。球筋に出まくってるぜ？」",
+      "Translation": "「理樹は真っ黒に変色したバナナが好きだなあ。球筋に出まくってるぜ？」",
+      "EN": "I didn't know you were so into gambling with raw oysters, Riki. It's totally clear from the way you bat."
+    },
+    {
+      "JP": "「もう真っ黒なバナナはいいだろ、少しは食べ頃の黄色いバナナのことも考えろよ」",
+      "Translation": "「もう真っ黒なバナナはいいだろ、少しは食べ頃の黄色いバナナのことも考えろよ」",
+      "EN": "Give it a rest already, think about ripe yellow bananas sometimes too."
+    },
+    {
+      "JP": "「そんなにケチャップでハートマークが書かれたオムレツが食いたいのかい。球筋に出てるぜ？」",
+      "Translation": "「そんなにケチャップでハートマークが書かれたオムレツが食いたいのかい。球筋に出てるぜ？」",
+      "EN": "Do you want to eat an omelette with a ketchup heart that bad? It's clear from the way you bat."
+    },
+    {
+      "JP": "「またケチャップでハートマークが書かれたオムレツかい。球筋に出てるぜ？」",
+      "Translation": "「またケチャップでハートマークが書かれたオムレツかい。球筋に出てるぜ？」",
+      "EN": "Thinking about a heart-marked omelette again? It's clear from the way you bat."
+    },
+    {
+      "JP": "「理樹はケチャップでハートマークが書かれたオムレツが好きだなあ。球筋に出まくってるぜ？」",
+      "Translation": "「理樹はケチャップでハートマークが書かれたオムレツが好きだなあ。球筋に出まくってるぜ？」",
+      "EN": "I didn't know you were so into heart-marked omelette, Riki. It's totally clear from the way you bat."
+    },
+    {
+      "JP": "「もうケチャップでハートマークが書かれたオムレツはいいだろ、少しは地味なオムレツのことも考えろよ」",
+      "Translation": "「もうケチャップでハートマークが書かれたオムレツはいいだろ、少しは地味なオムレツのことも考えろよ」",
+      "EN": "Give it a rest already, think about ordinary omelettes sometimes too."
+    },
+    {
+      "JP": "「そんなに一か八かの生牡蠣が食いたいのかい。球筋に出てるぜ？」",
+      "Translation": "「そんなに一か八かの生牡蠣が食いたいのかい。球筋に出てるぜ？」",
+      "EN": "Do you want to gamble your life eating a raw oyster that bad? It's clear from the way you bat."
+    },
+    {
+      "JP": "「また一か八かの生牡蠣かい。球筋に出てるぜ？」",
+      "Translation": "「また一か八かの生牡蠣かい。球筋に出てるぜ？」",
+      "EN": "Thinking about gambling your life on a raw oyster again? It's clear from the way you bat."
+    },
+    {
+      "JP": "「理樹は一か八かの生牡蠣が好きだなあ。球筋に出まくってるぜ？」",
+      "Translation": "「理樹は一か八かの生牡蠣が好きだなあ。球筋に出まくってるぜ？」",
+      "EN": "I didn't know you were so into gambling with raw oysters, Riki. It's totally clear from the way you bat."
+    },
+    {
+      "JP": "「もう一か八かの生牡蠣はいいだろ、あたった時の苦しみも考えろよ」",
+      "Translation": "「もう一か八かの生牡蠣はいいだろ、あたった時の苦しみも考えろよ」",
+      "EN": "Give it a rest already. You should think of how painful it'd be to get food poisoning from it sometimes."
+    },
+    {
+      "JP": "「そんなに足が１５本生えた未知の生物が食いたいのかい。球筋に出てるぜ？」",
+      "Translation": "「そんなに足が１５本生えた未知の生物が食いたいのかい。球筋に出てるぜ？」",
+      "EN": "Do you want to eat an unknown lifeform with 15 feet that bad? It's clear from the way you bat."
+    },
+    {
+      "JP": "「また足が１５本生えた未知の生物かい。球筋に出てるぜ？」",
+      "Translation": "「また足が１５本生えた未知の生物かい。球筋に出てるぜ？」",
+      "EN": "I didn't know you were so into 15-foot unknown lifeforms, Riki. It's totally clear from the way you bat."
+    },
+    {
+      "JP": "「理樹は足が１５本生えた未知の生物が好きだなあ。球筋に出まくってるぜ？」",
+      "Translation": "「理樹は足が１５本生えた未知の生物が好きだなあ。球筋に出まくってるぜ？」",
+      "EN": "I didn't know you were so into 15-foot unknown lifeforms, Riki. It's totally clear from the way you bat."
+    },
+    {
+      "JP": "「もう足が１５本生えた未知の生物はいいだろ、少しは八本や十本の足の生物のことも考えろよ」",
+      "Translation": "「もう足が１５本生えた未知の生物はいいだろ、少しは八本や十本の足の生物のことも考えろよ」",
+      "EN": "Give it a rest already, think about those lifeforms with 8 or 10 feet sometimes too."
+    },
+    {
+      "JP": "「そんなにヤクルトが飲みたいのかい。球筋に出てるぜ？」",
+      "Translation": "「そんなにヤクルトが飲みたいのかい。球筋に出てるぜ？」",
+      "EN": "Do you want yogurt that bad? It's clear from the way you bat."
+    },
+    {
+      "JP": "「またヤクルトかい。球筋に出てるぜ？」",
+      "Translation": "「またヤクルトかい。球筋に出てるぜ？」",
+      "EN": "Thinking about yogurt again? It's clear from the way you bat."
+    },
+    {
+      "JP": "「理樹はヤクルトが好きだなあ。球筋に出まくってるぜ？」",
+      "Translation": "「理樹はヤクルトが好きだなあ。球筋に出まくってるぜ？」",
+      "EN": "I didn't know you were so into yogurt, Riki. It's totally clear from the way you bat."
+    },
+    {
+      "JP": "「もうヤクルトはいいだろ、少しはヤクルト以外のことも考えろよ」",
+      "Translation": "「もうヤクルトはいいだろ、少しはヤクルト以外のことも考えろよ」",
+      "EN": "Give it a rest already, think of something other than yogurt too."
+    },
+    {
+      "JP": "「そんなに搾り立ての牛乳が飲みたいのかい。球筋に出てるぜ？」",
+      "Translation": "「そんなに搾り立ての牛乳が飲みたいのかい。球筋に出てるぜ？」",
+      "EN": "Do you want fresh milk that bad? It's clear from the way you bat."
+    },
+    {
+      "JP": "「また搾り立ての牛乳かい。球筋に出てるぜ？」",
+      "Translation": "「また搾り立ての牛乳かい。球筋に出てるぜ？」",
+      "EN": "Thinking about fresh milk again? It's clear from the way you bat."
+    },
+    {
+      "JP": "「理樹は搾り立ての牛乳が好きだなあ。球筋に出まくってるぜ？」",
+      "Translation": "「理樹は搾り立ての牛乳が好きだなあ。球筋に出まくってるぜ？」",
+      "EN": "I didn't know you were so into fresh milk, Riki. It's totally clear from the way you bat."
+    },
+    {
+      "JP": "「もう搾り立ての牛乳はいいだろ、少しは搾り立ての牛乳以外のことも考えろよ」",
+      "Translation": "「もう搾り立ての牛乳はいいだろ、少しは搾り立ての牛乳以外のことも考えろよ」",
+      "EN": "Give it a rest already, think of something other than fresh milk too."
+    },
+    {
+      "JP": "「そんなにトロピカルなココナッツミルクが飲みたいのかい。球筋に出まくってるぜ？」",
+      "Translation": "「そんなにトロピカルなココナッツミルクが飲みたいのかい。球筋に出まくってるぜ？」",
+      "EN": "Do you want tropical coconut milk that bad? It's clear from the way you bat."
+    },
+    {
+      "JP": "「またトロピカルなココナッツミルクかい。球筋に出てるぜ？」",
+      "Translation": "「またトロピカルなココナッツミルクかい。球筋に出てるぜ？」",
+      "EN": "Thinking about tropical coconut milk again? It's clear from the way you bat."
+    },
+    {
+      "JP": "「理樹はトロピカルなココナッツミルクが好きだなあ。球筋に出まくってるぜ？」",
+      "Translation": "「理樹はトロピカルなココナッツミルクが好きだなあ。球筋に出まくってるぜ？」",
+      "EN": "I didn't know you were so into coconut milk, Riki. It's totally clear from the way you bat."
+    },
+    {
+      "JP": "「もうトロピカルなココナッツミルクはいいだろ、少しはココナッツミルク以外のことも考えろよ」",
+      "Translation": "「もうトロピカルなココナッツミルクはいいだろ、少しはココナッツミルク以外のことも考えろよ」",
+      "EN": "Give it a rest already, think of something other than tropical coconut milk too."
+    },
+    {
+      "JP": "「そんなにエロティックなジュースが飲みたいのかい。球筋に出てるぜ？」",
+      "Translation": "「そんなにエロティックなジュースが飲みたいのかい。球筋に出てるぜ？」",
+      "EN": "Do you want erotic juice that bad? It's clear from the way you bat."
+    },
+    {
+      "JP": "「またエロティックなジュースかい。球筋に出てるぜ？」",
+      "Translation": "「またエロティックなジュースかい。球筋に出てるぜ？」",
+      "EN": "Thinking about erotic juice again? It's clear from the way you bat."
+    },
+    {
+      "JP": "「理樹はエロティックなジュースが好きだなあ。球筋に出まくってるぜ？」",
+      "Translation": "「理樹はエロティックなジュースが好きだなあ。球筋に出まくってるぜ？」",
+      "EN": "I didn't know you were so into erotic juice, Riki. It's totally clear from the way you bat."
+    },
+    {
+      "JP": "「もうエロティックなジュースはいいだろ、少しはエロティックなジュース以外のことも考えろよ」",
+      "Translation": "「もうエロティックなジュースはいいだろ、少しはエロティックなジュース以外のことも考えろよ」",
+      "EN": "Give it a rest already, think of something other than erotic juice too."
+    },
+    {
+      "JP": "「そんなにマヨネーズが飲みたいのかい。球筋に出てるぜ？」",
+      "Translation": "「そんなにマヨネーズが飲みたいのかい。球筋に出てるぜ？」",
+      "EN": "Do you want to drink mayonnaise that bad? It's clear from the way you bat."
+    },
+    {
+      "JP": "「またマヨネーズかい。球筋に出てるぜ？」",
+      "Translation": "「またマヨネーズかい。球筋に出てるぜ？」",
+      "EN": "Thinking about mayonnaise again? It's clear from the way you bat."
+    },
+    {
+      "JP": "「理樹はマヨネーズが好きだなあ。球筋に出まくってるぜ？」",
+      "Translation": "「理樹はマヨネーズが好きだなあ。球筋に出まくってるぜ？」",
+      "EN": "I didn't know you were so into mayonnaise, Riki. It's totally clear from the way you bat."
+    },
+    {
+      "JP": "「もうマヨネーズはいいだろ、少しはマヨネーズ以外のことも考えろよ」",
+      "Translation": "「もうマヨネーズはいいだろ、少しはマヨネーズ以外のことも考えろよ」",
+      "EN": "Give it a rest already, think of something other than mayonnaise sometimes too."
+    },
+    {
+      "JP": "「そんなに熱いコーヒーをストローで飲みたいのかい。球筋に出てるぜ？」",
+      "Translation": "「そんなに熱いコーヒーをストローで飲みたいのかい。球筋に出てるぜ？」",
+      "EN": "Do you want to drink hot coffee with a straw that bad? It's clear from the way you bat."
+    },
+    {
+      "JP": "「また熱いコーヒーをストローでかい。球筋に出てるぜ？」",
+      "Translation": "「また熱いコーヒーをストローでかい。球筋に出てるぜ？」",
+      "EN": "Thinking about drinking hot coffee with a straw again? It's clear from the way you bat."
+    },
+    {
+      "JP": "「理樹は熱いコーヒーをストローで飲むのが好きだなあ。球筋に出まくってるぜ？」",
+      "Translation": "「理樹は熱いコーヒーをストローで飲むのが好きだなあ。球筋に出まくってるぜ？」",
+      "EN": "I didn't know you were so into hot coffee, Riki. It's totally clear from the way you bat."
+    },
+    {
+      "JP": "「もう熱いコーヒーをストローで飲むのはいいだろ、火傷するってことも学習しろよ」",
+      "Translation": "「もう熱いコーヒーをストローで飲むのはいいだろ、火傷するってことも学習しろよ」",
+      "EN": "Give it a rest already. You should learn you can't avoid getting burned forever."
+    },
+    {
+      "JP": "「そんなにカルピスを原液のまま飲みたいのかい。球筋に出てるぜ？」",
+      "Translation": "「そんなにカルピスを原液のまま飲みたいのかい。球筋に出てるぜ？」",
+      "EN": "Do you want to drink undiluted Calpis that bad? It's clear from the way you bat."
+    },
+    {
+      "JP": "「またカルピスの原液かい。球筋に出てるぜ？」",
+      "Translation": "「またカルピスの原液かい。球筋に出てるぜ？」",
+      "EN": "Thinking about undiluted Calpis again? It's clear from the way you bat."
+    },
+    {
+      "JP": "「理樹はカルピスの原液が好きだなあ。球筋に出まくってるぜ？」",
+      "Translation": "「理樹はカルピスの原液が好きだなあ。球筋に出まくってるぜ？」",
+      "EN": "I didn't know you were so into undiluted Calpis, Riki. It's totally clear from the way you bat."
+    },
+    {
+      "JP": "「もうカルピスの原液はいいだろ、少しは割って飲めよ」",
+      "Translation": "「もうカルピスの原液はいいだろ、少しは割って飲めよ」",
+      "EN": "❝Give it a rest already. You should mix it with some water.❞"
+    },
+    {
+      "JP": "「やるな！」",
+      "Translation": "「やるな！」",
+      "EN": "Awesome!"
+    },
+    {
+      "JP": "「やるじゃないか！」",
+      "Translation": "「やるじゃないか！」",
+      "EN": "That's the spirit!"
+    },
+    {
+      "JP": "「よし、きた！」",
+      "Translation": "「よし、きた！」",
+      "EN": "Leave it to me!"
+    },
+    {
+      "JP": "「いいぞ！」",
+      "Translation": "「いいぞ！」",
+      "EN": "Nice!"
+    },
+    {
+      "JP": "「よし、ターキーだ！」",
+      "Translation": "「よし、ターキーだ！」",
+      "EN": "Nice, turkey!"
+    },
+    {
+      "JP": "「すごいじゃないか！」",
+      "Translation": "「すごいじゃないか！」",
+      "EN": "Isn't this great!"
+    },
+    {
+      "JP": "「やるじゃないか！」",
+      "Translation": "「やるじゃないか！」",
+      "EN": "That's the spirit!"
+    },
+    {
+      "JP": "「三連続だぜ！」",
+      "Translation": "「三連続だぜ！」",
+      "EN": "That's three in a row!"
+    },
+    {
+      "JP": "「こいつはびっくりだぜ！」",
+      "Translation": "「こいつはびっくりだぜ！」",
+      "EN": "This guy's full of surprises!"
+    },
+    {
+      "JP": "「よん！」",
+      "Translation": "「よん！」",
+      "EN": "Four!"
+    },
+    {
+      "JP": "「ふゅ～」",
+      "Translation": "「ふゅ～」",
+      "EN": "Fuyuu～."
+    },
+    {
+      "JP": "「ご！」",
+      "Translation": "「ご！」",
+      "EN": "Five!"
+    },
+    {
+      "JP": "「まさか、ここまでとはっ」",
+      "Translation": "「まさか、ここまでとはっ」",
+      "EN": "Don't tell me that's everything!"
+    },
+    {
+      "JP": "「ろくっ、とすげぇぞ！」",
+      "Translation": "「ろくっ、とすげぇぞ！」",
+      "EN": "Six. Holy crap!"
+    },
+    {
+      "JP": "「すげぇ…とんでもないダイヤの原石だぜ」",
+      "Translation": "「すげぇ…とんでもないダイヤの原石だぜ」",
+      "EN": "Incredible... Never expected to find such a raw diamond here."
+    },
+    {
+      "JP": "「これで、ななかよっ！」",
+      "Translation": "「これで、ななかよっ！」",
+      "EN": "This makes it seven!"
+    },
+    {
+      "JP": "「もっと昔から野球やってたら、プロ目指せたぜ…」",
+      "Translation": "「もっと昔から野球やってたら、プロ目指せたぜ…」",
+      "EN": "If you keep playing baseball, you can even aim for the pros..."
+    },
+    {
+      "JP": "「はちっ、奇跡か！？」",
+      "Translation": "「はちっ、奇跡か！？」",
+      "EN": "Eight! Am I witnessing a miracle!?"
+    },
+    {
+      "JP": "「おまえは野球をするために生まれてきたんじゃないか！？」",
+      "Translation": "「おまえは野球をするために生まれてきたんじゃないか！？」",
+      "EN": "Weren't you born to play baseball!?"
+    },
+    {
+      "JP": "「きゅう！\u3000ありえねぇぜ！」",
+      "Translation": "「きゅう！\u3000ありえねぇぜ！」",
+      "EN": "Nine! Impossible!"
+    },
+    {
+      "JP": "「おまえ、こんなところでくすぶってていいのか、すごい才能じゃないかっ！」",
+      "Translation": "「おまえ、こんなところでくすぶってていいのか、すごい才能じゃないかっ！」",
+      "EN": "Why are you wasting your time here, you have some serious talent!"
+    },
+    {
+      "JP": "「じゅう、っと、なんなんだ、おまえ！？」",
+      "Translation": "「じゅう、っと、なんなんだ、おまえ！？」",
+      "EN": "Ten... What the hell are you!?"
+    },
+    {
+      "JP": "「いますぐプロの門を叩け」",
+      "Translation": "「いますぐプロの門を叩け」",
+      "EN": "You can even beat the pros as you are now!"
+    },
+    {
+      "JP": "「じゅういちっ、ひゅ～！」",
+      "Translation": "「じゅういちっ、ひゅ～！」",
+      "EN": "Eleven, o-hoo!"
+    },
+    {
+      "JP": "「もうおまえのすごさはわかったから」",
+      "Translation": "「もうおまえのすごさはわかったから」",
+      "EN": "That's enough, I already understand well how great you are."
+    },
+    {
+      "JP": "「じゅうにっ、おまえはバッティングの神様だ！」",
+      "Translation": "「じゅうにっ、おまえはバッティングの神様だ！」",
+      "EN": "Twelve, you're a God of Batting!"
+    },
+    {
+      "JP": "「そろそろこれ終わろうぜ」",
+      "Translation": "「そろそろこれ終わろうぜ」",
+      "EN": "Let's wrap it up."
+    },
+    {
+      "JP": "「飽きてきたんだが」",
+      "Translation": "「飽きてきたんだが」",
+      "EN": "I'm already tired."
+    },
+    {
+      "JP": "「もう十分おまえはすごいぜ」",
+      "Translation": "「もう十分おまえはすごいぜ」",
+      "EN": "That's enough, you are doing great."
+    },
+    {
+      "JP": "「ちょっと褒められたからって調子に乗ってるなっ」",
+      "Translation": "「ちょっと褒められたからって調子に乗ってるなっ」",
+      "EN": "It was just a small compliment, don't get carried away!"
+    },
+    {
+      "JP": "「むしろ、不気味だぞ」",
+      "Translation": "「むしろ、不気味だぞ」",
+      "EN": "Or rather, you're scaring me."
+    },
+    {
+      "JP": "「どれだけ運動神経いいんだよ、おまえ」",
+      "Translation": "「どれだけ運動神経いいんだよ、おまえ」",
+      "EN": "Just how good are you at sports?"
+    },
+    {
+      "JP": "「えいっ」",
+      "Translation": "「えいっ」",
+      "EN": "Eii!"
+    },
+    {
+      "JP": "「どうだっ」",
+      "Translation": "「どうだっ」",
+      "EN": "How's this!"
+    },
+    {
+      "JP": "「まだまだっ」",
+      "Translation": "「まだまだっ」",
+      "EN": "There's more."
+    },
+    {
+      "JP": "「続けっ」",
+      "Translation": "「続けっ」",
+      "EN": "Go on!"
+    },
+    {
+      "JP": "「いけるっ」",
+      "Translation": "「いけるっ」",
+      "EN": "You can do it!"
+    },
+    {
+      "JP": "「奇跡をっ」",
+      "Translation": "「奇跡をっ」",
+      "EN": "A miracle..."
+    },
+    {
+      "JP": "「すごいぞっ」",
+      "Translation": "「すごいぞっ」",
+      "EN": "Awesome!"
+    },
+    {
+      "JP": "「やっほーぅ！」",
+      "Translation": "「やっほーぅ！」",
+      "EN": "Yahhooo!"
+    },
+    {
+      "JP": "「はは、止まらないよ」",
+      "Translation": "「はは、止まらないよ」",
+      "EN": "Haha, can't help it."
+    },
+    {
+      "JP": "「ははは、笑うしかないよ」",
+      "Translation": "「ははは、笑うしかないよ」",
+      "EN": "Hahaha, I can only laugh."
+    },
+    {
+      "JP": "「すごいチームワークだよ！」",
+      "Translation": "「すごいチームワークだよ！」",
+      "EN": "Wonderful teamwork!"
+    },
+    {
+      "JP": "「みんな、ありがとう！」",
+      "Translation": "「みんな、ありがとう！」",
+      "EN": "Thank you, everyone!"
+    },
+    {
+      "JP": "「僕はずっと忘れないよ！」",
+      "Translation": "「僕はずっと忘れないよ！」",
+      "EN": "I'll never forget this!"
+    },
+    {
+      "JP": "「はっ！」",
+      "Translation": "「はっ！」",
+      "EN": "Ha!"
+    },
+    {
+      "JP": "「狙ったわけじゃないが猫の苦しみがわかったかっ」",
+      "Translation": "「狙ったわけじゃないが猫の苦しみがわかったかっ」",
+      "EN": "I didn't mean to aim at you, but I hope you now understand how the cats felt."
+    },
+    {
+      "JP": "「今のは猫たちからの一球だ」",
+      "Translation": "「今のは猫たちからの一球だ」",
+      "EN": "That ball was from the cats."
+    },
+    {
+      "JP": "「ご、ごめん！」",
+      "Translation": "「ご、ごめん！」",
+      "EN": "S, sorry!"
+    },
+    {
+      "JP": "「うわ…」",
+      "Translation": "「うわ…」",
+      "EN": "Uwa..."
+    },
+    {
+      "JP": "「えらいことになった…」",
+      "Translation": "「えらいことになった…」",
+      "EN": "Now I've done it..."
+    },
+    {
+      "JP": "「いたそうだ…」",
+      "Translation": "「いたそうだ…」",
+      "EN": "That looked like it hurt..."
+    },
+    {
+      "JP": "「…すまん」",
+      "Translation": "「…すまん」",
+      "EN": "...Sorry."
+    },
+    {
+      "JP": "「てもとが狂った…」",
+      "Translation": "「てもとが狂った…」",
+      "EN": "My hand slipped..."
+    },
+    {
+      "JP": "「んっ」",
+      "Translation": "「んっ」",
+      "EN": "Nh!"
+    },
+    {
+      "JP": "「ほっ」",
+      "Translation": "「ほっ」",
+      "EN": "Ho!"
+    },
+    {
+      "JP": "「よっ」",
+      "Translation": "「よっ」",
+      "EN": "Yo!"
+    },
+    {
+      "JP": "「ていっ」",
+      "Translation": "「ていっ」",
+      "EN": "Tei!"
+    },
+    {
+      "JP": "「おっ」",
+      "Translation": "「おっ」",
+      "EN": "Oh!"
+    },
+    {
+      "JP": "「よっ」",
+      "Translation": "「よっ」",
+      "EN": "Yo!"
+    },
+    {
+      "JP": "「ほっ」",
+      "Translation": "「ほっ」",
+      "EN": "Ho!"
+    },
+    {
+      "JP": "「あぶなっ」",
+      "Translation": "「あぶなっ」",
+      "EN": "Careful!"
+    },
+    {
+      "JP": "「あたしかっ！\u3000あたしのせいなのか！？」",
+      "Translation": "「あたしかっ！\u3000あたしのせいなのか！？」",
+      "EN": "Was it me!? Was it my fault!?"
+    },
+    {
+      "JP": "「うあぁっ、大丈夫か！？」",
+      "Translation": "「うあぁっ、大丈夫か！？」",
+      "EN": "Uaaa, you all right!?"
+    },
+    {
+      "JP": "「しまったあぁぁ！」",
+      "Translation": "「しまったあぁぁ！」",
+      "EN": "Oh no!"
+    },
+    {
+      "JP": "「はっ！？」",
+      "Translation": "「はっ！？」",
+      "EN": "Haah!?"
+    },
+    {
+      "JP": "「やってしまった！！」",
+      "Translation": "「やってしまった！！」",
+      "EN": "I didn't mean to do that!!"
+    },
+    {
+      "JP": "「こらー！」",
+      "Translation": "「こらー！」",
+      "EN": "Heyy!"
+    },
+    {
+      "JP": "「こらっ」",
+      "Translation": "「こらっ」",
+      "EN": "Hey!"
+    },
+    {
+      "JP": "「なにすんじゃっ」",
+      "Translation": "「なにすんじゃっ」",
+      "EN": "What was that!"
+    },
+    {
+      "JP": "「かわいそうだろ！」",
+      "Translation": "「かわいそうだろ！」",
+      "EN": "That's so pitiful!"
+    },
+    {
+      "JP": "「なああぁっ！？」",
+      "Translation": "「なああぁっ！？」",
+      "EN": "Whaaa-!?"
+    },
+    {
+      "JP": "「いたそーだろっ！」",
+      "Translation": "「いたそーだろっ！」",
+      "EN": "You hurt it!"
+    },
+    {
+      "JP": "「あんなに鳴いてるだろっ！」",
+      "Translation": "「あんなに鳴いてるだろっ！」",
+      "EN": "You made it cry!"
+    },
+    {
+      "JP": "「あたしに寄ってこなくなるだろっ！」",
+      "Translation": "「あたしに寄ってこなくなるだろっ！」",
+      "EN": "They'll start avoiding me because of you!"
+    },
+    {
+      "JP": "「またかっ」",
+      "Translation": "「またかっ」",
+      "EN": "Still not done!?"
+    },
+    {
+      "JP": "「なんど当てるんだっ」",
+      "Translation": "「なんど当てるんだっ」",
+      "EN": "How many times does this make!?"
+    },
+    {
+      "JP": "「狙ってるのかっ」",
+      "Translation": "「狙ってるのかっ」",
+      "EN": "Are you aiming at them!?"
+    },
+    {
+      "JP": "「これで何度目だっ」",
+      "Translation": "「これで何度目だっ」",
+      "EN": "How many times does that make!"
+    },
+    {
+      "JP": "「おまえ猫きらいなのかっ」",
+      "Translation": "「おまえ猫きらいなのかっ」",
+      "EN": "Do you hate cats!?"
+    },
+    {
+      "JP": "「あたしもおまえにぶつけるぞっ」",
+      "Translation": "「あたしもおまえにぶつけるぞっ」",
+      "EN": "I'm gonna hit you!"
+    },
+    {
+      "JP": "「なんだ猫で嫌な思い出でもあるのかっ」",
+      "Translation": "「なんだ猫で嫌な思い出でもあるのかっ」",
+      "EN": "Do you have unpleasant memories with cats, or what!?"
+    },
+    {
+      "JP": "「猫に八つ当たりかっ」",
+      "Translation": "「猫に八つ当たりかっ」",
+      "EN": "Stop venting your anger on cats!"
+    },
+    {
+      "JP": "「そんなことし続けて楽しいかっ」",
+      "Translation": "「そんなことし続けて楽しいかっ」",
+      "EN": "Is that your idea of fun!?"
+    },
+    {
+      "JP": "「なんだ猫で嫌な思い出でもあるのかっ」",
+      "Translation": "「なんだ猫で嫌な思い出でもあるのかっ」",
+      "EN": "Do you have unpleasant memories with cats, or what!"
+    },
+    {
+      "JP": "「猫に八つ当たりかっ」",
+      "Translation": "「猫に八つ当たりかっ」",
+      "EN": "Stop venting your anger on cats!"
+    },
+    {
+      "JP": "「そんなことし続けて楽しいかっ」",
+      "Translation": "「そんなことし続けて楽しいかっ」",
+      "EN": "Is that your idea of fun!?"
+    },
+    {
+      "JP": "「理樹なんて嫌いだっ」",
+      "Translation": "「理樹なんて嫌いだっ」",
+      "EN": "I hate you, Riki!"
+    },
+    {
+      "JP": "「ふかーっ！」",
+      "Translation": "「ふかーっ！」",
+      "EN": "Fuka――!"
+    },
+    {
+      "JP": "「おまえは…死ぬ」",
+      "Translation": "「おまえは…死ぬ」",
+      "EN": "You're gonna die!"
+    },
+    {
+      "JP": "「理樹、めっだ！」",
+      "Translation": "「理樹、めっだ！」",
+      "EN": "Riki, bad!"
+    },
+    {
+      "JP": "「そんなことしたらめーっ！\u3000だっ」",
+      "Translation": "「そんなことしたらめーっ！\u3000だっ」",
+      "EN": "You must not do that!"
+    },
+    {
+      "JP": "「ほわぁー！？」",
+      "Translation": "「ほわぁー！？」",
+      "EN": "Howaa-!?"
+    },
+    {
+      "JP": "「う、うえぇーんっ」",
+      "Translation": "「う、うえぇーんっ」",
+      "EN": "U, uee-n!"
+    },
+    {
+      "JP": "「はらほろひれー」",
+      "Translation": "「はらほろひれー」",
+      "EN": "Ha ra ho ro hi ree..."
+    },
+    {
+      "JP": "「はうぁ～…きゅう」",
+      "Translation": "「はうぁ～…きゅう」",
+      "EN": "Hauu～... it came."
+    },
+    {
+      "JP": "「ああう～」",
+      "Translation": "「ああう～」",
+      "EN": "Aau～!"
+    },
+    {
+      "JP": "「ふええっ」",
+      "Translation": "「ふええっ」",
+      "EN": "Fuee!"
+    },
+    {
+      "JP": "「あぶなーいっ」",
+      "Translation": "「あぶなーいっ」",
+      "EN": "Careful～!"
+    },
+    {
+      "JP": "「こっちきたーっ」",
+      "Translation": "「こっちきたーっ」",
+      "EN": "It came here～!"
+    },
+    {
+      "JP": "「とったよ～」",
+      "Translation": "「とったよ～」",
+      "EN": "I got it～."
+    },
+    {
+      "JP": "「げっとですよ～」",
+      "Translation": "「げっとですよ～」",
+      "EN": "We got a point～."
+    },
+    {
+      "JP": "「うんー」",
+      "Translation": "「うんー」",
+      "EN": "Yeah."
+    },
+    {
+      "JP": "「おっけーですよ～」",
+      "Translation": "「おっけーですよ～」",
+      "EN": "It's OK～."
+    },
+    {
+      "JP": "「うまくできたよー」",
+      "Translation": "「うまくできたよー」",
+      "EN": "I made it."
+    },
+    {
+      "JP": "「すぐなげるよー」",
+      "Translation": "「すぐなげるよー」",
+      "EN": "I'll throw it back now～."
+    },
+    {
+      "JP": "「ばっくほーむー」",
+      "Translation": "「ばっくほーむー」",
+      "EN": "Back home!"
+    },
+    {
+      "JP": "「きゃっちー」",
+      "Translation": "「きゃっちー」",
+      "EN": "Catch!"
+    },
+    {
+      "JP": "「ちょっとまってねー」",
+      "Translation": "「ちょっとまってねー」",
+      "EN": "Wait a little."
+    },
+    {
+      "JP": "「かえすよ～」",
+      "Translation": "「かえすよ～」",
+      "EN": "I'm sending it back～."
+    },
+    {
+      "JP": "「たらった～」",
+      "Translation": "「たらった～」",
+      "EN": "Ta-daah～."
+    },
+    {
+      "JP": "「今日が私のきゃっち記念日ー」",
+      "Translation": "「今日が私のきゃっち記念日ー」",
+      "EN": "Today just became my catching anniversary day."
+    },
+    {
+      "JP": "「はいっ！」",
+      "Translation": "「はいっ！」",
+      "EN": "Okay!"
+    },
+    {
+      "JP": "「ばっちりー」",
+      "Translation": "「ばっちりー」",
+      "EN": "Bull's eye."
+    },
+    {
+      "JP": "「ふぁいんぷれ～」",
+      "Translation": "「ふぁいんぷれ～」",
+      "EN": "Fine play～."
+    },
+    {
+      "JP": "「おっけーだねー」",
+      "Translation": "「おっけーだねー」",
+      "EN": "It's okay～."
+    },
+    {
+      "JP": "「とれたよ～」",
+      "Translation": "「とれたよ～」",
+      "EN": "It disappeared～."
+    },
+    {
+      "JP": "「あぶないあぶないー」",
+      "Translation": "「あぶないあぶないー」",
+      "EN": "Watch out-!"
+    },
+    {
+      "JP": "「らんらんら～」",
+      "Translation": "「らんらんら～」",
+      "EN": "Ran ran ra～."
+    },
+    {
+      "JP": "「ふんふんふーん」",
+      "Translation": "「ふんふんふーん」",
+      "EN": "Hun hun hu-n."
+    },
+    {
+      "JP": "「ふえ～」",
+      "Translation": "「ふえ～」",
+      "EN": "Fue～?"
+    },
+    {
+      "JP": "「たのしいねー」",
+      "Translation": "「たのしいねー」",
+      "EN": "This is fun～."
+    },
+    {
+      "JP": "「おちゃらかほいっ」",
+      "Translation": "「おちゃらかほいっ」",
+      "EN": "My dolly has the flu."
+    },
+    {
+      "JP": "「いちろーさんがまきばでれーざーびーむ～」",
+      "Translation": "「いちろーさんがまきばでれーざーびーむ～」",
+      "EN": "Ichiro-san threw a laser beam in the pasture."
+    },
+    {
+      "JP": "「恭介さん直伝とうほうっ」",
+      "Translation": "「恭介さん直伝とうほうっ」",
+      "EN": "The throwing method directly taught by Kyousuke-san!"
+    },
+    {
+      "JP": "「容易い」",
+      "Translation": "「容易い」",
+      "EN": "Easy."
+    },
+    {
+      "JP": "「うむ」",
+      "Translation": "「うむ」",
+      "EN": "Umu."
+    },
+    {
+      "JP": "「この程度か」",
+      "Translation": "「この程度か」",
+      "EN": "Is that all?"
+    },
+    {
+      "JP": "「ちゃんと打て」",
+      "Translation": "「ちゃんと打て」",
+      "EN": "Hit the ball properly."
+    },
+    {
+      "JP": "「まだまだだな」",
+      "Translation": "「まだまだだな」",
+      "EN": "Still a ways to go."
+    },
+    {
+      "JP": "「猫どかせ」",
+      "Translation": "「猫どかせ」",
+      "EN": "Remove the cats!"
+    },
+    {
+      "JP": "「まあがんばれ」",
+      "Translation": "「まあがんばれ」",
+      "EN": "Well, work hard."
+    },
+    {
+      "JP": "「見るといい」",
+      "Translation": "「見るといい」",
+      "EN": "Watch closely."
+    },
+    {
+      "JP": "「ふっ」",
+      "Translation": "「ふっ」",
+      "EN": "Hu."
+    },
+    {
+      "JP": "「甘い」",
+      "Translation": "「甘い」",
+      "EN": "Naive."
+    },
+    {
+      "JP": "「抜かせん」",
+      "Translation": "「抜かせん」",
+      "EN": "I won't let it go."
+    },
+    {
+      "JP": "「イリュージョンだ」",
+      "Translation": "「イリュージョンだ」",
+      "EN": "It's an illusion."
+    },
+    {
+      "JP": "「残像だ」",
+      "Translation": "「残像だ」",
+      "EN": "It's an afterimage."
+    },
+    {
+      "JP": "「アウトだ」",
+      "Translation": "「アウトだ」",
+      "EN": "Out!"
+    },
+    {
+      "JP": "「次回にチャレンジ」",
+      "Translation": "「次回にチャレンジ」",
+      "EN": "Bring on a challenge."
+    },
+    {
+      "JP": "「フフフ…」",
+      "Translation": "「フフフ…」",
+      "EN": "Fufufu..."
+    },
+    {
+      "JP": "「フハハハハハハハ」",
+      "Translation": "「フハハハハハハハ」",
+      "EN": "Fuhahahahahahaha!"
+    },
+    {
+      "JP": "「造作もない」",
+      "Translation": "「造作もない」",
+      "EN": "No trouble."
+    },
+    {
+      "JP": "「つかもうぜ」",
+      "Translation": "「つかもうぜ」",
+      "EN": "Find the balls."
+    },
+    {
+      "JP": "「追いかけろ」",
+      "Translation": "「追いかけろ」",
+      "EN": "Look out for them all."
+    },
+    {
+      "JP": "「ちなみに結構疲れる」",
+      "Translation": "「ちなみに結構疲れる」",
+      "EN": "Incidentally, I'm getting tired."
+    },
+    {
+      "JP": "「何故ボールが白いか知っているか」",
+      "Translation": "「何故ボールが白いか知っているか」",
+      "EN": "Do you know why baseballs are white?"
+    },
+    {
+      "JP": "「何か別の競技のほうが向いてるんじゃないか」",
+      "Translation": "「何か別の競技のほうが向いてるんじゃないか」",
+      "EN": "Maybe you should consider switching to some other sport."
+    },
+    {
+      "JP": "「たまには『恐怖・消える打球』くらい打ってくれ」",
+      "Translation": "「たまには『恐怖・消える打球』くらい打ってくれ」",
+      "EN": "Won't you hit a ❛Terrifying: the Vanishing Ball❜ or something, sometimes?"
+    },
+    {
+      "JP": "「内野くらい越えろ」",
+      "Translation": "「内野くらい越えろ」",
+      "EN": "At least try to get it past the infield."
+    },
+    {
+      "JP": "「ほら」",
+      "Translation": "「ほら」",
+      "EN": "Here."
+    },
+    {
+      "JP": "「ふん」",
+      "Translation": "「ふん」",
+      "EN": "Hmm."
+    },
+    {
+      "JP": "「手緩いな」",
+      "Translation": "「手緩いな」",
+      "EN": "Taking your time, huh?"
+    },
+    {
+      "JP": "「はっはっは」",
+      "Translation": "「はっはっは」",
+      "EN": "Ha ha ha."
+    },
+    {
+      "JP": "「ふむ」",
+      "Translation": "「ふむ」",
+      "EN": "Humu."
+    },
+    {
+      "JP": "「返すぞ」",
+      "Translation": "「返すぞ」",
+      "EN": "Have it back."
+    },
+    {
+      "JP": "「うめにゃー・ばりーとー（いたいですー）」",
+      "Translation": "「うめにゃー・ばりーとー（いたいですー）」",
+      "EN": "U menya bolit (It hurts)!"
+    },
+    {
+      "JP": "「ばりーと・がらばー（頭が痛いですー）」",
+      "Translation": "「ばりーと・がらばー（頭が痛いですー）」",
+      "EN": "Bolit golova (My head hurts)!"
+    },
+    {
+      "JP": "「ばりーと・じおー（おなかがいたいですー）」",
+      "Translation": "「ばりーと・じおー（おなかがいたいですー）」",
+      "EN": "Bolit zhivot (My stomach hurts)!"
+    },
+    {
+      "JP": "「わふっ！」",
+      "Translation": "「わふっ！」",
+      "EN": "Wafu!!"
+    },
+    {
+      "JP": "「ばりーとー！（いたいっ）」",
+      "Translation": "「ばりーとー！（いたいっ）」",
+      "EN": "Bolit (Hurts)!"
+    },
+    {
+      "JP": "「でんじゃぁーですっ」",
+      "Translation": "「でんじゃぁーですっ」",
+      "EN": "There is danger!"
+    },
+    {
+      "JP": "「ぁうちーっ」",
+      "Translation": "「ぁうちーっ」",
+      "EN": "Ouch!"
+    },
+    {
+      "JP": "「うゃ～っ」",
+      "Translation": "「うゃ～っ」",
+      "EN": "Uyaa!"
+    },
+    {
+      "JP": "「ふゃーっ」",
+      "Translation": "「ふゃーっ」",
+      "EN": "Fuyaa!"
+    },
+    {
+      "JP": "「はいっ」",
+      "Translation": "「はいっ」",
+      "EN": "Here!"
+    },
+    {
+      "JP": "「あじーん！」",
+      "Translation": "「あじーん！」",
+      "EN": "Odin!"
+    },
+    {
+      "JP": "「どう゛ぁ！」",
+      "Translation": "「どう゛ぁ！」",
+      "EN": "Dva!"
+    },
+    {
+      "JP": "「とぅり！」",
+      "Translation": "「とぅり！」",
+      "EN": "Tri!"
+    },
+    {
+      "JP": "「ちとーり！」",
+      "Translation": "「ちとーり！」",
+      "EN": "Chetire!"
+    },
+    {
+      "JP": "「びゃーち！」",
+      "Translation": "「びゃーち！」",
+      "EN": "Pyat!"
+    },
+    {
+      "JP": "「しぇすちー！」",
+      "Translation": "「しぇすちー！」",
+      "EN": "Shest!"
+    },
+    {
+      "JP": "「はい、わん・つー！」",
+      "Translation": "「はい、わん・つー！」",
+      "EN": "Okay, wan tsu-!"
+    },
+    {
+      "JP": "「おちゃのこさいさいっ！」",
+      "Translation": "「おちゃのこさいさいっ！」",
+      "EN": "That was a breeze!"
+    },
+    {
+      "JP": "「朝飯前ですっ」",
+      "Translation": "「朝飯前ですっ」",
+      "EN": "Piece of cake!"
+    },
+    {
+      "JP": "「いえす、まいろーどっ」",
+      "Translation": "「いえす、まいろーどっ」",
+      "EN": "Yes, my lord!"
+    },
+    {
+      "JP": "「いえっさー！」",
+      "Translation": "「いえっさー！」",
+      "EN": "Yessir!"
+    },
+    {
+      "JP": "「窓はあくのーですっ」",
+      "Translation": "「窓はあくのーですっ」",
+      "EN": "Okno means window!"
+    },
+    {
+      "JP": "「きゃっちんぐ！\u3000あいむきゃっちんがーですっ！」",
+      "Translation": "「きゃっちんぐ！\u3000あいむきゃっちんがーですっ！」",
+      "EN": "Kyacchingu! Aimu kyacchinga-!"
+    },
+    {
+      "JP": "「えいっ」",
+      "Translation": "「えいっ」",
+      "EN": "Ei!"
+    },
+    {
+      "JP": "「すいえー！」",
+      "Translation": "「すいえー！」",
+      "EN": "Sem!"
+    },
+    {
+      "JP": "「う゛ぉーすみー！」",
+      "Translation": "「う゛ぉーすみー！」",
+      "EN": "Vosem!"
+    },
+    {
+      "JP": "「じぇーびゃー！」",
+      "Translation": "「じぇーびゃー！」",
+      "EN": "Devyat!"
+    },
+    {
+      "JP": "「じぇーしゃー」",
+      "Translation": "「じぇーしゃー」",
+      "EN": "Devyat!"
+    },
+    {
+      "JP": "「あじなーつぁー！」",
+      "Translation": "「あじなーつぁー！」",
+      "EN": "Odinnadtsat!"
+    },
+    {
+      "JP": "「にちぇぼー！」",
+      "Translation": "「にちぇぼー！」",
+      "EN": "Nichego!"
+    },
+    {
+      "JP": "「はらしょ～」",
+      "Translation": "「はらしょ～」",
+      "EN": "Horosho～."
+    },
+    {
+      "JP": "「だーだー！」",
+      "Translation": "「だーだー！」",
+      "EN": "Da, da!"
+    },
+    {
+      "JP": "「せいびんぐ！\u3000あいむせいびんがーですっ！」",
+      "Translation": "「せいびんぐ！\u3000あいむせいびんがーですっ！」",
+      "EN": "Seibingu! Aimu seibinga-!"
+    },
+    {
+      "JP": "「すろーいんぐ！\u3000あいむすろーいんがー…長いのですっ」",
+      "Translation": "「すろーいんぐ！\u3000あいむすろーいんがー…長いのですっ」",
+      "EN": "Suro-ingu! Aimu suro-inga-... That's so hard to pronounce..."
+    },
+    {
+      "JP": "「ほっ」",
+      "Translation": "「ほっ」",
+      "EN": "Ho!"
+    },
+    {
+      "JP": "「ほりゃさっ」",
+      "Translation": "「ほりゃさっ」",
+      "EN": "Horyasa!"
+    },
+    {
+      "JP": "「はいはい」",
+      "Translation": "「はいはい」",
+      "EN": "OK, OK."
+    },
+    {
+      "JP": "「キャッチですヨ」",
+      "Translation": "「キャッチですヨ」",
+      "EN": "It's a catch!"
+    },
+    {
+      "JP": "「バッチリですヨ」",
+      "Translation": "「バッチリですヨ」",
+      "EN": "That was perfect."
+    },
+    {
+      "JP": "「とったー」",
+      "Translation": "「とったー」",
+      "EN": "Caught!"
+    },
+    {
+      "JP": "「げーっと」",
+      "Translation": "「げーっと」",
+      "EN": "Got it!"
+    },
+    {
+      "JP": "「天才的っ」",
+      "Translation": "「天才的っ」",
+      "EN": "Genius!"
+    },
+    {
+      "JP": "「華麗だねー」",
+      "Translation": "「華麗だねー」",
+      "EN": "Splendid, wasn't it?"
+    },
+    {
+      "JP": "「見て見て～」",
+      "Translation": "「見て見て～」",
+      "EN": "Watch and be surprised～."
+    },
+    {
+      "JP": "「ライアンもびっくり！」",
+      "Translation": "「ライアンもびっくり！」",
+      "EN": "Even Ryan's surprised!"
+    },
+    {
+      "JP": "「私に任せてっ」",
+      "Translation": "「私に任せてっ」",
+      "EN": "Leave it to me!"
+    },
+    {
+      "JP": "「私のボールっ」",
+      "Translation": "「私のボールっ」",
+      "EN": "My ball!"
+    },
+    {
+      "JP": "「足元が怖いですネ」",
+      "Translation": "「足元が怖いですネ」",
+      "EN": "Getting cold feet, huh?"
+    },
+    {
+      "JP": "「猫じゃまーっ」",
+      "Translation": "「猫じゃまーっ」",
+      "EN": "The cat's in the way!"
+    },
+    {
+      "JP": "「はるちんうまいっ」",
+      "Translation": "「はるちんうまいっ」",
+      "EN": "Haruchin good!"
+    },
+    {
+      "JP": "「まだまだ～」",
+      "Translation": "「まだまだ～」",
+      "EN": "Not yet～."
+    },
+    {
+      "JP": "「むちむちぼーるっ」",
+      "Translation": "「むちむちぼーるっ」",
+      "EN": "Moshi moshi ball!"
+    },
+    {
+      "JP": "「ファンブル！」",
+      "Translation": "「ファンブル！」",
+      "EN": "Fumble!"
+    },
+    {
+      "JP": "「最低だね！」",
+      "Translation": "「最低だね！」",
+      "EN": "That was low!"
+    },
+    {
+      "JP": "「ふんっ！」",
+      "Translation": "「ふんっ！」",
+      "EN": "Humph!"
+    },
+    {
+      "JP": "「ダメな子返上！」",
+      "Translation": "「ダメな子返上！」",
+      "EN": "And I'm not useless anymore!"
+    },
+    {
+      "JP": "「ヤクタタズってゆーなー！」",
+      "Translation": "「ヤクタタズってゆーなー！」",
+      "EN": "Don't say I'm useless!"
+    },
+    {
+      "JP": "「はるちんウルトラ投げー！！」",
+      "Translation": "「はるちんウルトラ投げー！！」",
+      "EN": "Haruchin Ultra Throwing!!"
+    },
+    {
+      "JP": "「はるちん超ウルトラスーパーダイナミックミラクルハイパーアルティメットグローバルエクセレントデリシャスボンバード迫力スローイングッ！！」",
+      "Translation": "「はるちん超ウルトラスーパーダイナミックミラクルハイパーアルティメットグローバルエクセレントデリシャスボンバード迫力スローイングッ！！」",
+      "EN": "Haruchin Unlimited Ultra Super Dynamic Miracle Hyper Ultimate Global Excellent Delicious Bombard Power Throwing!!"
+    },
+    {
+      "JP": "「はるちん超ウルトラスーパーダイナミックミラクルハイパーアルティメットグローバルエクセレントデリシャスボンバード迫力スローイングッ！！」",
+      "Translation": "「はるちん超ウルトラスーパーダイナミックミラクルハイパーアルティメットグローバルエクセレントデリシャスボンバード迫力スローイングッ！！」",
+      "EN": "Haruchin Unlimited Ultra Super Dynamic Miracle Hyper Ultimate Global Excellent Delicious Bombard Power Throwing!!"
+    },
+    {
+      "JP": "「それっ」",
+      "Translation": "「それっ」",
+      "EN": "Here!"
+    },
+    {
+      "JP": "「こりゃさっ」",
+      "Translation": "「こりゃさっ」",
+      "EN": "Look here!"
+    },
+    {
+      "JP": "「こっちかっ」",
+      "Translation": "「こっちかっ」",
+      "EN": "This way, huh!?"
+    },
+    {
+      "JP": "「はいはいーっ」",
+      "Translation": "「はいはいーっ」",
+      "EN": "Yeah, yeah!"
+    },
+    {
+      "JP": "「がんばってるよん」",
+      "Translation": "「がんばってるよん」",
+      "EN": "I'm trying my best."
+    },
+    {
+      "JP": "「とれるとれる～」",
+      "Translation": "「とれるとれる～」",
+      "EN": "I'll get it, I'll get it～."
+    },
+    {
+      "JP": "「よわいね～」",
+      "Translation": "「よわいね～」",
+      "EN": "That was weak～."
+    },
+    {
+      "JP": "「アウトですヨ」",
+      "Translation": "「アウトですヨ」",
+      "EN": "You are out!"
+    },
+    {
+      "JP": "「ゲッツーですヨ」",
+      "Translation": "「ゲッツーですヨ」",
+      "EN": "Double play!"
+    },
+    {
+      "JP": "「ファインプレーっ」",
+      "Translation": "「ファインプレーっ」",
+      "EN": "Fine play!"
+    },
+    {
+      "JP": "「メジャーも目じゃないですヨ」",
+      "Translation": "「メジャーも目じゃないですヨ」",
+      "EN": "This isn't the majors, you know."
+    },
+    {
+      "JP": "「やふー！」",
+      "Translation": "「やふー！」",
+      "EN": "Yahoo!"
+    },
+    {
+      "JP": "「えきさいと！！」",
+      "Translation": "「えきさいと！！」",
+      "EN": "Exciting!!"
+    },
+    {
+      "JP": "「ナチュラルハイ！」",
+      "Translation": "「ナチュラルハイ！」",
+      "EN": "Natural high!"
+    },
+    {
+      "JP": "「おーらいー」",
+      "Translation": "「おーらいー」",
+      "EN": "Alright!"
+    },
+    {
+      "JP": "「うまいっ」",
+      "Translation": "「うまいっ」",
+      "EN": "Sweet!"
+    },
+    {
+      "JP": "「おしゃまんべ！」",
+      "Translation": "「おしゃまんべ！」",
+      "EN": "Oshambe!"
+    },
+    {
+      "JP": "「タンヤオ！」",
+      "Translation": "「タンヤオ！」",
+      "EN": "Tan yao!"
+    },
+    {
+      "JP": "「フルハウスっ」",
+      "Translation": "「フルハウスっ」",
+      "EN": "Full house!"
+    },
+    {
+      "JP": "「山田佐藤斉藤宇野！」",
+      "Translation": "「山田佐藤斉藤宇野！」",
+      "EN": "Yamada Satou Saitou Uno!"
+    },
+    {
+      "JP": "「最高だね！」",
+      "Translation": "「最高だね！」",
+      "EN": "That was the best!"
+    },
+    {
+      "JP": "「はるちんウルトラ投げー！！」",
+      "Translation": "「はるちんウルトラ投げー！！」",
+      "EN": "Haruchin Ultra Throwing!!"
+    },
+    {
+      "JP": "「はるちん超ウルトラスーパーダイナミックミラクルハイパーアルティメットグローバルエクセレントデリシャスボンバード迫力スローイングッ！！」",
+      "Translation": "「はるちん超ウルトラスーパーダイナミックミラクルハイパーアルティメットグローバルエクセレントデリシャスボンバード迫力スローイングッ！！」",
+      "EN": "Haruchin Unlimited Ultra Super Dynamic Miracle Hyper Ultimate Global Excellent Delicious Bombard Power Throwing!!"
+    },
+    {
+      "JP": "「はるちん超ウルトラスーパーダイナミックミラクルハイパーアルティメットグローバルエクセレントデリシャスボンバード迫力スローイングッ！！」",
+      "Translation": "「はるちん超ウルトラスーパーダイナミックミラクルハイパーアルティメットグローバルエクセレントデリシャスボンバード迫力スローイングッ！！」",
+      "EN": "Haruchin Unlimited Ultra Super Dynamic Miracle Hyper Ultimate Global Excellent Delicious Bombard Power Throwing!!"
+    },
+    {
+      "JP": "「ほーっ！」",
+      "Translation": "「ほーっ！」",
+      "EN": "Ho-!!"
+    },
+    {
+      "JP": "「じゃーんぷっ」",
+      "Translation": "「じゃーんぷっ」",
+      "EN": "Jump!"
+    },
+    {
+      "JP": "「だーいぶっ」",
+      "Translation": "「だーいぶっ」",
+      "EN": "Dive!"
+    },
+    {
+      "JP": "「はるちんかっこいーっ！！」",
+      "Translation": "「はるちんかっこいーっ！！」",
+      "EN": "Haruchin's awesome!!!"
+    },
+    {
+      "JP": "「華麗にキャッチ！」",
+      "Translation": "「華麗にキャッチ！」",
+      "EN": "Splendid catch!"
+    },
+    {
+      "JP": "「とびまーすっ」",
+      "Translation": "「とびまーすっ」",
+      "EN": "Juump!"
+    },
+    {
+      "JP": "「服汚れますネ」",
+      "Translation": "「服汚れますネ」",
+      "EN": "My clothes are getting dirty."
+    },
+    {
+      "JP": "「はるちんまくすぱわー！」",
+      "Translation": "「はるちんまくすぱわー！」",
+      "EN": "Haruchin Max Power!"
+    },
+    {
+      "JP": "「ていっ！」",
+      "Translation": "「ていっ！」",
+      "EN": "There!!"
+    },
+    {
+      "JP": "「ぬかせるかーっ」",
+      "Translation": "「ぬかせるかーっ」",
+      "EN": "You're not getting away!"
+    },
+    {
+      "JP": "「余裕でキャッチ！」",
+      "Translation": "「余裕でキャッチ！」",
+      "EN": "That was easy!"
+    },
+    {
+      "JP": "「とんでとんでーっ」",
+      "Translation": "「とんでとんでーっ」",
+      "EN": "Fly, fly!"
+    },
+    {
+      "JP": "「えへへっ」",
+      "Translation": "「えへへっ」",
+      "EN": "Ehehe!"
+    },
+    {
+      "JP": "「ありゃりゃ？」",
+      "Translation": "「ありゃりゃ？」",
+      "EN": "Eh, uh, oh?"
+    },
+    {
+      "JP": "「しっぱいしちゃった」",
+      "Translation": "「しっぱいしちゃった」",
+      "EN": "Think I messed up..."
+    },
+    {
+      "JP": "「ドンマイですヨ」",
+      "Translation": "「ドンマイですヨ」",
+      "EN": "Don't mind!"
+    },
+    {
+      "JP": "「あーまあそんな日もありますヨ」",
+      "Translation": "「あーまあそんな日もありますヨ」",
+      "EN": "Well, there are days like this too."
+    },
+    {
+      "JP": "「はるちんも筆の誤り！」",
+      "Translation": "「はるちんも筆の誤り！」",
+      "EN": "Even Haruchin makes mistakes!"
+    },
+    {
+      "JP": "「お静かに」",
+      "Translation": "「お静かに」",
+      "EN": "Quiet, you!"
+    },
+    {
+      "JP": "「邪魔しないように」",
+      "Translation": "「邪魔しないように」",
+      "EN": "Don't get in the way."
+    },
+    {
+      "JP": "「危ないですよ？」",
+      "Translation": "「危ないですよ？」",
+      "EN": "Wasn't that dangerous?"
+    },
+    {
+      "JP": "「狙ってませんか」",
+      "Translation": "「狙ってませんか」",
+      "EN": "Why don't you aim?"
+    },
+    {
+      "JP": "「…守備、やってません」",
+      "Translation": "「…守備、やってません」",
+      "EN": "...Defense not working."
+    },
+    {
+      "JP": "「他の方を」",
+      "Translation": "「他の方を」",
+      "EN": "The other way?"
+    },
+    {
+      "JP": "「最悪です…」",
+      "Translation": "「最悪です…」",
+      "EN": "That sucked..."
+    },
+    {
+      "JP": "「犬も歩けば棒に当たる、とは言いますが…」",
+      "Translation": "「犬も歩けば棒に当たる、とは言いますが…」",
+      "EN": "Every dog has its day, as the saying goes..."
+    },
+    {
+      "JP": "「気をつけてください」",
+      "Translation": "「気をつけてください」",
+      "EN": "Please be careful."
+    },
+    {
+      "JP": "「また、ぶつけましたね」",
+      "Translation": "「また、ぶつけましたね」",
+      "EN": "And you hit me again."
+    },
+    {
+      "JP": "「わたしに何か恨みでも…」",
+      "Translation": "「わたしに何か恨みでも…」",
+      "EN": "Do you hold a grudge against me or something..."
+    },
+    {
+      "JP": "「ひゅークール！」",
+      "Translation": "「ひゅークール！」",
+      "EN": "Whoo, cool!"
+    },
+    {
+      "JP": "「クリア！」",
+      "Translation": "「クリア！」",
+      "EN": "Clear!"
+    },
+    {
+      "JP": "「グゥッ！」",
+      "Translation": "「グゥッ！」",
+      "EN": "Guu!"
+    },
+    {
+      "JP": "「エキサイティング！」",
+      "Translation": "「エキサイティング！」",
+      "EN": "Exciting!"
+    },
+    {
+      "JP": "「イッツミラクゥ！」",
+      "Translation": "「イッツミラクゥ！」",
+      "EN": "It's a miracle!"
+    },
+    {
+      "JP": "「ソーグッ！」",
+      "Translation": "「ソーグッ！」",
+      "EN": "So good!"
+    },
+    {
+      "JP": "「ナイス！」",
+      "Translation": "「ナイス！」",
+      "EN": "Nice!"
+    },
+    {
+      "JP": "「ふっ」",
+      "Translation": "「ふっ」",
+      "EN": "Hu!"
+    },
+    {
+      "JP": "「やっ」",
+      "Translation": "「やっ」",
+      "EN": "Ya!"
+    },
+    {
+      "JP": "「ほっ」",
+      "Translation": "「ほっ」",
+      "EN": "Ho!"
+    },
+    {
+      "JP": "「はっ」",
+      "Translation": "「はっ」",
+      "EN": "Ha!"
+    },
+    {
+      "JP": "「たっ」",
+      "Translation": "「たっ」",
+      "EN": "Ta!"
+    },
+    {
+      "JP": "「えいっ」",
+      "Translation": "「えいっ」",
+      "EN": "Ei!"
+    },
+    {
+      "JP": "「それっ」",
+      "Translation": "「それっ」",
+      "EN": "Here!"
+    },
+    {
+      "JP": "「そーれっ」",
+      "Translation": "「そーれっ」",
+      "EN": "Heere!"
+    },
+    {
+      "JP": "「それっ」",
+      "Translation": "「それっ」",
+      "EN": "There."
+    },
+    {
+      "JP": "「やあっ」",
+      "Translation": "「やあっ」",
+      "EN": "Yaa!"
+    },
+    {
+      "JP": "「とうっ」",
+      "Translation": "「とうっ」",
+      "EN": "Dou!"
+    },
+    {
+      "JP": "「ふんっ」",
+      "Translation": "「ふんっ」",
+      "EN": "Fuah!"
+    },
+    {
+      "JP": "「やあっ」",
+      "Translation": "「やあっ」",
+      "EN": "Yaa!"
+    },
+    {
+      "JP": "「てあっ」",
+      "Translation": "「てあっ」",
+      "EN": "Hyah!"
+    },
+    {
+      "JP": "「たあっ」",
+      "Translation": "「たあっ」",
+      "EN": "Taah!"
+    },
+    {
+      "JP": "「いてっ！」",
+      "Translation": "「いてっ！」",
+      "EN": "Ouch!"
+    },
+    {
+      "JP": "「ごふっ」",
+      "Translation": "「ごふっ」",
+      "EN": "Gofu!"
+    },
+    {
+      "JP": "「ぐふっ」",
+      "Translation": "「ぐふっ」",
+      "EN": "Gufu!"
+    },
+    {
+      "JP": "「うぐっ」",
+      "Translation": "「うぐっ」",
+      "EN": "Ugh!"
+    },
+    {
+      "JP": "「…ごめん！」",
+      "Translation": "「…ごめん！」",
+      "EN": "...Sorry!"
+    },
+    {
+      "JP": "「うわぁ…」",
+      "Translation": "「うわぁ…」",
+      "EN": "Uwaa..."
+    },
+    {
+      "JP": "「わちゃー…」",
+      "Translation": "「わちゃー…」",
+      "EN": "Ouchie..."
+    },
+    {
+      "JP": "「やっちゃった…」",
+      "Translation": "「やっちゃった…」",
+      "EN": "Now I did it..."
+    },
+    {
+      "JP": "「そんなぁ…」",
+      "Translation": "「そんなぁ…」",
+      "EN": "No way..."
+    },
+    {
+      "JP": "「ああ、またっ」",
+      "Translation": "「ああ、またっ」",
+      "EN": "Eep, again..."
+    },
+    {
+      "JP": "「今の自ら当たりにいったよね！？」",
+      "Translation": "「今の自ら当たりにいったよね！？」",
+      "EN": "This time, wasn't it clearly its own fault!?"
+    },
+    {
+      "JP": "「今のはよけてよっ」",
+      "Translation": "「今のはよけてよっ」",
+      "EN": "You could've dodged that just now..."
+    },
+    {
+      "JP": "「えぇー…」",
+      "Translation": "「えぇー…」",
+      "EN": "Ehh..."
+    },
+    {
+      "JP": "「ええっ！？」",
+      "Translation": "「ええっ！？」",
+      "EN": "Eeh!?"
+    },
+    {
+      "JP": "「うわぁ…」",
+      "Translation": "「うわぁ…」",
+      "EN": "Uwaa..."
+    },
+    {
+      "JP": "「しゃあーっ！！」",
+      "Translation": "「しゃあーっ！！」",
+      "EN": "Aight"
+    },
+    {
+      "JP": "「よしきたーーっ！！」",
+      "Translation": "「よしきたーーっ！！」",
+      "EN": "All right, here I go!!"
+    },
+    {
+      "JP": "「待ってました！」",
+      "Translation": "「待ってました！」",
+      "EN": "I've been waiting for this!"
+    },
+    {
+      "JP": "「ひっさーーーつっ！」",
+      "Translation": "「ひっさーーーつっ！」",
+      "EN": "Fiiniishiing!"
+    },
+    {
+      "JP": "「おらおらああぁーーっ！」",
+      "Translation": "「おらおらああぁーーっ！」",
+      "EN": "Oraoraaaa!"
+    },
+    {
+      "JP": "「うおりゃあああぁぁぁーーっ！！」",
+      "Translation": "「うおりゃあああぁぁぁーーっ！！」",
+      "EN": "Uoriiaaaaaaaaa!!"
+    },
+    {
+      "JP": "「甘いぜ！\u3000何年バッターやってんだよっ！」",
+      "Translation": "「甘いぜ！\u3000何年バッターやってんだよっ！」",
+      "EN": "Naive! How many years have you been batting!?"
+    },
+    {
+      "JP": "「まだまだこんなもんじゃなかったはずだぜ！？」",
+      "Translation": "「まだまだこんなもんじゃなかったはずだぜ！？」",
+      "EN": "That can't be all you've got, can it!?"
+    },
+    {
+      "JP": "「あの頃のおまえを取り戻せよ！！」",
+      "Translation": "「あの頃のおまえを取り戻せよ！！」",
+      "EN": "Return to your former glory!"
+    },
+    {
+      "JP": "「もっとすごかったはずだぜ、おまえは！！」",
+      "Translation": "「もっとすごかったはずだぜ、おまえは！！」",
+      "EN": "I always thought you were a lot better than that!"
+    },
+    {
+      "JP": "「こんなところでくすぶってんじゃねぇよ！！」",
+      "Translation": "「こんなところでくすぶってんじゃねぇよ！！」",
+      "EN": "This is no time to be sitting around!"
+    },
+    {
+      "JP": "「おまえ誓ったろ、忘れたけどさ！」",
+      "Translation": "「おまえ誓ったろ、忘れたけどさ！」",
+      "EN": "Didn't we make a promise! Though I forgot what it was already!"
+    },
+    {
+      "JP": "「ふたりだけの約束だったはずだろ、みんなに言って回ったけどさ」",
+      "Translation": "「ふたりだけの約束だったはずだろ、みんなに言って回ったけどさ」",
+      "EN": "It was supposed to be a promise between just the two of us, though I already told everyone!"
+    },
+    {
+      "JP": "「あの頃のおまえはハングリーだったぜっ、若干肥えてたけどさ」",
+      "Translation": "「あの頃のおまえはハングリーだったぜっ、若干肥えてたけどさ」",
+      "EN": "You were hungry back then. You were kinda fat though."
+    },
+    {
+      "JP": "「もっと飢えるんだ、飢える゛ん゛だあ゛ぁ゛ぁ゛…」",
+      "Translation": "「もっと飢えるんだ、飢える゛ん゛だあ゛ぁ゛ぁ゛…」",
+      "EN": "You should starve some more, starve s-o-m-e more..."
+    },
+    {
+      "JP": "「故郷に錦飾りたいんだろ、おまえはっ」",
+      "Translation": "「故郷に錦飾りたいんだろ、おまえはっ」",
+      "EN": "You want to come back home as a hero, don't you?"
+    },
+    {
+      "JP": "「こんなところで立ち止まってんじゃねぇ…おまえは進めよ！」",
+      "Translation": "「こんなところで立ち止まってんじゃねぇ…おまえは進めよ！」",
+      "EN": "You can't stop here... You must move forward!"
+    },
+    {
+      "JP": "「ふんっ」",
+      "Translation": "「ふんっ」",
+      "EN": "Hmph."
+    },
+    {
+      "JP": "「ごぼっ！！」",
+      "Translation": "「ごぼっ！！」",
+      "EN": "Goho!"
+    },
+    {
+      "JP": "「ぐふっ…」",
+      "Translation": "「ぐふっ…」",
+      "EN": "Guhu..."
+    },
+    {
+      "JP": "「うっ！」",
+      "Translation": "「うっ！」",
+      "EN": "Ugh!"
+    },
+    {
+      "JP": "「うおぅっ…！」",
+      "Translation": "「うおぅっ…！」",
+      "EN": "Uoogh..."
+    },
+    {
+      "JP": "「うおりゃあああぁぁぁーーっ！！」",
+      "Translation": "「うおりゃあああぁぁぁーーっ！！」",
+      "EN": "Uooooryaaa!"
+    },
+    {
+      "JP": "「うらああああぁぁぁーーっ！！」",
+      "Translation": "「うらああああぁぁぁーーっ！！」",
+      "EN": "Uraaaa!"
+    },
+    {
+      "JP": "「おらおらああぁーーっ！」",
+      "Translation": "「おらおらああぁーーっ！」",
+      "EN": "Ora ora ora!"
+    },
+    {
+      "JP": "「そりゃあぁーーーーっ！！」",
+      "Translation": "「そりゃあぁーーーーっ！！」",
+      "EN": "Soryaa!"
+    },
+    {
+      "JP": "「はぁっ！」",
+      "Translation": "「はぁっ！」",
+      "EN": "Haa!"
+    },
+    {
+      "JP": "「ふっ！」",
+      "Translation": "「ふっ！」",
+      "EN": "Hu!"
+    },
+    {
+      "JP": "「はっ！」",
+      "Translation": "「はっ！」",
+      "EN": "Ha!"
+    },
+    {
+      "JP": "「せいっ！」",
+      "Translation": "「せいっ！」",
+      "EN": "Sei!"
+    },
+    {
+      "JP": "「見えたっ！」",
+      "Translation": "「見えたっ！」",
+      "EN": "I can see it!"
+    },
+    {
+      "JP": "「めーん！」",
+      "Translation": "「めーん！」",
+      "EN": "Meeen!"
+    },
+    {
+      "JP": "「まーん！」",
+      "Translation": "「まーん！」",
+      "EN": "Maaan!"
+    },
+    {
+      "JP": "「なんてことない」",
+      "Translation": "「なんてことない」",
+      "EN": "Piece of cake."
+    },
+    {
+      "JP": "「はっはっは、おまえも腕を上げたじゃないか」",
+      "Translation": "「はっはっは、おまえも腕を上げたじゃないか」",
+      "EN": "Hahaha, you're getting better too, aren't you?"
+    },
+    {
+      "JP": "「うむ」",
+      "Translation": "「うむ」",
+      "EN": "Uh-huh."
+    },
+    {
+      "JP": "「よし」",
+      "Translation": "「よし」",
+      "EN": "All right."
+    },
+    {
+      "JP": "「どうだ」",
+      "Translation": "「どうだ」",
+      "EN": "How about that?"
+    },
+    {
+      "JP": "「いいだろう」",
+      "Translation": "「いいだろう」",
+      "EN": "Fine by me."
+    },
+    {
+      "JP": "「よし、いいぞ！」",
+      "Translation": "「よし、いいぞ！」",
+      "EN": "All right, keep it up!"
+    },
+    {
+      "JP": "「よしきた！」",
+      "Translation": "「よしきた！」",
+      "EN": "All right, it's here!"
+    },
+    {
+      "JP": "「オーケー！」",
+      "Translation": "「オーケー！」",
+      "EN": "Okay!"
+    },
+    {
+      "JP": "「いい感じだ」",
+      "Translation": "「いい感じだ」",
+      "EN": "Not bad."
+    },
+    {
+      "JP": "「いいんじゃないか？」",
+      "Translation": "「いいんじゃないか？」",
+      "EN": "Isn't it fine?"
+    },
+    {
+      "JP": "「はっ」",
+      "Translation": "「はっ」",
+      "EN": "Ha!"
+    },
+    {
+      "JP": "「ほっ」",
+      "Translation": "「ほっ」",
+      "EN": "Ho!"
+    },
+    {
+      "JP": "「あらよっと」",
+      "Translation": "「あらよっと」",
+      "EN": "There we go."
+    },
+    {
+      "JP": "「おやすいご用だ」",
+      "Translation": "「おやすいご用だ」",
+      "EN": "That was simple."
+    },
+    {
+      "JP": "「もっと強いの打っていいんだぜ？」",
+      "Translation": "「もっと強いの打っていいんだぜ？」",
+      "EN": "Why don't you hit harder?"
+    },
+    {
+      "JP": "「まだまだこんなんじゃ燃えねーな」",
+      "Translation": "「まだまだこんなんじゃ燃えねーな」",
+      "EN": "That's no good, no one'll get fired up from that."
+    },
+    {
+      "JP": "「もっと熱くなろうぜ」",
+      "Translation": "「もっと熱くなろうぜ」",
+      "EN": "You need to heat up more."
+    },
+    {
+      "JP": "「いやっほーぅ！」",
+      "Translation": "「いやっほーぅ！」",
+      "EN": "Yahooo!"
+    },
+    {
+      "JP": "「朝飯前だ」",
+      "Translation": "「朝飯前だ」",
+      "EN": "I'll have that for breakfast."
+    },
+    {
+      "JP": "「理樹は花粉症じゃなかったかい」",
+      "Translation": "「理樹は花粉症じゃなかったかい」",
+      "EN": "Weren't you allergic to pollen, Riki?"
+    },
+    {
+      "JP": "「か弱いおまえの心のような球だな」",
+      "Translation": "「か弱いおまえの心のような球だな」",
+      "EN": "A weak ball comes from a weak heart."
+    },
+    {
+      "JP": "「そろそろ慣れてきたかい」",
+      "Translation": "「そろそろ慣れてきたかい」",
+      "EN": "Are you getting used to it yet?"
+    },
+    {
+      "JP": "「もっとすごいのくれよ」",
+      "Translation": "「もっとすごいのくれよ」",
+      "EN": "Hit a better one."
+    },
+    {
+      "JP": "「なにを憂いでいる。球筋に出てるぜ？」",
+      "Translation": "「なにを憂いでいる。球筋に出てるぜ？」",
+      "EN": "What are you anxious about? It's clear from the way you bat."
+    },
+    {
+      "JP": "「いいな！」",
+      "Translation": "「いいな！」",
+      "EN": "Good!"
+    },
+    {
+      "JP": "「こいつは抜けさせないぜっ」",
+      "Translation": "「こいつは抜けさせないぜっ」",
+      "EN": "I won't let this one go."
+    },
+    {
+      "JP": "「おてのものよっ」",
+      "Translation": "「おてのものよっ」",
+      "EN": "That was simple."
+    },
+    {
+      "JP": "「そうは簡単にいくかいっ」",
+      "Translation": "「そうは簡単にいくかいっ」",
+      "EN": "Not so easy!"
+    },
+    {
+      "JP": "「いいじゃねーか」",
+      "Translation": "「いいじゃねーか」",
+      "EN": "Not bad."
+    },
+    {
+      "JP": "「いいとこついてくるじゃねーか」",
+      "Translation": "「いいとこついてくるじゃねーか」",
+      "EN": "This is not bad at all."
+    },
+    {
+      "JP": "「ぜんぜん楽勝だぜ」",
+      "Translation": "「ぜんぜん楽勝だぜ」",
+      "EN": "That was no sweat at all."
+    },
+    {
+      "JP": "「蚊がとまって見えるぜ」",
+      "Translation": "「蚊がとまって見えるぜ」",
+      "EN": "That was like the buzz of a mosquito."
+    },
+    {
+      "JP": "「このキャッチが俺たちの絆だ」",
+      "Translation": "「このキャッチが俺たちの絆だ」",
+      "EN": "This catch is proof of our bonds!"
+    },
+    {
+      "JP": "「どうした、ちょっとキレがなくなってきたぜ？」",
+      "Translation": "「どうした、ちょっとキレがなくなってきたぜ？」",
+      "EN": "What's wrong? Run out of steam already, huh?"
+    },
+    {
+      "JP": "「なにを憂いでいる。球筋に出てるぜ？」",
+      "Translation": "「なにを憂いでいる。球筋に出てるぜ？」",
+      "EN": "What are you anxious about? It's clear from the way you bat."
+    },
+    {
+      "JP": "「抜け毛が気になり始めたか？\u3000球筋に出てるぜ？」",
+      "Translation": "「抜け毛が気になり始めたか？\u3000球筋に出てるぜ？」",
+      "EN": "Did you start worrying about hair loss? It's clear from the way you bat."
+    },
+    {
+      "JP": "「今更２０００年問題を気にしてるのかよ。球筋に出てるぜ？」",
+      "Translation": "「今更２０００年問題を気にしてるのかよ。球筋に出てるぜ？」",
+      "EN": "Are you worried about the millennium bug now, of all times? It's clear from the way you bat."
+    },
+    {
+      "JP": "「そんなに腹が減ったか。球筋に出てるぜ？」",
+      "Translation": "「そんなに腹が減ったか。球筋に出てるぜ？」",
+      "EN": "Are you that hungry? It's clear from the way you bat."
+    },
+    {
+      "JP": "「そんなに喉が渇いたか。球筋に出てるぜ？」",
+      "Translation": "「そんなに喉が渇いたか。球筋に出てるぜ？」",
+      "EN": "Are you that thirsty? It's clear from the way you bat."
+    },
+    {
+      "JP": "「謙吾！」",
+      "Translation": "「謙吾！」",
+      "EN": "Kengo!"
+    },
+    {
+      "JP": "「ファースト、謙吾！」",
+      "Translation": "「ファースト、謙吾！」",
+      "EN": "First base, Kengo!"
+    },
+    {
+      "JP": "「いくぜ、謙吾っ」",
+      "Translation": "「いくぜ、謙吾っ」",
+      "EN": "Go, Kengo!"
+    },
+    {
+      "JP": "「よしっ、謙吾っ」",
+      "Translation": "「よしっ、謙吾っ」",
+      "EN": "All right, Kengo!"
+    },
+    {
+      "JP": "「余裕でアウトだぜ」",
+      "Translation": "「余裕でアウトだぜ」",
+      "EN": "An easy out."
+    },
+    {
+      "JP": "「ほらよっと」",
+      "Translation": "「ほらよっと」",
+      "EN": "There!"
+    },
+    {
+      "JP": "「ワンナウツ！」",
+      "Translation": "「ワンナウツ！」",
+      "EN": "One outs!"
+    },
+    {
+      "JP": "「はっ！」",
+      "Translation": "「はっ！」",
+      "EN": "Ha!"
+    },
+    {
+      "JP": "「ほっ！」",
+      "Translation": "「ほっ！」",
+      "EN": "Ho!"
+    },
+    {
+      "JP": "「そうはさせるかっ」",
+      "Translation": "「そうはさせるかっ」",
+      "EN": "Not so fast!"
+    },
+    {
+      "JP": "「こいつはもらったっ」",
+      "Translation": "「こいつはもらったっ」",
+      "EN": "I'm taking this."
+    },
+    {
+      "JP": "「ぜんぜん追いつけるぜっ」",
+      "Translation": "「ぜんぜん追いつけるぜっ」",
+      "EN": "I caught that all too easy."
+    },
+    {
+      "JP": "「もっとこいよ、もっとホットなのをぶつけてこいよ…」",
+      "Translation": "「もっとこいよ、もっとホットなのをぶつけてこいよ…」",
+      "EN": "Come on, put some spirit into it..."
+    },
+    {
+      "JP": "「ははっ、なかなかいいぜ。その調子だ」",
+      "Translation": "「ははっ、なかなかいいぜ。その調子だ」",
+      "EN": "Haha, not bad at all. Keep at it."
+    },
+    {
+      "JP": "「もう、ぜーんぜん余裕だ」",
+      "Translation": "「もう、ぜーんぜん余裕だ」",
+      "EN": "That's just too easy."
+    },
+    {
+      "JP": "「ここに来て反抗期かい。球筋に出てるぜ？」",
+      "Translation": "「ここに来て反抗期かい。球筋に出てるぜ？」",
+      "EN": "Did coming here launch your rebellious period? It's clear from the way you bat."
+    },
+    {
+      "JP": "「好きな子でもできたのかい。球筋に出てるぜ？」",
+      "Translation": "「好きな子でもできたのかい。球筋に出てるぜ？」",
+      "EN": "Have you fallen in love? It's clear from the way you bat."
+    },
+    {
+      "JP": "「とんだじゃじゃ馬だな」",
+      "Translation": "「とんだじゃじゃ馬だな」",
+      "EN": "You sure are a handful."
+    },
+    {
+      "JP": "「日々精進の心がけが大切だぜ！」",
+      "Translation": "「日々精進の心がけが大切だぜ！」",
+      "EN": "You need to exercise diligence daily."
+    },
+    {
+      "JP": "「いいぞ、打って打って打ちまくれ！」",
+      "Translation": "「いいぞ、打って打って打ちまくれ！」",
+      "EN": "Good, hit another one, hit another one with all your might!"
+    },
+    {
+      "JP": "「おっと、おまえのナイーブな部分をキャッチしちまったかな」",
+      "Translation": "「おっと、おまえのナイーブな部分をキャッチしちまったかな」",
+      "EN": "Oops, did I catch that naivety of yours?"
+    },
+    {
+      "JP": "「その歳で生えてきたのかい。球筋に出てるぜ？」",
+      "Translation": "「その歳で生えてきたのかい。球筋に出てるぜ？」",
+      "EN": "Are you at that age already? It's clear from the way you bat."
+    },
+    {
+      "JP": "「よっと！」",
+      "Translation": "「よっと！」",
+      "EN": "There!"
+    },
+    {
+      "JP": "「ほっと！」",
+      "Translation": "「ほっと！」",
+      "EN": "There!"
+    },
+    {
+      "JP": "「ちょっと心が荒れ模様かい。球筋に出てるぜ？」",
+      "Translation": "「ちょっと心が荒れ模様かい。球筋に出てるぜ？」",
+      "EN": "Are you mad about something? It's clear from the way you bat."
+    },
+    {
+      "JP": "「おっと、とんだじゃじゃ馬だな」",
+      "Translation": "「おっと、とんだじゃじゃ馬だな」",
+      "EN": "Oh, you sure are hard to handle."
+    },
+    {
+      "JP": "「確かにおまえの言う通りだ。おまえは正しい」",
+      "Translation": "「確かにおまえの言う通りだ。おまえは正しい」",
+      "EN": "It's exactly as you say. You stand correct."
+    },
+    {
+      "JP": "「なるほど。そうなるな。当然だわな」",
+      "Translation": "「なるほど。そうなるな。当然だわな」",
+      "EN": "I see. That's how it is. That's only natural."
+    },
+    {
+      "JP": "「ほわぁっ」",
+      "Translation": "「ほわぁっ」",
+      "EN": "Howaa!"
+    },
+    {
+      "JP": "「ふえぇぇーんっ」",
+      "Translation": "「ふえぇぇーんっ」",
+      "EN": "Fuuee!"
+    },
+    {
+      "JP": "「ひゃぁっ！？」",
+      "Translation": "「ひゃぁっ！？」",
+      "EN": "Hyaa!?"
+    },
+    {
+      "JP": "「なにかとんできたです！？」",
+      "Translation": "「なにかとんできたです！？」",
+      "EN": "Something came flying at me!?"
+    },
+    {
+      "JP": "「危ないですよ？」",
+      "Translation": "「危ないですよ？」",
+      "EN": "Isn't that dangerous?"
+    },
+    {
+      "JP": "「怒りますよ」",
+      "Translation": "「怒りますよ」",
+      "EN": "I'm getting angry."
+    },
+    {
+      "JP": "「とぅっ」",
+      "Translation": "「とぅっ」",
+      "EN": "Toh!"
+    },
+    {
+      "JP": "「ほっ」",
+      "Translation": "「ほっ」",
+      "EN": "Ho!"
+    },
+    {
+      "JP": "「やっ」",
+      "Translation": "「やっ」",
+      "EN": "Ya!"
+    },
+    {
+      "JP": "「てぃっ！」",
+      "Translation": "「てぃっ！」",
+      "EN": "Teei!"
+    },
+    {
+      "JP": "「打てるもんならっ」",
+      "Translation": "「打てるもんならっ」",
+      "EN": "Hit this if you think you can..."
+    },
+    {
+      "JP": "「うにゃっ！」",
+      "Translation": "「うにゃっ！」",
+      "EN": "Unyaa!"
+    },
+    {
+      "JP": "「ふにゃっ！」",
+      "Translation": "「ふにゃっ！」",
+      "EN": "Funyaa!"
+    },
+    {
+      "JP": "「んにゃっ！」",
+      "Translation": "「んにゃっ！」",
+      "EN": "Nnnyaa!"
+    },
+    {
+      "JP": "「このやろっ」",
+      "Translation": "「このやろっ」",
+      "EN": "Why you..."
+    },
+    {
+      "JP": "「これ終わったらみんなでもんぺちだっ」",
+      "Translation": "「これ終わったらみんなでもんぺちだっ」",
+      "EN": "Mon Petit for everyone, once this is over."
+    },
+    {
+      "JP": "「もんぺち、残ってたかな…」",
+      "Translation": "「もんぺち、残ってたかな…」",
+      "EN": "I wonder if there's any Mon Petit left..."
+    },
+    {
+      "JP": "「ねこの行進、にゃんにゃん」",
+      "Translation": "「ねこの行進、にゃんにゃん」",
+      "EN": "Cats are marching, nyan nyan."
+    },
+    {
+      "JP": "「んにゃうーっ」",
+      "Translation": "「んにゃうーっ」",
+      "EN": "Nnyau."
+    },
+    {
+      "JP": "「モンペチの新しい味が楽しみだ」",
+      "Translation": "「モンペチの新しい味が楽しみだ」",
+      "EN": "I can't wait for a new flavor Mon Petit to come out."
+    },
+    {
+      "JP": "「おまえら、どうしてそんな可愛いんだ？」",
+      "Translation": "「おまえら、どうしてそんな可愛いんだ？」",
+      "EN": "How can you guys be so cute?"
+    },
+    {
+      "JP": "「猫はいいなー、にゃ～にゃ～」",
+      "Translation": "「猫はいいなー、にゃ～にゃ～」",
+      "EN": "Cats are great, nyaa～nyaa～."
+    },
+    {
+      "JP": "「一度猫になりたいな」",
+      "Translation": "「一度猫になりたいな」",
+      "EN": "I wanna be a cat just once."
+    },
+    {
+      "JP": "「理樹も一回猫になってみたらどうだ」",
+      "Translation": "「理樹も一回猫になってみたらどうだ」",
+      "EN": "Riki, why don't you turn into a cat sometime too?"
+    },
+    {
+      "JP": "「今日の理樹ははりきってるな」",
+      "Translation": "「今日の理樹ははりきってるな」",
+      "EN": "Riki is so hyper today."
+    },
+    {
+      "JP": "「理樹、いいことでもあったのか？」",
+      "Translation": "「理樹、いいことでもあったのか？」",
+      "EN": "Riki, did something good happen to you?"
+    },
+    {
+      "JP": "「今日の理樹は暗いな」",
+      "Translation": "「今日の理樹は暗いな」",
+      "EN": "Riki looks so gloomy today."
+    },
+    {
+      "JP": "「理樹、よくないことでもあったのか？」",
+      "Translation": "「理樹、よくないことでもあったのか？」",
+      "EN": "Riki, did something bad happen to you?"
+    },
+    {
+      "JP": "「どっかいけっ」",
+      "Translation": "「どっかいけっ」",
+      "EN": "Get away!"
+    },
+    {
+      "JP": "「しねっ」",
+      "Translation": "「しねっ」",
+      "EN": "Die!"
+    },
+    {
+      "JP": "「ずず～…ほわ～」",
+      "Translation": "「ずず～…ほわ～」",
+      "EN": "Zuzu～ Howa～..."
+    },
+    {
+      "JP": "「今日もいいお天気ですね～」",
+      "Translation": "「今日もいいお天気ですね～」",
+      "EN": "There's good weather today～."
+    },
+    {
+      "JP": "「はるうらら～うらうら～♪」",
+      "Translation": "「はるうらら～うらうら～♪」",
+      "EN": "Haru urara～ uraura～♪"
+    },
+    {
+      "JP": "「特訓は大変だ～」",
+      "Translation": "「特訓は大変だ～」",
+      "EN": "The training is harsh～."
+    },
+    {
+      "JP": "「はやすぎるよ～」",
+      "Translation": "「はやすぎるよ～」",
+      "EN": "Too fast～..."
+    },
+    {
+      "JP": "「あぁうぅぅ～」",
+      "Translation": "「あぁうぅぅ～」",
+      "EN": "Aauuu～..."
+    },
+    {
+      "JP": "「わんちゃんはほえるがこまりは逃げる…」",
+      "Translation": "「わんちゃんはほえるがこまりは逃げる…」",
+      "EN": "When a doggie barks, Komari runs away..."
+    },
+    {
+      "JP": "「理樹君がんばって～」",
+      "Translation": "「理樹君がんばって～」",
+      "EN": "Riki-kun, do your best～."
+    },
+    {
+      "JP": "「わっせっわっせっ」",
+      "Translation": "「わっせっわっせっ」",
+      "EN": "Wasse, wasse!"
+    },
+    {
+      "JP": "「がんばってるよー」",
+      "Translation": "「がんばってるよー」",
+      "EN": "I'm trying my best～."
+    },
+    {
+      "JP": "「ちょうちょがいるよー」",
+      "Translation": "「ちょうちょがいるよー」",
+      "EN": "Oh, a butterfly～."
+    },
+    {
+      "JP": "「ねこさんにゃーにゃー」",
+      "Translation": "「ねこさんにゃーにゃー」",
+      "EN": "Neko-san, nyan nyan."
+    },
+    {
+      "JP": "「たのしいよー」",
+      "Translation": "「たのしいよー」",
+      "EN": "This is fuun."
+    },
+    {
+      "JP": "「みんながんばってー」",
+      "Translation": "「みんながんばってー」",
+      "EN": "Everyone, do your best."
+    },
+    {
+      "JP": "「りんちゃーん、ふぁいとですよー」",
+      "Translation": "「りんちゃーん、ふぁいとですよー」",
+      "EN": "Rin-chan, fight-o!"
+    },
+    {
+      "JP": "「ダイエットしたほうがいいのかなぁ…」",
+      "Translation": "「ダイエットしたほうがいいのかなぁ…」",
+      "EN": "I wonder if I should go on a diet..."
+    },
+    {
+      "JP": "「風が語りかけます…うまい、うますぎる…」",
+      "Translation": "「風が語りかけます…うまい、うますぎる…」",
+      "EN": "The wind is talking to me... Tasty, too tasty..."
+    },
+    {
+      "JP": "「あくびが出る」",
+      "Translation": "「あくびが出る」",
+      "EN": "I'm getting bored."
+    },
+    {
+      "JP": "「ほらほら頑張れ」",
+      "Translation": "「ほらほら頑張れ」",
+      "EN": "Come on, keep at it."
+    },
+    {
+      "JP": "「ちゃんと良く見て当てろ」",
+      "Translation": "「ちゃんと良く見て当てろ」",
+      "EN": "Watch it closer."
+    },
+    {
+      "JP": "「…猫はどうにかならんのか」",
+      "Translation": "「…猫はどうにかならんのか」",
+      "EN": "...Can't you do something about the cats?"
+    },
+    {
+      "JP": "「こっちくるな」",
+      "Translation": "「こっちくるな」",
+      "EN": "Stay away from me."
+    },
+    {
+      "JP": "「猫の肉球をふにふにしてみたいが…ぐむぅ…」",
+      "Translation": "「猫の肉球をふにふにしてみたいが…ぐむぅ…」",
+      "EN": "I want to poke a cat's paw pad, but... Gumuu..."
+    },
+    {
+      "JP": "「がんばるのですっ」",
+      "Translation": "「がんばるのですっ」",
+      "EN": "I'm doing my best!"
+    },
+    {
+      "JP": "「ふう…まだまだですー」",
+      "Translation": "「ふう…まだまだですー」",
+      "EN": "Phew... Still no good～."
+    },
+    {
+      "JP": "「熱いお茶が飲みたいですー」",
+      "Translation": "「熱いお茶が飲みたいですー」",
+      "EN": "I want to drink hot tea～."
+    },
+    {
+      "JP": "「がっつでがっつんがっつんですっ」",
+      "Translation": "「がっつでがっつんがっつんですっ」",
+      "EN": "Gattsun gattsun gattsun!"
+    },
+    {
+      "JP": "「バッチこいこい～」",
+      "Translation": "「バッチこいこい～」",
+      "EN": "Come on, show me what you're made of～."
+    },
+    {
+      "JP": "「こっちにも打ってこーい！」",
+      "Translation": "「こっちにも打ってこーい！」",
+      "EN": "Hit one ball here too!"
+    },
+    {
+      "JP": "「やる気まんマンですヨ！」",
+      "Translation": "「やる気まんマンですヨ！」",
+      "EN": "I'm brimming with enthusiasm!"
+    },
+    {
+      "JP": "「実はあんまり動いてないですヨ！」",
+      "Translation": "「実はあんまり動いてないですヨ！」",
+      "EN": "To be honest, I'm not getting to move all that much!"
+    },
+    {
+      "JP": "「理樹君ふぁいとぉーっ」",
+      "Translation": "「理樹君ふぁいとぉーっ」",
+      "EN": "Riki-kun, fight!"
+    },
+    {
+      "JP": "「鈴ちゃんふぁいとぉーっ」",
+      "Translation": "「鈴ちゃんふぁいとぉーっ」",
+      "EN": "Rin-chan, fight!"
+    },
+    {
+      "JP": "「本日は絶好のはるちん日和ですナ。意味わかんないけど！」",
+      "Translation": "「本日は絶好のはるちん日和ですナ。意味わかんないけど！」",
+      "EN": "Today is truly a perfect Haruchin weather. Whatever that means!"
+    },
+    {
+      "JP": "「明日は全国的に晴れ。ところによりはるちんです」",
+      "Translation": "「明日は全国的に晴れ。ところによりはるちんです」",
+      "EN": "It's going to be sunny across the nation tomorrow, with a hint of Haruchin in some areas."
+    },
+    {
+      "JP": "「かうんとだうんてぃーびーをご覧の皆様。はるちんです」",
+      "Translation": "「かうんとだうんてぃーびーをご覧の皆様。はるちんです」",
+      "EN": "This was Haruchin. Thank you for watching Countdown TV."
+    },
+    {
+      "JP": "「こんばんは。１９時５５分、夜のはるちんです」",
+      "Translation": "「こんばんは。１９時５５分、夜のはるちんです」",
+      "EN": "Good evening. The time is 19:55, it's Haruchin in the night."
+    },
+    {
+      "JP": "「みなさん、頑張ってください」",
+      "Translation": "「みなさん、頑張ってください」",
+      "EN": "Everyone, please do your best."
+    },
+    {
+      "JP": "「目指せ、武道館」",
+      "Translation": "「目指せ、武道館」",
+      "EN": "Aim for the Budokan."
+    },
+    {
+      "JP": "「目指せ、東京ドーム」",
+      "Translation": "「目指せ、東京ドーム」",
+      "EN": "Aim for the Tokyo Dome."
+    },
+    {
+      "JP": "「ファイトです」",
+      "Translation": "「ファイトです」",
+      "EN": "Fight."
+    },
+    {
+      "JP": "「怪我をしたらいつでもおっしゃってください」",
+      "Translation": "「怪我をしたらいつでもおっしゃってください」",
+      "EN": "Please let me know right away if you get hurt."
+    },
+    {
+      "JP": "「唐突にジャパーンとか言ったら受けるでしょうか」",
+      "Translation": "「唐突にジャパーンとか言ったら受けるでしょうか」",
+      "EN": "If I suddenly say Japan, will that make people laugh?"
+    },
+    {
+      "JP": "「唐突にバリバリだっゼとか言ったら受けるでしょうか」",
+      "Translation": "「唐突にバリバリだっゼとか言ったら受けるでしょうか」",
+      "EN": "If I suddenly say I used to be a total motorcycle rider, will that make people laugh?"
+    },
+    {
+      "JP": "「誰にも気づかれていないわ…」",
+      "Translation": "「誰にも気づかれていないわ…」",
+      "EN": "I seem to have gone unnoticed..."
+    },
+    {
+      "JP": "「完璧に隠れてるわ…」",
+      "Translation": "「完璧に隠れてるわ…」",
+      "EN": "I'm perfectly hidden..."
+    },
+    {
+      "JP": "「ははっ、遊んでなさい…」",
+      "Translation": "「ははっ、遊んでなさい…」",
+      "EN": "Haha, just keep playing..."
+    },
+    {
+      "JP": "「平和ね…」",
+      "Translation": "「平和ね…」",
+      "EN": "It's so peaceful out there.."
+    },
+    {
+      "JP": "「のんきなものね…」",
+      "Translation": "「のんきなものね…」",
+      "EN": "They sure are taking it easy..."
+    },
+    {
+      "JP": "「楽しいのかしら…」",
+      "Translation": "「楽しいのかしら…」",
+      "EN": "I wonder if that's fun..."
+    },
+    {
+      "JP": "「別にうらやましくなんてないわよ…」",
+      "Translation": "「別にうらやましくなんてないわよ…」",
+      "EN": "Not that I'm feeling envious or anything..."
+    },
+    {
+      "JP": "「理樹くん、意外と男らしいのね…」",
+      "Translation": "「理樹くん、意外と男らしいのね…」",
+      "EN": "Riki-kun, you're more manly than I thought..."
+    },
+    {
+      "JP": "「がんばれ、理樹くん」",
+      "Translation": "「がんばれ、理樹くん」",
+      "EN": "Go for it, Riki-kun."
+    },
+    {
+      "JP": "「陰から応援してるわよ、理樹くん」",
+      "Translation": "「陰から応援してるわよ、理樹くん」",
+      "EN": "I'm rooting for you from the back, Riki-kun."
+    },
+    {
+      "JP": "「ナイススイングだわ」",
+      "Translation": "「ナイススイングだわ」",
+      "EN": "Nice swing."
+    },
+    {
+      "JP": "「あの子とどういう関係！？」",
+      "Translation": "「あの子とどういう関係！？」",
+      "EN": "What's your relationship with that girl!?"
+    },
+    {
+      "JP": "「あの子、理樹くんを狙ってないかしら…」",
+      "Translation": "「あの子、理樹くんを狙ってないかしら…」",
+      "EN": "That girl, I'm suspecting she has her eyes on Riki-kun..."
+    },
+    {
+      "JP": "「あの子、ちょっと可愛いわね…」",
+      "Translation": "「あの子、ちょっと可愛いわね…」",
+      "EN": "That girl, just because she's a little pretty..."
+    },
+    {
+      "JP": "「間抜けな理樹くん…」",
+      "Translation": "「間抜けな理樹くん…」",
+      "EN": "You're being such a blockhead, Riki-kun..."
+    },
+    {
+      "JP": "「しまっていこー」",
+      "Translation": "「しまっていこー」",
+      "EN": "Let's get it started!"
+    },
+    {
+      "JP": "「どこにとぶかわかんないからね」",
+      "Translation": "「どこにとぶかわかんないからね」",
+      "EN": "I never know where it comes flying from."
+    },
+    {
+      "JP": "「いい感じだよね？」",
+      "Translation": "「いい感じだよね？」",
+      "EN": "That wasn't too bad, right?"
+    },
+    {
+      "JP": "「悪くないよね」",
+      "Translation": "「悪くないよね」",
+      "EN": "Not bad!"
+    },
+    {
+      "JP": "「ちょっとは慣れてきたかな」",
+      "Translation": "「ちょっとは慣れてきたかな」",
+      "EN": "I think I'm getting the hang of it."
+    },
+    {
+      "JP": "「まだまだかな…」",
+      "Translation": "「まだまだかな…」",
+      "EN": "Still not there..."
+    },
+    {
+      "JP": "「力ないな、僕は…」",
+      "Translation": "「力ないな、僕は…」",
+      "EN": "I don't have any energy..."
+    },
+    {
+      "JP": "「そこそこ器用だとは思うんだけど…」",
+      "Translation": "「そこそこ器用だとは思うんだけど…」",
+      "EN": "I think I'm only so skilled yet..."
+    },
+    {
+      "JP": "「鈴は慣れてきたね」",
+      "Translation": "「鈴は慣れてきたね」",
+      "EN": "Getting the hang of it, Rin?"
+    },
+    {
+      "JP": "「鈴、いい調子だよ」",
+      "Translation": "「鈴、いい調子だよ」",
+      "EN": "Looking good, Rin."
+    },
+    {
+      "JP": "「猫をよけて打つのが難しい…」",
+      "Translation": "「猫をよけて打つのが難しい…」",
+      "EN": "It's hard to bat trying not to hit the cats..."
+    },
+    {
+      "JP": "「猫だらけだなぁ…」",
+      "Translation": "「猫だらけだなぁ…」",
+      "EN": "So many cats around..."
+    },
+    {
+      "JP": "「当たってもしらないよ？」",
+      "Translation": "「当たってもしらないよ？」",
+      "EN": "I can't guarantee I won't hit them, you know?"
+    },
+    {
+      "JP": "「スポーツやっときゃよかったなあ」",
+      "Translation": "「スポーツやっときゃよかったなあ」",
+      "EN": "I wish I'd played sports before..."
+    },
+    {
+      "JP": "「いきなり上手くならないかなあ」",
+      "Translation": "「いきなり上手くならないかなあ」",
+      "EN": "Can I suddenly become good, I wonder..."
+    },
+    {
+      "JP": "「はい、筋肉が通りまーす、逞しい筋肉が通りまーす」",
+      "Translation": "「はい、筋肉が通りまーす、逞しい筋肉が通りまーす」",
+      "EN": "Muscles are passing by! Bulky muscles are passing by!"
+    },
+    {
+      "JP": "「筋肉が通りまーす。かなりの筋肉が通りまーす」",
+      "Translation": "「筋肉が通りまーす。かなりの筋肉が通りまーす」",
+      "EN": "Muscles are passing by! Quite some muscles are passing by!"
+    },
+    {
+      "JP": "「筋肉が通りまーす。ご協力ありがとうございまーす」",
+      "Translation": "「筋肉が通りまーす。ご協力ありがとうございまーす」",
+      "EN": "Muscles are passing by! Thank you for your cooperation!"
+    },
+    {
+      "JP": "「筋肉が通りまーす。相当な筋肉が通りまーす」",
+      "Translation": "「筋肉が通りまーす。相当な筋肉が通りまーす」",
+      "EN": "Muscles are passing by! Enormous muscles are passing by!"
+    },
+    {
+      "JP": "「毎度おなじみの～筋肉交換でございま～す」",
+      "Translation": "「毎度おなじみの～筋肉交換でございま～す」",
+      "EN": "The Muscle Exchange thanks you for your continued patronage."
+    },
+    {
+      "JP": "「ジッ…こちら筋肉、ただちに現場に向かいます」",
+      "Translation": "「ジッ…こちら筋肉、ただちに現場に向かいます」",
+      "EN": "This is Muscles, heading out to the site now."
+    },
+    {
+      "JP": "「ジッ…こちらかなりの筋肉、ただちに現場に向かいます」",
+      "Translation": "「ジッ…こちらかなりの筋肉、ただちに現場に向かいます」",
+      "EN": "This is Quite Some Muscles, heading out to the site now."
+    },
+    {
+      "JP": "「ジッ…こちら相当な筋肉、ただちに現場に向かいます」",
+      "Translation": "「ジッ…こちら相当な筋肉、ただちに現場に向かいます」",
+      "EN": "This is Enormous Muscles, heading out to the site now."
+    },
+    {
+      "JP": "「筋肉が通過しまーす、白線の内側までお下がりくださ～い」",
+      "Translation": "「筋肉が通過しまーす、白線の内側までお下がりくださ～い」",
+      "EN": "Muscle is taking off, please mind the gap."
+    },
+    {
+      "JP": "「ふっ、ふっ…筋肉、筋肉っ」",
+      "Translation": "「ふっ、ふっ…筋肉、筋肉っ」",
+      "EN": "Fuu, fuuu... Muscles, muscles."
+    },
+    {
+      "JP": "「ふっ…ふっ…筋肉がうなる！\u3000うなりを上げる！」",
+      "Translation": "「ふっ…ふっ…筋肉がうなる！\u3000うなりを上げる！」",
+      "EN": "Hu... hu... my muscles are screaming! They're screaming out!"
+    },
+    {
+      "JP": "「おおっ、すげぇうなりだ！」",
+      "Translation": "「おおっ、すげぇうなりだ！」",
+      "EN": "Ohh, this is one huge scream!"
+    },
+    {
+      "JP": "「ふっ、ふっ…」",
+      "Translation": "「ふっ、ふっ…」",
+      "EN": "Hu, hu..."
+    },
+    {
+      "JP": "「やべぇっ、あまりのうなりにオレ自身がついていけねぇっ」",
+      "Translation": "「やべぇっ、あまりのうなりにオレ自身がついていけねぇっ」",
+      "EN": "Oh my god, this screaming is too much for me to take!"
+    },
+    {
+      "JP": "「うおおっ、筋肉が暴走だ！\u3000暴徒と化した！」",
+      "Translation": "「うおおっ、筋肉が暴走だ！\u3000暴徒と化した！」",
+      "EN": "Uoooo, my muscles are running wild! They're rioting!"
+    },
+    {
+      "JP": "「こいつは…筋肉革命だあぁぁぁーーーーっ！！」",
+      "Translation": "「こいつは…筋肉革命だあぁぁぁーーーーっ！！」",
+      "EN": "This is... A muscle REVOLUUUTIOOOON!!"
+    },
+    {
+      "JP": "「はいはーい、暑苦しい筋肉が通りまーす。道をあけてくださーい」",
+      "Translation": "「はいはーい、暑苦しい筋肉が通りまーす。道をあけてくださーい」",
+      "EN": "Sultry muscles are passing by. Please make way."
+    },
+    {
+      "JP": "「どいてくださーい、暑苦しい筋肉が通りまーす」",
+      "Translation": "「どいてくださーい、暑苦しい筋肉が通りまーす」",
+      "EN": "Please make way, sultry muscles are passing by."
+    },
+    {
+      "JP": "「ご協力ありがとうございまーす」",
+      "Translation": "「ご協力ありがとうございまーす」",
+      "EN": "Thank you for your cooperation!"
+    },
+    {
+      "JP": "「その前の筋肉、とまりなさーい。暑苦しいのでとまりなさーい」",
+      "Translation": "「その前の筋肉、とまりなさーい。暑苦しいのでとまりなさーい」",
+      "EN": "Wait up, you muscles over there. You're too sultry, you need to stop."
+    },
+    {
+      "JP": "「見えた！」",
+      "Translation": "「見えた！」",
+      "EN": "I can see it!"
+    },
+    {
+      "JP": "「繰り返される諸行は無常…」",
+      "Translation": "「繰り返される諸行は無常…」",
+      "EN": "Nothing is eternal..."
+    },
+    {
+      "JP": "「まだまだひよっこだな」",
+      "Translation": "「まだまだひよっこだな」",
+      "EN": "You're still inexperienced."
+    },
+    {
+      "JP": "「大切なのはチームプレイだ」",
+      "Translation": "「大切なのはチームプレイだ」",
+      "EN": "The most important thing is team play."
+    },
+    {
+      "JP": "「もっと強く、絆を深めるんだ！」",
+      "Translation": "「もっと強く、絆を深めるんだ！」",
+      "EN": "We must deepen our bonds!"
+    },
+    {
+      "JP": "「そーだ。いいぞー。もっと絆を深めていくんだ」",
+      "Translation": "「そーだ。いいぞー。もっと絆を深めていくんだ」",
+      "EN": "Great. Keep at it. We must deepen our bonds."
+    },
+    {
+      "JP": "「どろどろになってよ、それでも得難い何かがあるのさ」",
+      "Translation": "「どろどろになってよ、それでも得難い何かがあるのさ」",
+      "EN": "Don't be afraid to ruin your clothes, there is value in that also."
+    },
+    {
+      "JP": "「ぼろぼろになってよ、それでも得難い何かがあるのさ」",
+      "Translation": "「ぼろぼろになってよ、それでも得難い何かがあるのさ」",
+      "EN": "Don't be afraid to wear yourself out, there is value in that also."
+    },
+    {
+      "JP": "「よーし、いいチームになってきたな」",
+      "Translation": "「よーし、いいチームになってきたな」",
+      "EN": "Alright, we have an awesome team."
+    },
+    {
+      "JP": "「俺たちリトルバスターズ！」",
+      "Translation": "「俺たちリトルバスターズ！」",
+      "EN": "We are the Little Busters!"
+    },
+    {
+      "JP": "「いけるっ、こいつはいけるぞっ」",
+      "Translation": "「いけるっ、こいつはいけるぞっ」",
+      "EN": "They can do it, I just know they can do it."
+    },
+    {
+      "JP": "「チームプレイを忘れるな！」",
+      "Translation": "「チームプレイを忘れるな！」",
+      "EN": "Don't forget team play!"
+    }
+  ]
+}

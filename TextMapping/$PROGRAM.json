@@ -182,7 +182,7 @@
   {
     "Source": "Swipe outside the message window jumps to next choice, or the end of previously read text.",
     "Target": "在消息窗口外滑动跳转到下一个选择，或跳转到已读文本的末尾。",
-    "JP": null
+    "JP": "メッセージウィンドウ外でフリックすると「次の選択肢」もしくは「既読部分の最後」までジャンプ。"
   },
   {
     "Source": "Give it a rest already, think of something other than raw yatsuhashi with no red bean jam.",
@@ -272,7 +272,7 @@
   {
     "Source": "`Kyousuke@❝Aight, let's end it here. We really have been getting better by the day.❞",
     "Target": "`恭介@「好了，就到这里吧。我们真的每天都在进步。」",
-    "JP": "`恭介@「よし、終わろう。日に日によくなっていくじゃないか、さすがだな」"
+    "JP": "@恭介@「よし、終わろう。日に日によくなっていくじゃないか、さすがだな」"
   },
   {
     "Source": "Before you attack, you must say ❝I will not forgive the lot of you!❞. (By Kyousuke)",
@@ -297,7 +297,7 @@
   {
     "Source": "Drag in the message window to rewind.\nFlick and auto swiping (unlock by tapping).",
     "Target": "在消息窗中拖动以回退.\n通过滑动自动回退(通过点击解锁).",
-    "JP": null
+    "JP": "メッセージウィンドウ内でドラッグすると早戻し。\nフリックすると自動早戻し（タップで解除）。"
   },
   {
     "Source": "Do you want to eat poisonous mushrooms that bad? It's clear from the way you bat.",
@@ -306,7 +306,7 @@
   },
   {
     "Source": "It's okay to throw the soil from Koshien like you would be praying. (By Kyousuke)",
-    "Target": "像祈祷一样扔甲子园的土也可以 By恭介",
+    "Target": "像祈祷一样扔出去也可以(By恭介)",
     "JP": "願掛けとして投げつけてよし(By恭介)"
   },
   {
@@ -357,7 +357,7 @@
   {
     "Source": "Drag in the message window to skip.\nAuto skip by swiping (unlock by tapping).",
     "Target": "在消息窗中拖动以跳过.\n通过滑动自动跳过(通过点击解锁).",
-    "JP": null
+    "JP": "メッセージウィンドウ内でドラッグすると早送り。\nフリックすると自動早送り（タップで解除）。"
   },
   {
     "Source": "I didn't mean to aim at you, but I hope you now understand how the cats felt.",
@@ -397,7 +397,7 @@
   {
     "Source": "`Kyousuke@❝There's still some time until the game, but don't get careless!❞",
     "Target": "`恭介@「离比赛还有一段时间，但不要松懈！」",
-    "JP": "`恭介@「試合までまだあるが、気を抜くなよ！」"
+    "JP": "@恭介@「試合までまだあるが、気を抜くなよ！」"
   },
   {
     "Source": "An impenetrable formation... Wait, she just wants everyone around herself!",
@@ -451,7 +451,7 @@
   },
   {
     "Source": "Thinking about undiluted Calpis again? It's clear from the way you bat.",
-    "Target": "又在想着未稀释的可尔必思了?看你的挥棒就知道了",
+    "Target": "又想着未稀释的可尔必思了?看你的挥棒就知道了",
     "JP": "「またカルピスの原液かい。球筋に出てるぜ？」"
   },
   {
@@ -462,7 +462,7 @@
   {
     "Source": "`Female Student@❝There's no jelly... I didn't really want it, though.❞",
     "Target": "`女学生@「没有果冻…不过我也不太想要。」",
-    "JP": "`女子生徒@「ゼリーがないんだけど…特に欲しいわけじゃないけど」"
+    "JP": "@女子生徒@「ゼリーがないんだけど…特に欲しいわけじゃないけど」"
   },
   {
     "Source": "Give it a rest already, think about ripe yellow bananas sometimes too.",
@@ -482,7 +482,7 @@
   {
     "Source": "`Female Student@❝How can you even serve this with a straight face...❞",
     "Target": "`女学生@「怎么能面不改色地端上这种东西…」",
-    "JP": "`女子生徒@「むちゃくちゃじゃない！」"
+    "JP": "@女子生徒@「よく堂々とこんなトレイ渡せるわね…」"
   },
   {
     "Source": "Give it a rest already, think about ordinary omelettes sometimes too.",
@@ -496,7 +496,7 @@
   },
   {
     "Source": "Rolling the same numbers equals your opponent's death. (By Kyousuke)",
-    "Target": "掷出相同的数字等于你的对手死亡。（By 恭介）",
+    "Target": "掷出相同的数字你的对手就会死。(By恭介)",
     "JP": "ゾロ目が出たら相手が即死、としよう(By恭介)"
   },
   {
@@ -512,7 +512,7 @@
   {
     "Source": "`Kyousuke@❝It's almost time for the game, put your spirit into it!❞",
     "Target": "`恭介@「比赛快到了，打起精神来！」",
-    "JP": "`恭介@「試合はもうすぐだ。しまっていくぞ！」"
+    "JP": "@恭介@「試合はもうすぐだ。しまっていくぞ！」"
   },
   {
     "Source": "Thinking about erotic juice again? It's clear from the way you bat.",
@@ -532,7 +532,7 @@
   {
     "Source": "`Kyousuke@❝The game is tomorrow, Riki, let loose the dogs of war!❞",
     "Target": "`恭介@「明天就比赛了，理树！喊一声‘打起精神来，上吧！’」",
-    "JP": "`恭介@「明日は試合だ、理樹、しまっていくぞって声を掛けろ！」"
+    "JP": "@恭介@「明日は試合だ、理樹、しまっていくぞって声を掛けろ！」"
   },
   {
     "Source": "Don't be afraid to wear yourself out, there is value in that also.",
@@ -567,7 +567,7 @@
   {
     "Source": "`Female Student@❝I'd never order something so high on calories!?❞",
     "Target": "`女学生@「我才不会点这么高热量的东西！？」",
-    "JP": "`女子生徒@「定食になってないじゃない！」"
+    "JP": "@女子生徒@「こんな高カロリーな定食頼んでないわよ！？」"
   },
   {
     "Source": "Why are you wasting your time here, you have some serious talent!",
@@ -591,13 +591,13 @@
   },
   {
     "Source": "Didn't we make a promise! Though I forgot what it was already!",
-    "Target": "我们不是有个约定吗!虽然我已经忘了是什么!",
+    "Target": "我们不是有个约定吗!虽然我忘了内容!",
     "JP": "「おまえ誓ったろ、忘れたけどさ！」"
   },
   {
     "Source": "`Male Student@❝What am I supposed to do with jelly and rice!?❞",
     "Target": "`男学生@「饭和果冻要我怎么办！？」",
-    "JP": "`男子生徒@「ご飯とゼリーだけでどうすんだよ！」"
+    "JP": "@男子生徒@「ご飯とゼリーだけでどうすんだよ！」"
   },
   {
     "Source": "Guys can use it the way they would smack flies. (By Kyousuke)",
@@ -662,7 +662,7 @@
   {
     "Source": "Swipe outside the message window to jump to previous choice.",
     "Target": "在消息窗口外滑动跳转到上一个选择。",
-    "JP": null
+    "JP": "メッセージウィンドウ外でフリックすると「直前の選択肢」までジャンプ。"
   },
   {
     "Source": "The Muscle Exchange thanks you for your continued patronage.",
@@ -682,12 +682,12 @@
   {
     "Source": "`Kud@❝wa, wafu～ ... toraburu teriburu akushindento desu ...❞",
     "Target": "`库特@「哇，哇呼～…麻烦、糟透了、事故事故…」",
-    "JP": "`クド@「わ、わふー…とらぶるてりぶるあくしでんとです…」"
+    "JP": "@クド@「わ、わふー…とらぶるてりぶるあくしでんとです…」"
   },
   {
     "Source": "`Kyousuke@❝Aight, that was a good sweat, let's end it here.❞",
     "Target": "`恭介@「好了，流了不少汗，就到这里吧。」",
-    "JP": "`恭介@「よし、終わろう。いい汗かいたな」"
+    "JP": "@恭介@「よし、終わろう。いい汗かいたな」"
   },
   {
     "Source": "What are you anxious about? It's clear from the way you bat.",
@@ -712,7 +712,7 @@
   {
     "Source": "`Male Student@❝Hey, isn't there something wrong with this?❞",
     "Target": "`男学生@「喂，这不是哪里有问题吗？」",
-    "JP": "`男子生徒@「これなんかおかしくねーか？」"
+    "JP": "@男子生徒@「これなんかおかしくねーか？」"
   },
   {
     "Source": "Good, hit another one, hit another one with all your might!",
@@ -722,7 +722,7 @@
   {
     "Source": "`Male Student@❝My belly will blow up if I eat all of this!❞",
     "Target": "`男学生@「如果我吃光这些，我的肚子会爆炸的！」",
-    "JP": "`男子生徒@「こんなに食ったら胃がもたれるだろ！」"
+    "JP": "@男子生徒@「こんなに食ったら胃がもたれるだろ！」"
   },
   {
     "Source": "Would you like to start the game from the selected message?",
@@ -747,7 +747,7 @@
   {
     "Source": "$K1Settings$K0 such as character feed speed are reflected.",
     "Target": "$K1设置$K0（例如角色显示速度）已反映。",
-    "JP": null
+    "JP": "文字表示速度などの$K1設定$K0が反映されます。"
   },
   {
     "Source": "Girls can roll it up and use it as a sword. (By Kyousuke)",
@@ -772,12 +772,12 @@
   {
     "Source": "`Male Student@❝Do you expect me to eat all this jelly!?❞",
     "Target": "`男学生@「你是要我吃光这些果冻吗！？」",
-    "JP": "`男子生徒@「どれだけゼリー食わせたいんだよ！」"
+    "JP": "@男子生徒@「どれだけゼリー食わせたいんだよ！」"
   },
   {
     "Source": "`Male Student@❝Why did you put rice and onigiri on it!?❞",
     "Target": "`男学生@「你为什么把米饭和饭团都放上去了！？」",
-    "JP": "`男子生徒@「ご飯とおにぎり、かぶってるじゃないか！」"
+    "JP": "@男子生徒@「ご飯とおにぎり、かぶってるじゃないか！」"
   },
   {
     "Source": "Muscles are passing by! Enormous muscles are passing by!",
@@ -807,7 +807,7 @@
   {
     "Source": "`Male Student@❝Do you expect me to eat all of this...?❞",
     "Target": "`男学生@「你是要我吃光这些吗…?」",
-    "JP": "`男子生徒@「こんなに食えないんだが…」"
+    "JP": "@男子生徒@「こんなに食えないんだが…」"
   },
   {
     "Source": "Muscles are passing by! Thank you for your cooperation!",
@@ -822,7 +822,7 @@
   {
     "Source": "`Male Student@❝Hey, I can't drink miso soup like this!❞",
     "Target": "`男学生@「喂，我没法这样喝味增汤！」",
-    "JP": "`男子生徒@「こんなにみそ汁のめねーよ！」"
+    "JP": "@男子生徒@「こんなにみそ汁のめねーよ！」"
   },
   {
     "Source": "This is Enormous Muscles, heading out to the site now.",
@@ -837,12 +837,12 @@
   {
     "Source": "`Female Student@❝What's with this weird combination!?❞",
     "Target": "`女学生@「这是什么奇怪的组合！？」",
-    "JP": "`女子生徒@「よく堂々とこんなトレイ渡せるわね…」"
+    "JP": "@女子生徒@「なにっこの組み合わせ！？」"
   },
   {
     "Source": "`Male Student@❝Isn't there something wrong with this?❞",
     "Target": "`男学生@「这不是哪里有问题吗？」",
-    "JP": "`男子生徒@「これなんかおかしくないか？」"
+    "JP": "@男子生徒@「これなんかおかしくないか？」"
   },
   {
     "Source": "Are you that thirsty? It's clear from the way you bat.",
@@ -852,7 +852,7 @@
   {
     "Source": "`Male Student@❝How about giving me something to eat!?❞",
     "Target": "`男学生@「能不能给我点能吃的东西！？」",
-    "JP": "`男子生徒@「これっぽっちで何を食えってんだよ！」"
+    "JP": "@男子生徒@「これっぽっちで何を食えってんだよ！」"
   },
   {
     "Source": "You were hungry back then. You were kinda fat though.",
@@ -872,7 +872,7 @@
   {
     "Source": "`Male Student@❝Hey, there aren't enough side dishes!❞",
     "Target": "`男学生@「喂，配菜不够！」",
-    "JP": "`男子生徒@「おかず足りてないじゃねーか！」"
+    "JP": "@男子生徒@「おかず足りてないじゃねーか！」"
   },
   {
     "Source": "Guys can only use the soft rubber part. (By Kyousuke)",
@@ -882,12 +882,12 @@
   {
     "Source": "`Male Student@❝Hey, there's nothing but jelly on it!❞",
     "Target": "`男学生@「喂，上面怎么只有果冻！」",
-    "JP": "`男子生徒@「ゼリーだらけじゃねーか！」"
+    "JP": "@男子生徒@「ゼリーだらけじゃねーか！」"
   },
   {
     "Source": "`Female Student@❝Hey... I really hope it's a joke...❞",
     "Target": "`女学生@「喂…我真希望这只是个玩笑…」",
-    "JP": "`女子生徒@「ちょっと…これ真剣だったら怒るわよ！」"
+    "JP": "@女子生徒@「ちょっと…これ真剣だったら怒るわよ！」"
   },
   {
     "Source": "Are you that hungry? It's clear from the way you bat.",
@@ -932,12 +932,12 @@
   {
     "Source": "`Female Student@❝I can't eat all this miso soup...❞",
     "Target": "`女学生@「我吃不完这么多味增汤…」",
-    "JP": "`女子生徒@「このコロッケはサービスなの！？」"
+    "JP": "@女子生徒@「こんなにみそ汁飲めないんだけど…」"
   },
   {
     "Source": "`Male Student@❝Cabbage doesn't go well with curry!❞",
     "Target": "`男学生@「卷心菜和咖喱不搭配！」",
-    "JP": "`男子生徒@「カレーにキャベツは合わねーだろっ！」"
+    "JP": "@男子生徒@「カレーにキャベツは合わねーだろっ！」"
   },
   {
     "Source": "You should starve some more, starve s-o-m-e more...",
@@ -947,22 +947,22 @@
   {
     "Source": "`Female Student@❝You didn't put anything on it...?❞",
     "Target": "`女学生@「你什么都没放…?」",
-    "JP": "`女子生徒@「何も載ってないんだけど？」"
+    "JP": "@女子生徒@「何も載ってないんだけど？」"
   },
   {
     "Source": "`Female Student@❝Should the jelly really be there?❞",
     "Target": "`女学生@「果冻真的应该在这里吗？」",
-    "JP": "`女子生徒@「ゼリー定食かしら…？」"
+    "JP": "@女子生徒@「ゼリーこれで合ってるの？」"
   },
   {
     "Source": "Do you have unpleasant memories with cats, or what!",
     "Target": "你是不是对猫有不好的回忆！？",
-    "JP": null
+    "JP": "「なんだ猫で嫌な思い出でもあるのかっ」"
   },
   {
     "Source": "`Male Student@❝Why is it all covered with jelly!?❞",
     "Target": "`男学生@「为什么全都是果冻！？」",
-    "JP": "`男子生徒@「ゼリーに埋め尽くされてるじゃないか！」"
+    "JP": "@男子生徒@「ゼリーに埋め尽くされてるじゃないか！」"
   },
   {
     "Source": "Do you wish to jump to the next option or chapter?",
@@ -982,17 +982,17 @@
   {
     "Source": "`Female Student@❝You didn't put anything on it...❞",
     "Target": "`女学生@「你什么都没放…」",
-    "JP": "`女子生徒@「何も載ってないんだけど…」"
+    "JP": "@女子生徒@「何も載ってないんだけど…」"
   },
   {
     "Source": "`Female Student@❝When did I ask for fried prawns?❞",
     "Target": "`女学生@「我什么时候点过炸虾了？」",
-    "JP": "`女子生徒@「フライなんて頼んでないわよ？」"
+    "JP": "@女子生徒@「このエビフライはなに！？」"
   },
   {
     "Source": "`Female Student@❝Why did you give me a cutlet...?❞",
     "Target": "`女学生@「你为什么要给我炸猪排…?」",
-    "JP": "`女子生徒@「このエビフライはなに！？」"
+    "JP": "@女子生徒@「なんでカツが載ってんのよ…」"
   },
   {
     "Source": "Rejected on the grounds of plain impossibility...",
@@ -1002,7 +1002,7 @@
   {
     "Source": "`Female Student@❝Why is there nothing but jelly?❞",
     "Target": "`女学生@「为什么只有果冻？」",
-    "JP": "`女子生徒@「ゼリーこれで合ってるの？」"
+    "JP": "@女子生徒@「ゼリーしかないんだけど？」"
   },
   {
     "Source": "I always thought you were a lot better than that!",
@@ -1017,7 +1017,7 @@
   {
     "Source": "`Male Student@❝Hey, why is there so much jelly!?❞",
     "Target": "`男学生@「喂，为什么这么多果冻！？」",
-    "JP": "`男子生徒@「ゼリーに埋め尽くされてるじゃねーか！」"
+    "JP": "@男子生徒@「ゼリーに埋め尽くされてるじゃねーか！」"
   },
   {
     "Source": "That's no good, no one'll get fired up from that.",
@@ -1027,7 +1027,7 @@
   {
     "Source": "`Male Student@❝There aren't enough side dishes!❞",
     "Target": "`男学生@「配菜不够！」",
-    "JP": "`男子生徒@「おかず足りてないじゃないか！」"
+    "JP": "@男子生徒@「おかず足りてないじゃないか！」"
   },
   {
     "Source": "You want to come back home as a hero, don't you?",
@@ -1042,17 +1042,17 @@
   {
     "Source": "`Male Student@❝Hey, you only gave me the plate!❞",
     "Target": "`男学生@「喂，你只给了我盘子！」",
-    "JP": "`男子生徒@「皿しかないじゃねーか！」"
+    "JP": "@男子生徒@「皿しかないじゃねーか！」"
   },
   {
     "Source": "`Kyousuke@❝Batting and defense practice, start!❞",
     "Target": "`恭介@「击球和防守练习，开始！」",
-    "JP": "`恭介@「バッティングと守備練習スタートだ！」"
+    "JP": "@恭介@「バッティングと守備練習スタートだ！」"
   },
   {
     "Source": "`Male Student@❝There's nothing but jelly on it!❞",
     "Target": "`男学生@「上面只有果冻！」",
-    "JP": "`男子生徒@「ゼリーだらけじゃないか！」"
+    "JP": "@男子生徒@「ゼリーだらけじゃないか！」"
   },
   {
     "Source": "The wind is talking to me... Tasty, too tasty...",
@@ -1067,7 +1067,7 @@
   {
     "Source": "Male Student@❝Hey, there's nothing on the tray!❞",
     "Target": "男学生@「喂，托盘上什么都没有！」",
-    "JP": "`男子生徒@「そもそも何も載ってないじゃねーか！」"
+    "JP": "@男子生徒@「そもそも何も載ってないじゃねーか！」"
   },
   {
     "Source": "Sultry muscles are passing by. Please make way.",
@@ -1097,7 +1097,7 @@
   {
     "Source": "`Male Student@❝Hey, there's only jelly on it!❞",
     "Target": "`男学生@「喂，上面只有果冻！」",
-    "JP": "`男子生徒@「ゼリーだけじゃねーか！」"
+    "JP": "@男子生徒@「ゼリーだけじゃねーか！」"
   },
   {
     "Source": "Today just became my catching anniversary day.",
@@ -1112,7 +1112,7 @@
   {
     "Source": "`Female Student@❝This isn't even a lunch set!❞",
     "Target": "`女学生@「这甚至不是一顿午餐！」",
-    "JP": "`女子生徒@「なにっこの組み合わせ！？」"
+    "JP": "@女子生徒@「定食になってないじゃない！」"
   },
   {
     "Source": "Please let me know right away if you get hurt.",
@@ -1127,7 +1127,7 @@
   {
     "Source": "`Male Student@❝Fried prawn curry, how lucky!❞",
     "Target": "`男学生@「炸虾咖喱，太幸运了！」",
-    "JP": "`男子生徒@「ミックスフライカレーだ、ラッキー！」"
+    "JP": "@男子生徒@「エビフライカレーだ、ラッキー！」"
   },
   {
     "Source": "You can't stop here... You must move forward!",
@@ -1137,7 +1137,7 @@
   {
     "Source": "`Female Student@❝Is this croquette a bonus!?❞",
     "Target": "`女学生@「这个炸肉饼是赠品吗！？」",
-    "JP": "`女子生徒@「カツなんて頼んでないんだけど…」"
+    "JP": "@女子生徒@「このコロッケはサービスなの！？」"
   },
   {
     "Source": "Ichiro-san threw a laser beam in the pasture.",
@@ -1152,7 +1152,7 @@
   {
     "Source": "`Female Student@❝Is that a jelly special...?❞",
     "Target": "`女学生@「这是果冻特餐吗…?」",
-    "JP": "`女子生徒@「こんな高カロリーな定食頼んでないわよ！？」"
+    "JP": "@女子生徒@「ゼリー定食かしら…？」"
   },
   {
     "Source": "Riki-kun, you're more manly than I thought...",
@@ -1187,7 +1187,7 @@
   {
     "Source": "`Kyousuke@❝Aight, let's call it a day here.❞",
     "Target": "`恭介@「好了，就到这里吧。」",
-    "JP": "`恭介@「よし、今日はこのくらいにしておこう」"
+    "JP": "@恭介@「よし、今日はこのくらいにしておこう」"
   },
   {
     "Source": "Every dog has its day, as the saying goes...",
@@ -1207,7 +1207,7 @@
   {
     "Source": "`Male Student@❝Why did you put rice on it!?❞",
     "Target": "`男学生@「你为什么把米饭放上去了！？」",
-    "JP": "`男子生徒@「ご飯がかぶってるじゃないか！」"
+    "JP": "@男子生徒@「ご飯がかぶってるじゃないか！」"
   },
   {
     "Source": "Is, isn't Rin looking different from usual!?",
@@ -1217,12 +1217,12 @@
   {
     "Source": "`Male Student@❝Hey! It's totally not right!❞",
     "Target": "`男学生@「喂！这完全不对劲！」",
-    "JP": "`男子生徒@「おいおい、間違ってるじゃないか！」"
+    "JP": "@男子生徒@「おいおい、間違ってるじゃないか！」"
   },
   {
     "Source": "`Female Student@❝I didn't order a cutlet...❞",
     "Target": "`女学生@「我没有点炸猪排…」",
-    "JP": "`女子生徒@「なんでカツが乗ってんのよ！」"
+    "JP": "@女子生徒@「カツなんて頼んでないんだけど…」"
   },
   {
     "Source": "What's wrong? Run out of steam already, huh?",
@@ -1237,17 +1237,17 @@
   {
     "Source": "`Male Student@❝There's nothing on the tray!❞",
     "Target": "`男学生@「托盘上什么都没有！」",
-    "JP": null
+    "JP": "@男子生徒@「そもそも何も載ってないじゃないか！」"
   },
   {
     "Source": "`Male Student@❝Hey, what the hell is this!?❞",
     "Target": "`男学生@「喂，这是什么鬼东西！？」",
-    "JP": "`男子生徒@「おい、なんだよこりゃあ！」"
+    "JP": "@男子生徒@「おい、なんだよこりゃあ！」"
   },
   {
     "Source": "`Male Student@❝Croquette curry, how lucky!❞",
     "Target": "`男学生@「炸肉饼咖喱，太幸运了！」",
-    "JP": "`男子生徒@「カツカレーだ、ラッキー！」"
+    "JP": "@男子生徒@「コロッケカレーだ、ラッキー！」"
   },
   {
     "Source": "Not that I'm feeling envious or anything...",
@@ -1257,7 +1257,7 @@
   {
     "Source": "`Kyousuke@❝Aight, let's take a break here.❞",
     "Target": "`恭介@「好了，现在休息一下。」",
-    "JP": "`恭介@「よし、ここらで休憩にしよう」"
+    "JP": "@恭介@「よし、ここらで休憩にしよう」"
   },
   {
     "Source": "They can do it, I just know they can do it.",
@@ -1277,37 +1277,37 @@
   {
     "Source": "`Male Student@❝You only gave me the plate!❞",
     "Target": "`男学生@「你只给了我盘子！」",
-    "JP": "`男子生徒@「皿しかないじゃないか！」"
+    "JP": "@男子生徒@「皿しかないじゃないか！」"
   },
   {
     "Source": "`Male Student@❝Is that a cabbage special!?❞",
     "Target": "`男学生@「这是卷心菜特餐吗！？」",
-    "JP": "`男子生徒@「キャベツ定食かよ！」"
+    "JP": "@男子生徒@「キャベツ定食かよ！」"
   },
   {
     "Source": "`Male Student@❝Assorted curry, how lucky!❞",
     "Target": "`男学生@「什锦咖喱，太幸运了！」",
-    "JP": "`男子生徒@「カレーにキャベツは合わないだろっ！」"
+    "JP": "@男子生徒@「ミックスフライカレーだ、ラッキー！」"
   },
   {
     "Source": "`Female Student@❝What's that cutlet for!?❞",
     "Target": "`女学生@「那个炸猪排是干嘛的！？」",
-    "JP": "`女子生徒@「なんでカツが乗ってんのよ…」"
+    "JP": "@女子生徒@「なんでカツが載ってんのよ！」"
   },
   {
     "Source": "`Male Student@❝Hey, there's no miso soup!❞",
     "Target": "`男学生@「喂，没有味增汤！」",
-    "JP": "`男子生徒@「みそ汁がないじゃねーか！」"
+    "JP": "@男子生徒@「みそ汁がないじゃねーか！」"
   },
   {
     "Source": "`Kyousuke@❝Aight, that's enough for today❞",
     "Target": "`恭介@「好了，今天就到此为止」",
-    "JP": "`恭介@「よし、今日はここまでだ」"
+    "JP": "@恭介@「よし、今日はここまでだ」"
   },
   {
     "Source": "`Male Student@❝Is this really correct...?❞",
     "Target": "`男学生@「这真的对吗…?」",
-    "JP": "`男子生徒@「これで合ってるのか…？」"
+    "JP": "@男子生徒@「これで合ってるのか…？」"
   },
   {
     "Source": "Clear information (system data) was saved.",
@@ -1342,7 +1342,7 @@
   {
     "Source": "`Male Student@❝There's only jelly on it!❞",
     "Target": "`男学生@「上面只有果冻！」",
-    "JP": "`男子生徒@「ゼリーだけじゃないか！」"
+    "JP": "@男子生徒@「ゼリーだけじゃないか！」"
   },
   {
     "Source": "They'll start avoiding me because of you!",
@@ -1352,7 +1352,7 @@
   {
     "Source": "`Female Student@❝There's no miso soup...❞",
     "Target": "`女学生@「没有味增汤…」",
-    "JP": "`女子生徒@「おみそ汁がないんだけど…」"
+    "JP": "@女子生徒@「おみそ汁がないんだけど…」"
   },
   {
     "Source": "...Can't you do something about the cats?",
@@ -1382,7 +1382,7 @@
   {
     "Source": "`Male Student@❝Cutlet curry, how lucky!❞",
     "Target": "`男学生@「炸猪排咖喱，太幸运了！」",
-    "JP": "`男子生徒@「エビフライカレーだ、ラッキー！」"
+    "JP": "@男子生徒@「カツカレーだ、ラッキー！」"
   },
   {
     "Source": "At least try to get it past the infield.",
@@ -1397,7 +1397,7 @@
   {
     "Source": "`Female Student@❝Where's my miso soup?❞",
     "Target": "`女学生@「我的味增汤呢？」",
-    "JP": "`女子生徒@「おみそ汁がないんだけど？」"
+    "JP": "@女子生徒@「おみそ汁がないんだけど？」"
   },
   {
     "Source": "Fortunately she didn't seem to be hurt.",
@@ -1407,7 +1407,7 @@
   {
     "Source": "`Female Student@❝Onigiri with cabbage?❞",
     "Target": "`女学生@「饭团配卷心菜？」",
-    "JP": "`女子生徒@「ありがとう」"
+    "JP": "@女子生徒@「おにぎりにキャベツ！？」"
   },
   {
     "Source": "Do you wish to jump to the next choice?",
@@ -1422,7 +1422,7 @@
   {
     "Source": "`Female Student@❝I didn't order fries?❞",
     "Target": "`女学生@「我没点薯条吧？」",
-    "JP": "`女子生徒@「おにぎりにキャベツ！？」"
+    "JP": "@女子生徒@「フライなんて頼んでないわよ？」"
   },
   {
     "Source": "Are you sure you wish to quit the game?",
@@ -1437,22 +1437,22 @@
   {
     "Source": "`Male Student@❝I can't eat all this...❞",
     "Target": "`男学生@「我吃不完这些…」",
-    "JP": "`男子生徒@「こんなに食えないんだけど…」"
+    "JP": "@男子生徒@「こんなに食えないんだけど…」"
   },
   {
     "Source": "`Female Student@❝There's only jelly...❞",
     "Target": "`女学生@「只有果冻…」",
-    "JP": "`女子生徒@「ゼリーしかないんだけど？」"
+    "JP": "@女子生徒@「ゼリーしかないんだけど…」"
   },
   {
     "Source": "`Female Student@❝There's no onigiri...❞",
     "Target": "`女学生@「没有饭团…」",
-    "JP": "`女子生徒@「おにぎりがないんだけど…」"
+    "JP": "@女子生徒@「おにぎりがないんだけど…」"
   },
   {
     "Source": "`Male Student@❝Hey, there's only rice!❞",
     "Target": "`男学生@「喂，只有米饭！」",
-    "JP": "`男子生徒@「ご飯とゼリーだけでどうするんだよ！」"
+    "JP": "@男子生徒@「ご飯だけじゃねぇか！」"
   },
   {
     "Source": "Who are they asking, and what about...?",
@@ -1467,7 +1467,7 @@
   {
     "Source": "Are you sure you want to end practice?",
     "Target": "确定要退出练习吗?",
-    "JP": null
+    "JP": "練習を終了してもよろしいですか？"
   },
   {
     "Source": "The most important thing is team play.",
@@ -1492,7 +1492,7 @@
   {
     "Source": "`Kyousuke@❝Aight, let's take a break.❞",
     "Target": "`恭介@「好了，休息一下吧。」",
-    "JP": "`恭介@「よし、いったん休憩にしよう」"
+    "JP": "@恭介@「よし、いったん休憩にしよう」"
   },
   {
     "Source": "Weren't you allergic to pollen, Riki?",
@@ -1502,7 +1502,7 @@
   {
     "Source": "`Male Student@❝There's no miso soup!❞",
     "Target": "`男学生@「没有味增汤！」",
-    "JP": "`男子生徒@「みそ汁がないじゃないか！」"
+    "JP": "@男子生徒@「みそ汁がないじゃないか！」"
   },
   {
     "Source": "Are you sure you wish to delete this?",
@@ -1512,7 +1512,7 @@
   {
     "Source": "`Female Student@❝There's no jelly...❞",
     "Target": "`女学生@「没有果冻…」",
-    "JP": "`女子生徒@「ゼリーがないんだけど…」"
+    "JP": "@女子生徒@「ゼリーがないんだけど…」"
   },
   {
     "Source": "You need to exercise diligence daily.",
@@ -1537,7 +1537,7 @@
   {
     "Source": "`Male Student@❝Hey, there's no rice!❞",
     "Target": "`男学生@「喂，没有米饭！」",
-    "JP": "`男子生徒@「ご飯がないじゃねーか！」"
+    "JP": "@男子生徒@「ご飯がないじゃねーか！」"
   },
   {
     "Source": "I wonder if I should go on a diet...",
@@ -1546,8 +1546,8 @@
   },
   {
     "Source": "`Kyousuke@❝Batting exercise, start!❞",
-    "Target": "`恭介@「击球练习，开始！」",
-    "JP": "`恭介@「練習開始だ！」"
+    "Target": "`恭介@「练习开始！」",
+    "JP": "@恭介@「練習開始だ！」"
   },
   {
     "Source": "You could've dodged that just now...",
@@ -1587,7 +1587,7 @@
   {
     "Source": "`Female Student@❝Where's my jelly?❞",
     "Target": "`女学生@「我的果冻呢？」",
-    "JP": "`女子生徒@「ゼリーがないんだけど？」"
+    "JP": "@女子生徒@「ゼリーがないんだけど？」"
   },
   {
     "Source": "Well, there are days like this too.",
@@ -1607,7 +1607,7 @@
   {
     "Source": "`Male Student@❝There's only rice!❞",
     "Target": "`男学生@「只有米饭！」",
-    "JP": "`男子生徒@「ご飯だけじゃねぇか！」"
+    "JP": "@男子生徒@「ご飯だけじゃないか！」"
   },
   {
     "Source": "I think I'm only so skilled yet...",
@@ -1617,7 +1617,7 @@
   {
     "Source": "`Komari@❝It hurts, but I'm okay～.❞",
     "Target": "`小毬@「很疼，但我没事～。」",
-    "JP": "`小毬@「痛いけどだいじょうぶ～」"
+    "JP": "@小毬@「痛いけどだいじょうぶ～」"
   },
   {
     "Source": "I wish I'd played sports before...",
@@ -1637,7 +1637,7 @@
   {
     "Source": "`Kyousuke@❝Aight, over here next!❞",
     "Target": "`恭介@「好了，下一次到这边！」",
-    "JP": "`恭介@「よし、次はこっちだ！」"
+    "JP": "@恭介@「よし、次はこっちだ！」"
   },
   {
     "Source": "Alright, we have an awesome team.",
@@ -1647,7 +1647,7 @@
   {
     "Source": "`Female Student@❝This is a mess!❞",
     "Target": "`女学生@「一团糟！」",
-    "JP": "`女子生徒@「ちょっと…これ真剣だったら怒るわよ…」"
+    "JP": "@女子生徒@「むちゃくちゃじゃない！」"
   },
   {
     "Source": "This catch is proof of our bonds!",
@@ -1712,7 +1712,7 @@
   {
     "Source": "`Male Student@❝There's no rice!❞",
     "Target": "`男学生@「没有米饭！」",
-    "JP": "`男子生徒@「ご飯がないじゃないか！」"
+    "JP": "@男子生徒@「ご飯がないじゃないか！」"
   },
   {
     "Source": "Don't tell me that's everything!",
@@ -1752,7 +1752,7 @@
   {
     "Source": "`Kyousuke@❝Riki, this way now!❞",
     "Target": "`恭介@「理树，现在到这里来！」",
-    "JP": "`恭介@「理樹、今度はこっちだ！」"
+    "JP": "@恭介@「理樹、今度はこっちだ！」"
   },
   {
     "Source": "Are you getting used to it yet?",
@@ -1762,7 +1762,7 @@
   {
     "Source": "`Kyousuke@❝Then, let's start!❞",
     "Target": "`恭介@「那么，开始吧！」",
-    "JP": "`恭介@「じゃあ、始めるぞ！」"
+    "JP": "@恭介@「じゃあ、始めるぞ！」"
   },
   {
     "Source": "Ten... What the hell are you!?",
@@ -1777,7 +1777,7 @@
   {
     "Source": "`Kyousuke@❝Resuming practice!❞",
     "Target": "`恭介@「继续练习！」",
-    "JP": "`恭介@「練習再開だ！」"
+    "JP": "@恭介@「練習再開だ！」"
   },
   {
     "Source": "Fuu, fuuu... Muscles, muscles.",
@@ -1867,7 +1867,7 @@
   {
     "Source": "`Female Student@❝Thank you.❞",
     "Target": "`女学生@「谢谢。」",
-    "JP": "`女子生徒@「ゼリーしかないんだけど…」"
+    "JP": "@女子生徒@「ありがとう」"
   },
   {
     "Source": "Getting the hang of it, Rin?",
@@ -1877,12 +1877,12 @@
   {
     "Source": "`Riki@❝Whoa, are you okay!?❞",
     "Target": "`理树@「哇，你没事吧！？」",
-    "JP": "`理樹@「うわっ、だいじょうぶ！？」"
+    "JP": "@理樹@「うわっ、だいじょうぶ！？」"
   },
   {
     "Source": "`Kyousuke@❝Here next, Riki!❞",
     "Target": "`恭介@「下一次这边，理树！」",
-    "JP": "`恭介@「理樹、次はここだ！」"
+    "JP": "@恭介@「理樹、次はここだ！」"
   },
   {
     "Source": "It's so peaceful out there..",
@@ -1927,7 +1927,7 @@
   {
     "Source": "`Riki@❝Kud, are you okay!?❞",
     "Target": "`理树@「库特，你没事吧！？」",
-    "JP": "`理樹@「クドーっ、大丈夫！？」"
+    "JP": "@理樹@「クドーっ、大丈夫！？」"
   },
   {
     "Source": "You're still inexperienced.",
@@ -2032,7 +2032,7 @@
   {
     "Source": "`Male Student@❝Thank you!❞",
     "Target": "`男学生@「谢谢！」",
-    "JP": "`男子生徒@「ありがとう！」"
+    "JP": "@男子生徒@「ありがとう！」"
   },
   {
     "Source": "We must deepen our bonds!",
@@ -2142,7 +2142,7 @@
   {
     "Source": "`Male Student@❝Sankyuu!❞",
     "Target": "`男学生@「3Q！」",
-    "JP": "`男子生徒@「サンキュー！」"
+    "JP": "@男子生徒@「サンキュー！」"
   },
   {
     "Source": "Yamada Satou Saitou Uno!",
@@ -2177,7 +2177,7 @@
   {
     "Source": "`Kyousuke@❝Here we go!❞",
     "Target": "`恭介@「来了！」",
-    "JP": "`恭介@「しまっていくぞ！」"
+    "JP": "@恭介@「しまっていくぞ！」"
   },
   {
     "Source": "Don't forget team play!",
@@ -2227,7 +2227,7 @@
   {
     "Source": "`Male Student@❝Thanks!❞",
     "Target": "`男学生@「多谢啦！」",
-    "JP": "`男子生徒@「ありがとよ！」"
+    "JP": "@男子生徒@「ありがとよ！」"
   },
   {
     "Source": "I'm perfectly hidden...",
@@ -2457,12 +2457,12 @@
   {
     "Source": "Do you want to exit?",
     "Target": "是否退出？",
-    "JP": null
+    "JP": "終了しますか？"
   },
   {
     "Source": "Do you Give Up?",
     "Target": "要放弃吗？",
-    "JP": null
+    "JP": "ギブアップしますか？"
   },
   {
     "Source": "Thank you, everyone!",
@@ -2537,7 +2537,7 @@
   {
     "Source": "$K1Text$K0 preview.",
     "Target": "$K1文本$K0预览。",
-    "JP": null
+    "JP": "$K1テキスト$K0プレビュー。"
   },
   {
     "Source": "Child Archer Figure",
@@ -2747,7 +2747,7 @@
   {
     "Source": "%s: %s picked up!",
     "Target": "%s拿到了%s！",
-    "JP": null
+    "JP": "%sは『%s』を手に取った！"
   },
   {
     "Source": "Blackboard Eraser",
@@ -2847,7 +2847,7 @@
   {
     "Source": "Stop on New Page",
     "Target": "翻页时停止",
-    "JP": null
+    "JP": "メッセージ送りで停止する"
   },
   {
     "Source": "Unknown Lifeform",
@@ -2977,7 +2977,7 @@
   {
     "Source": "Select Language",
     "Target": "选择语言",
-    "JP": null
+    "JP": "切り替え言語一覧"
   },
   {
     "Source": "Adhesive roller",
@@ -3082,7 +3082,7 @@
   {
     "Source": "Base Wait Time",
     "Target": "等待时间",
-    "JP": null
+    "JP": "固定待機時間"
   },
   {
     "Source": "Mask the Saito",
@@ -3097,7 +3097,7 @@
   {
     "Source": "Two finger tap",
     "Target": "双指点击",
-    "JP": null
+    "JP": "2本指タップ"
   },
   {
     "Source": "Low resolution",
@@ -3167,7 +3167,7 @@
   {
     "Source": "Master Volume",
     "Target": "主音量",
-    "JP": null
+    "JP": "マスター音量"
   },
   {
     "Source": "Wasse, wasse!",
@@ -3207,7 +3207,7 @@
   {
     "Source": "While pressed",
     "Target": "按住时",
-    "JP": null
+    "JP": "押している間"
   },
   {
     "Source": "Nice, turkey!",
@@ -3307,7 +3307,7 @@
   {
     "Source": "0.2 sec/char",
     "Target": "0.2秒/字符",
-    "JP": null
+    "JP": "0.2秒/文字"
   },
   {
     "Source": "Not so easy!",
@@ -3397,7 +3397,7 @@
   {
     "Source": "Misc(Female)",
     "Target": "女配角",
-    "JP": null
+    "JP": "その他(女)"
   },
   {
     "Source": "　　　Read Text",
@@ -3407,7 +3407,7 @@
   {
     "Source": "Only choices",
     "Target": "仅限选项",
-    "JP": null
+    "JP": "選択肢のみオン"
   },
   {
     "Source": "Sleeping Bag",
@@ -3417,17 +3417,17 @@
   {
     "Source": "Forward Once",
     "Target": "向前一次",
-    "JP": null
+    "JP": "１つ送り"
   },
   {
     "Source": "Display date",
     "Target": "显示日期",
-    "JP": null
+    "JP": "日付表示"
   },
   {
     "Source": "Start/Cancel",
     "Target": "开始/取消",
-    "JP": null
+    "JP": "開始／解除"
   },
   {
     "Source": "Odinnadtsat!",
@@ -3552,7 +3552,7 @@
   {
     "Source": "Hide Window",
     "Target": "关界面",
-    "JP": null
+    "JP": "ウィンドウ非表示"
   },
   {
     "Source": "Banana Peel",
@@ -3572,7 +3572,7 @@
   {
     "Source": "Select BGM",
     "Target": "选择BGM",
-    "JP": null
+    "JP": "BGM変更"
   },
   {
     "Source": "Club Member",
@@ -3587,7 +3587,7 @@
   {
     "Source": "Rewind Once",
     "Target": "上一句",
-    "JP": null
+    "JP": "１つ戻し"
   },
   {
     "Source": "Screen Mode",
@@ -3642,7 +3642,7 @@
   {
     "Source": "0 sec/char",
     "Target": "0秒/字符",
-    "JP": null
+    "JP": "0秒/文字"
   },
   {
     "Source": "Z (Rewind)",
@@ -3672,7 +3672,7 @@
   {
     "Source": "No sense",
     "Target": "毫无意义",
-    "JP": null
+    "JP": "「益体もない」"
   },
   {
     "Source": "Oraoraaaa!",
@@ -3732,7 +3732,7 @@
   {
     "Source": "Text Speed",
     "Target": "速度",
-    "JP": null
+    "JP": "文字表示速度"
   },
   {
     "Source": "Glue Stick",
@@ -3742,7 +3742,7 @@
   {
     "Source": "Misc(Male)",
     "Target": "男配角",
-    "JP": null
+    "JP": "その他(男)"
   },
   {
     "Source": "Cyber Yoyo",
@@ -3862,7 +3862,7 @@
   {
     "Source": "Read Only",
     "Target": "已读",
-    "JP": null
+    "JP": "既読のみ"
   },
   {
     "Source": "S, sorry!",
@@ -3887,7 +3887,7 @@
   {
     "Source": "System SE",
     "Target": "系统",
-    "JP": null
+    "JP": "システム音"
   },
   {
     "Source": "Horosho～.",
@@ -4022,7 +4022,7 @@
   {
     "Source": "Language",
     "Target": "语言",
-    "JP": null
+    "JP": "言語"
   },
   {
     "Source": "Howaa-!?",
@@ -4202,7 +4202,7 @@
   {
     "Source": "English",
     "Target": "中文",
-    "JP": null
+    "JP": "日本語"
   },
   {
     "Source": "Da, da!",
@@ -4248,7 +4248,7 @@
     "Source": "Disable",
     "Target": "禁用",
     "Strict": true,
-    "JP": null
+    "JP": "無効化する"
   },
   {
     "Source": "Sample Voice",
@@ -4336,7 +4336,7 @@
   {
     "Source": "Modern",
     "Target": "现代",
-    "JP": null
+    "JP": " モダン "
   },
   {
     "Source": "Wafu!!",
@@ -4351,12 +4351,12 @@
   {
     "Source": "Mincho",
     "Target": "明朝",
-    "JP": null
+    "JP": " 明朝 "
   },
   {
     "Source": "Yellow",
     "Target": "黄",
-    "JP": null
+    "JP": "黄"
   },
   {
     "Source": "Catch!",
@@ -4376,7 +4376,7 @@
   {
     "Source": "Purple",
     "Target": "紫",
-    "JP": null
+    "JP": "紫"
   },
   {
     "Source": "Fight.",
@@ -4416,15 +4416,15 @@
   },
   {
     "Source": "Bottom",
-    "Target": "底部",
+    "Target": "下",
     "Strict": true,
-    "JP": null
+    "JP": "下"
   },
   {
     "Source": "Center",
     "Target": "中心",
     "Strict": true,
-    "JP": null
+    "JP": "中央"
   },
   {
     "Source": "Latest",
@@ -4451,7 +4451,7 @@
   {
     "Source": "Rewind",
     "Target": "倒带",
-    "JP": null
+    "JP": "早戻し"
   },
   {
     "Source": "Maaan!",
@@ -4503,7 +4503,7 @@
     "Source": "Game Start",
     "Target": "开始游戏",
     "SingleByteString": "开始",
-    "JP": null
+    "JP": "ゲーム開始"
   },
   {
     "Source": "5 Cats",
@@ -4614,7 +4614,7 @@
     "Source": "Kanata",
     "Target": "佳奈多",
     "SingleByteString": "二木",
-    "JP": null
+    "JP": "佳奈多"
   },
   {
     "Source": "Bucket",
@@ -4644,12 +4644,12 @@
   {
     "Source": "Close",
     "Target": "关闭",
-    "JP": null
+    "JP": "閉じる"
   },
   {
     "Source": "0 sec",
     "Target": "0秒",
-    "JP": null
+    "JP": "0秒"
   },
   {
     "Source": "Yeah.",
@@ -4664,7 +4664,7 @@
   {
     "Source": "Voice",
     "Target": "语音",
-    "JP": null
+    "JP": "ボイス"
   },
   {
     "Source": "Here.",
@@ -4679,12 +4679,12 @@
   {
     "Source": "2 sec",
     "Target": "2秒",
-    "JP": null
+    "JP": "2秒"
   },
   {
     "Source": "3 sec",
     "Target": "3秒",
-    "JP": null
+    "JP": "3秒"
   },
   {
     "Source": "Heyy!",
@@ -4709,7 +4709,7 @@
   {
     "Source": "Green",
     "Target": "绿",
-    "JP": null
+    "JP": "緑"
   },
   {
     "Source": "Odin!",
@@ -4719,7 +4719,7 @@
   {
     "Source": "1 sec",
     "Target": "1秒",
-    "JP": null
+    "JP": "1秒"
   },
   {
     "Source": "Goho!",
@@ -4859,7 +4859,7 @@
   {
     "Source": "Blue",
     "Target": "蓝",
-    "JP": null
+    "JP": "青"
   },
   {
     "Source": "Dorj",
@@ -4890,6 +4890,16 @@
     "Source": "Ehh!",
     "Target": "诶诶！",
     "JP": "「ええー」"
+  },
+  {
+    "Source": "Auto",
+    "Target": "自动",
+    "JP": null
+  },
+  {
+    "Source": "Skip",
+    "Target": "跳过",
+    "JP": null
   },
   {
     "Source": "Hey!",
@@ -4924,12 +4934,12 @@
   {
     "Source": "Fast",
     "Target": "快",
-    "JP": null
+    "JP": "速い"
   },
   {
     "Source": "High",
     "Target": "高",
-    "JP": null
+    "JP": "高い"
   },
   {
     "Source": "Die!",
@@ -4944,7 +4954,7 @@
   {
     "Source": "Saya",
     "Target": "沙耶",
-    "JP": null
+    "JP": "沙耶"
   },
   {
     "Source": "Toh!",
@@ -4954,7 +4964,7 @@
   {
     "Source": "Riki",
     "Target": "理树",
-    "JP": null
+    "JP": "理樹"
   },
   {
     "Source": "Dva!",
@@ -4964,7 +4974,7 @@
   {
     "Source": "Slow",
     "Target": "慢",
-    "JP": null
+    "JP": "遅い"
   },
   {
     "Source": "Umu.",
@@ -4974,7 +4984,7 @@
   {
     "Source": "Font",
     "Target": "字体",
-    "JP": null
+    "JP": "フォント"
   },
   {
     "Source": "Guu!",
@@ -5004,12 +5014,12 @@
   {
     "Source": "Yes",
     "Target": "是",
-    "JP": null
+    "JP": "はい"
   },
   {
     "Source": "Ei!",
     "Target": "诶！",
-    "JP": null
+    "JP": "「えいっ」"
   },
   {
     "Source": "Oar",
@@ -5024,7 +5034,7 @@
   {
     "Source": "Red",
     "Target": "红",
-    "JP": null
+    "JP": "赤"
   },
   {
     "Source": "Yo!",
@@ -5054,7 +5064,7 @@
   {
     "Source": "Off",
     "Target": "关",
-    "JP": null
+    "JP": "オフ"
   },
   {
     "Source": "Ya!",
@@ -5074,17 +5084,18 @@
   {
     "Source": "All",
     "Target": "All",
-    "JP": null
+    "JP": "すべて"
   },
   {
     "Source": "Rin",
     "Target": "铃",
-    "JP": null
+    "JP": "鈴",
+    "Strict": true
   },
   {
     "Source": "Hu!",
     "Target": "哼！",
-    "JP": null
+    "JP": "「ふっ！」"
   },
   {
     "Source": "Ho!",
@@ -5099,11 +5110,121 @@
   {
     "Source": "On",
     "Target": "开",
-    "JP": null
+    "JP": "オン"
   },
   {
     "Source": "No",
     "Target": "否",
-    "JP": null
+    "JP": "いいえ"
+  },
+  {
+    "Source": "`Male Student@❝There's nothing on the tray!❞",
+    "Target": "`男学生@「托盘上什么都没有！」",
+    "JP": "@男子生徒@「何も載ってないじゃないか！」"
+  },
+  {
+    "Source": "`Male Student@❝There's nothing on the tray!❞",
+    "Target": "`男学生@「托盘上什么都没有！」",
+    "JP": "@男子生徒@「何も載ってないじゃねーか！」"
+  },
+  {
+    "Source": "`Male Student@❝There's nothing on the tray!❞",
+    "Target": "`男学生@「托盘上什么都没有！」",
+    "JP": "@男子生徒@「何も載ってないじゃないか…」"
+  },
+  {
+    "Source": "`Male Student@❝Why did you put rice on it!?❞",
+    "Target": "`男学生@「你为什么把米饭放上去了！？」",
+    "JP": "@男子生徒@「ご飯がかぶってるじゃねぇか！」"
+  },
+  {
+    "Source": "`Male Student@❝Why did you put rice and onigiri on it!?❞",
+    "Target": "`男学生@「你为什么把米饭和饭团都放上去了！？」",
+    "JP": "@男子生徒@「ご飯とおにぎり、かぶってるじゃねぇか！」"
+  },
+  {
+    "Source": "`Male Student@❝Hey! It's totally not right!❞",
+    "Target": "`男学生@「喂！这完全不对劲！」",
+    "JP": "@男子生徒@「おいおい、間違ってるじゃねーか！」"
+  },
+  {
+    "Source": "`Female Student@❝Hey... I really hope it's a joke...❞",
+    "Target": "`女学生@「喂…我真希望这只是个玩笑…」",
+    "JP": "@女子生徒@「ちょっと…これ真剣だったら怒るわよ…」"
+  },
+  {
+    "Source": "`Male Student@❝What am I supposed to do with jelly and rice!?❞",
+    "Target": "`男学生@「饭和果冻要我怎么办！？」",
+    "JP": "@男子生徒@「ご飯とゼリーだけでどうするんだよ！」"
+  },
+  {
+    "Source": "`Male Student@❝Cabbage doesn't go well with curry!❞",
+    "Target": "`男学生@「卷心菜和咖喱不搭配！」",
+    "JP": "@男子生徒@「カレーにキャベツは合わないだろっ！」"
+  },
+  {
+    "Source": "Awesome!",
+    "Target": "太棒了！",
+    "JP": "「すごいぞっ」"
+  },
+  {
+    "Source": "Leave it to me!",
+    "Target": "交给我吧！",
+    "JP": "「私に任せてっ」"
+  },
+  {
+    "Source": "Nice!",
+    "Target": "好球！",
+    "JP": "「ナイス！」"
+  },
+  {
+    "Source": "Ha!",
+    "Target": "哈！",
+    "JP": "「はっ」"
+  },
+  {
+    "Source": "Ho!",
+    "Target": "吼！",
+    "JP": "「ほっ！」"
+  },
+  {
+    "Source": "Okay!",
+    "Target": "好！",
+    "JP": "「オーケー！」"
+  },
+  {
+    "Source": "Ouch!",
+    "Target": "好痛！",
+    "JP": "「いてっ！」"
+  },
+  {
+    "Source": "Here!",
+    "Target": "给你！",
+    "JP": "「それっ」"
+  },
+  {
+    "Source": "Devyat!",
+    "Target": "九！",
+    "JP": "「じぇーしゃー」"
+  },
+  {
+    "Source": "Ugh!",
+    "Target": "呃！",
+    "JP": "「うっ！」"
+  },
+  {
+    "Source": "I can see it!",
+    "Target": "我看见了！",
+    "JP": "「見えた！」"
+  },
+  {
+    "Source": "Not bad.",
+    "Target": "不错。",
+    "JP": "「いいじゃねーか」"
+  },
+  {
+    "Source": "That was simple.",
+    "Target": "那太简单了。",
+    "JP": "「おてのものよっ」"
   }
 ]

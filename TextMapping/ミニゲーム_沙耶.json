@@ -1,0 +1,1809 @@
+{
+  "MESSAGE": [
+    {
+      "JP": "@朱鷺戸@「何やってるの？」",
+      "Translation": "@朱鷺戸@「何やってるの？」",
+      "EN": "@朱鷺戸@「何やってるの？」"
+    },
+    {
+      "JP": "@朱鷺戸@「何かの訓練？」",
+      "Translation": "@朱鷺戸@「何かの訓練？」",
+      "EN": "@朱鷺戸@「何かの訓練？」"
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くんはあほなの？」",
+      "Translation": "@朱鷺戸@「理樹くんはあほなの？」",
+      "EN": "@朱鷺戸@「理樹くんはあほなの？」"
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くんが…狂った…」",
+      "Translation": "@朱鷺戸@「理樹くんが…狂った…」",
+      "EN": "@朱鷺戸@「理樹くんが…狂った…」"
+    },
+    {
+      "JP": "@朱鷺戸@「よっぽどそうするのが好きなのね」",
+      "Translation": "@朱鷺戸@「よっぽどそうするのが好きなのね」",
+      "EN": "@朱鷺戸@「よっぽどそうするのが好きなのね」"
+    },
+    {
+      "JP": "@理樹@「なに？\u3000どうしたの？」",
+      "Translation": "@理樹@「なに？\u3000どうしたの？」",
+      "EN": "@理樹@「なに？\u3000どうしたの？」"
+    },
+    {
+      "JP": "@理樹@「なに？\u3000むしゃくしゃすることでもあった？」",
+      "Translation": "@理樹@「なに？\u3000むしゃくしゃすることでもあった？」",
+      "EN": "@理樹@「なに？\u3000むしゃくしゃすることでもあった？」"
+    },
+    {
+      "JP": "@理樹@「なに？\u3000なんなのっ？\u3000こわいよ！？」",
+      "Translation": "@理樹@「なに？\u3000なんなのっ？\u3000こわいよ！？」",
+      "EN": "@理樹@「なに？\u3000なんなのっ？\u3000こわいよ！？」"
+    },
+    {
+      "JP": "@理樹@「ちゃんと言ってよっ、僕直すよっ！？」",
+      "Translation": "@理樹@「ちゃんと言ってよっ、僕直すよっ！？」",
+      "EN": "@理樹@「ちゃんと言ってよっ、僕直すよっ！？」"
+    },
+    {
+      "JP": "@理樹@「やめてよっ、自分を傷つけないで！！」",
+      "Translation": "@理樹@「やめてよっ、自分を傷つけないで！！」",
+      "EN": "@理樹@「やめてよっ、自分を傷つけないで！！」"
+    },
+    {
+      "JP": "@理樹@「だめだ…僕には止められない…」",
+      "Translation": "@理樹@「だめだ…僕には止められない…」",
+      "EN": "@理樹@「だめだ…僕には止められない…」"
+    },
+    {
+      "JP": "@理樹@「うっ」",
+      "Translation": "@理樹@「うっ」",
+      "EN": "@Riki@Ugh!"
+    },
+    {
+      "JP": "@理樹@「いたいっ」",
+      "Translation": "@理樹@「いたいっ」",
+      "EN": "@Riki@That hurt!"
+    },
+    {
+      "JP": "@理樹@「わっ」",
+      "Translation": "@理樹@「わっ」",
+      "EN": "@Riki@Whoa!"
+    },
+    {
+      "JP": "@理樹@「つっ」",
+      "Translation": "@理樹@「つっ」",
+      "EN": "@Riki@Ow!"
+    },
+    {
+      "JP": "@理樹@「うぎゃっ」",
+      "Translation": "@理樹@「うぎゃっ」",
+      "EN": "@Riki@Ugyaah!"
+    },
+    {
+      "JP": "@理樹@「ひゃっ」",
+      "Translation": "@理樹@「ひゃっ」",
+      "EN": "@Riki@Hyaah!"
+    },
+    {
+      "JP": "@理樹@「やられたっ」",
+      "Translation": "@理樹@「やられたっ」",
+      "EN": "@Riki@They got me!"
+    },
+    {
+      "JP": "@理樹@「うああぁぁぁ…」",
+      "Translation": "@理樹@「うああぁぁぁ…」",
+      "EN": "@Riki@Noooo..."
+    },
+    {
+      "JP": "@朱鷺戸@「標的確認」",
+      "Translation": "@朱鷺戸@「標的確認」",
+      "EN": "@Tokido@Target spotted."
+    },
+    {
+      "JP": "@朱鷺戸@「目標捕捉」",
+      "Translation": "@朱鷺戸@「目標捕捉」",
+      "EN": "@Tokido@Enemy detected."
+    },
+    {
+      "JP": "@朱鷺戸@「始めるわよ」",
+      "Translation": "@朱鷺戸@「始めるわよ」",
+      "EN": "@Tokido@Let's get started."
+    },
+    {
+      "JP": "@朱鷺戸@「いっちょ、いくか」",
+      "Translation": "@朱鷺戸@「いっちょ、いくか」",
+      "EN": "@Tokido@Let's go."
+    },
+    {
+      "JP": "@朱鷺戸@「ゲームスタートね」",
+      "Translation": "@朱鷺戸@「ゲームスタートね」",
+      "EN": "@Tokido@Time to start the game."
+    },
+    {
+      "JP": "@朱鷺戸@「楽しませてね」",
+      "Translation": "@朱鷺戸@「楽しませてね」",
+      "EN": "@Tokido@Amuse us."
+    },
+    {
+      "JP": "@朱鷺戸@「イッツショータイム」",
+      "Translation": "@朱鷺戸@「イッツショータイム」",
+      "EN": "@Tokido@It's show time."
+    },
+    {
+      "JP": "@朱鷺戸@「お手並み拝見ね」",
+      "Translation": "@朱鷺戸@「お手並み拝見ね」",
+      "EN": "@Tokido@Let us see what you guys have."
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、いくわよ」",
+      "Translation": "@朱鷺戸@「理樹くん、いくわよ」",
+      "EN": "@Tokido@Riki-kun, let's roll."
+    },
+    {
+      "JP": "@朱鷺戸@「退屈してたところよ」",
+      "Translation": "@朱鷺戸@「退屈してたところよ」",
+      "EN": "@Tokido@Good timing. I was bored."
+    },
+    {
+      "JP": "@朱鷺戸@「暇つぶしにはちょうどね」",
+      "Translation": "@朱鷺戸@「暇つぶしにはちょうどね」",
+      "EN": "@Tokido@This is a good way to kill time."
+    },
+    {
+      "JP": "@朱鷺戸@「甘く見られたものね」",
+      "Translation": "@朱鷺戸@「甘く見られたものね」",
+      "EN": "@Tokido@Don't underestimate us."
+    },
+    {
+      "JP": "@朱鷺戸@「あたしたち、強いわよ」",
+      "Translation": "@朱鷺戸@「あたしたち、強いわよ」",
+      "EN": "@Tokido@Just so you know, we're strong."
+    },
+    {
+      "JP": "@朱鷺戸@「消えてもらうわ」",
+      "Translation": "@朱鷺戸@「消えてもらうわ」",
+      "EN": "@Tokido@I'm going to erase all of you."
+    },
+    {
+      "JP": "@朱鷺戸@「運が悪かったわね」",
+      "Translation": "@朱鷺戸@「運が悪かったわね」",
+      "EN": "@Tokido@It's not your lucky day."
+    },
+    {
+      "JP": "@朱鷺戸@「邪魔な連中ね」",
+      "Translation": "@朱鷺戸@「邪魔な連中ね」",
+      "EN": "@Tokido@You guys are such a drag."
+    },
+    {
+      "JP": "@朱鷺戸@「しつこいわよ、あんたたち」",
+      "Translation": "@朱鷺戸@「しつこいわよ、あんたたち」",
+      "EN": "@Tokido@You guys are driving me crazy."
+    },
+    {
+      "JP": "@朱鷺戸@「ふわぁ…眠気覚ましね」",
+      "Translation": "@朱鷺戸@「ふわぁ…眠気覚ましね」",
+      "EN": "@Tokido@*Yawn*... Wanna help me wake up?"
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、自信を持って」",
+      "Translation": "@朱鷺戸@「理樹くん、自信を持って」",
+      "EN": "@Tokido@Riki-kun, trust yourself."
+    },
+    {
+      "JP": "@朱鷺戸@「できるできる」",
+      "Translation": "@朱鷺戸@「できるできる」",
+      "EN": "@Tokido@We  can do this."
+    },
+    {
+      "JP": "@朱鷺戸@「秘宝はどこ？\u3000吐いちゃいなさいよ」",
+      "Translation": "@朱鷺戸@「秘宝はどこ？\u3000吐いちゃいなさいよ」",
+      "EN": "@Tokido@Where's the treasure? Just tell us."
+    },
+    {
+      "JP": "@朱鷺戸@「ことごとく消し去ってやる」",
+      "Translation": "@朱鷺戸@「ことごとく消し去ってやる」",
+      "EN": "@Tokido@We'll snuff out every last one of you."
+    },
+    {
+      "JP": "@朱鷺戸@「大人しく消えればいいのよ」",
+      "Translation": "@朱鷺戸@「大人しく消えればいいのよ」",
+      "EN": "@Tokido@Just be gone already."
+    },
+    {
+      "JP": "@朱鷺戸@「そろそろ本気でいこうかしら？」",
+      "Translation": "@朱鷺戸@「そろそろ本気でいこうかしら？」",
+      "EN": "@Tokido@Guess it's time for us to go all out?"
+    },
+    {
+      "JP": "@朱鷺戸@「いくわよ、マイパートナー」",
+      "Translation": "@朱鷺戸@「いくわよ、マイパートナー」",
+      "EN": "@Tokido@Let's go, my partner."
+    },
+    {
+      "JP": "@朱鷺戸@「今の理樹くんはすごいわよ？」",
+      "Translation": "@朱鷺戸@「今の理樹くんはすごいわよ？」",
+      "EN": "@Tokido@Aren't you aware you're doing a real good job here?"
+    },
+    {
+      "JP": "@朱鷺戸@「今の理樹くんなら大丈夫よ」",
+      "Translation": "@朱鷺戸@「今の理樹くんなら大丈夫よ」",
+      "EN": "@Tokido@You're good enough now to make it through this."
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、かっこいいわよ」",
+      "Translation": "@朱鷺戸@「理樹くん、かっこいいわよ」",
+      "EN": "@Tokido@Riki-kun, you look so manly."
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、様になってきたじゃない」",
+      "Translation": "@朱鷺戸@「理樹くん、様になってきたじゃない」",
+      "EN": "@Tokido@Riki-kun, you're now really good at that."
+    },
+    {
+      "JP": "@朱鷺戸@「最強のコンビよ」",
+      "Translation": "@朱鷺戸@「最強のコンビよ」",
+      "EN": "@Tokido@We're the strongest team."
+    },
+    {
+      "JP": "@朱鷺戸@「最強のコンビに挑戦？」",
+      "Translation": "@朱鷺戸@「最強のコンビに挑戦？」",
+      "EN": "@Tokido@You sure you wanna challenge us, the strongest team ever?"
+    },
+    {
+      "JP": "@朱鷺戸@「あたしたちに勝てると思って？」",
+      "Translation": "@朱鷺戸@「あたしたちに勝てると思って？」",
+      "EN": "@Tokido@Do you really think you can beat us?"
+    },
+    {
+      "JP": "@朱鷺戸@「あたしたちを舐めてるわね」",
+      "Translation": "@朱鷺戸@「あたしたちを舐めてるわね」",
+      "EN": "@Tokido@You're obviously underestimating us."
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、やっちゃうわよ？」",
+      "Translation": "@朱鷺戸@「理樹くん、やっちゃうわよ？」",
+      "EN": "@Tokido@Riki-kun, let's get them, okay?"
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、やっちゃいなさい」",
+      "Translation": "@朱鷺戸@「理樹くん、やっちゃいなさい」",
+      "EN": "@Tokido@Riki-kun, go get them."
+    },
+    {
+      "JP": "@朱鷺戸@「秒殺ね」",
+      "Translation": "@朱鷺戸@「秒殺ね」",
+      "EN": "@Tokido@It won't take a second to finish them all."
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くんは今大変お怒りよ」",
+      "Translation": "@朱鷺戸@「理樹くんは今大変お怒りよ」",
+      "EN": "@Tokido@Riki-kun here is extremely angry."
+    },
+    {
+      "JP": "@朱鷺戸@「その勇気だけは認めてあげるわ」",
+      "Translation": "@朱鷺戸@「その勇気だけは認めてあげるわ」",
+      "EN": "@Tokido@Well, I respect that you are willing to face us."
+    },
+    {
+      "JP": "@朱鷺戸@「蛮勇ね」",
+      "Translation": "@朱鷺戸@「蛮勇ね」",
+      "EN": "@Tokido@What reckless courage."
+    },
+    {
+      "JP": "@朱鷺戸@「ちゃんちゃらおかしいわ」",
+      "Translation": "@朱鷺戸@「ちゃんちゃらおかしいわ」",
+      "EN": "@Tokido@Think again because you're not as strong as you think you are."
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くんも何か言ってやんなさいよ」",
+      "Translation": "@朱鷺戸@「理樹くんも何か言ってやんなさいよ」",
+      "EN": "@Tokido@Riki-kun, you should also say something to them just like I do."
+    },
+    {
+      "JP": "@朱鷺戸@「いっちょ、いきますか…」",
+      "Translation": "@朱鷺戸@「いっちょ、いきますか…」",
+      "EN": "@Tokido@Let's do this..."
+    },
+    {
+      "JP": "@朱鷺戸@「ゲームスタートね…」",
+      "Translation": "@朱鷺戸@「ゲームスタートね…」",
+      "EN": "@Tokido@Time to start the game, huh."
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、いくわよ…」",
+      "Translation": "@朱鷺戸@「理樹くん、いくわよ…」",
+      "EN": "@Tokido@Riki-kun, let's go."
+    },
+    {
+      "JP": "@朱鷺戸@「しつこいわよ、あんたたち…」",
+      "Translation": "@朱鷺戸@「しつこいわよ、あんたたち…」",
+      "EN": "@Tokido@You guys sicken me..."
+    },
+    {
+      "JP": "@朱鷺戸@「いい加減にして…」",
+      "Translation": "@朱鷺戸@「いい加減にして…」",
+      "EN": "@Tokido@Enough is enough..."
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、堪えて」",
+      "Translation": "@朱鷺戸@「理樹くん、堪えて」",
+      "EN": "@Tokido@Riki-kun, hang in there."
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、あまり前に出ないで」",
+      "Translation": "@朱鷺戸@「理樹くん、あまり前に出ないで」",
+      "EN": "@Tokido@Riki-kun, stay back."
+    },
+    {
+      "JP": "@朱鷺戸@「乗り切りましょ」",
+      "Translation": "@朱鷺戸@「乗り切りましょ」",
+      "EN": "@Tokido@We can get through this."
+    },
+    {
+      "JP": "@朱鷺戸@「持ちこたえるわよっ」",
+      "Translation": "@朱鷺戸@「持ちこたえるわよっ」",
+      "EN": "@Tokido@We'll live through this."
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、がんばって」",
+      "Translation": "@朱鷺戸@「理樹くん、がんばって」",
+      "EN": "@Tokido@Riki-kun, don't give up."
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、堪えて…」",
+      "Translation": "@朱鷺戸@「理樹くん、堪えて…」",
+      "EN": "@Tokido@Riki-kun, hang in there."
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、がんばって…」",
+      "Translation": "@朱鷺戸@「理樹くん、がんばって…」",
+      "EN": "@Tokido@Riki-kun, don't give up."
+    },
+    {
+      "JP": "@朱鷺戸@「いちじ！」",
+      "Translation": "@朱鷺戸@「いちじ！」",
+      "EN": "@Tokido@One o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「にじ！」",
+      "Translation": "@朱鷺戸@「にじ！」",
+      "EN": "@Tokido@Two o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「さんじ！」",
+      "Translation": "@朱鷺戸@「さんじ！」",
+      "EN": "@Tokido@Three o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「よじ！」",
+      "Translation": "@朱鷺戸@「よじ！」",
+      "EN": "@Tokido@Four o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「ごじ！」",
+      "Translation": "@朱鷺戸@「ごじ！」",
+      "EN": "@Tokido@Five o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「ろくじ！」",
+      "Translation": "@朱鷺戸@「ろくじ！」",
+      "EN": "@Tokido@Six o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「ななじ！」",
+      "Translation": "@朱鷺戸@「ななじ！」",
+      "EN": "@Tokido@Seven o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「はちじ！」",
+      "Translation": "@朱鷺戸@「はちじ！」",
+      "EN": "@Tokido@Eight o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「くじ！」",
+      "Translation": "@朱鷺戸@「くじ！」",
+      "EN": "@Tokido@Nine o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「じゅうじ！」",
+      "Translation": "@朱鷺戸@「じゅうじ！」",
+      "EN": "@Tokido@Ten o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「じゅういちじ！」",
+      "Translation": "@朱鷺戸@「じゅういちじ！」",
+      "EN": "@Tokido@Eleven o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「じゅうにじ！」",
+      "Translation": "@朱鷺戸@「じゅうにじ！」",
+      "EN": "@Tokido@Twelve o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「いちじ！」",
+      "Translation": "@朱鷺戸@「いちじ！」",
+      "EN": "@Tokido@One o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「にじ！」",
+      "Translation": "@朱鷺戸@「にじ！」",
+      "EN": "@Tokido@Two o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「さんじ！」",
+      "Translation": "@朱鷺戸@「さんじ！」",
+      "EN": "@Tokido@Three o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「よじ！」",
+      "Translation": "@朱鷺戸@「よじ！」",
+      "EN": "@Tokido@Four o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「ごじ！」",
+      "Translation": "@朱鷺戸@「ごじ！」",
+      "EN": "@Tokido@Five o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「ろくじ！」",
+      "Translation": "@朱鷺戸@「ろくじ！」",
+      "EN": "@Tokido@Six o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「ななじ！」",
+      "Translation": "@朱鷺戸@「ななじ！」",
+      "EN": "@Tokido@Seven o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「はちじ！」",
+      "Translation": "@朱鷺戸@「はちじ！」",
+      "EN": "@Tokido@Eight o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「くじ！」",
+      "Translation": "@朱鷺戸@「くじ！」",
+      "EN": "@Tokido@Nine o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「じゅうじ！」",
+      "Translation": "@朱鷺戸@「じゅうじ！」",
+      "EN": "@Tokido@Ten o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「じゅういちじ！」",
+      "Translation": "@朱鷺戸@「じゅういちじ！」",
+      "EN": "@Tokido@Eleven o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「じゅうにじ！」",
+      "Translation": "@朱鷺戸@「じゅうにじ！」",
+      "EN": "@Tokido@Twelve o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「いちじ！」",
+      "Translation": "@朱鷺戸@「いちじ！」",
+      "EN": "@Tokido@One o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「にじ！」",
+      "Translation": "@朱鷺戸@「にじ！」",
+      "EN": "@Tokido@Two o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「さんじ！」",
+      "Translation": "@朱鷺戸@「さんじ！」",
+      "EN": "@Tokido@Three o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「よじ！」",
+      "Translation": "@朱鷺戸@「よじ！」",
+      "EN": "@Tokido@Four o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「ごじ！」",
+      "Translation": "@朱鷺戸@「ごじ！」",
+      "EN": "@Tokido@Five o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「ろくじ！」",
+      "Translation": "@朱鷺戸@「ろくじ！」",
+      "EN": "@Tokido@Six o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「ななじ！」",
+      "Translation": "@朱鷺戸@「ななじ！」",
+      "EN": "@Tokido@Seven o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「はちじ！」",
+      "Translation": "@朱鷺戸@「はちじ！」",
+      "EN": "@Tokido@Eight o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「くじ！」",
+      "Translation": "@朱鷺戸@「くじ！」",
+      "EN": "@Tokido@Nine o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「じゅうじ！」",
+      "Translation": "@朱鷺戸@「じゅうじ！」",
+      "EN": "@Tokido@Ten o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「じゅういちじ！」",
+      "Translation": "@朱鷺戸@「じゅういちじ！」",
+      "EN": "@Tokido@Eleven o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「じゅうにじ！」",
+      "Translation": "@朱鷺戸@「じゅうにじ！」",
+      "EN": "@Tokido@Twelve o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「いち！」",
+      "Translation": "@朱鷺戸@「いち！」",
+      "EN": "@Tokido@One o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「に！」",
+      "Translation": "@朱鷺戸@「に！」",
+      "EN": "@Tokido@Two o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「さん！」",
+      "Translation": "@朱鷺戸@「さん！」",
+      "EN": "@Tokido@Three o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「よん！」",
+      "Translation": "@朱鷺戸@「よん！」",
+      "EN": "@Tokido@Four o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「ご！」",
+      "Translation": "@朱鷺戸@「ご！」",
+      "EN": "@Tokido@Five o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「ろく！」",
+      "Translation": "@朱鷺戸@「ろく！」",
+      "EN": "@Tokido@Six o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「なな！」",
+      "Translation": "@朱鷺戸@「なな！」",
+      "EN": "@Tokido@Seven o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「はち！」",
+      "Translation": "@朱鷺戸@「はち！」",
+      "EN": "@Tokido@Eight o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「きゅう！」",
+      "Translation": "@朱鷺戸@「きゅう！」",
+      "EN": "@Tokido@Nine o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「じゅう！」",
+      "Translation": "@朱鷺戸@「じゅう！」",
+      "EN": "@Tokido@Ten o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「じゅういち！」",
+      "Translation": "@朱鷺戸@「じゅういち！」",
+      "EN": "@Tokido@Eleven o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「じゅうに！」",
+      "Translation": "@朱鷺戸@「じゅうに！」",
+      "EN": "@Tokido@Twelve o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「いち！」",
+      "Translation": "@朱鷺戸@「いち！」",
+      "EN": "@Tokido@One o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「に！」",
+      "Translation": "@朱鷺戸@「に！」",
+      "EN": "@Tokido@Two o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「さん！」",
+      "Translation": "@朱鷺戸@「さん！」",
+      "EN": "@Tokido@Three o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「よん！」",
+      "Translation": "@朱鷺戸@「よん！」",
+      "EN": "@Tokido@Four o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「ご！」",
+      "Translation": "@朱鷺戸@「ご！」",
+      "EN": "@Tokido@Five o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「ろく！」",
+      "Translation": "@朱鷺戸@「ろく！」",
+      "EN": "@Tokido@Six o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「なな！」",
+      "Translation": "@朱鷺戸@「なな！」",
+      "EN": "@Tokido@Seven o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「はち！」",
+      "Translation": "@朱鷺戸@「はち！」",
+      "EN": "@Tokido@Eight o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「きゅう！」",
+      "Translation": "@朱鷺戸@「きゅう！」",
+      "EN": "@Tokido@Nine o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「じゅう！」",
+      "Translation": "@朱鷺戸@「じゅう！」",
+      "EN": "@Tokido@Ten o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「じゅういち！」",
+      "Translation": "@朱鷺戸@「じゅういち！」",
+      "EN": "@Tokido@Eleven o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「じゅうに！」",
+      "Translation": "@朱鷺戸@「じゅうに！」",
+      "EN": "@Tokido@Twelve o'clock!"
+    },
+    {
+      "JP": "@朱鷺戸@「えーーと、よん、ろく…？\u3000いや、なな、いやいやろく、あーえーと…」",
+      "Translation": "@朱鷺戸@「えーーと、よん、ろく…？\u3000いや、なな、いやいやろく、あーえーと…」",
+      "EN": "@Tokido@Well, four, six? Er, ten... ten... ugh...!"
+    },
+    {
+      "JP": "@朱鷺戸@「いち？\u3000いや、あー、じゅう…じゅう…ああぁ…！」",
+      "Translation": "@朱鷺戸@「いち？\u3000いや、あー、じゅう…じゅう…ああぁ…！」",
+      "EN": "@Tokido@One? No, err, ten... ten... ugh...!"
+    },
+    {
+      "JP": "@朱鷺戸@「さ…さん…さん…きゅう？\u3000いや、はち、あっ、いちっ、あーじゅうっ！」",
+      "Translation": "@朱鷺戸@「さ…さん…さん…きゅう？\u3000いや、はち、あっ、いちっ、あーじゅうっ！」",
+      "EN": "@Tokido@Th... three... three... nine? No, eight, uh, one, err, ten!"
+    },
+    {
+      "JP": "@朱鷺戸@「大変よくできました」",
+      "Translation": "@朱鷺戸@「大変よくできました」",
+      "EN": "@Tokido@Excellent!"
+    },
+    {
+      "JP": "@朱鷺戸@「やるじゃない」",
+      "Translation": "@朱鷺戸@「やるじゃない」",
+      "EN": "@Tokido@Way to go!"
+    },
+    {
+      "JP": "@朱鷺戸@「完璧ね」",
+      "Translation": "@朱鷺戸@「完璧ね」",
+      "EN": "@Tokido@Perfection!"
+    },
+    {
+      "JP": "@朱鷺戸@「パーフェクト！」",
+      "Translation": "@朱鷺戸@「パーフェクト！」",
+      "EN": "@Tokido@Perfect!"
+    },
+    {
+      "JP": "@朱鷺戸@「素晴らしい出来だわ」",
+      "Translation": "@朱鷺戸@「素晴らしい出来だわ」",
+      "EN": "@Tokido@Splendid work!"
+    },
+    {
+      "JP": "@朱鷺戸@「やるときゃやるのね」",
+      "Translation": "@朱鷺戸@「やるときゃやるのね」",
+      "EN": "@Tokido@I knew you could do it!"
+    },
+    {
+      "JP": "@朱鷺戸@「いい感じだったわよ」",
+      "Translation": "@朱鷺戸@「いい感じだったわよ」",
+      "EN": "@Tokido@That was super!"
+    },
+    {
+      "JP": "@朱鷺戸@「うわっはっはっは！」",
+      "Translation": "@朱鷺戸@「うわっはっはっは！」",
+      "EN": "@Tokido@Uhahaha!"
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、やるじゃない！」",
+      "Translation": "@朱鷺戸@「理樹くん、やるじゃない！」",
+      "EN": "@Tokido@Riki-kun, way to go!"
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、あなた才能あるわよ」",
+      "Translation": "@朱鷺戸@「理樹くん、あなた才能あるわよ」",
+      "EN": "@Tokido@Riki-kun, you have talent in this!"
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、あたしの目に間違いはなかったわ…」",
+      "Translation": "@朱鷺戸@「理樹くん、あたしの目に間違いはなかったわ…」",
+      "EN": "@Tokido@Riki-kun, I was right to bring you here."
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、スパイに転職すべきよ」",
+      "Translation": "@朱鷺戸@「理樹くん、スパイに転職すべきよ」",
+      "EN": "@Tokido@Riki-kun, you should become a spy."
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、あなた、実はすでにどこかのスパイなんじゃないの？」",
+      "Translation": "@朱鷺戸@「理樹くん、あなた、実はすでにどこかのスパイなんじゃないの？」",
+      "EN": "@Tokido@Riki-kun, aren't you already working as a spy for some organization?"
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、あなた、あたしよりすごくない？」",
+      "Translation": "@朱鷺戸@「理樹くん、あなた、あたしよりすごくない？」",
+      "EN": "@Tokido@Riki-kun, aren't you better than me?"
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、あなたが敵じゃなくてよかったわ…」",
+      "Translation": "@朱鷺戸@「理樹くん、あなたが敵じゃなくてよかったわ…」",
+      "EN": "@Tokido@Riki-kun, I'm glad you're not my enemy..."
+    },
+    {
+      "JP": "@朱鷺戸@「なによっ、そうよっ、あなたよりあたしのほうがへたよっ！」",
+      "Translation": "@朱鷺戸@「なによっ、そうよっ、あなたよりあたしのほうがへたよっ！」",
+      "EN": "@Tokido@What? That's right! I'm worse than you!"
+    },
+    {
+      "JP": "@朱鷺戸@「いい気になってんじゃないわよっ！」",
+      "Translation": "@朱鷺戸@「いい気になってんじゃないわよっ！」",
+      "EN": "@Tokido@Don't you get carried away!"
+    },
+    {
+      "JP": "@朱鷺戸@「なによっ、そんなに射撃が上手いほうが偉いわけ！？」",
+      "Translation": "@朱鷺戸@「なによっ、そんなに射撃が上手いほうが偉いわけ！？」",
+      "EN": "@Tokido@What? You think you're better than me just because you're better at shooting than me?"
+    },
+    {
+      "JP": "@朱鷺戸@「なんてことないわね」",
+      "Translation": "@朱鷺戸@「なんてことないわね」",
+      "EN": "@Tokido@That was a piece of cake."
+    },
+    {
+      "JP": "@朱鷺戸@「成仏なさい」",
+      "Translation": "@朱鷺戸@「成仏なさい」",
+      "EN": "@Tokido@Rest in peace."
+    },
+    {
+      "JP": "@朱鷺戸@「よくできました」",
+      "Translation": "@朱鷺戸@「よくできました」",
+      "EN": "@Tokido@Well done."
+    },
+    {
+      "JP": "@朱鷺戸@「オーケー、上出来よ」",
+      "Translation": "@朱鷺戸@「オーケー、上出来よ」",
+      "EN": "@Tokido@Okay. That was great."
+    },
+    {
+      "JP": "@朱鷺戸@「馬鹿にしてるの？」",
+      "Translation": "@朱鷺戸@「馬鹿にしてるの？」",
+      "EN": "@Tokido@Are you making fun of me?"
+    },
+    {
+      "JP": "@朱鷺戸@「舐めてるわね…」",
+      "Translation": "@朱鷺戸@「舐めてるわね…」",
+      "EN": "@Tokido@Don't you underestimate me..."
+    },
+    {
+      "JP": "@朱鷺戸@「負ける気がしないわ」",
+      "Translation": "@朱鷺戸@「負ける気がしないわ」",
+      "EN": "@Tokido@I can't picture myself losing."
+    },
+    {
+      "JP": "@朱鷺戸@「朝飯前ね」",
+      "Translation": "@朱鷺戸@「朝飯前ね」",
+      "EN": "@Tokido@A walk in the park."
+    },
+    {
+      "JP": "@朱鷺戸@「余裕、余裕」",
+      "Translation": "@朱鷺戸@「余裕、余裕」",
+      "EN": "@Tokido@Not a problem at all."
+    },
+    {
+      "JP": "@朱鷺戸@「暇だったわ…」",
+      "Translation": "@朱鷺戸@「暇だったわ…」",
+      "EN": "@Tokido@That was boring..."
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くんひとりでも勝てそうね」",
+      "Translation": "@朱鷺戸@「理樹くんひとりでも勝てそうね」",
+      "EN": "@Tokido@Riki-kun, I think you can take care of them on your own."
+    },
+    {
+      "JP": "@朱鷺戸@「ぜんっぜん本気になれないんだけど」",
+      "Translation": "@朱鷺戸@「ぜんっぜん本気になれないんだけど」",
+      "EN": "@Tokido@I don't even need to get half serious."
+    },
+    {
+      "JP": "@朱鷺戸@「邪魔よ」",
+      "Translation": "@朱鷺戸@「邪魔よ」",
+      "EN": "@Tokido@Get out of my way."
+    },
+    {
+      "JP": "@朱鷺戸@「あたしを倒そうなんて…馬鹿じゃないの？」",
+      "Translation": "@朱鷺戸@「あたしを倒そうなんて…馬鹿じゃないの？」",
+      "EN": "@Tokido@Did you really think you'd beat me...? How dumb."
+    },
+    {
+      "JP": "@朱鷺戸@「時間の無駄遣いね…」",
+      "Translation": "@朱鷺戸@「時間の無駄遣いね…」",
+      "EN": "@Tokido@What a waste of time..."
+    },
+    {
+      "JP": "@朱鷺戸@「ゴミクズね」",
+      "Translation": "@朱鷺戸@「ゴミクズね」",
+      "EN": "@Tokido@Garbage."
+    },
+    {
+      "JP": "@朱鷺戸@「うざったい奴らね…」",
+      "Translation": "@朱鷺戸@「うざったい奴らね…」",
+      "EN": "@Tokido@You guys are annooying..."
+    },
+    {
+      "JP": "@朱鷺戸@「弾がもったいないわ」",
+      "Translation": "@朱鷺戸@「弾がもったいないわ」",
+      "EN": "@Tokido@I don't want to waste my bullets."
+    },
+    {
+      "JP": "@朱鷺戸@「素手でも勝てそうね」",
+      "Translation": "@朱鷺戸@「素手でも勝てそうね」",
+      "EN": "@Tokido@I think we can beat them with our bare hands."
+    },
+    {
+      "JP": "@朱鷺戸@「あんたらどれだけ弱いのよ」",
+      "Translation": "@朱鷺戸@「あんたらどれだけ弱いのよ」",
+      "EN": "@Tokido@How weak are you guys?"
+    },
+    {
+      "JP": "@朱鷺戸@「ったく、時間の無駄よ…」",
+      "Translation": "@朱鷺戸@「ったく、時間の無駄よ…」",
+      "EN": "@Tokido@Jeez, this is a waste of time."
+    },
+    {
+      "JP": "@朱鷺戸@「退屈だわ…」",
+      "Translation": "@朱鷺戸@「退屈だわ…」",
+      "EN": "@Tokido@I'm bored."
+    },
+    {
+      "JP": "@朱鷺戸@「ぜんっぜん本気になれないんですけど」",
+      "Translation": "@朱鷺戸@「ぜんっぜん本気になれないんですけど」",
+      "EN": "@Tokido@I don't even need to get half serious."
+    },
+    {
+      "JP": "@朱鷺戸@「ふわぁ…眠い…」",
+      "Translation": "@朱鷺戸@「ふわぁ…眠い…」",
+      "EN": "@Tokido@*Yawn*. I'm sleepy..."
+    },
+    {
+      "JP": "@朱鷺戸@「数学の問題を解くより易しいわね」",
+      "Translation": "@朱鷺戸@「数学の問題を解くより易しいわね」",
+      "EN": "@Tokido@Math problems are harder than this."
+    },
+    {
+      "JP": "@朱鷺戸@「あたしを倒そうなんて…あほね」",
+      "Translation": "@朱鷺戸@「あたしを倒そうなんて…あほね」",
+      "EN": "@Tokido@It's ridiculous for you to even try to beat me."
+    },
+    {
+      "JP": "@朱鷺戸@「暇だからラーメン食ってきたわよ」",
+      "Translation": "@朱鷺戸@「暇だからラーメン食ってきたわよ」",
+      "EN": "@Tokido@I ate ramen because I had nothing else to do."
+    },
+    {
+      "JP": "@朱鷺戸@「退屈だったからカツサンド買いにいってたわ。理樹くん食べる？」",
+      "Translation": "@朱鷺戸@「退屈だったからカツサンド買いにいってたわ。理樹くん食べる？」",
+      "EN": "@Tokido@I went out to buy pork cutlet sandwiches because I was bored. Riki-kun, you want some?"
+    },
+    {
+      "JP": "@朱鷺戸@「退屈だったから５５１の肉まん買ってきたわ。理樹くん食べる？」",
+      "Translation": "@朱鷺戸@「退屈だったから５５１の肉まん買ってきたわ。理樹くん食べる？」",
+      "EN": "@Tokido@I went out to buy Go Go Ichi's steamed meat buns because I was bored. Riki-kun, you want some?"
+    },
+    {
+      "JP": "@朱鷺戸@「退屈だったからカレー作ってきたわ。理樹くん食べる？」",
+      "Translation": "@朱鷺戸@「退屈だったからカレー作ってきたわ。理樹くん食べる？」",
+      "EN": "@Tokido@I cooked curry because I was bored. Riki-kun, you want some?"
+    },
+    {
+      "JP": "@朱鷺戸@「退屈だったから広島対横浜戦見てきたわ。地味な一戦だったわ」",
+      "Translation": "@朱鷺戸@「退屈だったから広島対横浜戦見てきたわ。地味な一戦だったわ」",
+      "EN": "@Tokido@Since I was bored, I went to see a baseball game between Hirosima and Yokohama. It was nothing special."
+    },
+    {
+      "JP": "@朱鷺戸@「退屈だったから巨人阪神伝統の一戦を見てきたわ。見応えのある一戦だったわ」",
+      "Translation": "@朱鷺戸@「退屈だったから巨人阪神伝統の一戦を見てきたわ。見応えのある一戦だったわ」",
+      "EN": "@Tokido@Since I was bored, I went to see a baseball game between the Giants and the Tigers. That really was something else."
+    },
+    {
+      "JP": "@朱鷺戸@「暇だからデパ地下で試食しまくってきたわ」",
+      "Translation": "@朱鷺戸@「暇だからデパ地下で試食しまくってきたわ」",
+      "EN": "@Tokido@I was so bored, I went to try food samples in the basement of a department store."
+    },
+    {
+      "JP": "@朱鷺戸@「その制服、たくさん持ってるのね」",
+      "Translation": "@朱鷺戸@「その制服、たくさん持ってるのね」",
+      "EN": "@Tokido@Looks like they have a lot of uniforms."
+    },
+    {
+      "JP": "@朱鷺戸@「あたし途中から寝てたわ」",
+      "Translation": "@朱鷺戸@「あたし途中から寝てたわ」",
+      "EN": "@Tokido@I fell asleep in the middle."
+    },
+    {
+      "JP": "@朱鷺戸@「あたし途中から読書してたわ」",
+      "Translation": "@朱鷺戸@「あたし途中から読書してたわ」",
+      "EN": "@Tokido@I started reading halfway through the fight."
+    },
+    {
+      "JP": "@朱鷺戸@「あたし途中からアイス食べてたわ」",
+      "Translation": "@朱鷺戸@「あたし途中からアイス食べてたわ」",
+      "EN": "@Tokido@I started eating ice cream halfway through the fight."
+    },
+    {
+      "JP": "@朱鷺戸@「あたし途中でシャワー浴びてきたわよ」",
+      "Translation": "@朱鷺戸@「あたし途中でシャワー浴びてきたわよ」",
+      "EN": "@Tokido@I went to take a shower halfway through the fight."
+    },
+    {
+      "JP": "@朱鷺戸@「あたし途中から小説を執筆してたわ」",
+      "Translation": "@朱鷺戸@「あたし途中から小説を執筆してたわ」",
+      "EN": "@Tokido@I started writing a novel halfway through the fight."
+    },
+    {
+      "JP": "@朱鷺戸@「あたし途中から目つぶってたわ」",
+      "Translation": "@朱鷺戸@「あたし途中から目つぶってたわ」",
+      "EN": "@Tokido@I closed my eyes halfway through the fight."
+    },
+    {
+      "JP": "@朱鷺戸@「あなたたち、そんなのでいいの？」",
+      "Translation": "@朱鷺戸@「あなたたち、そんなのでいいの？」",
+      "EN": "@Tokido@Are you guys sure you're okay with the way things are?"
+    },
+    {
+      "JP": "@朱鷺戸@「あなたたち、夢とかないの？」",
+      "Translation": "@朱鷺戸@「あなたたち、夢とかないの？」",
+      "EN": "@Tokido@Don't you guys have dreams and aspirations?"
+    },
+    {
+      "JP": "@朱鷺戸@「影ってそんなに楽しいの？」",
+      "Translation": "@朱鷺戸@「影ってそんなに楽しいの？」",
+      "EN": "@Tokido@Is being a shadow that much fun?"
+    },
+    {
+      "JP": "@朱鷺戸@「他に趣味とかないの？」",
+      "Translation": "@朱鷺戸@「他に趣味とかないの？」",
+      "EN": "@Tokido@Don't you guys have any other hobbies?"
+    },
+    {
+      "JP": "@朱鷺戸@「本体は何してるの？」",
+      "Translation": "@朱鷺戸@「本体は何してるの？」",
+      "EN": "@Tokido@What's the source of those shadows doing?"
+    },
+    {
+      "JP": "@朱鷺戸@「あほばっかだわ」",
+      "Translation": "@朱鷺戸@「あほばっかだわ」",
+      "EN": "@Tokido@A bunch of bubbleheads."
+    },
+    {
+      "JP": "@朱鷺戸@「あー、なんかむしゃくしゃするわねっ」",
+      "Translation": "@朱鷺戸@「あー、なんかむしゃくしゃするわねっ」",
+      "EN": "@Tokido@Jeez, I'm feeling frustrated for some reason."
+    },
+    {
+      "JP": "@朱鷺戸@「水道管ゲームでもしてたほうが有意義ね」",
+      "Translation": "@朱鷺戸@「水道管ゲームでもしてたほうが有意義ね」",
+      "EN": "@Tokido@Playing Waterworks would be much more meaningful."
+    },
+    {
+      "JP": "@朱鷺戸@「あーっはっはっはっ！」",
+      "Translation": "@朱鷺戸@「あーっはっはっはっ！」",
+      "EN": "@Tokido@Ahahaha!"
+    },
+    {
+      "JP": "@朱鷺戸@「うんこね」",
+      "Translation": "@朱鷺戸@「うんこね」",
+      "EN": "@Tokido@What crap."
+    },
+    {
+      "JP": "@朱鷺戸@「カスね」",
+      "Translation": "@朱鷺戸@「カスね」",
+      "EN": "@Tokido@What trash."
+    },
+    {
+      "JP": "@朱鷺戸@「相撲でも勝てそうね」",
+      "Translation": "@朱鷺戸@「相撲でも勝てそうね」",
+      "EN": "@Tokido@I think we'd still be able to beat them in Sumo."
+    },
+    {
+      "JP": "@朱鷺戸@「書記とかも居るの？」",
+      "Translation": "@朱鷺戸@「書記とかも居るの？」",
+      "EN": "@Tokido@Are there any secretaries among you guys?"
+    },
+    {
+      "JP": "@朱鷺戸@「ちゃんと授業出てるの？」",
+      "Translation": "@朱鷺戸@「ちゃんと授業出てるの？」",
+      "EN": "@Tokido@Do you guys go to class as you should be?"
+    },
+    {
+      "JP": "@朱鷺戸@「あなたたち顔色悪いわよ」",
+      "Translation": "@朱鷺戸@「あなたたち顔色悪いわよ」",
+      "EN": "@Tokido@You all look pale."
+    },
+    {
+      "JP": "@朱鷺戸@「手間取らせやがって…」",
+      "Translation": "@朱鷺戸@「手間取らせやがって…」",
+      "EN": "@Tokido@Damn, they're such a bother."
+    },
+    {
+      "JP": "@朱鷺戸@「どれだけ居るのよ…」",
+      "Translation": "@朱鷺戸@「どれだけ居るのよ…」",
+      "EN": "@Tokido@Just how many of them are there..."
+    },
+    {
+      "JP": "@朱鷺戸@「ふぅ…」",
+      "Translation": "@朱鷺戸@「ふぅ…」",
+      "EN": "@Tokido@*Sigh*."
+    },
+    {
+      "JP": "@朱鷺戸@「どこまで続くの…」",
+      "Translation": "@朱鷺戸@「どこまで続くの…」",
+      "EN": "@Tokido@How far will this go..."
+    },
+    {
+      "JP": "@朱鷺戸@「大丈夫？」",
+      "Translation": "@朱鷺戸@「大丈夫？」",
+      "EN": "@Tokido@You okay?"
+    },
+    {
+      "JP": "@朱鷺戸@「あちゃー」",
+      "Translation": "@朱鷺戸@「あちゃー」",
+      "EN": "@Tokido@Oh my God."
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、無事？」",
+      "Translation": "@朱鷺戸@「理樹くん、無事？」",
+      "EN": "@Tokido@Riki-kun, are you all right?"
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、大丈夫？」",
+      "Translation": "@朱鷺戸@「理樹くん、大丈夫？」",
+      "EN": "@Tokido@Riki-kun, are you okay?"
+    },
+    {
+      "JP": "@朱鷺戸@「生きてる？」",
+      "Translation": "@朱鷺戸@「生きてる？」",
+      "EN": "@Tokido@Still alive?"
+    },
+    {
+      "JP": "@朱鷺戸@「あらー…」",
+      "Translation": "@朱鷺戸@「あらー…」",
+      "EN": "@Tokido@Ouch."
+    },
+    {
+      "JP": "@朱鷺戸@「うーん、途中までいい感じだったのにな…」",
+      "Translation": "@朱鷺戸@「うーん、途中までいい感じだったのにな…」",
+      "EN": "@Tokido@Hmm, you were doing great until halfway through."
+    },
+    {
+      "JP": "@朱鷺戸@「やばかった？」",
+      "Translation": "@朱鷺戸@「やばかった？」",
+      "EN": "@Tokido@Did you almost screw up?"
+    },
+    {
+      "JP": "@朱鷺戸@「あーあ…もう…」",
+      "Translation": "@朱鷺戸@「あーあ…もう…」",
+      "EN": "@Tokido@Give me a break."
+    },
+    {
+      "JP": "@朱鷺戸@「くっそぅ！」",
+      "Translation": "@朱鷺戸@「くっそぅ！」",
+      "EN": "@Tokido@Shit!"
+    },
+    {
+      "JP": "@朱鷺戸@「はぁ…はぁ…」",
+      "Translation": "@朱鷺戸@「はぁ…はぁ…」",
+      "EN": "@Tokido@*Pant pant pant*"
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん！？」",
+      "Translation": "@朱鷺戸@「理樹くん！？」",
+      "EN": "@Tokido@Riki-kun!?"
+    },
+    {
+      "JP": "@朱鷺戸@「うあ、理樹くん！？」",
+      "Translation": "@朱鷺戸@「うあ、理樹くん！？」",
+      "EN": "@Tokido@Riki-kun!?"
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、しっかり！」",
+      "Translation": "@朱鷺戸@「理樹くん、しっかり！」",
+      "EN": "@Tokido@Riki-kun!?"
+    },
+    {
+      "JP": "@朱鷺戸@「なんなの、あなたたち…」",
+      "Translation": "@朱鷺戸@「なんなの、あなたたち…」",
+      "EN": "@Tokido@What's wrong with you guys...?"
+    },
+    {
+      "JP": "@朱鷺戸@「不気味よ…」",
+      "Translation": "@朱鷺戸@「不気味よ…」",
+      "EN": "@Tokido@You're just creepy..."
+    },
+    {
+      "JP": "@朱鷺戸@「とっとと消えちゃいなさいよ！」",
+      "Translation": "@朱鷺戸@「とっとと消えちゃいなさいよ！」",
+      "EN": "@Tokido@Just go away already!"
+    },
+    {
+      "JP": "@朱鷺戸@「消し去ってやる！」",
+      "Translation": "@朱鷺戸@「消し去ってやる！」",
+      "EN": "@Tokido@I'm going to make you go away!"
+    },
+    {
+      "JP": "@朱鷺戸@「おまえら、みんな消えろ！」",
+      "Translation": "@朱鷺戸@「おまえら、みんな消えろ！」",
+      "EN": "@Tokido@Be gone, all of you!"
+    },
+    {
+      "JP": "@朱鷺戸@「また現れたか…」",
+      "Translation": "@朱鷺戸@「また現れたか…」",
+      "EN": "@Tokido@There you go again..."
+    },
+    {
+      "JP": "@朱鷺戸@「居やがったか…」",
+      "Translation": "@朱鷺戸@「居やがったか…」",
+      "EN": "@Tokido@Darn, not you guys again..."
+    },
+    {
+      "JP": "@朱鷺戸@「少しは自重しなさいよね…」",
+      "Translation": "@朱鷺戸@「少しは自重しなさいよね…」",
+      "EN": "@Tokido@Stop bothering us for a bit, would you?"
+    },
+    {
+      "JP": "@朱鷺戸@「本気にさせたわね…」",
+      "Translation": "@朱鷺戸@「本気にさせたわね…」",
+      "EN": "@Tokido@You guys just made me serious..."
+    },
+    {
+      "JP": "@朱鷺戸@「消えなさい」",
+      "Translation": "@朱鷺戸@「消えなさい」",
+      "EN": "@Tokido@Disappear."
+    },
+    {
+      "JP": "@朱鷺戸@「みんな死ねばいいのよっ」",
+      "Translation": "@朱鷺戸@「みんな死ねばいいのよっ」",
+      "EN": "@Tokido@You can all die!"
+    },
+    {
+      "JP": "@朱鷺戸@「くそぉ…」",
+      "Translation": "@朱鷺戸@「くそぉ…」",
+      "EN": "@Tokido@Crap..."
+    },
+    {
+      "JP": "@朱鷺戸@「なんて奴らだ…」",
+      "Translation": "@朱鷺戸@「なんて奴らだ…」",
+      "EN": "@Tokido@I hate you guys."
+    },
+    {
+      "JP": "@朱鷺戸@「あいつめ…」",
+      "Translation": "@朱鷺戸@「あいつめ…」",
+      "EN": "@Tokido@Damn him..."
+    },
+    {
+      "JP": "@朱鷺戸@「時風を出せえぇ！」",
+      "Translation": "@朱鷺戸@「時風を出せえぇ！」",
+      "EN": "@Tokido@Get Tokikaze here!"
+    },
+    {
+      "JP": "@朱鷺戸@「邪魔すんな！」",
+      "Translation": "@朱鷺戸@「邪魔すんな！」",
+      "EN": "@Tokido@Get the hell out of our way!"
+    },
+    {
+      "JP": "@朱鷺戸@「邪魔よ…」",
+      "Translation": "@朱鷺戸@「邪魔よ…」",
+      "EN": "@Tokido@Out of our way..."
+    },
+    {
+      "JP": "@朱鷺戸@「このウジ虫が…」",
+      "Translation": "@朱鷺戸@「このウジ虫が…」",
+      "EN": "@Tokido@You maggots..."
+    },
+    {
+      "JP": "@朱鷺戸@「死ねっ」",
+      "Translation": "@朱鷺戸@「死ねっ」",
+      "EN": "@Tokido@Drop dead!"
+    },
+    {
+      "JP": "@朱鷺戸@「消えろ！」",
+      "Translation": "@朱鷺戸@「消えろ！」",
+      "EN": "@Tokido@Beat it!"
+    },
+    {
+      "JP": "@朱鷺戸@「失せろ！」",
+      "Translation": "@朱鷺戸@「失せろ！」",
+      "EN": "@Tokido@Get lost!"
+    },
+    {
+      "JP": "@朱鷺戸@「ヒット！」",
+      "Translation": "@朱鷺戸@「ヒット！」",
+      "EN": "@Tokido@Hit!"
+    },
+    {
+      "JP": "@朱鷺戸@「クール！」",
+      "Translation": "@朱鷺戸@「クール！」",
+      "EN": "@Tokido@Cool!"
+    },
+    {
+      "JP": "@朱鷺戸@「邪魔っ」",
+      "Translation": "@朱鷺戸@「邪魔っ」",
+      "EN": "@Tokido@Outta our way!"
+    },
+    {
+      "JP": "@朱鷺戸@「どう！？」",
+      "Translation": "@朱鷺戸@「どう！？」",
+      "EN": "@Tokido@How was it!?"
+    },
+    {
+      "JP": "@朱鷺戸@「よし！」",
+      "Translation": "@朱鷺戸@「よし！」",
+      "EN": "@Tokido@Yeah!"
+    },
+    {
+      "JP": "@朱鷺戸@「へえ」",
+      "Translation": "@朱鷺戸@「へえ」",
+      "EN": "@Tokido@Oh."
+    },
+    {
+      "JP": "@朱鷺戸@「ふうん」",
+      "Translation": "@朱鷺戸@「ふうん」",
+      "EN": "@Tokido@I see."
+    },
+    {
+      "JP": "@朱鷺戸@「うっ」",
+      "Translation": "@朱鷺戸@「うっ」",
+      "EN": "@Tokido@Ugh..."
+    },
+    {
+      "JP": "@朱鷺戸@「ちっ…」",
+      "Translation": "@朱鷺戸@「ちっ…」",
+      "EN": "@Tokido@Tsk..."
+    },
+    {
+      "JP": "@朱鷺戸@「なによっ…」",
+      "Translation": "@朱鷺戸@「なによっ…」",
+      "EN": "@Tokido@Geez..."
+    },
+    {
+      "JP": "@朱鷺戸@「わっ…」",
+      "Translation": "@朱鷺戸@「わっ…」",
+      "EN": "@Tokido@Whoa..."
+    },
+    {
+      "JP": "@朱鷺戸@「おわっ」",
+      "Translation": "@朱鷺戸@「おわっ」",
+      "EN": "@Tokido@Oh!"
+    },
+    {
+      "JP": "@朱鷺戸@「えっ…」",
+      "Translation": "@朱鷺戸@「えっ…」",
+      "EN": "@Tokido@Eh..."
+    },
+    {
+      "JP": "@朱鷺戸@「そんなっ」",
+      "Translation": "@朱鷺戸@「そんなっ」",
+      "EN": "@Tokido@No way!"
+    },
+    {
+      "JP": "@朱鷺戸@「くそっ」",
+      "Translation": "@朱鷺戸@「くそっ」",
+      "EN": "@Tokido@Crap!"
+    },
+    {
+      "JP": "@朱鷺戸@「シット！」",
+      "Translation": "@朱鷺戸@「シット！」",
+      "EN": "@Tokido@Shit!"
+    },
+    {
+      "JP": "@朱鷺戸@「ワオ！」",
+      "Translation": "@朱鷺戸@「ワオ！」",
+      "EN": "@Tokido@Wow!"
+    },
+    {
+      "JP": "@朱鷺戸@「はっ、どんなものよ」",
+      "Translation": "@朱鷺戸@「はっ、どんなものよ」",
+      "EN": "@Tokido@Ha, you guys deserve that."
+    },
+    {
+      "JP": "@朱鷺戸@「ざっとこんなものよ」",
+      "Translation": "@朱鷺戸@「ざっとこんなものよ」",
+      "EN": "@Tokido@This is how good I am."
+    },
+    {
+      "JP": "@朱鷺戸@「余裕すぎるわ」",
+      "Translation": "@朱鷺戸@「余裕すぎるわ」",
+      "EN": "@Tokido@Way too easy."
+    },
+    {
+      "JP": "@朱鷺戸@「待ってなさいよ…」",
+      "Translation": "@朱鷺戸@「待ってなさいよ…」",
+      "EN": "@Tokido@I'm coming for you..."
+    },
+    {
+      "JP": "@朱鷺戸@「くそったれがっ」",
+      "Translation": "@朱鷺戸@「くそったれがっ」",
+      "EN": "@Tokido@You sons of bitches!"
+    },
+    {
+      "JP": "@朱鷺戸@「やられるかっての」",
+      "Translation": "@朱鷺戸@「やられるかっての」",
+      "EN": "@Tokido@I can't take this anymore."
+    },
+    {
+      "JP": "@朱鷺戸@「負けてやるものかっ」",
+      "Translation": "@朱鷺戸@「負けてやるものかっ」",
+      "EN": "@Tokido@I'm not going down!"
+    },
+    {
+      "JP": "@朱鷺戸@「はんっ、馬鹿にしないでもらいたいわね」",
+      "Translation": "@朱鷺戸@「はんっ、馬鹿にしないでもらいたいわね」",
+      "EN": "@Tokido@Ha, I'm much better than you think I am."
+    },
+    {
+      "JP": "@朱鷺戸@「見たことか」",
+      "Translation": "@朱鷺戸@「見たことか」",
+      "EN": "@Tokido@That serves you right."
+    },
+    {
+      "JP": "@朱鷺戸@「こんなんじゃまだまだよ」",
+      "Translation": "@朱鷺戸@「こんなんじゃまだまだよ」",
+      "EN": "@Tokido@I haven't had enough yet."
+    },
+    {
+      "JP": "@朱鷺戸@「あっはは、負けてやーんのっ」",
+      "Translation": "@朱鷺戸@「あっはは、負けてやーんのっ」",
+      "EN": "@Tokido@Ahaha, losers!"
+    },
+    {
+      "JP": "@朱鷺戸@「これで本気？」",
+      "Translation": "@朱鷺戸@「これで本気？」",
+      "EN": "@Tokido@Is that all you got?"
+    },
+    {
+      "JP": "@朱鷺戸@「まだまだぁっ！」",
+      "Translation": "@朱鷺戸@「まだまだぁっ！」",
+      "EN": "@Tokido@I'm far from satisfied!"
+    },
+    {
+      "JP": "@朱鷺戸@「どけよ、てめぇーらっ！」",
+      "Translation": "@朱鷺戸@「どけよ、てめぇーらっ！」",
+      "EN": "@Tokido@Get the hell outta our way, you bastards!"
+    },
+    {
+      "JP": "@朱鷺戸@「邪魔だ、こらぁっ！」",
+      "Translation": "@朱鷺戸@「邪魔だ、こらぁっ！」",
+      "EN": "@Tokido@Outta our way, damn it!"
+    },
+    {
+      "JP": "@朱鷺戸@「とっととうせろっ」",
+      "Translation": "@朱鷺戸@「とっととうせろっ」",
+      "EN": "@Tokido@Go get lost already!"
+    },
+    {
+      "JP": "@朱鷺戸@「こっちだって本気よ！」",
+      "Translation": "@朱鷺戸@「こっちだって本気よ！」",
+      "EN": "@Tokido@I'm giving it my all too!"
+    },
+    {
+      "JP": "@朱鷺戸@「死ね死ねばーか！」",
+      "Translation": "@朱鷺戸@「死ね死ねばーか！」",
+      "EN": "@Tokido@Die, morons, die!"
+    },
+    {
+      "JP": "@朱鷺戸@「こんなとこで立ち止まってなんかいられないのよ」",
+      "Translation": "@朱鷺戸@「こんなとこで立ち止まってなんかいられないのよ」",
+      "EN": "@Tokido@We've got no time to stop here."
+    },
+    {
+      "JP": "@朱鷺戸@「ザコごときにやられるかってのっ」",
+      "Translation": "@朱鷺戸@「ザコごときにやられるかってのっ」",
+      "EN": "@Tokido@There's no way you maggots can beat us!"
+    },
+    {
+      "JP": "@朱鷺戸@「死ね死ね死ねえぇ！」",
+      "Translation": "@朱鷺戸@「死ね死ね死ねえぇ！」",
+      "EN": "@Tokido@Die, die, diiiie!"
+    },
+    {
+      "JP": "@朱鷺戸@「はぁっ…ぎりぎりかっ」",
+      "Translation": "@朱鷺戸@「はぁっ…ぎりぎりかっ」",
+      "EN": "@Tokido@Phew... That was a close one."
+    },
+    {
+      "JP": "@朱鷺戸@「うわ、つぇーな…」",
+      "Translation": "@朱鷺戸@「うわ、つぇーな…」",
+      "EN": "@Tokido@Shoot, they were hella good."
+    },
+    {
+      "JP": "@朱鷺戸@「はぁっ…はぁっ…」",
+      "Translation": "@朱鷺戸@「はぁっ…はぁっ…」",
+      "EN": "@Tokido@*Pant...*pant*..."
+    },
+    {
+      "JP": "@朱鷺戸@「なんとか勝てた…」",
+      "Translation": "@朱鷺戸@「なんとか勝てた…」",
+      "EN": "@Tokido@We barely managed to win..."
+    },
+    {
+      "JP": "@朱鷺戸@「あ…れ…」",
+      "Translation": "@朱鷺戸@「あ…れ…」",
+      "EN": "@Tokido@Oh... no..."
+    },
+    {
+      "JP": "@朱鷺戸@「あ…りゃ…」",
+      "Translation": "@朱鷺戸@「あ…りゃ…」",
+      "EN": "@Tokido@No... way..."
+    },
+    {
+      "JP": "@朱鷺戸@「ありゃりゃ…」",
+      "Translation": "@朱鷺戸@「ありゃりゃ…」",
+      "EN": "@Tokido@I don't believe this..."
+    },
+    {
+      "JP": "@朱鷺戸@「うあぁ…」",
+      "Translation": "@朱鷺戸@「うあぁ…」",
+      "EN": "@Tokido@No..."
+    },
+    {
+      "JP": "@朱鷺戸@「なんてこと…」",
+      "Translation": "@朱鷺戸@「なんてこと…」",
+      "EN": "@Tokido@Oh my God..."
+    },
+    {
+      "JP": "@朱鷺戸@「まさか…」",
+      "Translation": "@朱鷺戸@「まさか…」",
+      "EN": "@Tokido@This can't be happening..."
+    },
+    {
+      "JP": "@朱鷺戸@「不覚…」",
+      "Translation": "@朱鷺戸@「不覚…」",
+      "EN": "@Tokido@Could've done better..."
+    },
+    {
+      "JP": "@朱鷺戸@「しまったぁ…」",
+      "Translation": "@朱鷺戸@「しまったぁ…」",
+      "EN": "@Tokido@They got us..."
+    },
+    {
+      "JP": "@朱鷺戸@「やられちゃったの…？」",
+      "Translation": "@朱鷺戸@「やられちゃったの…？」",
+      "EN": "@Tokido@Did we lose...?"
+    },
+    {
+      "JP": "@朱鷺戸@「そんな馬鹿な…」",
+      "Translation": "@朱鷺戸@「そんな馬鹿な…」",
+      "EN": "@Tokido@This can't be true..."
+    },
+    {
+      "JP": "@朱鷺戸@「ぐふっ…」",
+      "Translation": "@朱鷺戸@「ぐふっ…」",
+      "EN": "@Tokido@Gufu..."
+    },
+    {
+      "JP": "@朱鷺戸@「おえっ…」",
+      "Translation": "@朱鷺戸@「おえっ…」",
+      "EN": "@Tokido@Oeh..."
+    },
+    {
+      "JP": "@朱鷺戸@「ぐあ…」",
+      "Translation": "@朱鷺戸@「ぐあ…」",
+      "EN": "@Tokido@Guah..."
+    },
+    {
+      "JP": "@朱鷺戸@「うあ…」",
+      "Translation": "@朱鷺戸@「うあ…」",
+      "EN": "@Tokido@Uwah..."
+    },
+    {
+      "JP": "@朱鷺戸@「時風ぇぇ…」",
+      "Translation": "@朱鷺戸@「時風ぇぇ…」",
+      "EN": "@Tokido@Tokikazeee..."
+    },
+    {
+      "JP": "@朱鷺戸@「うわ…やったあああぁぁーーーーっ！！」",
+      "Translation": "@朱鷺戸@「うわ…やったあああぁぁーーーーっ！！」",
+      "EN": "@Tokido@Yes... We did iiiiit!!"
+    },
+    {
+      "JP": "@朱鷺戸@「とんで火にいる夏のむし～♪」",
+      "Translation": "@朱鷺戸@「とんで火にいる夏のむし～♪」",
+      "EN": "@Tokido@Fools rush in where angels fear to tread♪"
+    },
+    {
+      "JP": "@朱鷺戸@「はい、いくわよ～」",
+      "Translation": "@朱鷺戸@「はい、いくわよ～」",
+      "EN": "@Tokido@Okay, here we go."
+    },
+    {
+      "JP": "@朱鷺戸@「問答無用！」",
+      "Translation": "@朱鷺戸@「問答無用！」",
+      "EN": "@Tokido@No argument allowed!"
+    },
+    {
+      "JP": "@朱鷺戸@「邪魔だからどいてね」",
+      "Translation": "@朱鷺戸@「邪魔だからどいてね」",
+      "EN": "@Tokido@Move aside, would you?"
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、いくわよ」",
+      "Translation": "@朱鷺戸@「理樹くん、いくわよ」",
+      "EN": "@Tokido@Riki-kun, let's roll."
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、やっちゃいなさい」",
+      "Translation": "@朱鷺戸@「理樹くん、やっちゃいなさい」",
+      "EN": "@Tokido@Riki-kun, get them all."
+    },
+    {
+      "JP": "@朱鷺戸@「はい、おっかたっづけ～」",
+      "Translation": "@朱鷺戸@「はい、おっかたっづけ～」",
+      "EN": "@Tokido@All right, time to clean up the mess."
+    },
+    {
+      "JP": "@朱鷺戸@「瞬殺ね」",
+      "Translation": "@朱鷺戸@「瞬殺ね」",
+      "EN": "@Tokido@Quick kills."
+    },
+    {
+      "JP": "@朱鷺戸@「秒殺ね」",
+      "Translation": "@朱鷺戸@「秒殺ね」",
+      "EN": "@Tokido@Instant kills."
+    },
+    {
+      "JP": "@朱鷺戸@「草木も生えそうにないわね」",
+      "Translation": "@朱鷺戸@「草木も生えそうにないわね」",
+      "EN": "@Tokido@This place is now like a desert."
+    },
+    {
+      "JP": "@朱鷺戸@「イチコロね」",
+      "Translation": "@朱鷺戸@「イチコロね」",
+      "EN": "@Tokido@Piece of cake."
+    },
+    {
+      "JP": "@朱鷺戸@「いい戦いだったわ～」",
+      "Translation": "@朱鷺戸@「いい戦いだったわ～」",
+      "EN": "@Tokido@That was a good battle."
+    },
+    {
+      "JP": "@朱鷺戸@「素晴らしいわよ、理樹くん」",
+      "Translation": "@朱鷺戸@「素晴らしいわよ、理樹くん」",
+      "EN": "@Tokido@Wonderful, Riki-kun."
+    },
+    {
+      "JP": "@朱鷺戸@「まさに一掃ね」",
+      "Translation": "@朱鷺戸@「まさに一掃ね」",
+      "EN": "@Tokido@That was literally cleanup."
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、すご～い♪」",
+      "Translation": "@朱鷺戸@「理樹くん、すご～い♪」",
+      "EN": "@Tokido@Riki-kun, you're incredible♪"
+    },
+    {
+      "JP": "@朱鷺戸@「理樹くん、天才」",
+      "Translation": "@朱鷺戸@「理樹くん、天才」",
+      "EN": "@Tokido@Riki-kun, you're a genius."
+    },
+    {
+      "JP": "@朱鷺戸@「うわっはっはっは！\u3000笑いしか出てこないわ」",
+      "Translation": "@朱鷺戸@「うわっはっはっは！\u3000笑いしか出てこないわ」",
+      "EN": "@Tokido@Uwahahaha! I can't help but laugh."
+    },
+    {
+      "JP": "@朱鷺戸@「惜しかったわね～」",
+      "Translation": "@朱鷺戸@「惜しかったわね～」",
+      "EN": "@Tokido@That was close."
+    },
+    {
+      "JP": "@朱鷺戸@「残念でした～」",
+      "Translation": "@朱鷺戸@「残念でした～」",
+      "EN": "@Tokido@Too bad."
+    },
+    {
+      "JP": "@朱鷺戸@「感じる…エクスタシーを…」",
+      "Translation": "@朱鷺戸@「感じる…エクスタシーを…」",
+      "EN": "@Tokido@Ecstasy... I'm feeling it..."
+    },
+    {
+      "JP": "@朱鷺戸@「包まれる…エクスタシーに…」",
+      "Translation": "@朱鷺戸@「包まれる…エクスタシーに…」",
+      "EN": "@Tokido@Ecstasy... It's embracing me..."
+    },
+    {
+      "JP": "@朱鷺戸@「生まれる…エクスタシーが…」",
+      "Translation": "@朱鷺戸@「生まれる…エクスタシーが…」",
+      "EN": "@Tokido@Ecstasy... It's about to be born..."
+    },
+    {
+      "JP": "@朱鷺戸@「広がる…エクスタシーが…」",
+      "Translation": "@朱鷺戸@「広がる…エクスタシーが…」",
+      "EN": "@Tokido@Ecstasy... It's spreading..."
+    },
+    {
+      "JP": "@朱鷺戸@「始まる…エクスタシーが…」",
+      "Translation": "@朱鷺戸@「始まる…エクスタシーが…」",
+      "EN": "@Tokido@Ecstasy... It's about to start..."
+    },
+    {
+      "JP": "@朱鷺戸@「訪れる…エクスタシーが…」",
+      "Translation": "@朱鷺戸@「訪れる…エクスタシーが…」",
+      "EN": "@Tokido@Ecstasy... It's about to get to me..."
+    },
+    {
+      "JP": "@時風@「さあ、ゲームを始めようか」",
+      "Translation": "@時風@「さあ、ゲームを始めようか」",
+      "EN": "@Tokikaze@Now, let the game begin."
+    },
+    {
+      "JP": "@時風@「どこを見ている？」",
+      "Translation": "@時風@「どこを見ている？」",
+      "EN": "@Tokikaze@Where are you looking?"
+    },
+    {
+      "JP": "@時風@「そんなものなのか？」",
+      "Translation": "@時風@「そんなものなのか？」",
+      "EN": "@Tokikaze@Is that all you have?"
+    },
+    {
+      "JP": "@時風@「ふっ…笑わせる…」",
+      "Translation": "@時風@「ふっ…笑わせる…」",
+      "EN": "@Tokikaze@Hmph... That's funny..."
+    },
+    {
+      "JP": "@時風@「ここだぞ」",
+      "Translation": "@時風@「ここだぞ」",
+      "EN": "@Tokikaze@I'm right here."
+    },
+    {
+      "JP": "@時風@「そんなところに撃ってどうする」",
+      "Translation": "@時風@「そんなところに撃ってどうする」",
+      "EN": "@Tokikaze@What are you shooting at?"
+    },
+    {
+      "JP": "@時風@「まったく効かないな」",
+      "Translation": "@時風@「まったく効かないな」",
+      "EN": "@Tokikaze@That won't work against me."
+    },
+    {
+      "JP": "@時風@「ぜんっぜんだ」",
+      "Translation": "@時風@「ぜんっぜんだ」",
+      "EN": "@Tokikaze@No damage whatsoever."
+    },
+    {
+      "JP": "@時風@「何をしてる？」",
+      "Translation": "@時風@「何をしてる？」",
+      "EN": "@Tokikaze@What are you doing?"
+    },
+    {
+      "JP": "@時風@「うっ」",
+      "Translation": "@時風@「うっ」",
+      "EN": "@Tokikaze@Ugh!"
+    },
+    {
+      "JP": "@時風@「なにっ」",
+      "Translation": "@時風@「なにっ」",
+      "EN": "@Tokikaze@What the!?"
+    },
+    {
+      "JP": "@時風@「くっ」",
+      "Translation": "@時風@「くっ」",
+      "EN": "@Tokikaze@Guh!"
+    },
+    {
+      "JP": "@時風@「ぐあっ」",
+      "Translation": "@時風@「ぐあっ」",
+      "EN": "@Tokikaze@Guah!"
+    },
+    {
+      "JP": "@時風@「ごふっ」",
+      "Translation": "@時風@「ごふっ」",
+      "EN": "@Tokikaze@Guph!"
+    },
+    {
+      "JP": "@時風@「馬鹿なっ」",
+      "Translation": "@時風@「馬鹿なっ」",
+      "EN": "@Tokikaze@No way!"
+    },
+    {
+      "JP": "@時風@「ありえん…」",
+      "Translation": "@時風@「ありえん…」",
+      "EN": "@Tokikaze@Unbelievable..."
+    },
+    {
+      "JP": "@時風@「まさかっ…」",
+      "Translation": "@時風@「まさかっ…」",
+      "EN": "@Tokikaze@I don't believe this..."
+    },
+    {
+      "JP": "@時風@「うあああぁぁぁぁ…」",
+      "Translation": "@時風@「うあああぁぁぁぁ…」",
+      "EN": "@Tokikaze@Uaaaaaaaaaaaaah…"
+    },
+    {
+      "JP": "@時風@「ふっ」",
+      "Translation": "@時風@「ふっ」",
+      "EN": "@Tokikaze@Hmph."
+    },
+    {
+      "JP": "@時風@「よっと」",
+      "Translation": "@時風@「よっと」",
+      "EN": "@Tokikaze@Here ya go."
+    },
+    {
+      "JP": "@時風@「ほらよっ」",
+      "Translation": "@時風@「ほらよっ」",
+      "EN": "@Tokikaze@Eat this."
+    },
+    {
+      "JP": "@時風@「止まって見えるぞ」",
+      "Translation": "@時風@「止まって見えるぞ」",
+      "EN": "@Tokikaze@You look like you're standing still."
+    },
+    {
+      "JP": "@時風@「遅いな」",
+      "Translation": "@時風@「遅いな」",
+      "EN": "@Tokikaze@Way too slow."
+    },
+    {
+      "JP": "@時風@「暇つぶしにもならない」",
+      "Translation": "@時風@「暇つぶしにもならない」",
+      "EN": "@Tokikaze@You're not even good enough to entertain me."
+    },
+    {
+      "JP": "@時風@「いつまで保つかな」",
+      "Translation": "@時風@「いつまで保つかな」",
+      "EN": "@Tokikaze@Let's see how long you'll last."
+    },
+    {
+      "JP": "@時風@「楽しませてくれ」",
+      "Translation": "@時風@「楽しませてくれ」",
+      "EN": "@Tokikaze@Amuse me."
+    },
+    {
+      "JP": "@時風@「退屈だな」",
+      "Translation": "@時風@「退屈だな」",
+      "EN": "@Tokikaze@This is boring."
+    },
+    {
+      "JP": "@時風@「そろそろギブアップか？」",
+      "Translation": "@時風@「そろそろギブアップか？」",
+      "EN": "@Tokikaze@Are you about to give up?"
+    },
+    {
+      "JP": "@時風@「力の差は歴然だな」",
+      "Translation": "@時風@「力の差は歴然だな」",
+      "EN": "@Tokikaze@The difference between how strong we are is crystal-clear."
+    },
+    {
+      "JP": "@時風@「闇の執行部をなめるな」",
+      "Translation": "@時風@「闇の執行部をなめるな」",
+      "EN": "@Tokikaze@Don't underestimate the Darkness Executives."
+    },
+    {
+      "JP": "@時風@「闇の執行部をさんざもてあそびやがって」",
+      "Translation": "@時風@「闇の執行部をさんざもてあそびやがって」",
+      "EN": "@Tokikaze@You must pay for messing around with the Darkness Executives."
+    }
+  ]
+}
