@@ -11845,27 +11845,27 @@
     {
       "JP": "訊く$d帰る",
       "EN": "Ask him$dGo home",
-      "Translation": "問他$d回去"
+      "Translation": "问他$d回去"
     },
     {
       "JP": "訊いてみる$d違う",
       "EN": "Ask Kengo$dThat's not it",
-      "Translation": "問謙吾$d不是那様的"
+      "Translation": "问谦吾$d不是那样的"
     },
     {
       "JP": "痛みが走ったから$d怪我をしていることを思い出したから$d気まぐれ",
       "EN": "Because the hand hurt$dBecause he reminded himself of the injury$dBecause he just felt like it",
-      "Translation": "因為他手很痛$d因為他忘了自己受傷$d只是他想做"
+      "Translation": "因为他手很痛$d因為他忘了自己受伤$d他只是想这么做"
     },
     {
       "JP": "怪我をしていることを思い出したから$d気まぐれ",
       "EN": "Because he reminded himself of the injury$dBecause he just felt like it",
-      "Translation": "因為他忘了自己受傷$d只是他想做"
+      "Translation": "因为他忘了自己受伤$d他只是想这么做"
     },
     {
       "JP": "痛みが走ったから$d怪我をしていることを思い出したから",
       "EN": "Because the hand hurt$dBecause he reminded himself of the injury",
-      "Translation": "因為他手很痛$d因為他忘了自己受傷"
+      "Translation": "因为他手很痛$d因为他忘了自己受伤"
     }
   ],
   "TASK": []

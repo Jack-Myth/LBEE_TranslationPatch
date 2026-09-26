@@ -14277,7 +14277,7 @@
     {
       "JP": "鈴を追う$d放っておく$d真人と遊ぶ",
       "EN": "Follow after Rin$dLeave her alone$dPlay with Masato",
-      "Translation": "去追鈴$d放着不管$d和真人玩"
+      "Translation": "去追铃$d不管她$d和真人玩"
     },
     {
       "JP": "しばらく見守る$d声をかける",
@@ -14297,7 +14297,7 @@
     {
       "JP": "ＱＲコードを携帯で読み込んでおく$d先を急ぐ",
       "EN": "Read the QR code with my cellphone$dHurry forward",
-      "Translation": "用手机拍下QR碼$d着急找人"
+      "Translation": "用手机拍下二维码$d着急找人"
     },
     {
       "JP": "さすらう$d休んでおく",
@@ -14312,12 +14312,12 @@
     {
       "JP": "巻き込まれる$d逃げる",
       "EN": "Get involved$dRun away",
-      "Translation": "湊熱鬧$d離開"
+      "Translation": "凑热闹$d离开"
     },
     {
       "JP": "練習を続ける$d終わりにする",
       "EN": "Continue practicing$dCall it a day",
-      "Translation": "継續練習$d停下"
+      "Translation": "继续练习$d停下"
     },
     {
       "JP": "よくない$d逃げてみせる",
@@ -14327,17 +14327,17 @@
     {
       "JP": "パートナーになる$d逃げきってみせる",
       "EN": "Become her partner$dStill run away",
-      "Translation": "同意成為同伴$d継續逃"
+      "Translation": "同意成为同伴$d继续逃跑"
     },
     {
       "JP": "ピラミッド$d太陽の塔$dローソン",
       "EN": "A pyramid$dTower of the Sun$dLawson",
-      "Translation": "金字塔$d太陽塔$d羅森"
+      "Translation": "金字塔$d太阳塔$d罗森"
     },
     {
       "JP": "ピラミッド$dローソン",
       "EN": "A pyramid$dLawson",
-      "Translation": "金字塔$d羅森"
+      "Translation": "金字塔$d罗森"
     },
     {
       "JP": "ピラミッド$dファミマ",

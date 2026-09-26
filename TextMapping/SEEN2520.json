@@ -7036,17 +7036,17 @@
     {
       "JP": "力業で$d頭を使って$d数で勝負",
       "EN": "Use force$dUse my brain$dGo with numbers",
-      "Translation": "使用力量$d使用頭腦$d以数量取勝"
+      "Translation": "使用力量$d使用头脑$d以数量取胜"
     },
     {
       "JP": "頭を使って$d数で勝負",
       "EN": "Use my brain$dGo with numbers",
-      "Translation": "使用頭腦$d以数量取勝"
+      "Translation": "使用头脑$d以数量取胜"
     },
     {
       "JP": "力業で$d頭を使って",
       "EN": "Use force$dUse my brain",
-      "Translation": "使用力量$d以数量取勝"
+      "Translation": "使用力量$d以数量取胜"
     }
   ]
 }

@@ -3115,7 +3115,7 @@
     {
       "JP": "みんなを助ける$d鈴を連れて逃げる",
       "EN": "Rescue everyone$dEscape with Rin",
-      "Translation": "解救大家$d和鈴一起逃"
+      "Translation": "解救大家$d和铃一起逃"
     },
     {
       "JP": "うん$dいや",
@@ -3130,12 +3130,12 @@
     {
       "JP": "冷静になる$dバスの中へ様子を見に行く$d鈴を連れて逃げる",
       "EN": "Calm myself down$dSurvey the inside of the bus$dEscape with Rin",
-      "Translation": "冷静下来$d去車里看看情况$d和鈴一起逃"
+      "Translation": "冷静下来$d去车里看看情况$d和铃一起逃"
     },
     {
       "JP": "枝を折る$d救出に向かう",
       "EN": "Break off branches$dStart rescuing the classmates",
-      "Translation": "折断樹枝$d開始救出同学們"
+      "Translation": "折断树枝$d开始营救同学们"
     },
     {
       "JP": "後回しにする$dすぐ助ける",
@@ -3145,7 +3145,7 @@
     {
       "JP": "荷物を調べてもらう$dシートを取り外してもらう",
       "EN": "Tell her to check the luggage$dTell her to remove some seats",
-      "Translation": "檢査行李$d拆掉一些座位"
+      "Translation": "检查行李$d拆掉一些座位"
     },
     {
       "JP": "恭介を助ける$d何かを考える",

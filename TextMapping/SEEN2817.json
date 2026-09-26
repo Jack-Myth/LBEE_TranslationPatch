@@ -1277,17 +1277,17 @@
     {
       "JP": "この部屋の棺を開ける$d移動",
       "EN": "Open the sarcophagus in this room$dLeave",
-      "Translation": "打開房間里的棺材$d移動"
+      "Translation": "打开房间里的棺材$d移动"
     },
     {
       "JP": "この部屋の棺を開ける$d移動",
       "EN": "Open the sarcophagus in here$dLeave",
-      "Translation": "打開房間里的棺材$d移動"
+      "Translation": "打开房间里的棺材$d移动"
     },
     {
       "JP": "この部屋の棺を開ける$d移動",
       "EN": "Open the sarcophagus in this room$dLeave",
-      "Translation": "打開房間里的棺材$d移動"
+      "Translation": "打开房间里的棺材$d移动"
     }
   ]
 }

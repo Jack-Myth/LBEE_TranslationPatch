@@ -10617,27 +10617,27 @@
     {
       "JP": "黙ってみてる$dやっぱり止める",
       "EN": "Watch the battle$dStop them",
-      "Translation": "觀戰$d阻止他們"
+      "Translation": "观战$d阻止他們"
     },
     {
       "JP": "携帯サイトにアクセスする$d自習する",
       "EN": "Access the site$dContinue studying",
-      "Translation": "打開网站$d繼續学習"
+      "Translation": "打开网站$d继续自习"
     },
     {
       "JP": "次を読む$d自習に戻る",
       "EN": "Read the next one$dStart studying",
-      "Translation": "看下一条$d開始学習"
+      "Translation": "看下一条$d开始自习"
     },
     {
       "JP": "鈴を追う$dさすらう$d真人と遊ぶ",
       "EN": "Run after Rin$dWander$dPlay with Masato",
-      "Translation": "去追鈴$d徘徊$d和真人玩"
+      "Translation": "去追铃$d徘徊$d和真人玩"
     },
     {
       "JP": "鈴を追う$d放っておく$d真人と遊ぶ",
       "EN": "Run after Rin$dStay here$dPlay with Masato",
-      "Translation": "去追鈴$d原地呆着$d和真人玩"
+      "Translation": "去追铃$d原地呆着$d和真人玩"
     },
     {
       "JP": "しばらく見守る$d声をかける",
@@ -10652,7 +10652,7 @@
     {
       "JP": "屋上にいく$d屋上にいかない",
       "EN": "Go to the rooftop$dDon't go to the rooftop",
-      "Translation": "上房頂$d不去房頂"
+      "Translation": "上屋顶$d不去屋顶"
     },
     {
       "JP": "さすらう$d休んでおく",

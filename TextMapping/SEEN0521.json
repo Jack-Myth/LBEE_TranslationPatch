@@ -19587,7 +19587,7 @@
     {
       "JP": "しっかり読む$d軽く読む",
       "EN": "Read carefully$dSkim over it",
-      "Translation": "仔細看$d大致看一下"
+      "Translation": "仔细阅读$d大致读一下"
     },
     {
       "JP": "さすらう$d休んでおく",
@@ -19597,87 +19597,87 @@
     {
       "JP": "小毬さん$dクド$d西園さん",
       "EN": "Komari-san$dKud$dNishizono-san",
-      "Translation": "小毬$d庫特$d西園"
+      "Translation": "小毬$d库特$d西园"
     },
     {
       "JP": "ジュースを買いに行く$d真人と遊ぶ$dさすらう",
       "EN": "Go buy juice$dPlay with Masato$dWander",
-      "Translation": "去買果汁$d和真人玩$d徘徊"
+      "Translation": "去买果汁$d和真人玩$d徘徊"
     },
     {
       "JP": "ジュースを買いに行く$d真人と遊ぶ",
       "EN": "Go buy juice$dPlay with Masato",
-      "Translation": "去買果汁$d和真人玩"
+      "Translation": "去买果汁$d和真人玩"
     },
     {
       "JP": "ジュースを買いに行く$d真人と遊ぶ$d外の空気を吸いに行く$dさすらう",
       "EN": "Go buy juice$dPlay with Masato$dGet a breath of fresh air$dWander",
-      "Translation": "去買果汁$d和真人玩$d呼吸清新空气$d徘徊"
+      "Translation": "去买果汁$d和真人玩$d呼吸清新空气$d徘徊"
     },
     {
       "JP": "ジュースを買いに行く$d真人と遊ぶ$d外の空気を吸いに行く",
       "EN": "Go buy juice$dPlay with Masato$dGet a breath of fresh air",
-      "Translation": "去買果汁$d和真人玩$d呼吸清新空气"
+      "Translation": "去买果汁$d和真人玩$d呼吸清新空气"
     },
     {
       "JP": "鈴$dクド",
       "EN": "Rin$dKud",
-      "Translation": "鈴$d庫特"
+      "Translation": "铃$d库特"
     },
     {
       "JP": "僕と恭介は交際中$d真人の体内年齢は６０歳$d謙吾はすでに総入れ歯",
       "EN": "Me and Kyousuke are going out$dMasato is 60 on the inside$dKengo has full dentures",
-      "Translation": "我和恭介正在交往$d真人的精神年齡有６０了$d謙吾嘴里全是假牙"
+      "Translation": "我和恭介正在交往$d真人的精神年龄有６０了$d谦吾嘴里全是假牙"
     },
     {
       "JP": "僕と恭介は交際中$d真人の体内年齢は６０歳$d謙吾はすでに総入れ歯",
       "EN": "Me and Kyousuke are going out$dMasato is 60 on the inside$dKengo has full dentures",
-      "Translation": "我和恭介正在交往$d真人的精神年齡有６０了$d謙吾嘴里全是假牙"
+      "Translation": "我和恭介正在交往$d真人的精神年龄有６０了$d谦吾嘴里全是假牙"
     },
     {
       "JP": "来ヶ谷さん$d西園さん$d真人",
       "EN": "Kurugaya-san$dNishizono-san$dMasato",
-      "Translation": "来谷$d西園$d真人"
+      "Translation": "来谷$d西园$d真人"
     },
     {
       "JP": "西園さん$d真人",
       "EN": "Nishizono-san$dMasato",
-      "Translation": "西園$d真人"
+      "Translation": "西园$d真人"
     },
     {
       "JP": "探してみる$d練習に向かう",
       "EN": "Look for her$dHead off to practice",
-      "Translation": "去找人$d去練習"
+      "Translation": "去找人$d去练习"
     },
     {
       "JP": "善意$d悪意",
       "EN": "Good intentions$dBad intentions",
-      "Translation": "善意$d悪意"
+      "Translation": "善意$d恶意"
     },
     {
       "JP": "何を話しているか聞きにいく$d練習に集中",
       "EN": "Go see what they're talking about$dConcentrate on practice",
-      "Translation": "去看看在聊什麼$d集中精力練習"
+      "Translation": "去看看在聊什么$d集中精力练习"
     },
     {
       "JP": "練習を続ける$d終わりにする",
       "EN": "Continue practicing$dCall it a day",
-      "Translation": "繼續練習$d停下"
+      "Translation": "继续练习$d停下"
     },
     {
       "JP": "[(#297==0),]鈴$d[(#298==0),]小毬$d[(#299==0),]葉留佳$d[(#300==0),]来ヶ谷$d[(#301==0),]真人$d[(#302==0),]謙吾",
       "EN": "[(#297==0),]Rin$d[(#298==0),]Komari$d[(#299==0),]Haruka$d[(#300==0),]Kurugaya$d[(#301==0),]Masato$d[(#302==0),]Kengo",
-      "Translation": "[(#297==0),]鈴$d[(#298==0),]小毬$d[(#299==0),]叶留佳$d[(#300==0),]来谷$d[(#301==0),]真人$d[(#302==0),]謙吾"
+      "Translation": "[(#297==0),]铃$d[(#298==0),]小毬$d[(#299==0),]叶留佳$d[(#300==0),]来谷$d[(#301==0),]真人$d[(#302==0),]谦吾"
     },
     {
       "JP": "[(#297==0),]鈴$d[(#298==0),]小毬$d[(#299==0),]葉留佳$d[(#300==0),]来ヶ谷",
       "EN": "[(#297==0),]Rin$d[(#298==0),]Komari$d[(#299==0),]Haruka$d[(#300==0),]Kurugaya",
-      "Translation": "[(#297==0),]鈴$d[(#298==0),]小毬$d[(#299==0),]叶留佳$d[(#300==0),]来谷"
+      "Translation": "[(#297==0),]铃$d[(#298==0),]小毬$d[(#299==0),]叶留佳$d[(#300==0),]来谷"
     },
     {
       "JP": "[(#297==0),]鈴$d[(#298==0),]小毬$d[(#299==0),]葉留佳$d[(#300==0),]来ヶ谷$d[(#301==0),]真人",
       "EN": "[(#297==0),]Rin$d[(#298==0),]Komari$d[(#299==0),]Haruka$d[(#300==0),]Kurugaya$d[(#301==0),]Masato",
-      "Translation": "[(#297==0),]鈴$d[(#298==0),]小毬$d[(#299==0),]叶留佳$d[(#300==0),]来谷$d[(#301==0),]真人"
+      "Translation": "[(#297==0),]铃$d[(#298==0),]小毬$d[(#299==0),]叶留佳$d[(#300==0),]来谷$d[(#301==0),]真人"
     },
     {
       "JP": "さすらう$d休んでおく",

@@ -1581,12 +1581,12 @@
     {
       "JP": "手伝う$dそっとしておく",
       "EN": "Help$dStay out of it",
-      "Translation": "協助$d放着不管"
+      "Translation": "协助$d放着不管"
     },
     {
       "JP": "屋上にいく$d学食にいく",
       "EN": "Go to the rooftop$dGo to the cafeteria",
-      "Translation": "去屋頂$d去食堂"
+      "Translation": "去屋顶$d去食堂"
     },
     {
       "JP": "中庭にいく$d学食にいく",

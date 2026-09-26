@@ -442,17 +442,17 @@
     {
       "JP": "バトルを申し込む$dバトルを申し込まない",
       "EN": "Battle Start$dSkip Battle",
-      "Translation": "戰斗開始$d跳過"
+      "Translation": "战斗开始$d跳过"
     },
     {
       "JP": "観戦しにいく$d結果だけを聞く",
       "EN": "Go watch$dJust listen to the results",
-      "Translation": "前去観戦$d只听結果就好"
+      "Translation": "前去观战$d只听结果就好"
     },
     {
       "JP": "もっとさすらう$dそろそろ戻る",
       "EN": "Wander around some more$dGo back",
-      "Translation": "繼續徘徊$d回去"
+      "Translation": "继续徘徊$d回去"
     }
   ]
 }

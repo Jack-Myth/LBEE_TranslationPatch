@@ -6095,7 +6095,7 @@
     {
       "JP": "本を探す$dネットを探す",
       "EN": "Keep looking for books$dUse the Internet",
-      "Translation": "找書本$d上网找"
+      "Translation": "找书$d上网找"
     },
     {
       "JP": "直す$d直さない",
@@ -6105,12 +6105,12 @@
     {
       "JP": "夢について訊く$d気にしない",
       "EN": "Ask her for details of the dream$dSuggest that she forget about it",
-      "Translation": "問梦的事情$d不去在意"
+      "Translation": "问她做了什么梦$d让她不要在意"
     },
     {
       "JP": "恭介に訊く$d来ヶ谷さんに訊く",
       "EN": "Ask Kyousuke$dAsk Kurugaya-san",
-      "Translation": "問恭介$d問来谷"
+      "Translation": "问恭介$d问来谷"
     }
   ]
 }

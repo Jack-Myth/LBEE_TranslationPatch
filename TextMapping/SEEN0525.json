@@ -3951,7 +3951,7 @@
     {
       "JP": "恭介に相談$d鈴に相談$dこれで決定",
       "EN": "Consult Kyousuke$dConsult Rin$dGo with what I have",
-      "Translation": "找恭介商量$d找鈴商量$d就這麼决定了"
+      "Translation": "找恭介商量$d找铃商量$d就这么决定了"
     },
     {
       "JP": "さらに相談する$dやめる",
@@ -3961,17 +3961,17 @@
     {
       "JP": "助けてもらう$d断る",
       "EN": "Accept his help$dTurn down his help",
-      "Translation": "接受他的協助$d拒絶"
+      "Translation": "接受他的帮助$d拒绝"
     },
     {
       "JP": "練習を続ける$d終わりにする",
       "EN": "Continue practicing$dCall it a day",
-      "Translation": "繼續練習$d停下"
+      "Translation": "继续练习$d停下"
     },
     {
       "JP": "練習を続ける$d終わりにする",
       "EN": "Continue practicing$dCall it a day",
-      "Translation": "繼續練習$d停下"
+      "Translation": "继续练习$d停下"
     }
   ]
 }

@@ -825,12 +825,12 @@
     {
       "JP": "銃で応戦$d飛び退く",
       "EN": "Counter with your gun$dJump back",
-      "Translation": "用槍戦斗$d飛身退避"
+      "Translation": "用枪战斗$d飞身退避"
     },
     {
       "JP": "剣をもらう$d石像にのぼる",
       "EN": "Get the sword$dClimb the statue",
-      "Translation": "拿剣$d登上石像"
+      "Translation": "拿剑$d登上石像"
     }
   ]
 }

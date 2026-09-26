@@ -16776,17 +16776,17 @@
     {
       "JP": "クドに話しかける$d教室に入る",
       "EN": "Talk to Kud$dEnter the classroom",
-      "Translation": "和庫特搭話$d回到教室"
+      "Translation": "和库特搭话$d回到教室"
     },
     {
       "JP": "しばらく見守る$d話を進める",
       "EN": "Watch for a while$dLook for a new task straight away",
-      "Translation": "静静地看着$d直接找新任務"
+      "Translation": "静静地看着$d直接找新任务"
     },
     {
       "JP": "やめさせる$d手伝い続ける",
       "EN": "Quit$dKeep helping her out",
-      "Translation": "不干了$d繼續任務"
+      "Translation": "退出$d继续任务"
     },
     {
       "JP": "[(0),]おまえらはＥＸＩＬＥか！！$d邪魔だろ！！$dおまえはおじいさんか！！",
@@ -16801,7 +16801,7 @@
     {
       "JP": "屋上にいく$d[,(#12010==1)]中庭にいく$d学食にいく",
       "EN": "Go to the rooftop$d[,(#12010==1)]Go to the courtyard$dGo to the cafeteria",
-      "Translation": "去屋頂$d[,(#12010==1)]去中庭$d去食堂"
+      "Translation": "去屋顶$d[,(#12010==1)]去中庭$d去食堂"
     },
     {
       "JP": "[,(#12010==1)]中庭にいく$d学食にいく",
@@ -16816,7 +16816,7 @@
     {
       "JP": "屋上にいく$d学食にいく",
       "EN": "Go to the rooftop$dGo to the cafeteria",
-      "Translation": "去屋頂$d去食堂"
+      "Translation": "去屋顶$d去食堂"
     },
     {
       "JP": "おまえは謙吾か！！$dそこまででかくなるか！！$dむしろ今引きずれ！！",
@@ -16831,37 +16831,37 @@
     {
       "JP": "手伝う$d断る$dさすらう",
       "EN": "Help her$dDon't help her$dWander",
-      "Translation": "協助$d不協助$d徘徊"
+      "Translation": "帮她$d不帮她$d徘徊"
     },
     {
       "JP": "手伝う$d断る",
       "EN": "Help her$dDon't help her",
-      "Translation": "協助$d不協助"
+      "Translation": "帮她$d不帮她"
     },
     {
       "JP": "ジュースを買いに行く$d真人と遊ぶ",
       "EN": "Get something to drink$dPlay with Masato",
-      "Translation": "去買点喝的$d和真人玩"
+      "Translation": "去买点喝的$d和真人玩"
     },
     {
       "JP": "何を話しているか聞きにいく$d練習に集中",
       "EN": "Go see what they're talking about$dConcentrate on practice",
-      "Translation": "去看看在聊什麼$d集中精力練習"
+      "Translation": "去看看在聊什麼$d集中精力练习"
     },
     {
       "JP": "そんな目で見続ける$d練習",
       "EN": "Keep looking at him with those eyes$dReturn to practice",
-      "Translation": "繼續用那个眼神看$d回去練習"
+      "Translation": "继续用那个眼神看$d回去练习"
     },
     {
       "JP": "掃除する$d放っておく$dさすらう",
       "EN": "Clean up the room$dLeave it as it is$dWander",
-      "Translation": "整理活動室$d放着不管$d徘徊"
+      "Translation": "整理活动室$d放着不管$d徘徊"
     },
     {
       "JP": "掃除する$d放っておく",
       "EN": "Clean up the room$dLeave it as it is",
-      "Translation": "整理活動室$d放着不管"
+      "Translation": "整理活动室$d放着不管"
     },
     {
       "JP": "話しかける$d学食に急ぐ",
@@ -16896,12 +16896,12 @@
     {
       "JP": "みんなを呼ぶ$d今日は帰る",
       "EN": "Call the other members$dCall it a night",
-      "Translation": "打電話叫大家$d今天先回去"
+      "Translation": "打电话叫大家$d今天先回去"
     },
     {
       "JP": "みんなを呼ぶ$d今日は帰る",
       "EN": "Call the other members$dCall it a night",
-      "Translation": "打電話叫大家$d今天先回去"
+      "Translation": "打电话叫大家$d今天先回去"
     }
   ]
 }
