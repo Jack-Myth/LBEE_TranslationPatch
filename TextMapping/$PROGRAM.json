@@ -2746,7 +2746,7 @@
   },
   {
     "Source": "%s: %s picked up!",
-    "Target": "%s拿到了%s！",
+    "Target": "%s拿到了道具！",
     "JP": "%sは『%s』を手に取った！"
   },
   {
@@ -5226,5 +5226,330 @@
     "Source": "That was simple.",
     "Target": "那太简单了。",
     "JP": "「おてのものよっ」"
+  },
+  {
+    "Source": "Skip",
+    "Target": "跳过",
+    "JP": "早送り"
+  },
+  {
+    "Source": "Position of Choices",
+    "Target": "选项位置",
+    "JP": "選択肢の位置"
+  },
+  {
+    "Source": "Continue",
+    "Target": "继续",
+    "JP": "　　 停止しない 　　"
+  },
+  {
+    "Source": "Rumble feature",
+    "Target": "振动强度",
+    "JP": "振動の強さ"
+  },
+  {
+    "Source": "なし",
+    "Target": "无",
+    "JP": "なし"
+  },
+  {
+    "Source": "Auto-Sleep",
+    "Target": "自动休眠",
+    "JP": "自動スリープ"
+  },
+  {
+    "Source": "Do not disable",
+    "Target": "不禁用",
+    "JP": "無効化しない"
+  },
+  {
+    "Source": "R Button(Skip)",
+    "Target": "R键(快进)",
+    "JP": "Rボタン(早送り)"
+  },
+  {
+    "Source": "L Button(Rewind)",
+    "Target": "L键(倒带)",
+    "JP": "Lボタン(早戻し)"
+  },
+  {
+    "Source": "ZR Button (Skip)",
+    "Target": "ZR键(快进)",
+    "JP": "ZRボタン(早送り)"
+  },
+  {
+    "Source": "ZL Button (Rewind)",
+    "Target": "ZL键(倒带)",
+    "JP": "ZLボタン(早戻し)"
+  },
+  {
+    "Source": "− Button",
+    "Target": "－键",
+    "JP": "－ボタン"
+  },
+  {
+    "Source": "Quick Load",
+    "Target": "　快速读档　",
+    "JP": "　クイックロード　"
+  },
+  {
+    "Source": "　オートモード　",
+    "Target": "　自动模式　",
+    "JP": "　オートモード　"
+  },
+  {
+    "Source": "　言語切り替え　",
+    "Target": "　切换语言　",
+    "JP": "　言語切り替え　"
+  },
+  {
+    "Source": "Cursor Control",
+    "Target": "光标移动",
+    "JP": "カーソル移動"
+  },
+  {
+    "Source": " Directional Buttons ",
+    "Target": "仅方向键",
+    "JP": "方向ボタンのみ"
+  },
+  {
+    "Source": "Left Stick + Directional Buttons",
+    "Target": "左摇杆＋方向键",
+    "JP": "Lスティック＋方向ボタン"
+  },
+  {
+    "Source": "Adjust the settings for when you detach the Joy-Con from the console.",
+    "Target": "设置Joy-Con从主机取下后的操作。",
+    "JP": "Joy-Conを本体から取り外した時の設定をします。"
+  },
+  {
+    "Source": "ZR Button",
+    "Target": "ZR键",
+    "JP": "ZRボタン"
+  },
+  {
+    "Source": "Aボタン長押しでオートモード",
+    "Target": "长按A键启用自动模式",
+    "JP": "Aボタン長押しでオートモード"
+  },
+  {
+    "Source": "Right Stick (Right)",
+    "Target": "右摇杆 向右",
+    "JP": "Rスティック 右方向"
+  },
+  {
+    "Source": "Right Stick (Left)",
+    "Target": "右摇杆 向左",
+    "JP": "Rスティック 左方向"
+  },
+  {
+    "Source": "ジャンプ(送り)",
+    "Target": "跳转(向前)",
+    "JP": "ジャンプ(送り)"
+  },
+  {
+    "Source": "Jump (backward)",
+    "Target": "跳转(向后)",
+    "JP": "ジャンプ(戻し)"
+  },
+  {
+    "Source": "ジャンプ（送り）",
+    "Target": "跳转（向前）",
+    "JP": "ジャンプ（送り）"
+  },
+  {
+    "Source": "ジャンプ（戻し）",
+    "Target": "跳转（向后）",
+    "JP": "ジャンプ（戻し）"
+  },
+  {
+    "Source": "Joy-Con Rumble",
+    "Target": "振动的Joy-Con",
+    "JP": "振動するJoy-Con"
+  },
+  {
+    "Source": "  Both  ",
+    "Target": "　两侧　",
+    "JP": "　両方　"
+  },
+  {
+    "Source": "Motion Sensor Sensitivity",
+    "Target": "陀螺仪灵敏度",
+    "JP": "ジャイロセンサーの感度"
+  },
+  {
+    "Source": "Motion Sensor Test",
+    "Target": "陀螺仪测试",
+    "JP": "ジャイロセンサーのテスト"
+  },
+  {
+    "Source": "Basic operation",
+    "Target": "基本操作说明",
+    "JP": "基本操作説明"
+  },
+  {
+    "Source": "Defaults",
+    "Target": "默认",
+    "JP": "初期設定に戻す"
+  },
+  {
+    "Source": "Gothic 1",
+    "Target": "哥特1",
+    "JP": " ゴシック "
+  },
+  {
+    "Source": "Gothic 2",
+    "Target": "哥特2",
+    "JP": " 丸ゴシック "
+  },
+  {
+    "Source": " 太丸ゴシック ",
+    "Target": " 粗圆黑体 ",
+    "JP": " 太丸ゴシック "
+  },
+  {
+    "Source": "Window Transparency",
+    "Target": "窗口透明度",
+    "JP": "ウィンドウ透明度"
+  },
+  {
+    "Source": "Color of Read Text",
+    "Target": "已读颜色显示",
+    "JP": "既読の色表示"
+  },
+  {
+    "Source": "Off",
+    "Target": "关",
+    "JP": "　オフ　"
+  },
+  {
+    "Source": "On",
+    "Target": "开",
+    "JP": "　オン　"
+  },
+  {
+    "Source": "Busterpedia Keyword",
+    "Target": "Busterpedia 关键字",
+    "JP": "Busterpedia キーワード"
+  },
+  {
+    "Source": "既読／キーワード色",
+    "Target": "已读／关键字颜色",
+    "JP": "既読／キーワード色"
+  },
+  {
+    "Source": "Wait Time Per Character",
+    "Target": "字数等待时间",
+    "JP": "文字数待機時間"
+  },
+  {
+    "Source": "You can adjust the color tone of the touch screen on the console.",
+    "Target": "调整主机触摸屏的色调。",
+    "JP": "本体タッチスクリーンの色合いを調整します。"
+  },
+  {
+    "Source": "Color Adjustment",
+    "Target": "色调调整",
+    "JP": "色合い調整"
+  },
+  {
+    "Source": "Custom",
+    "Target": "自定义",
+    "JP": "カスタム"
+  },
+  {
+    "Source": "TVモードでは使用しません。",
+    "Target": "TV模式下不可用。",
+    "JP": "TVモードでは使用しません。"
+  },
+  {
+    "Source": "This product is a work of fiction.\nThere is no relation between real people, groups, places or incidents.\n",
+    "Target": "本作品纯属虚构。\n与真实的人物，组织，地点或事件之间没有关系。\n\n汉化补丁 By JackMyth\n祝游戏愉快",
+    "JP": "この作品はフィクションです。\n登場する人物・団体・地名・事件および職業などは全て架空の物であり、\n実在の物とは一切関係ありません。\n"
+  },
+  {
+    "Source": "In a shooting game, you can operate Joy-Con(R) with the motion sensor while pressing the ZR button. You can adjust the sensitivity at that time.",
+    "Target": "【陀螺仪灵敏度】射击游戏中，按住ZR键时可使用Joy-Con(R)的陀螺仪操作。这里可调整其灵敏度。",
+    "JP": "【ジャイロセンサーの感度】射撃ゲームでは、ZRボタンを押している間、Joy-Con(R)のジャイロセンサーによる操作が可能です。その際の感度を調節します。"
+  },
+  {
+    "Source": "【ZRボタン】早送りの設定は「ボタン1」の「ZRボタン(早送り)」と同じになります。\n$C(0,190,255)現在の設定は「開始／解除」です。",
+    "Target": "【ZR键】快进 设置与「按钮1」的「ZR键(快进)」相同。\n$C(0,190,255)当前设置为「开始／取消」。",
+    "JP": "【ZRボタン】早送りの設定は「ボタン1」の「ZRボタン(早送り)」と同じになります。\n$C(0,190,255)現在の設定は「開始／解除」です。"
+  },
+  {
+    "Source": "【ZRボタン】早送りの設定は「ボタン1」の「ZRボタン(早送り)」と同じになります。\n$C(0,190,255)現在の設定は「なし」です。",
+    "Target": "【ZR键】快进 设置与「按钮1」的「ZR键(快进)」相同。\n$C(0,190,255)当前设置为「无」。",
+    "JP": "【ZRボタン】早送りの設定は「ボタン1」の「ZRボタン(早送り)」と同じになります。\n$C(0,190,255)現在の設定は「なし」です。"
+  },
+  {
+    "Source": "【ZRボタン】早戻しの設定は「ボタン1」の「Lボタン(早戻し)」と同じになります。\n$C(0,190,255)現在の設定は「押している間」です。",
+    "Target": "【ZR键】倒带 设置与「按钮1」的「L键(倒带)」相同。\n$C(0,190,255)当前设置为「按住时」。",
+    "JP": "【ZRボタン】早戻しの設定は「ボタン1」の「Lボタン(早戻し)」と同じになります。\n$C(0,190,255)現在の設定は「押している間」です。"
+  },
+  {
+    "Source": "【ZRボタン】早戻しの設定は「ボタン1」の「Lボタン(早戻し)」と同じになります。\n$C(0,190,255)現在の設定は「開始／解除」です。",
+    "Target": "【ZR键】倒带 设置与「按钮1」的「L键(倒带)」相同。\n$C(0,190,255)当前设置为「开始／取消」。",
+    "JP": "【ZRボタン】早戻しの設定は「ボタン1」の「Lボタン(早戻し)」と同じになります。\n$C(0,190,255)現在の設定は「開始／解除」です。"
+  },
+  {
+    "Source": "【ZRボタン】早送りの設定は「ボタン1」の「ZRボタン(早送り)」と同じになります。\n$C(0,190,255)現在の設定は「押している間」です。",
+    "Target": "【ZR键】快进 设置与「按钮1」的「ZR键(快进)」相同。\n$C(0,190,255)当前设置为「按住时」。",
+    "JP": "【ZRボタン】早送りの設定は「ボタン1」の「ZRボタン(早送り)」と同じになります。\n$C(0,190,255)現在の設定は「押している間」です。"
+  },
+  {
+    "Source": "　なし　",
+    "Target": "　无　",
+    "JP": "　なし　"
+  },
+  {
+    "Source": "低い",
+    "Target": "低",
+    "JP": "低い"
+  },
+  {
+    "Source": "Contrast",
+    "Target": "对比度",
+    "JP": "コントラスト"
+  },
+  {
+    "Source": "Red Level",
+    "Target": "红色级别",
+    "JP": "赤レベル"
+  },
+  {
+    "Source": "【Saturation】Increases or decreases vividness.",
+    "Target": "【彩度】调高后颜色会更鲜艳。",
+    "JP": "【彩度】大きくすると色鮮やかになります。"
+  },
+  {
+    "Source": "【Contrast】Increases or decreases the difference between dark and light.",
+    "Target": "【对比度】调高后明暗会更分明。",
+    "JP": "【コントラスト】大きくすると明暗がはっきりします。"
+  },
+  {
+    "Source": "【Red Level】The picture gets redder if you increase it. If you decrease it,the picture gets bluer.",
+    "Target": "【红色级别】调高会偏红，调低会偏蓝。",
+    "JP": "【赤レベル】大きくすると赤みが、小さくすると水色感が増します。"
+  },
+  {
+    "Source": "Do you want to turn on the Battle Sequence?\n(Turning it off will not hinder the story progression.)",
+    "Target": "是否开启铃与佐佐美及垒球部三人组的战斗？\n（关闭后不会影响故事进度。）",
+    "JP": "鈴VS佐々美＆ソフト部三人組とのバトルをオンにしますか？\n（オフにしても物語を進める上で支障はありません）"
+  },
+  {
+    "Source": "Please get your timing right and press the A button or tap the touch screen when the two power gauges are sufficiently filled.\n$C(255,255,204)(Failure will not hinder story progression)",
+    "Target": "看准两人的能量槽蓄满的时机，\n按Ａ键或点击触摸屏。\n$C(255,255,204)（失败也不会影响故事进度）",
+    "JP": "タイミングよくふたりのパワーゲージが溜まったところで\nＡボタンを押す、またはタッチスクリーンをタップしてください。\n$C(255,255,204)（失敗しても物語を進めるうえで支障はありません）"
+  },
+  {
+    "Source": "Hit Rin's pitches by pressing the A button or by getting your finger off the touch screen at the right timing.",
+    "Target": "看准时机按A键，或松开触摸屏上的手指，击打铃投出的球。",
+    "JP": "タイミング良くAボタンを押すか、タッチスクリーンをタッチした指を離して、鈴の投げる球を打ってください。"
+  },
+  {
+    "Source": "You can move Riki by pressing the directional buttons, by tilting the L Stick or the R Stick, or by dragging on the touch screen.",
+    "Target": "使用方向键、左摇杆、右摇杆，或在触摸屏上拖动，即可移动理树。",
+    "JP": "方向ボタン、Lスティック、Rスティックまたはタッチスクリーンのドラッグで理樹の移動ができます。"
   }
 ]
