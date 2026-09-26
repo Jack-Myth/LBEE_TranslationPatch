@@ -356,6 +356,17 @@ func (p *Pak) Write(w io.Writer) error {
 				}
 			}
 		}
+		// Preserve the archive's block alignment after growing the final entry.
+		last := p.Files[len(p.Files)-1]
+		end := uint64(last.Offset) + uint64(last.Length)
+		block := uint64(p.BlockSize)
+		alignedEnd := (end + block - 1) / block * block
+		if alignedEnd > end {
+			padding := make([]byte, int(alignedEnd-end))
+			if _, err := file.WriteAt(padding, int64(end)); err != nil {
+				return err
+			}
+		}
 	} else {
 		for i, f := range p.Files {
 			if f.Replace {
