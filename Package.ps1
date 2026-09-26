@@ -13,34 +13,3 @@ Copy-Item .\ImageMapping .\bin\Release\net10.0\publish\LBEE_TranslationPatch\ -R
 $ProgramStrArray = ConvertFrom-Json (Get-Content ".\bin\Release\net10.0\publish\LBEE_TranslationPatch\TextMapping\`$PROGRAM.json" -Raw)
 $ProgramStrArray[0].Target = $ProgramStrArray[0].Target.TrimEnd('`n')+"`n`n汉化补丁版本："+[DateTime]::Now.ToString("yyyy.MM.dd")
 $ProgramStrArray | ConvertTo-Json | Set-Content ".\bin\Release\net10.0\publish\LBEE_TranslationPatch\TextMapping\`$PROGRAM.json" -Encoding utf8
-
-$Images = Get-ChildItem .\ImageMapping -Recurse -File
-$IgnoreImgs = @()
-foreach($Image in $Images)
-{
-    $relativePath = Resolve-Path -Relative $Image.FullName
-    foreach($ignore in $IgnoreList)
-    {
-        if($relativePath.Contains($ignore))
-        {
-            $IgnoreImgs+=$Image
-        }
-    }
-}
-foreach($IgnoreImg in $IgnoreImgs)
-{
-    $Images = $Images|ForEach-Object{
-        if($_ -ne $IgnoreImg)
-        {
-            $_
-        }
-    }
-}
-$Images|ForEach-Object -ThrottleLimit 5 -Parallel {
-    $relativePath = Resolve-Path -Relative $_.FullName
-    $FileHistory = @(git log --pretty=format:"%h" $relativePath)
-    if($FileHistory.Count -eq 1)
-    {
-        Remove-Item .\bin\Release\net10.0\publish\LBEE_TranslationPatch\$relativePath
-    }
-}
