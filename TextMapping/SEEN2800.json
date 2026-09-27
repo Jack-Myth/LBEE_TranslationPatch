@@ -1,9 +1,9 @@
 {
   "MESSAGE": [
     {
-      "JP": "`理樹@「あれ、元通りになってる…」",
-      "EN": "`Riki@❝Huh, it has turned back to normal...❞",
-      "Translation": "`理树@「咦，又变回原来的样子了…」"
+      "JP": "@理樹@「あれ、元通りになってる…」",
+      "EN": "@Riki@❝Huh, it has turned back to normal...❞",
+      "Translation": "@理树@「咦，又变回原来的样子了…」"
     },
     {
       "JP": "黒板は修繕されていた。",
@@ -11,9 +11,9 @@
       "Translation": "黑板已经被修复了。"
     },
     {
-      "JP": "`$(1,0)@「じゃ、今度はこいつでぶち破りましょ」",
-      "EN": "`$(1,1)@ ❝Okay, this time we're going to use this.❞",
-      "Translation": "`$(1,1)@「那，这次就用这家伙来把它砸穿」"
+      "JP": "@$(5)@「じゃ、今度はこいつでぶち破りましょ」",
+      "EN": "@$(5)@ ❝Okay, this time we're going to use this.❞",
+      "Translation": "@$(5)@「那，这次就用这家伙来把它砸穿」"
     },
     {
       "JP": "そう言って、最終兵器のような銃を設置し始めた。",
@@ -21,9 +21,9 @@
       "Translation": "她这么说着，开始安装如同最终兵器一般的大杀器。"
     },
     {
-      "JP": "`$(1,0)@「設置完了。発砲準備」",
-      "EN": "`$(1,1)@ ❝Setup complete. Preparing to fire.❞",
-      "Translation": "`$(1,1)@「安装完毕，准备开火」"
+      "JP": "@$(5)@「設置完了。発砲準備」",
+      "EN": "@$(5)@ ❝Setup complete. Preparing to fire.❞",
+      "Translation": "@$(5)@「安装完毕，准备开火」"
     },
     {
       "JP": "彼女が三脚を押さえつけ、僕に命令した。",
@@ -56,9 +56,9 @@
       "Translation": "而在那中心有个被子弹强行轰出的圆形入口。"
     },
     {
-      "JP": "`$(1,0)@「さ、行きましょう、相棒さん」",
-      "EN": "`$(1,1)@ ❝Let's go, partner.❞",
-      "Translation": "`$(1,1)@「那么走吧，我的搭档」"
+      "JP": "@$(5)@「さ、行きましょう、相棒さん」",
+      "EN": "@$(5)@ ❝Let's go, partner.❞",
+      "Translation": "@$(5)@「那么走吧，我的搭档」"
     },
     {
       "JP": "ふたりがかりで大きな銃を運んで、横穴を進む。",
@@ -76,24 +76,24 @@
       "Translation": "似乎已经到达梯子的上方了。"
     },
     {
-      "JP": "`$(1,0)@「ふたりで同時に降りるわよ」",
-      "EN": "`$(1,1)@ ❝We will go down at the same time.❞",
-      "Translation": "`$(1,1)@「两个人同时跳下去哦」"
+      "JP": "@$(5)@「ふたりで同時に降りるわよ」",
+      "EN": "@$(5)@ ❝We will go down at the same time.❞",
+      "Translation": "@$(5)@「两个人同时跳下去哦」"
     },
     {
-      "JP": "`理樹@「この銃ごと？」",
-      "EN": "`Riki@❝With this gun?❞",
-      "Translation": "`理树@「带着这挺枪？」"
+      "JP": "@理樹@「この銃ごと？」",
+      "EN": "@Riki@❝With this gun?❞",
+      "Translation": "@理树@「带着这挺枪？」"
     },
     {
-      "JP": "`$(1,0)@「そうよ」",
-      "EN": "`$(1,1)@ ❝That's right.❞",
-      "Translation": "`$(1,1)@「没错」"
+      "JP": "@$(5)@「そうよ」",
+      "EN": "@$(5)@ ❝That's right.❞",
+      "Translation": "@$(5)@「没错」"
     },
     {
-      "JP": "`$(1,0)@「さっき教室でしたように、あたしがすぐ三脚に銃を正しく設置するから、合図したら、あなたはトリガーを引く。そうすれば何もかも灰燼に帰すわ」",
-      "EN": "`$(1,1)@ ❝Just like back in the classroom, I will set up the tripod for the gun. Once that's done, you will pull the trigger. If we do that, everything will be reduced to ashes.❞",
-      "Translation": "`$(1,1)@「就像刚才在教室里那样，我会马上用三脚架安装好枪身，一旦我发出信号你就开枪。这样的话，无论什么都会灰飞烟灭」"
+      "JP": "@$(5)@「さっき教室でしたように、あたしがすぐ三脚に銃を正しく設置するから、合図したら、あなたはトリガーを引く。そうすれば何もかも灰燼に帰すわ」",
+      "EN": "@$(5)@ ❝Just like back in the classroom, I will set up the tripod for the gun. Once that's done, you will pull the trigger. If we do that, everything will be reduced to ashes.❞",
+      "Translation": "@$(5)@「就像刚才在教室里那样，我会马上用三脚架安装好枪身，一旦我发出信号你就开枪。这样的话，无论什么都会灰飞烟灭」"
     },
     {
       "JP": "すべてが灰燼に帰す…。",
@@ -106,14 +106,14 @@
       "Translation": "…我正准备要做的事情是多么地可怕啊。"
     },
     {
-      "JP": "`$(1,0)@「何？　びびってるの？」",
-      "EN": "`$(1,1)@ ❝What? Are you scared?❞",
-      "Translation": "`$(1,1)@「怎么？害怕了？」"
+      "JP": "@$(5)@「何？　びびってるの？」",
+      "EN": "@$(5)@ ❝What? Are you scared?❞",
+      "Translation": "@$(5)@「怎么？害怕了？」"
     },
     {
-      "JP": "`$(1,0)@「まー、注意力はないほうだもんね、理樹くんは」",
-      "EN": "`$(1,1)@ ❝Well, you lack concentration after all, Riki-kun.❞",
-      "Translation": "`$(1,1)@「嘛，注意力不集中哦，理树君」"
+      "JP": "@$(5)@「まー、注意力はないほうだもんね、理樹くんは」",
+      "EN": "@$(5)@ ❝Well, you lack concentration after all, Riki-kun.❞",
+      "Translation": "@$(5)@「嘛，注意力不集中哦，理树君」"
     },
     {
       "JP": "こんなもの、注意力とか関係ないじゃん…。",
@@ -121,9 +121,9 @@
       "Translation": "这种东西跟注意力一点关系都没有…"
     },
     {
-      "JP": "`$(1,0)@「さ、いくわよ」",
-      "EN": "`$(1,1)@ ❝Let's go, then.❞",
-      "Translation": "`$(1,1)@「好，我们走吧」"
+      "JP": "@$(5)@「さ、いくわよ」",
+      "EN": "@$(5)@ ❝Let's go, then.❞",
+      "Translation": "@$(5)@「好，我们走吧」"
     },
     {
       "JP": "僕はうん、と頷いた。",
@@ -131,109 +131,109 @@
       "Translation": "我点了点头。"
     },
     {
-      "JP": "`$(1,0)@「あっちも男らしくできたんだから、大丈夫よ。自信持ちなさいよね」",
-      "EN": "`$(1,1)@ ❝You acted like a man back then, so it'll be alright. Have more confidence.❞",
-      "Translation": "`$(1,1)@「你还是很有男子气概的，没问题的，要有自信呀」"
+      "JP": "@$(5)@「あっちも男らしくできたんだから、大丈夫よ。自信持ちなさいよね」",
+      "EN": "@$(5)@ ❝You acted like a man back then, so it'll be alright. Have more confidence.❞",
+      "Translation": "@$(5)@「你还是很有男子气概的，没问题的，要有自信呀」"
     },
     {
-      "JP": "`理樹@「あっちって…キス？」",
-      "EN": "`Riki@❝Are you referring to the time we... kissed?❞",
-      "Translation": "`理树@「你指的是…接吻？」"
+      "JP": "@理樹@「あっちって…キス？」",
+      "EN": "@Riki@❝Are you referring to the time we... kissed?❞",
+      "Translation": "@理树@「你指的是…接吻？」"
     },
     {
-      "JP": "`$(1,0)@「え…」",
-      "EN": "`$(1,1)@ ❝Eh...❞",
-      "Translation": "`$(1,1)@「哎…」"
+      "JP": "@$(5)@「え…」",
+      "EN": "@$(5)@ ❝Eh...❞",
+      "Translation": "@$(5)@「哎…」"
     },
     {
-      "JP": "`$(1,0)@「ばっ、ばばばばばばばばば…っばか！　何よっ、うるさいわねっ、一言余計よっ！」",
-      "EN": "`$(1,1)@ ❝I, iiiiiiiiidiot!　What, shut up, that was one word too many!❞",
-      "Translation": "`$(1,1)@「白，白白白白白白白白白痴！什么嘛，烦死了，根本就是多余的话！」"
+      "JP": "@$(5)@「ばっ、ばばばばばばばばば…っばか！　何よっ、うるさいわねっ、一言余計よっ！」",
+      "EN": "@$(5)@ ❝I, iiiiiiiiidiot!　What, shut up, that was one word too many!❞",
+      "Translation": "@$(5)@「白，白白白白白白白白白痴！什么嘛，烦死了，根本就是多余的话！」"
     },
     {
-      "JP": "`$(1,0)@「なっにがあっちも男らしくできました、よっ！　そんな自信覗かせて天狗になってんじゃないわよっ！」",
-      "EN": "`$(1,1)@ ❝You seriously think you did that like a man!? Don't get cocky!❞",
-      "Translation": "`$(1,1)@「什么很有男子气概啊！根本不是什么厉害的东西啦！不要这么骄傲！」"
+      "JP": "@$(5)@「なっにがあっちも男らしくできました、よっ！　そんな自信覗かせて天狗になってんじゃないわよっ！」",
+      "EN": "@$(5)@ ❝You seriously think you did that like a man!? Don't get cocky!❞",
+      "Translation": "@$(5)@「什么很有男子气概啊！根本不是什么厉害的东西啦！不要这么骄傲！」"
     },
     {
-      "JP": "`理樹@「うわぁ、評価ががた落ちした！」",
-      "EN": "`Riki@❝Wow, your opinion of me is plummeting.❞",
-      "Translation": "`理树@「呜哇，评价下降了！」"
+      "JP": "@理樹@「うわぁ、評価ががた落ちした！」",
+      "EN": "@Riki@❝Wow, your opinion of me is plummeting.❞",
+      "Translation": "@理树@「呜哇，评价下降了！」"
     },
     {
-      "JP": "`理樹@「そんなに駄目だったんだ…」",
-      "EN": "`Riki@❝So I was that terrible...❞",
-      "Translation": "`理树@「所以我居然那么糟糕啊…」"
+      "JP": "@理樹@「そんなに駄目だったんだ…」",
+      "EN": "@Riki@❝So I was that terrible...❞",
+      "Translation": "@理树@「所以我居然那么糟糕啊…」"
     },
     {
-      "JP": "`$(1,0)@「え、いや…そんな駄目なことは…なかったわよ…」",
-      "EN": "`$(1,1)@ ❝Ah, no... you weren't... that bad.❞",
-      "Translation": "`$(1,1)@「啊，不…你也…没有那么糟糕啦…」"
+      "JP": "@$(5)@「え、いや…そんな駄目なことは…なかったわよ…」",
+      "EN": "@$(5)@ ❝Ah, no... you weren't... that bad.❞",
+      "Translation": "@$(5)@「啊，不…你也…没有那么糟糕啦…」"
     },
     {
-      "JP": "`理樹@「え…ほんと？」",
-      "EN": "`Riki@❝Eh, really?❞",
-      "Translation": "`理树@「呃…真的？」"
+      "JP": "@理樹@「え…ほんと？」",
+      "EN": "@Riki@❝Eh, really?❞",
+      "Translation": "@理树@「呃…真的？」"
     },
     {
-      "JP": "`$(1,0)@「うん…だから銃のほうもちょっとは自信持ちなさいよ…」",
-      "EN": "`$(1,1)@ ❝Yeah... so have more confidence with the gun...❞",
-      "Translation": "`$(1,1)@「当然…所以要对开枪有自信啊…」"
+      "JP": "@$(5)@「うん…だから銃のほうもちょっとは自信持ちなさいよ…」",
+      "EN": "@$(5)@ ❝Yeah... so have more confidence with the gun...❞",
+      "Translation": "@$(5)@「当然…所以要对开枪有自信啊…」"
     },
     {
-      "JP": "`理樹@「やったー!!」",
-      "EN": "`Riki@❝Yay!!❞",
-      "Translation": "`$(1,1)@「耶ー！！」"
+      "JP": "@理樹@「やったー!!」",
+      "EN": "@Riki@❝Yay!!❞",
+      "Translation": "@理树@「耶ー！！」"
     },
     {
-      "JP": "`$(1,0)@「そんな喜ばないでよ…」",
-      "EN": "`$(1,1)@ ❝Don't be so happy...❞",
-      "Translation": "`$(1,1)@「也别这么高兴啊…」"
+      "JP": "@$(5)@「そんな喜ばないでよ…」",
+      "EN": "@$(5)@ ❝Don't be so happy...❞",
+      "Translation": "@$(5)@「也别这么高兴啊…」"
     },
     {
-      "JP": "`$(1,0)@「というか、真上でこれだけ騒いでいて敵に気づかれていないか、ちゃんと奇襲になるのか、不安になってきたわ…」",
-      "EN": "`$(1,1)@ ❝By the way, aren't we making a lot of noise? I'm worried that the enemy may notice and that would spoil our surprise attack.❞",
-      "Translation": "`$(1,1)@「说起来，我倒是比较担心在敌人头顶这么吵吵闹闹的我们，到底能不能顺利发动奇袭…」"
+      "JP": "@$(5)@「というか、真上でこれだけ騒いでいて敵に気づかれていないか、ちゃんと奇襲になるのか、不安になってきたわ…」",
+      "EN": "@$(5)@ ❝By the way, aren't we making a lot of noise? I'm worried that the enemy may notice and that would spoil our surprise attack.❞",
+      "Translation": "@$(5)@「说起来，我倒是比较担心在敌人头顶这么吵吵闹闹的我们，到底能不能顺利发动奇袭…」"
     },
     {
-      "JP": "`理樹@「きっと大丈夫だよ」",
-      "EN": "`Riki@❝I'm sure it's fine.❞",
-      "Translation": "`理树@「一定没问题的」"
+      "JP": "@理樹@「きっと大丈夫だよ」",
+      "EN": "@Riki@❝I'm sure it's fine.❞",
+      "Translation": "@理树@「一定没问题的」"
     },
     {
-      "JP": "`$(1,0)@「あっちをちょっと褒められただけで、随分と脳天気なキャラになったものね…」",
-      "EN": "`$(1,1)@ ❝You sure have become optimistic after being praised a little.❞",
-      "Translation": "`$(1,1)@「只是稍微称赞了一下，你就变得相当乐观了…」"
+      "JP": "@$(5)@「あっちをちょっと褒められただけで、随分と脳天気なキャラになったものね…」",
+      "EN": "@$(5)@ ❝You sure have become optimistic after being praised a little.❞",
+      "Translation": "@$(5)@「只是稍微称赞了一下，你就变得相当乐观了…」"
     },
     {
-      "JP": "`理樹@「いやいや、僕できましたとか言ってませんし、ぜんぜん自信なんかありませんからっ…」",
-      "EN": "`Riki@❝No no, I didn't say I could do it, and I still have no self confidence...❞",
-      "Translation": "`理树@「不不，我又没说我可以，也完全没什么自信…」"
+      "JP": "@理樹@「いやいや、僕できましたとか言ってませんし、ぜんぜん自信なんかありませんからっ…」",
+      "EN": "@Riki@❝No no, I didn't say I could do it, and I still have no self confidence...❞",
+      "Translation": "@理树@「不不，我又没说我可以，也完全没什么自信…」"
     },
     {
-      "JP": "`$(1,0)@「じ、自信は持ちなさいよっ」",
-      "EN": "`$(1,1)@ ❝H-have more confidence in yourself.❞",
-      "Translation": "`$(1,1)@「拿，拿出点自信来啊」"
+      "JP": "@$(5)@「じ、自信は持ちなさいよっ」",
+      "EN": "@$(5)@ ❝H-have more confidence in yourself.❞",
+      "Translation": "@$(5)@「拿，拿出点自信来啊」"
     },
     {
-      "JP": "`$(1,0)@「もちろん、その銃のほうよ。あっちじゃないわよっ」",
-      "EN": "`$(1,1)@ ❝I mean with the gun, not that.❞",
-      "Translation": "`$(1,1)@「当然，我指的是开枪那方面，而不是说那里哦」"
+      "JP": "@$(5)@「もちろん、その銃のほうよ。あっちじゃないわよっ」",
+      "EN": "@$(5)@ ❝I mean with the gun, not that.❞",
+      "Translation": "@$(5)@「当然，我指的是开枪那方面，而不是说那里哦」"
     },
     {
-      "JP": "`理樹@「わかってるよ…」",
-      "EN": "`Riki@❝I get it...❞",
-      "Translation": "`理树@「知道了啦…」"
+      "JP": "@理樹@「わかってるよ…」",
+      "EN": "@Riki@❝I get it...❞",
+      "Translation": "@理树@「知道了啦…」"
     },
     {
-      "JP": "`$(1,0)@$S020「ああ、もうひとつ訂正っ。別に誰かと比べたわけではなく、その、平均値を予想してというか、つまりはあたし初めてなので安心して、いやっ…ようは詳しい振りしてごめんなさい、さ、いきましょっ」",
-      "EN": "`$(1,1)@ $S020❝Ah, one more correction. I didn't mean what I said like I was comparing you to someone, I was just saying that based on my expectations of what the norm should be, in other words, it was my first time, so don't worry, ah no... I mean, sorry for acting like I know a thing, l-let's go.❞",
-      "Translation": "`$(1,1)@「啊啊，还有一点要订正。所谓你的那里并不是特别厉害，并不是说有跟谁比较过，那个，只能说是和预想中的平均值，也就是说我也是第一次所以请你放心，那个…总之装作很熟悉的样子真是抱歉了，走，走吧！」"
+      "JP": "@$(5)@$S(32)「ああ、もうひとつ訂正っ。別に誰かと比べたわけではなく、その、平均値を予想してというか、つまりはあたし初めてなので安心して、いやっ…ようは詳しい振りしてごめんなさい、さ、いきましょっ」",
+      "EN": "@$(5)@ $S(28)❝Ah, one more correction. I didn't mean what I said like I was comparing you to someone, I was just saying that based on my expectations of what the norm should be, in other words, it was my first time, so don't worry, ah no... I mean, sorry for acting like I know a thing, l-let's go.❞",
+      "Translation": "@$(5)@$S(32)「啊啊，还有一点要订正。所谓你的那里并不是特别厉害，并不是说有跟谁比较过，那个，只能说是和预想中的平均值，也就是说我也是第一次所以请你放心，那个…总之装作很熟悉的样子真是抱歉了，走，走吧！」"
     },
     {
-      "JP": "`理樹@「忙しい人だなあ…」",
-      "EN": "`Riki@❝You're all over the place...❞",
-      "Translation": "`理树@「你还真忙啊…」"
+      "JP": "@理樹@「忙しい人だなあ…」",
+      "EN": "@Riki@❝You're all over the place...❞",
+      "Translation": "@理树@「你还真忙啊…」"
     },
     {
       "JP": "というか、真上でこんなに騒がしくしていて、敵に気づかれていないのか、ちゃんと奇襲になるのか、そっちのほうが心配だ…。",
@@ -241,9 +241,9 @@
       "Translation": "说起来，我倒是比较担心在敌人头顶这么吵吵闹闹的我们，到底能不能顺利发动奇袭…"
     },
     {
-      "JP": "`$(1,0)@「まー、『キス』もできないお子様だから仕方ないわねぇ、よしよし」",
-      "EN": "`$(1,1)@ ❝Well, it's normal that kids don't know how to ❛kiss,❜ so there, there.❞",
-      "Translation": "`$(1,1)@「嘛ー，一个不会『接吻』的孩子也很正常嘛，安啦安啦」"
+      "JP": "@$(5)@「まー、『キス』もできないお子様だから仕方ないわねぇ、よしよし」",
+      "EN": "@$(5)@ ❝Well, it's normal that kids don't know how to ❛kiss,❜ so there, there.❞",
+      "Translation": "@$(5)@「嘛ー，一个不会『接吻』的孩子也很正常嘛，安啦安啦」"
     },
     {
       "JP": "かなり根に持たれてるぞ…。",
@@ -251,9 +251,9 @@
       "Translation": "真是记仇啊…"
     },
     {
-      "JP": "`$(1,0)@「さ、お喋りはここまでよ。いくわよ」",
-      "EN": "`$(1,1)@ ❝That's enough talk. Let's go.❞",
-      "Translation": "`$(1,1)@「废话就到此为止了。上了哦」"
+      "JP": "@$(5)@「さ、お喋りはここまでよ。いくわよ」",
+      "EN": "@$(5)@ ❝That's enough talk. Let's go.❞",
+      "Translation": "@$(5)@「废话就到此为止了。上了哦」"
     },
     {
       "JP": "ようやく緊迫感が出てくる。僕はうん、と頷いた。",
@@ -261,9 +261,9 @@
       "Translation": "终于有了那份紧迫感。我“嗯”地点了点头。"
     },
     {
-      "JP": "`$(1,0)@「レディ、ゴ！」",
-      "EN": "`$(1,1)@ ❝Ready, set, go!❞",
-      "Translation": "`$(1,1)@「ＲＥＡＤＹ　ＧＯ！」"
+      "JP": "@$(5)@「レディ、ゴ！」",
+      "EN": "@$(5)@ ❝Ready, set, go!❞",
+      "Translation": "@$(5)@「ＲＥＡＤＹ　ＧＯ！」"
     },
     {
       "JP": "トリガーから指を離した。",
@@ -281,34 +281,34 @@
       "Translation": "墙壁被打碎后所扬起的粉尘，像迷雾般封闭了视野。"
     },
     {
-      "JP": "$(2,0)はハンカチを口に当てて、それを吸わないようにしていた。",
-      "EN": "$(2,1) put the handkerchief to her mouth, trying not to breathe in the dust.",
-      "Translation": "为了不吸入那些粉尘，$(2,1)用手帕捂住了嘴。"
+      "JP": "$(4)はハンカチを口に当てて、それを吸わないようにしていた。",
+      "EN": "$(4) put the handkerchief to her mouth, trying not to breathe in the dust.",
+      "Translation": "为了不吸入那些粉尘，$(4)用手帕捂住了嘴。"
     },
     {
-      "JP": "`理樹@「全滅？」",
-      "EN": "`Riki@❝Did we get them all?❞",
-      "Translation": "`理树@「全灭？」"
+      "JP": "@理樹@「全滅？」",
+      "EN": "@Riki@❝Did we get them all?❞",
+      "Translation": "@理树@「全灭？」"
     },
     {
-      "JP": "`$(1,0)@「このフロアはね」",
-      "EN": "`$(1,1)@ ❝On this floor, at least.❞",
-      "Translation": "`$(1,1)@「只是这一层的呢」"
+      "JP": "@$(5)@「このフロアはね」",
+      "EN": "@$(5)@ ❝On this floor, at least.❞",
+      "Translation": "@$(5)@「只是这一层的呢」"
     },
     {
-      "JP": "`$(1,0)@「さて、階下へテレポートするわよ」",
-      "EN": "`$(1,1)@ ❝Well then, we are teleporting to the lower floor.❞",
-      "Translation": "`$(1,1)@「那么，传送到下一层去吧」"
+      "JP": "@$(5)@「さて、階下へテレポートするわよ」",
+      "EN": "@$(5)@ ❝Well then, we are teleporting to the lower floor.❞",
+      "Translation": "@$(5)@「那么，传送到下一层去吧」"
     },
     {
-      "JP": "`理樹@「えっ、どうやって？」",
-      "EN": "`Riki@❝Eh, how?❞",
-      "Translation": "`理树@「哎，怎么做？」"
+      "JP": "@理樹@「えっ、どうやって？」",
+      "EN": "@Riki@❝Eh, how?❞",
+      "Translation": "@理树@「哎，怎么做？」"
     },
     {
-      "JP": "`$(1,0)@「それはこれで」",
-      "EN": "`$(1,1)@ ❝This is how.❞",
-      "Translation": "`$(1,1)@「就用这个」"
+      "JP": "@$(5)@「それはこれで」",
+      "EN": "@$(5)@ ❝This is how.❞",
+      "Translation": "@$(5)@「就用这个」"
     },
     {
       "JP": "Ｍなんとかという機関銃をぽん、と叩いた。",
@@ -316,29 +316,29 @@
       "Translation": "说着她敲了敲那个叫Ｍ什么的机关枪。"
     },
     {
-      "JP": "`$(1,0)@「入り口だって、仕掛けも解かずにぶち破ってきたんだから、もうどうでもいいじゃない」",
-      "EN": "`$(1,1)@ ❝You can make an entrance without solving the puzzles by just blasting your own path, that's fine right?❞",
-      "Translation": "`$(1,1)@「反正迷宫的入口也是靠暴力直接轰出来的，有什么关系嘛」"
+      "JP": "@$(5)@「入り口だって、仕掛けも解かずにぶち破ってきたんだから、もうどうでもいいじゃない」",
+      "EN": "@$(5)@ ❝You can make an entrance without solving the puzzles by just blasting your own path, that's fine right?❞",
+      "Translation": "@$(5)@「反正迷宫的入口也是靠暴力直接轰出来的，有什么关系嘛」"
     },
     {
-      "JP": "`理樹@「そんな力業でいいのかな…」",
-      "EN": "`Riki@❝I wonder if doing that is okay...❞",
-      "Translation": "`理树@「这样胡乱使用暴力合适吗…」"
+      "JP": "@理樹@「そんな力業でいいのかな…」",
+      "EN": "@Riki@❝I wonder if doing that is okay...❞",
+      "Translation": "@理树@「这样胡乱使用暴力合适吗…」"
     },
     {
-      "JP": "`$(1,0)@「いいのよ。向こうだって、頭数ばかり揃えて…掟破りはお互いさまよ」",
-      "EN": "`$(1,1)@ ❝It's fine. There are more shadows than there should be... we are both breaking the rules.❞",
-      "Translation": "`$(1,1)@「可以的啦。对方也聚集了那么多手下…双方都已经打破规则了」"
+      "JP": "@$(5)@「いいのよ。向こうだって、頭数ばかり揃えて…掟破りはお互いさまよ」",
+      "EN": "@$(5)@ ❝It's fine. There are more shadows than there should be... we are both breaking the rules.❞",
+      "Translation": "@$(5)@「可以的啦。对方也聚集了那么多手下…双方都已经打破规则了」"
     },
     {
-      "JP": "$(2,0)は銃口が床に向くように、設置し直す。",
-      "EN": "$(2,1) pointed the gun toward the floor.",
-      "Translation": "$(2,1)把枪口指向地面，重新安装好。"
+      "JP": "$(4)は銃口が床に向くように、設置し直す。",
+      "EN": "$(4) pointed the gun toward the floor.",
+      "Translation": "$(4)把枪口指向地面，重新安装好。"
     },
     {
-      "JP": "`$(1,0)@「じゃ、撃ち方よろしく！」",
-      "EN": "`$(1,1)@ ❝I'll leave the shooting to you!❞",
-      "Translation": "`$(1,1)@「那么，射击就拜托了！」"
+      "JP": "@$(5)@「じゃ、撃ち方よろしく！」",
+      "EN": "@$(5)@ ❝I'll leave the shooting to you!❞",
+      "Translation": "@$(5)@「那么，射击就拜托了！」"
     },
     {
       "JP": "どどどどど！",
@@ -351,9 +351,9 @@
       "Translation": "简直就像是在搞挖掘工程…。"
     },
     {
-      "JP": "`$(1,0)@「撃ち方やめ！」",
-      "EN": "`$(1,1)@ ❝Cease fire!❞",
-      "Translation": "`$(1,1)@「停止射击！」"
+      "JP": "@$(5)@「撃ち方やめ！」",
+      "EN": "@$(5)@ ❝Cease fire!❞",
+      "Translation": "@$(5)@「停止射击！」"
     },
     {
       "JP": "まだ粉塵が漂っているが、大きな穴が空いたようだ。",
@@ -366,9 +366,9 @@
       "Translation": "现在就要跳进那地洞里了。"
     },
     {
-      "JP": "`$(1,0)@「レディ、ゴ！」",
-      "EN": "`$(1,1)@ ❝Ready, go!❞",
-      "Translation": "`$(1,1)@「ＲＥＡＤＹ　ＧＯ！」"
+      "JP": "@$(5)@「レディ、ゴ！」",
+      "EN": "@$(5)@ ❝Ready, go!❞",
+      "Translation": "@$(5)@「ＲＥＡＤＹ　ＧＯ！」"
     },
     {
       "JP": "何人がかりでかかってきているのかもわからない敵も一蹴していく。",
@@ -376,9 +376,9 @@
       "Translation": "把不知道数量多少的敌人一扫而光。"
     },
     {
-      "JP": "`$(1,0)@「撃ち方始め！」",
-      "EN": "`$(1,1)@ ❝Open fire!❞",
-      "Translation": "`$(1,1)@「开始射击！」"
+      "JP": "@$(5)@「撃ち方始め！」",
+      "EN": "@$(5)@ ❝Open fire!❞",
+      "Translation": "@$(5)@「开始射击！」"
     },
     {
       "JP": "どどどどど！",
@@ -386,9 +386,9 @@
       "Translation": "突突突突突！"
     },
     {
-      "JP": "`$(1,0)@「撃ち方やめ！」",
-      "EN": "`$(1,1)@ ❝Cease fire!❞",
-      "Translation": "`$(1,1)@「停止射击！」"
+      "JP": "@$(5)@「撃ち方やめ！」",
+      "EN": "@$(5)@ ❝Cease fire!❞",
+      "Translation": "@$(5)@「停止射击！」"
     },
     {
       "JP": "入り口ができた。",
@@ -396,9 +396,9 @@
       "Translation": "入口就这样制造出来了。"
     },
     {
-      "JP": "`$(1,0)@「レディ、ゴ！」",
-      "EN": "`$(1,1)@ ❝Ready, go!❞",
-      "Translation": "`$(1,1)@「ＲＥＡＤＹ　ＧＯ！」"
+      "JP": "@$(5)@「レディ、ゴ！」",
+      "EN": "@$(5)@ ❝Ready, go!❞",
+      "Translation": "@$(5)@「ＲＥＡＤＹ　ＧＯ！」"
     },
     {
       "JP": "ふたりで飛び降りる。",
@@ -411,9 +411,9 @@
       "Translation": "毫不留情的单方面屠杀。"
     },
     {
-      "JP": "`$(1,0)@「撃ち方始め！」",
-      "EN": "`$(1,1)@ ❝Open fire!❞",
-      "Translation": "`$(1,1)@「开始射击！」"
+      "JP": "@$(5)@「撃ち方始め！」",
+      "EN": "@$(5)@ ❝Open fire!❞",
+      "Translation": "@$(5)@「开始射击！」"
     },
     {
       "JP": "どどどどど！",
@@ -421,9 +421,9 @@
       "Translation": "突突突突突！"
     },
     {
-      "JP": "`$(1,0)@「撃ち方やめ！」",
-      "EN": "`$(1,1)@ ❝Cease fire!❞",
-      "Translation": "`$(1,1)@「停止射击！」"
+      "JP": "@$(5)@「撃ち方やめ！」",
+      "EN": "@$(5)@ ❝Cease fire!❞",
+      "Translation": "@$(5)@「停止射击！」"
     },
     {
       "JP": "今地下何階ぐらいだろう…。",
@@ -431,9 +431,9 @@
       "Translation": "现在已经到地下多少层了啊…。"
     },
     {
-      "JP": "`$(1,0)@「レディ、ゴ！」",
-      "EN": "`$(1,1)@ ❝Ready, go!❞",
-      "Translation": "`$(1,1)@「ＲＥＡＤＹ　ＧＯ！」"
+      "JP": "@$(5)@「レディ、ゴ！」",
+      "EN": "@$(5)@ ❝Ready, go!❞",
+      "Translation": "@$(5)@「ＲＥＡＤＹ　ＧＯ！」"
     },
     {
       "JP": "そろそろ機械的に撃てるようになってきた。慈悲も何もない。",
@@ -441,9 +441,9 @@
       "Translation": "射击已经变成了近乎机械性的动作。没有任何的仁慈。"
     },
     {
-      "JP": "`$(1,0)@「撃ち方始め！」",
-      "EN": "`$(1,1)@ ❝Open fire!❞",
-      "Translation": "`$(1,1)@「开始射击！」"
+      "JP": "@$(5)@「撃ち方始め！」",
+      "EN": "@$(5)@ ❝Open fire!❞",
+      "Translation": "@$(5)@「开始射击！」"
     },
     {
       "JP": "どどどどど！",
@@ -451,9 +451,9 @@
       "Translation": "突突突突突！"
     },
     {
-      "JP": "`$(1,0)@「撃ち方やめ！」",
-      "EN": "`$(1,1)@ ❝Cease fire!❞",
-      "Translation": "`$(1,1)@「停止射击！」"
+      "JP": "@$(5)@「撃ち方やめ！」",
+      "EN": "@$(5)@ ❝Cease fire!❞",
+      "Translation": "@$(5)@「停止射击！」"
     },
     {
       "JP": "はいはい、いきましょう。",
@@ -461,9 +461,9 @@
       "Translation": "是是，走吧。"
     },
     {
-      "JP": "`$(1,0)@「レディ、ゴ！」",
-      "EN": "`$(1,1)@ ❝Ready, go!❞",
-      "Translation": "`$(1,1)@「ＲＥＡＤＹ　ＧＯ！」"
+      "JP": "@$(5)@「レディ、ゴ！」",
+      "EN": "@$(5)@ ❝Ready, go!❞",
+      "Translation": "@$(5)@「ＲＥＡＤＹ　ＧＯ！」"
     },
     {
       "JP": "はいはい、どいてくださいね。",
@@ -471,14 +471,14 @@
       "Translation": "是是，请让开。"
     },
     {
-      "JP": "`$(1,0)@「休憩！」",
-      "EN": "`$(1,1)@ ❝At ease!❞",
-      "Translation": "`$(1,1)@「休息！」"
+      "JP": "@$(5)@「休憩！」",
+      "EN": "@$(5)@ ❝At ease!❞",
+      "Translation": "@$(5)@「休息！」"
     },
     {
-      "JP": "`理樹@「ふぅ…」",
-      "EN": "`Riki@❝Phew...❞",
-      "Translation": "`理树@「呼…」"
+      "JP": "@理樹@「ふぅ…」",
+      "EN": "@Riki@❝Phew...❞",
+      "Translation": "@理树@「呼…」"
     },
     {
       "JP": "その声を聞いてようやく緊張が解ける。床に腰を下ろした。",
@@ -501,34 +501,34 @@
       "Translation": "我们一句话也没说，静静的恢复体力。"
     },
     {
-      "JP": "`$(1,0)@「理樹くん」",
-      "EN": "`$(1,1)@ ❝Riki-kun.❞",
-      "Translation": "`$(1,1)@「理树君」"
+      "JP": "@$(5)@「理樹くん」",
+      "EN": "@$(5)@ ❝Riki-kun.❞",
+      "Translation": "@$(5)@「理树君」"
     },
     {
-      "JP": "`理樹@「なに？」",
-      "EN": "`Riki@❝What?❞",
-      "Translation": "`理树@「什么？」"
+      "JP": "@理樹@「なに？」",
+      "EN": "@Riki@❝What?❞",
+      "Translation": "@理树@「什么？」"
     },
     {
-      "JP": "`$(1,0)@「あたしを見てどうも思わないの？」",
-      "EN": "`$(1,1)@ ❝How do you feel when you look at me?❞",
-      "Translation": "`$(1,1)@「你在看着我的时候，有什么感觉？」"
+      "JP": "@$(5)@「あたしを見てどうも思わないの？」",
+      "EN": "@$(5)@ ❝How do you feel when you look at me?❞",
+      "Translation": "@$(5)@「你在看着我的时候，有什么感觉？」"
     },
     {
-      "JP": "`理樹@「どうって…？」",
-      "EN": "`Riki@❝What do you mean by ❛how❜?❞",
-      "Translation": "`理树@「感觉…？」"
+      "JP": "@理樹@「どうって…？」",
+      "EN": "@Riki@❝What do you mean by ❛how❜?❞",
+      "Translation": "@理树@「感觉…？」"
     },
     {
-      "JP": "`$(1,0)@「………」",
-      "EN": "`$(1,1)@ ❝...❞",
-      "Translation": "`$(1,1)@「………」"
+      "JP": "@$(5)@「………」",
+      "EN": "@$(5)@ ❝...❞",
+      "Translation": "@$(5)@「………」"
     },
     {
-      "JP": "`$(1,0)@「じゃ、そろそろいこうかしら」",
-      "EN": "`$(1,1)@ ❝Well, shall we go?❞",
-      "Translation": "`$(1,1)@「那么，差不多该走了吧」"
+      "JP": "@$(5)@「じゃ、そろそろいこうかしら」",
+      "EN": "@$(5)@ ❝Well, shall we go?❞",
+      "Translation": "@$(5)@「那么，差不多该走了吧」"
     },
     {
       "JP": "彼女は質問には答えず、腰を持ち上げて、お尻を払った。",
@@ -536,9 +536,9 @@
       "Translation": "她没有回答问题，直起腰，拍了拍屁股。"
     },
     {
-      "JP": "`$(1,0)@「あ、あのね…」",
-      "EN": "`$(1,1)@ ❝Uh, uhm...❞",
-      "Translation": "`$(1,1)@「那，那个…」"
+      "JP": "@$(5)@「あ、あのね…」",
+      "EN": "@$(5)@ ❝Uh, uhm...❞",
+      "Translation": "@$(5)@「那，那个…」"
     },
     {
       "JP": "彼女は居心地悪そうに立ったままでいた。",
@@ -546,89 +546,89 @@
       "Translation": "她好像不太舒服似的，一直站在那里。"
     },
     {
-      "JP": "`理樹@「え？　休まないの？」",
-      "EN": "`Riki@❝Eh? Are you not resting?❞",
-      "Translation": "`理树@「哎？　不休息吗？」"
+      "JP": "@理樹@「え？　休まないの？」",
+      "EN": "@Riki@❝Eh? Are you not resting?❞",
+      "Translation": "@理树@「哎？　不休息吗？」"
     },
     {
-      "JP": "`$(1,0)@「もちろん、休むわよ」",
-      "EN": "`$(1,1)@ ❝Of course I am.❞",
-      "Translation": "`$(1,1)@「当然要休息了」"
+      "JP": "@$(5)@「もちろん、休むわよ」",
+      "EN": "@$(5)@ ❝Of course I am.❞",
+      "Translation": "@$(5)@「当然要休息了」"
     },
     {
-      "JP": "`理樹@「じゃ、座ったら？」",
-      "EN": "`Riki@❝Then won't you sit down?❞",
-      "Translation": "`理树@「那坐下如何？」"
+      "JP": "@理樹@「じゃ、座ったら？」",
+      "EN": "@Riki@❝Then won't you sit down?❞",
+      "Translation": "@理树@「那坐下如何？」"
     },
     {
-      "JP": "`$(1,0)@「ええと、その際にね…」",
-      "EN": "`$(1,1)@ ❝Uhmm, that is...❞",
-      "Translation": "`$(1,1)@「那个，这种时候…」"
+      "JP": "@$(5)@「ええと、その際にね…」",
+      "EN": "@$(5)@ ❝Uhmm, that is...❞",
+      "Translation": "@$(5)@「那个，这种时候…」"
     },
     {
-      "JP": "`理樹@「うん」",
-      "EN": "`Riki@❝Yes.❞",
-      "Translation": "`理树@「嗯」"
+      "JP": "@理樹@「うん」",
+      "EN": "@Riki@❝Yes.❞",
+      "Translation": "@理树@「嗯」"
     },
     {
-      "JP": "`$(1,0)@「長い戦いになるだろうし、今のうちに食事もしといたほうがいいかなぁって…」",
-      "EN": "`$(1,1)@ ❝It'll probably be a long battle, so I was thinking maybe it's better to eat now...❞",
-      "Translation": "`$(1,1)@「既然会是场持久战，我想还是趁现在吃顿饭比较好吧…」"
+      "JP": "@$(5)@「長い戦いになるだろうし、今のうちに食事もしといたほうがいいかなぁって…」",
+      "EN": "@$(5)@ ❝It'll probably be a long battle, so I was thinking maybe it's better to eat now...❞",
+      "Translation": "@$(5)@「既然会是场持久战，我想还是趁现在吃顿饭比较好吧…」"
     },
     {
-      "JP": "`理樹@「そう？　結構あっという間にここまで来た印象だけど」",
-      "EN": "`Riki@❝Really? I got the impression that we got here pretty fast.❞",
-      "Translation": "`理树@「是吗？　在我印象中好像没花多少时间就来到这里了」"
+      "JP": "@理樹@「そう？　結構あっという間にここまで来た印象だけど」",
+      "EN": "@Riki@❝Really? I got the impression that we got here pretty fast.❞",
+      "Translation": "@理树@「是吗？　在我印象中好像没花多少时间就来到这里了」"
     },
     {
-      "JP": "`$(1,0)@「あー、そうね、突貫工事みたいにね…」",
-      "EN": "`$(1,1)@ ❝Yeah, I guess we did rush through the whole thing...❞",
-      "Translation": "`$(1,1)@「啊，是呢，一气呵成就到了这里呢…」"
+      "JP": "@$(5)@「あー、そうね、突貫工事みたいにね…」",
+      "EN": "@$(5)@ ❝Yeah, I guess we did rush through the whole thing...❞",
+      "Translation": "@$(5)@「啊，是呢，一气呵成就到了这里呢…」"
     },
     {
-      "JP": "`理樹@「先は長いの？」",
-      "EN": "`Riki@❝Are we still a long way off?❞",
-      "Translation": "`理树@「接下来会很长吗？」"
+      "JP": "@理樹@「先は長いの？」",
+      "EN": "@Riki@❝Are we still a long way off?❞",
+      "Translation": "@理树@「接下来会很长吗？」"
     },
     {
-      "JP": "`$(1,0)@「いやぁ…そんなに長くない…かな…」",
-      "EN": "`$(1,1)@ ❝No... Almost there... I think...❞",
-      "Translation": "`$(1,1)@「不…倒也不会特别长…吧…」"
+      "JP": "@$(5)@「いやぁ…そんなに長くない…かな…」",
+      "EN": "@$(5)@ ❝No... Almost there... I think...❞",
+      "Translation": "@$(5)@「不…倒也不会特别长…吧…」"
     },
     {
-      "JP": "`理樹@「じゃ、僕はいいよ。$(2,0)ひとりで、食べなよ」",
-      "EN": "`Riki@❝Then don't mind me. Help yourself, $(2,1)!❞",
-      "Translation": "`理树@「那我就不用了。$(2,1)一个人吃吧」"
+      "JP": "@理樹@「じゃ、僕はいいよ。$(4)ひとりで、食べなよ」",
+      "EN": "@Riki@❝Then don't mind me. Help yourself, $(4)!❞",
+      "Translation": "@理树@「那我就不用了。$(4)一个人吃吧」"
     },
     {
-      "JP": "`$(1,0)@「あ…あー…そうねぇ…でも、残念なことにあたし用のじゃないんだ…」",
-      "EN": "`$(1,1)@ ❝A-ah... that's right... unfortunately, that's not for me.❞",
-      "Translation": "`$(1,1)@「啊…啊…是啊…但是，很遗憾那不是给我吃的…」"
+      "JP": "@$(5)@「あ…あー…そうねぇ…でも、残念なことにあたし用のじゃないんだ…」",
+      "EN": "@$(5)@ ❝A-ah... that's right... unfortunately, that's not for me.❞",
+      "Translation": "@$(5)@「啊…啊…是啊…但是，很遗憾那不是给我吃的…」"
     },
     {
-      "JP": "`理樹@「え？　僕に用意してきてくれたの？」",
-      "EN": "`Riki@❝Eh? You prepared that for me?❞",
-      "Translation": "`理树@「哎？　是特地帮我准备的吗？」"
+      "JP": "@理樹@「え？　僕に用意してきてくれたの？」",
+      "EN": "@Riki@❝Eh? You prepared that for me?❞",
+      "Translation": "@理树@「哎？　是特地帮我准备的吗？」"
     },
     {
-      "JP": "`$(1,0)@「いや、用意したとまでは…なんていうか、なんとなーくね…」",
-      "EN": "`$(1,1)@ ❝No, I wouldn't say ❛prepared❜... how should I say it... I really made it for no reason...❞",
-      "Translation": "`$(1,1)@「不，倒也不是特地帮你准备…怎么说呢，一不小心吧…」"
+      "JP": "@$(5)@「いや、用意したとまでは…なんていうか、なんとなーくね…」",
+      "EN": "@$(5)@ ❝No, I wouldn't say ❛prepared❜... how should I say it... I really made it for no reason...❞",
+      "Translation": "@$(5)@「不，倒也不是特地帮你准备…怎么说呢，一不小心吧…」"
     },
     {
-      "JP": "`理樹@「なんとなく用意してくれたんだ。ありがとう。何だろ。見せてよ」",
-      "EN": "`Riki@❝So you made it for no reason? I'm still happy. What is it? Can you show me?❞",
-      "Translation": "`理树@「一不小心帮我准备好的啊。谢谢。是什么，让我看看吧」"
+      "JP": "@理樹@「なんとなく用意してくれたんだ。ありがとう。何だろ。見せてよ」",
+      "EN": "@Riki@❝So you made it for no reason? I'm still happy. What is it? Can you show me?❞",
+      "Translation": "@理树@「一不小心帮我准备好的啊。谢谢。是什么，让我看看吧」"
     },
     {
-      "JP": "`$(1,0)@「いや、も、ほんと、もう、ありあわせのもの詰めてきただけで、用意したってほどでもないのよ、期待しないで…」",
-      "EN": "`$(1,1)@ ❝Well, I just stuffed it with whatever was available... So don't expect too much...❞",
-      "Translation": "`$(1,1)@「不，其实，那个，只是把现成的东西凑起来而已，并不算是特地准备的程度，不要太期待…」"
+      "JP": "@$(5)@「いや、も、ほんと、もう、ありあわせのもの詰めてきただけで、用意したってほどでもないのよ、期待しないで…」",
+      "EN": "@$(5)@ ❝Well, I just stuffed it with whatever was available... So don't expect too much...❞",
+      "Translation": "@$(5)@「不，其实，那个，只是把现成的东西凑起来而已，并不算是特地准备的程度，不要太期待…」"
     },
     {
-      "JP": "`理樹@「もちろん、どんなものだっていいよ」",
-      "EN": "`Riki@❝Of course, I'd be grateful for anything.❞",
-      "Translation": "`理树@「当然了，无论什么都好」"
+      "JP": "@理樹@「もちろん、どんなものだっていいよ」",
+      "EN": "@Riki@❝Of course, I'd be grateful for anything.❞",
+      "Translation": "@理树@「当然了，无论什么都好」"
     },
     {
       "JP": "彼女は背中に回していた手を脇へとずらした。",
@@ -641,44 +641,44 @@
       "Translation": "那是用手帕包好的，便当盒一样的东西。"
     },
     {
-      "JP": "`理樹@「うわ、お弁当作ってくれたんだ」",
-      "EN": "`Riki@❝Wow, you made me lunch.❞",
-      "Translation": "`理树@「哇，做了便当啊」"
+      "JP": "@理樹@「うわ、お弁当作ってくれたんだ」",
+      "EN": "@Riki@❝Wow, you made me lunch.❞",
+      "Translation": "@理树@「哇，做了便当啊」"
     },
     {
-      "JP": "`$(1,0)@「お弁当まではいかないわっ…」",
-      "EN": "`$(1,1)@ ❝It's nothing that special...❞",
-      "Translation": "`$(1,1)@「还不能算是便当…」"
+      "JP": "@$(5)@「お弁当まではいかないわっ…」",
+      "EN": "@$(5)@ ❝It's nothing that special...❞",
+      "Translation": "@$(5)@「还不能算是便当…」"
     },
     {
-      "JP": "`理樹@「でも弁当箱でしょ？」",
-      "EN": "`Riki@❝But isn't that a bento box?❞",
-      "Translation": "`理树@「但是用了便当盒吧？」"
+      "JP": "@理樹@「でも弁当箱でしょ？」",
+      "EN": "@Riki@❝But isn't that a bento box?❞",
+      "Translation": "@理树@「但是用了便当盒吧？」"
     },
     {
-      "JP": "`$(1,0)@「そうね、箱はお弁当箱ね…」",
-      "EN": "`$(1,1)@ ❝Yeah, the box is...❞",
-      "Translation": "`$(1,1)@「是呢，盒子用的是便当盒…」"
+      "JP": "@$(5)@「そうね、箱はお弁当箱ね…」",
+      "EN": "@$(5)@ ❝Yeah, the box is...❞",
+      "Translation": "@$(5)@「是呢，盒子用的是便当盒…」"
     },
     {
-      "JP": "`理樹@「丁寧にハンカチでくるんでくれてるし」",
-      "EN": "`Riki@❝You even wrapped it carefully in a handkerchief.❞",
-      "Translation": "`理树@「而且还细心地用手帕包起来了」"
+      "JP": "@理樹@「丁寧にハンカチでくるんでくれてるし」",
+      "EN": "@Riki@❝You even wrapped it carefully in a handkerchief.❞",
+      "Translation": "@理树@「而且还细心地用手帕包起来了」"
     },
     {
-      "JP": "`$(1,0)@「あー…このハンカチは決してそれ用に用意したわけではなく、たまたまポケットに入ってて…」",
-      "EN": "`$(1,1)@ ❝Yeah... I didn't do that on purpose, it was just something that happened to be in my pocket...❞",
-      "Translation": "`$(1,1)@「啊…这块手帕可不是为了这个而准备的，只是碰巧塞进了口袋…」"
+      "JP": "@$(5)@「あー…このハンカチは決してそれ用に用意したわけではなく、たまたまポケットに入ってて…」",
+      "EN": "@$(5)@ ❝Yeah... I didn't do that on purpose, it was just something that happened to be in my pocket...❞",
+      "Translation": "@$(5)@「啊…这块手帕可不是为了这个而准备的，只是碰巧塞进了口袋…」"
     },
     {
-      "JP": "`理樹@「なんでもいいよ、早く見せてよ」",
-      "EN": "`Riki@❝Anything's fine, just show it to me already.❞",
-      "Translation": "`理树@「怎样都好啦，快点让我看看」"
+      "JP": "@理樹@「なんでもいいよ、早く見せてよ」",
+      "EN": "@Riki@❝Anything's fine, just show it to me already.❞",
+      "Translation": "@理树@「怎样都好啦，快点让我看看」"
     },
     {
-      "JP": "`$(1,0)@「じゃ、ほらっ、受けとんなさいよっ」",
-      "EN": "`$(1,1)@ ❝Then, here. Take it.❞",
-      "Translation": "`$(1,1)@「那，给你，接着」"
+      "JP": "@$(5)@「じゃ、ほらっ、受けとんなさいよっ」",
+      "EN": "@$(5)@ ❝Then, here. Take it.❞",
+      "Translation": "@$(5)@「那，给你，接着」"
     },
     {
       "JP": "トスされる。",
@@ -686,9 +686,9 @@
       "Translation": "扔了过来。"
     },
     {
-      "JP": "`理樹@「あっ」",
-      "EN": "`Riki@❝Ah.❞",
-      "Translation": "`理树@「啊」"
+      "JP": "@理樹@「あっ」",
+      "EN": "@Riki@❝Ah.❞",
+      "Translation": "@理树@「啊」"
     },
     {
       "JP": "落とさないように身を挺してキャッチを試みる。",
@@ -701,39 +701,39 @@
       "Translation": "但是，只有指尖碰到了。便当盒横着掉在了地上。"
     },
     {
-      "JP": "`$(1,0)@「うああぁあああぁああぁぁぁぁぁーーーっ!!」",
-      "EN": "`$(1,1)@ ❝Uwaaaaaaaaaaaaaaa!!❞",
-      "Translation": "`$(1,1)@「哇啊啊啊啊啊啊啊啊啊啊啊啊——————！！」"
+      "JP": "@$(5)@「うああぁあああぁああぁぁぁぁぁーーーっ!!」",
+      "EN": "@$(5)@ ❝Uwaaaaaaaaaaaaaaa!!❞",
+      "Translation": "@$(5)@「哇啊啊啊啊啊啊啊啊啊啊啊啊——————！！」"
     },
     {
-      "JP": "`$(1,0)@「なんてことするのよおぉぉぉーっ!!」",
-      "EN": "`$(1,1)@ ❝What are you doiiiiiiiiiiiing!!❞",
-      "Translation": "`$(1,1)@「你在干什么啊————————！！」"
+      "JP": "@$(5)@「なんてことするのよおぉぉぉーっ!!」",
+      "EN": "@$(5)@ ❝What are you doiiiiiiiiiiiing!!❞",
+      "Translation": "@$(5)@「你在干什么啊————————！！」"
     },
     {
-      "JP": "`理樹@「いやいやいやっ、あなたが投げたんですからっ」",
-      "EN": "`Riki@❝No, no, no, it was you who threw it.❞",
-      "Translation": "`理树@「不不不，都是因为你扔过来才这样的」"
+      "JP": "@理樹@「いやいやいやっ、あなたが投げたんですからっ」",
+      "EN": "@Riki@❝No, no, no, it was you who threw it.❞",
+      "Translation": "@理树@「不不不，都是因为你扔过来才这样的」"
     },
     {
-      "JP": "`$(1,0)@「そんなあああぁぁぁ…うああぁああああぁああぁぁぁ…」",
-      "EN": "`$(1,1)@ ❝Nooooo... uwaaaaaaaaaaaa...❞",
-      "Translation": "`$(1,1)@「怎么会这样…哇啊啊啊啊啊啊啊啊啊啊啊啊…」"
+      "JP": "@$(5)@「そんなあああぁぁぁ…うああぁああああぁああぁぁぁ…」",
+      "EN": "@$(5)@ ❝Nooooo... uwaaaaaaaaaaaa...❞",
+      "Translation": "@$(5)@「怎么会这样…哇啊啊啊啊啊啊啊啊啊啊啊啊…」"
     },
     {
-      "JP": "`理樹@「そんなに絶望するなら、初めからちゃんと手渡しで頂戴よ…」",
-      "EN": "`Riki@❝If it was going to make you so upset, you should have just pass it to me by hand...❞",
-      "Translation": "`理树@「既然会如此绝望的话，当初就应该好好地交给我嘛…」"
+      "JP": "@理樹@「そんなに絶望するなら、初めからちゃんと手渡しで頂戴よ…」",
+      "EN": "@Riki@❝If it was going to make you so upset, you should have just pass it to me by hand...❞",
+      "Translation": "@理树@「既然会如此绝望的话，当初就应该好好地交给我嘛…」"
     },
     {
-      "JP": "`$(1,0)@「うああぁああああぁああぁぁぁ…」",
-      "EN": "`$(1,1)@ ❝Uwaaaaaaaa...❞",
-      "Translation": "`$(1,1)@「哇啊啊啊啊啊啊啊啊啊啊啊啊…」"
+      "JP": "@$(5)@「うああぁああああぁああぁぁぁ…」",
+      "EN": "@$(5)@ ❝Uwaaaaaaaa...❞",
+      "Translation": "@$(5)@「哇啊啊啊啊啊啊啊啊啊啊啊啊…」"
     },
     {
-      "JP": "`理樹@「ああ、もったいないなあ…中身ぜんぶ偏っちゃってるよ」",
-      "EN": "`Riki@❝Ah, such a waste... the contents are a mess.❞",
-      "Translation": "`理树@「啊啊，真浪费…里面的东西全都打翻了吧」"
+      "JP": "@理樹@「ああ、もったいないなあ…中身ぜんぶ偏っちゃってるよ」",
+      "EN": "@Riki@❝Ah, such a waste... the contents are a mess.❞",
+      "Translation": "@理树@「啊啊，真浪费…里面的东西全都打翻了吧」"
     },
     {
       "JP": "それを拾い上げ、膝に載せてハンカチを解く。",
@@ -756,44 +756,44 @@
       "Translation": "打开盖子，里面的东西都翻倒在一边了。"
     },
     {
-      "JP": "`$(1,0)@「うああぁあぁぁぁぁぁー！　あんなに時間かけたのにいぃぃぃーーーっ!!」",
-      "EN": "`$(1,1)@ ❝Uwaaaaaaaa! I spent so much time on thaaaaaat!!❞",
-      "Translation": "`$(1,1)@「哇啊啊啊啊啊啊啊－！！　我花了那么多时间去做的－－－－！！」"
+      "JP": "@$(5)@「うああぁあぁぁぁぁぁー！　あんなに時間かけたのにいぃぃぃーーーっ!!」",
+      "EN": "@$(5)@ ❝Uwaaaaaaaa! I spent so much time on thaaaaaat!!❞",
+      "Translation": "@$(5)@「哇啊啊啊啊啊啊啊－！！　我花了那么多时间去做的－－－－！！」"
     },
     {
-      "JP": "`理樹@「仕方ないね…」",
-      "EN": "`Riki@❝It can't be helped...❞",
-      "Translation": "`理树@「没办法了呢…」"
+      "JP": "@理樹@「仕方ないね…」",
+      "EN": "@Riki@❝It can't be helped...❞",
+      "Translation": "@理树@「没办法了呢…」"
     },
     {
-      "JP": "`理樹@「ていうか、そんなに時間かけてくれたんだ」",
-      "EN": "`Riki@❝By the way, it took that much time?❞",
-      "Translation": "`理树@「说起来，你花了很多时间的啊」"
+      "JP": "@理樹@「ていうか、そんなに時間かけてくれたんだ」",
+      "EN": "@Riki@❝By the way, it took that much time?❞",
+      "Translation": "@理树@「说起来，你花了很多时间的啊」"
     },
     {
-      "JP": "`$(1,0)@「っ…」",
-      "EN": "`$(1,1)@ ❝Hgnh...❞",
-      "Translation": "`$(1,1)@「唔…」"
+      "JP": "@$(5)@「っ…」",
+      "EN": "@$(5)@ ❝Hgnh...❞",
+      "Translation": "@$(5)@「唔…」"
     },
     {
-      "JP": "`$(1,0)@「ふんっ、かけるもんですかっ、適当に突っ込んだだけよっ、ものの数秒よっ」",
-      "EN": "`$(1,1)@ ❝Hphm, not at all. I just randomly threw something together, it took no more than a few seconds.❞",
-      "Translation": "`$(1,1)@「哼，谁会花时间去做啊，只是胡乱把东西塞进去罢了，只花了几秒而已」"
+      "JP": "@$(5)@「ふんっ、かけるもんですかっ、適当に突っ込んだだけよっ、ものの数秒よっ」",
+      "EN": "@$(5)@ ❝Hphm, not at all. I just randomly threw something together, it took no more than a few seconds.❞",
+      "Translation": "@$(5)@「哼，谁会花时间去做啊，只是胡乱把东西塞进去罢了，只花了几秒而已」"
     },
     {
-      "JP": "`理樹@「じゃ、そんなに絶望しないでよ…」",
-      "EN": "`Riki@❝Then don't be so heartbroken...❞",
-      "Translation": "`理树@「那就不要这么绝望啊…」"
+      "JP": "@理樹@「じゃ、そんなに絶望しないでよ…」",
+      "EN": "@Riki@❝Then don't be so heartbroken...❞",
+      "Translation": "@理树@「那就不要这么绝望啊…」"
     },
     {
-      "JP": "`理樹@「うわぁ…肉じゃがの汁が全体に浸みてる…」",
-      "EN": "`Riki@❝Uwaa... everything is soaked with the meat and potato stew...❞",
-      "Translation": "`理树@「哇…土豆炖肉的汁浸得到处都是了…」"
+      "JP": "@理樹@「うわぁ…肉じゃがの汁が全体に浸みてる…」",
+      "EN": "@Riki@❝Uwaa... everything is soaked with the meat and potato stew...❞",
+      "Translation": "@理树@「哇…土豆炖肉的汁浸得到处都是了…」"
     },
     {
-      "JP": "`$(1,0)@「うあああぁぁあぁぁあぁぁぁぁぁ」",
-      "EN": "`$(1,1)@ ❝Uwaaaaaaaaaaaa...❞",
-      "Translation": "`$(1,1)@「哇啊啊啊啊啊啊啊啊啊啊啊啊啊」"
+      "JP": "@$(5)@「うあああぁぁあぁぁあぁぁぁぁぁ」",
+      "EN": "@$(5)@ ❝Uwaaaaaaaaaaaa...❞",
+      "Translation": "@$(5)@「哇啊啊啊啊啊啊啊啊啊啊啊啊啊」"
     },
     {
       "JP": "また絶望している…。",
@@ -806,144 +806,144 @@
       "Translation": "是与便当盒配套的吧，我从同样颜色的盒子里取出筷子，开始品尝土豆炖肉。"
     },
     {
-      "JP": "`理樹@「あ、でも、ジャガイモ美味しいよ、ほっくりしてるね」",
-      "EN": "`Riki@❝Ah, this potato is delicious. Soft and steamy.❞",
-      "Translation": "`理树@「啊，不过，这土豆很好吃哦，很鲜嫩啊」"
+      "JP": "@理樹@「あ、でも、ジャガイモ美味しいよ、ほっくりしてるね」",
+      "EN": "@Riki@❝Ah, this potato is delicious. Soft and steamy.❞",
+      "Translation": "@理树@「啊，不过，这土豆很好吃哦，很鲜嫩啊」"
     },
     {
-      "JP": "`$(1,0)@「でしょっ」",
-      "EN": "`$(1,1)@ ❝Isn't it?❞",
-      "Translation": "`$(1,1)@「是吧」"
+      "JP": "@$(5)@「でしょっ」",
+      "EN": "@$(5)@ ❝Isn't it?❞",
+      "Translation": "@$(5)@「是吧」"
     },
     {
-      "JP": "`理樹@「あ、嬉しいんだ」",
-      "EN": "`Riki@❝You look happy.❞",
-      "Translation": "`理树@「啊，你很高兴啊」"
+      "JP": "@理樹@「あ、嬉しいんだ」",
+      "EN": "@Riki@❝You look happy.❞",
+      "Translation": "@理树@「啊，你很高兴啊」"
     },
     {
-      "JP": "`$(1,0)@「っ…」",
-      "EN": "`$(1,1)@ ❝...❞",
-      "Translation": "`$(1,1)@「唔…」"
+      "JP": "@$(5)@「っ…」",
+      "EN": "@$(5)@ ❝...❞",
+      "Translation": "@$(5)@「唔…」"
     },
     {
-      "JP": "`$(1,0)@「たまたまほっくりになったのよっ、読書しながらだったからっ、偶然よっ」",
-      "EN": "`$(1,1)@ ❝It just happened to turn out that way. I was reading a book while doing it, it's just coincidence.❞",
-      "Translation": "`$(1,1)@「只是碰巧能做得鲜嫩而已，一边看书一边做的，偶然而已」"
+      "JP": "@$(5)@「たまたまほっくりになったのよっ、読書しながらだったからっ、偶然よっ」",
+      "EN": "@$(5)@ ❝It just happened to turn out that way. I was reading a book while doing it, it's just coincidence.❞",
+      "Translation": "@$(5)@「只是碰巧能做得鲜嫩而已，一边看书一边做的，偶然而已」"
     },
     {
-      "JP": "`理樹@「いや、$(2,0)の腕だと思うよ。料理できるんだね」",
-      "EN": "`Riki@❝No, I think it's your skill, $(2,1). You sure can cook.❞",
-      "Translation": "`理树@「不，我想是因为$(2,1)的技术。才能做的如此好吃」"
+      "JP": "@理樹@「いや、$(4)の腕だと思うよ。料理できるんだね」",
+      "EN": "@Riki@❝No, I think it's your skill, $(4). You sure can cook.❞",
+      "Translation": "@理树@「不，我想是因为$(4)的技术。才能做的如此好吃」"
     },
     {
-      "JP": "`$(1,0)@「まぁ、簡単なものはね」",
-      "EN": "`$(1,1)@ ❝Well, only simple stuff.❞",
-      "Translation": "`$(1,1)@「嘛，因为是简单的东西」"
+      "JP": "@$(5)@「まぁ、簡単なものはね」",
+      "EN": "@$(5)@ ❝Well, only simple stuff.❞",
+      "Translation": "@$(5)@「嘛，因为是简单的东西」"
     },
     {
-      "JP": "`理樹@「あー、このタレも甘辛くて、絶妙だね」",
-      "EN": "`Riki@❝Ah, this dipping sauce is sweet and spicy, such an exquisite taste.❞",
-      "Translation": "`理树@「啊，这个调味汁也甜辣适中，绝妙」"
+      "JP": "@理樹@「あー、このタレも甘辛くて、絶妙だね」",
+      "EN": "@Riki@❝Ah, this dipping sauce is sweet and spicy, such an exquisite taste.❞",
+      "Translation": "@理树@「啊，这个调味汁也甜辣适中，绝妙」"
     },
     {
-      "JP": "`$(1,0)@「でしょっ」",
-      "EN": "`$(1,1)@ ❝Isn't it?❞",
-      "Translation": "`$(1,1)@「是吧」"
+      "JP": "@$(5)@「でしょっ」",
+      "EN": "@$(5)@ ❝Isn't it?❞",
+      "Translation": "@$(5)@「是吧」"
     },
     {
-      "JP": "`$(1,0)@「ああっ、いや、たまたまよっ、適当に調味料混ぜたら、偶然甘すぎも辛すぎもしないちょうどいいタレに仕上がったのよっ」",
-      "EN": "`$(1,1)@ ❝Ah, no, I just happened to mix some seasonings together. It just coincidentally turned out not too sweet or spicy.❞",
-      "Translation": "`$(1,1)@「啊啊，不对，只是碰巧的，随便把调味料混合起来，偶然做出了不太甜也不太辣的调味汁而已」"
+      "JP": "@$(5)@「ああっ、いや、たまたまよっ、適当に調味料混ぜたら、偶然甘すぎも辛すぎもしないちょうどいいタレに仕上がったのよっ」",
+      "EN": "@$(5)@ ❝Ah, no, I just happened to mix some seasonings together. It just coincidentally turned out not too sweet or spicy.❞",
+      "Translation": "@$(5)@「啊啊，不对，只是碰巧的，随便把调味料混合起来，偶然做出了不太甜也不太辣的调味汁而已」"
     },
     {
-      "JP": "`理樹@「へぇ。あー、ご飯にのりはうれしいな」",
-      "EN": "`Riki@❝Ohh, ah, this rice with seaweed is wonderful.❞",
-      "Translation": "`理树@「嘿。啊，饭里有海苔啊，真让人高兴」"
+      "JP": "@理樹@「へぇ。あー、ご飯にのりはうれしいな」",
+      "EN": "@Riki@❝Ohh, ah, this rice with seaweed is wonderful.❞",
+      "Translation": "@理树@「嘿。啊，饭里有海苔啊，真让人高兴」"
     },
     {
-      "JP": "`$(1,0)@「のり弁で正解だった!?」",
-      "EN": "`$(1,1)@ ❝Was I right to go with seaweed rice!?❞",
-      "Translation": "`$(1,1)@「果然做海苔便当是正确的吗！？」"
+      "JP": "@$(5)@「のり弁で正解だった!?」",
+      "EN": "@$(5)@ ❝Was I right to go with seaweed rice!?❞",
+      "Translation": "@$(5)@「果然做海苔便当是正确的吗！？」"
     },
     {
-      "JP": "`理樹@「嬉しいんだ」",
-      "EN": "`Riki@❝You look happy.❞",
-      "Translation": "`理树@「你果然很高兴啊」"
+      "JP": "@理樹@「嬉しいんだ」",
+      "EN": "@Riki@❝You look happy.❞",
+      "Translation": "@理树@「你果然很高兴啊」"
     },
     {
-      "JP": "`$(1,0)@「あーーーっ、いや、たまたまのりがふぁっさ～って風で吹き飛んできて偶然のり弁になったのよっ」",
-      "EN": "`$(1,1)@ ❝Aahh, no, it just happened that some seaweed got blown in by the wind, coincidentally making it seaweed rice.❞",
-      "Translation": "`$(1,1)@「啊——不，只是海苔碰巧“刷”地被风吹了进去，偶然就变成了海苔便当了而已」"
+      "JP": "@$(5)@「あーーーっ、いや、たまたまのりがふぁっさ～って風で吹き飛んできて偶然のり弁になったのよっ」",
+      "EN": "@$(5)@ ❝Aahh, no, it just happened that some seaweed got blown in by the wind, coincidentally making it seaweed rice.❞",
+      "Translation": "@$(5)@「啊——不，只是海苔碰巧“刷”地被风吹了进去，偶然就变成了海苔便当了而已」"
     },
     {
-      "JP": "`理樹@「ちゃんとおかかも、敷いてくれてあるし」",
-      "EN": "`Riki@❝The dried tuna is also well spread out.❞",
-      "Translation": "`理树@「还认真地铺上了鲣鱼干」"
+      "JP": "@理樹@「ちゃんとおかかも、敷いてくれてあるし」",
+      "EN": "@Riki@❝The dried tuna is also well spread out.❞",
+      "Translation": "@理树@「还认真地铺上了鲣鱼干」"
     },
     {
-      "JP": "`$(1,0)@「それはっ、あー、ご飯から勝手に生えてきたのよっ、たまたまよっ」",
-      "EN": "`$(1,1)@ ❝That is, ah, that just randomly grew up from the rice.❞",
-      "Translation": "`$(1,1)@「那个是，啊，不知道怎么回事就从饭里长出来了，碰巧而已」"
+      "JP": "@$(5)@「それはっ、あー、ご飯から勝手に生えてきたのよっ、たまたまよっ」",
+      "EN": "@$(5)@ ❝That is, ah, that just randomly grew up from the rice.❞",
+      "Translation": "@$(5)@「那个是，啊，不知道怎么回事就从饭里长出来了，碰巧而已」"
     },
     {
-      "JP": "`理樹@「気持ち悪いこと言うなぁ。でも美味しいよ」",
-      "EN": "`Riki@❝Don't say such weird things. But this is delicious.❞",
-      "Translation": "`理树@「不要说那么奇怪的话。不过真的很美味」"
+      "JP": "@理樹@「気持ち悪いこと言うなぁ。でも美味しいよ」",
+      "EN": "@Riki@❝Don't say such weird things. But this is delicious.❞",
+      "Translation": "@理树@「不要说那么奇怪的话。不过真的很美味」"
     },
     {
-      "JP": "ようやく落ち着いて食べられるようになった頃、$(2,0)は話を始めた。",
-      "EN": "When I was finally able to sit down and calmly enjoy the food, $(2,1) started to talk.",
-      "Translation": "在我终于能安下心来吃的时候，$(2,1)打开了话匣子。"
+      "JP": "ようやく落ち着いて食べられるようになった頃、$(4)は話を始めた。",
+      "EN": "When I was finally able to sit down and calmly enjoy the food, $(4) started to talk.",
+      "Translation": "在我终于能安下心来吃的时候，$(4)打开了话匣子。"
     },
     {
-      "JP": "`$(1,0)@「ねぇ、理樹くん」",
-      "EN": "`$(1,1)@ ❝Hey, Riki-kun.❞",
-      "Translation": "`$(1,1)@「那个，理树君」"
+      "JP": "@$(5)@「ねぇ、理樹くん」",
+      "EN": "@$(5)@ ❝Hey, Riki-kun.❞",
+      "Translation": "@$(5)@「那个，理树君」"
     },
     {
-      "JP": "`$(1,0)@「この地下に眠る秘宝ってなんだと思う？」",
-      "EN": "`$(1,1)@ ❝What do you think the secret treasure hidden underground is?❞",
-      "Translation": "`$(1,1)@「你觉得沉睡在这地下的秘宝会是什么？」"
+      "JP": "@$(5)@「この地下に眠る秘宝ってなんだと思う？」",
+      "EN": "@$(5)@ ❝What do you think the secret treasure hidden underground is?❞",
+      "Translation": "@$(5)@「你觉得沉睡在这地下的秘宝会是什么？」"
     },
     {
-      "JP": "`理樹@「金銀財宝のようなものじゃなく、革新的なものなんでしょ？」",
-      "EN": "`Riki@❝It's not something like gold and silver, but rather something revolutionary, right?❞",
-      "Translation": "`理树@「你说过不是什么金银财宝，而是某种划时代的东西吧？」"
+      "JP": "@理樹@「金銀財宝のようなものじゃなく、革新的なものなんでしょ？」",
+      "EN": "@Riki@❝It's not something like gold and silver, but rather something revolutionary, right?❞",
+      "Translation": "@理树@「你说过不是什么金银财宝，而是某种划时代的东西吧？」"
     },
     {
-      "JP": "`$(1,0)@「そう」",
-      "EN": "`$(1,1)@ ❝That's right.❞",
-      "Translation": "`$(1,1)@「嗯」"
+      "JP": "@$(5)@「そう」",
+      "EN": "@$(5)@ ❝That's right.❞",
+      "Translation": "@$(5)@「嗯」"
     },
     {
-      "JP": "`理樹@「うーん、なんだろうね…ＵＦＯの推進エンジンってのはどう？」",
-      "EN": "`Riki@❝Uhm, I wonder.. how about a UFO propulsion engine?❞",
-      "Translation": "`理树@「嗯，会是什么呢…ＵＦＯ的推进引擎吗？」"
+      "JP": "@理樹@「うーん、なんだろうね…ＵＦＯの推進エンジンってのはどう？」",
+      "EN": "@Riki@❝Uhm, I wonder.. how about a UFO propulsion engine?❞",
+      "Translation": "@理树@「嗯，会是什么呢…ＵＦＯ的推进引擎吗？」"
     },
     {
-      "JP": "`$(1,0)@「なるほど。それは革新的だわ。アメリカもロシアも躍起になるわけだ」",
-      "EN": "`$(1,1)@ ❝I see. That's certainly revolutionary. America and Russia would desperately want that.❞",
-      "Translation": "`$(1,1)@「原来如此。那还真是划时代呢。无论是美国还是俄国都会大感兴趣呢」"
+      "JP": "@$(5)@「なるほど。それは革新的だわ。アメリカもロシアも躍起になるわけだ」",
+      "EN": "@$(5)@ ❝I see. That's certainly revolutionary. America and Russia would desperately want that.❞",
+      "Translation": "@$(5)@「原来如此。那还真是划时代呢。无论是美国还是俄国都会大感兴趣呢」"
     },
     {
-      "JP": "`理樹@「え？　ほんとにそうなの？」",
-      "EN": "`Riki@❝Eh?　Really?❞",
-      "Translation": "`理树@「咦？　真的那样的吗？」"
+      "JP": "@理樹@「え？　ほんとにそうなの？」",
+      "EN": "@Riki@❝Eh?　Really?❞",
+      "Translation": "@理树@「咦？　真的那样的吗？」"
     },
     {
-      "JP": "`$(1,0)@「さあ、どうだろうね。見てみるまでは」",
-      "EN": "`$(1,1)@ ❝Well, who knows. Not until we see it.❞",
-      "Translation": "`$(1,1)@「谁知道呢，在还没见到之前」"
+      "JP": "@$(5)@「さあ、どうだろうね。見てみるまでは」",
+      "EN": "@$(5)@ ❝Well, who knows. Not until we see it.❞",
+      "Translation": "@$(5)@「谁知道呢，在还没见到之前」"
     },
     {
-      "JP": "`理樹@「$(2,0)はなんだと思うの？」",
-      "EN": "`Riki@❝What do you think it is then, $(2,1)?❞",
-      "Translation": "`理树@「$(2,1)觉得会是什么呢？」"
+      "JP": "@理樹@「$(4)はなんだと思うの？」",
+      "EN": "@Riki@❝What do you think it is then, $(4)?❞",
+      "Translation": "@理树@「$(4)觉得会是什么呢？」"
     },
     {
-      "JP": "`$(1,0)@「んー…」",
-      "EN": "`$(1,1)@ ❝Hmm....❞",
-      "Translation": "`$(1,1)@「嗯…」"
+      "JP": "@$(5)@「んー…」",
+      "EN": "@$(5)@ ❝Hmm....❞",
+      "Translation": "@$(5)@「嗯…」"
     },
     {
       "JP": "目を瞑り、しばし考える。",
@@ -951,89 +951,89 @@
       "Translation": "闭上眼睛考虑了片刻。"
     },
     {
-      "JP": "`$(1,0)@「あたしの推測ではね…」",
-      "EN": "`$(1,1)@ ❝My guess is that...❞",
-      "Translation": "`$(1,1)@「以我的推测来看的话…」"
+      "JP": "@$(5)@「あたしの推測ではね…」",
+      "EN": "@$(5)@ ❝My guess is that...❞",
+      "Translation": "@$(5)@「以我的推测来看的话…」"
     },
     {
-      "JP": "`$(1,0)@「秘宝はタイムマシン」",
-      "EN": "`$(1,1)@ ❝The secret treasure is a time machine.❞",
-      "Translation": "`$(1,1)@「秘宝是时光机」"
+      "JP": "@$(5)@「秘宝はタイムマシン」",
+      "EN": "@$(5)@ ❝The secret treasure is a time machine.❞",
+      "Translation": "@$(5)@「秘宝是时光机」"
     },
     {
-      "JP": "`理樹@「それ、ＵＦＯよりすごくない？」",
-      "EN": "`Riki@❝Isn't that more awesome than a UFO?❞",
-      "Translation": "`理树@「那不是比ＵＦＯ还要厉害吗？」"
+      "JP": "@理樹@「それ、ＵＦＯよりすごくない？」",
+      "EN": "@Riki@❝Isn't that more awesome than a UFO?❞",
+      "Translation": "@理树@「那不是比ＵＦＯ还要厉害吗？」"
     },
     {
-      "JP": "`$(1,0)@「でも、それぐらいすごいものでもなければ、世界中からスパイなんて送り込まれてこないわよ」",
-      "EN": "`$(1,1)@ ❝But unless it's something that important, spies all over the world wouldn't be converging here.❞",
-      "Translation": "`$(1,1)@「但是，如果不是这么厉害的东西，世界各地怎么可能会争先恐后地往这里送间谍」"
+      "JP": "@$(5)@「でも、それぐらいすごいものでもなければ、世界中からスパイなんて送り込まれてこないわよ」",
+      "EN": "@$(5)@ ❝But unless it's something that important, spies all over the world wouldn't be converging here.❞",
+      "Translation": "@$(5)@「但是，如果不是这么厉害的东西，世界各地怎么可能会争先恐后地往这里送间谍」"
     },
     {
-      "JP": "`理樹@「それもそうだけど…タイムマシンねぇ…」",
-      "EN": "`Riki@❝That's true, but... a time machine, huh...❞",
-      "Translation": "`理树@「话是这么说没错…时光机啊…」"
+      "JP": "@理樹@「それもそうだけど…タイムマシンねぇ…」",
+      "EN": "@Riki@❝That's true, but... a time machine, huh...❞",
+      "Translation": "@理树@「话是这么说没错…时光机啊…」"
     },
     {
-      "JP": "`理樹@「もしほんとに実在するなら、使ってみたいよね」",
-      "EN": "`Riki@❝If that exists for real, I'd want to try it...❞",
-      "Translation": "`理树@「如果真存在的话，真想坐一次」"
+      "JP": "@理樹@「もしほんとに実在するなら、使ってみたいよね」",
+      "EN": "@Riki@❝If that exists for real, I'd want to try it...❞",
+      "Translation": "@理树@「如果真存在的话，真想坐一次」"
     },
     {
-      "JP": "`$(1,0)@「理樹くんなら、いつに行きたい？」",
-      "EN": "`$(1,1)@ ❝Where would you want to go to, Riki-kun?❞",
-      "Translation": "`$(1,1)@「理树君想去到什么时候？」"
+      "JP": "@$(5)@「理樹くんなら、いつに行きたい？」",
+      "EN": "@$(5)@ ❝Where would you want to go to, Riki-kun?❞",
+      "Translation": "@$(5)@「理树君想去到什么时候？」"
     },
     {
-      "JP": "`理樹@「そうだね…百年ぐらい未来に行って、文化の進展を見たいかな」",
-      "EN": "`Riki@❝Let's see... maybe one hundred years from now. I want to see how the world has changed.❞",
-      "Translation": "`理树@「是呢…想到百年后的未来，去看看文化的发展」"
+      "JP": "@理樹@「そうだね…百年ぐらい未来に行って、文化の進展を見たいかな」",
+      "EN": "@Riki@❝Let's see... maybe one hundred years from now. I want to see how the world has changed.❞",
+      "Translation": "@理树@「是呢…想到百年后的未来，去看看文化的发展」"
     },
     {
-      "JP": "`理樹@「それこそ、車は空を飛んでるかもしれないし、宇宙旅行も賑わってるかもしれないし、ゲームだったら、完璧にバーチャルで体感できたりするんじゃないかな」",
-      "EN": "`Riki@❝Maybe cars would be flying in the sky, space travel would be common, and complete virtual reality games would be available.❞",
-      "Translation": "`理树@「那时候，也许车子可以在天空中飞行，宇宙旅行也不再是梦想，而说到游戏的话，应该可以完美地虚拟现实了吧」"
+      "JP": "@理樹@「それこそ、車は空を飛んでるかもしれないし、宇宙旅行も賑わってるかもしれないし、ゲームだったら、完璧にバーチャルで体感できたりするんじゃないかな」",
+      "EN": "@Riki@❝Maybe cars would be flying in the sky, space travel would be common, and complete virtual reality games would be available.❞",
+      "Translation": "@理树@「那时候，也许车子可以在天空中飞行，宇宙旅行也不再是梦想，而说到游戏的话，应该可以完美地虚拟现实了吧」"
     },
     {
-      "JP": "`$(1,0)@「それは楽しそうだけど、あたしは嫌かな」",
-      "EN": "`$(1,1)@ ❝That sounds fun, but I wouldn't do that.❞",
-      "Translation": "`$(1,1)@「也许那样会很快乐，但我却不喜欢」"
+      "JP": "@$(5)@「それは楽しそうだけど、あたしは嫌かな」",
+      "EN": "@$(5)@ ❝That sounds fun, but I wouldn't do that.❞",
+      "Translation": "@$(5)@「也许那样会很快乐，但我却不喜欢」"
     },
     {
-      "JP": "`理樹@「どうして？」",
-      "EN": "`Riki@❝Why?❞",
-      "Translation": "`理树@「为什么？」"
+      "JP": "@理樹@「どうして？」",
+      "EN": "@Riki@❝Why?❞",
+      "Translation": "@理树@「为什么？」"
     },
     {
-      "JP": "`$(1,0)@「地球が滅んでるかもしれないじゃない」",
-      "EN": "`$(1,1)@ ❝Earth could be destroyed by then.❞",
-      "Translation": "`$(1,1)@「因为那时候地球可能已经毁灭了」"
+      "JP": "@$(5)@「地球が滅んでるかもしれないじゃない」",
+      "EN": "@$(5)@ ❝Earth could be destroyed by then.❞",
+      "Translation": "@$(5)@「因为那时候地球可能已经毁灭了」"
     },
     {
-      "JP": "`理樹@「あ、そうか、それは考えてなかったなぁ…」",
-      "EN": "`Riki@❝Ah, right, I didn't think about that...❞",
-      "Translation": "`理树@「啊，是吗，那个倒没想到…」"
+      "JP": "@理樹@「あ、そうか、それは考えてなかったなぁ…」",
+      "EN": "@Riki@❝Ah, right, I didn't think about that...❞",
+      "Translation": "@理树@「啊，是吗，那个倒没想到…」"
     },
     {
-      "JP": "`$(1,0)@「未来に着いた途端、すぐ死ぬなんて馬鹿げてるでしょ」",
-      "EN": "`$(1,1)@ ❝It would be stupid to die the moment you reach the future, isn't it?❞",
-      "Translation": "`$(1,1)@「一到未来马上就要死掉的话，那不成大笨蛋了吗」"
+      "JP": "@$(5)@「未来に着いた途端、すぐ死ぬなんて馬鹿げてるでしょ」",
+      "EN": "@$(5)@ ❝It would be stupid to die the moment you reach the future, isn't it?❞",
+      "Translation": "@$(5)@「一到未来马上就要死掉的话，那不成大笨蛋了吗」"
     },
     {
-      "JP": "`理樹@「そうだね」",
-      "EN": "`Riki@❝That's true.❞",
-      "Translation": "`理树@「说得也是呢」"
+      "JP": "@理樹@「そうだね」",
+      "EN": "@Riki@❝That's true.❞",
+      "Translation": "@理树@「说得也是呢」"
     },
     {
-      "JP": "`理樹@「じゃあ、$(2,0)は未来じゃなく、過去に行きたいんだね？」",
-      "EN": "`Riki@❝Then, if it's not the future, you would want to travel to the past, right, $(2,1)?❞",
-      "Translation": "`理树@「也就是说，$(2,1)不想去未来，而是想回到过去吗？」"
+      "JP": "@理樹@「じゃあ、$(4)は未来じゃなく、過去に行きたいんだね？」",
+      "EN": "@Riki@❝Then, if it's not the future, you would want to travel to the past, right, $(4)?❞",
+      "Translation": "@理树@「也就是说，$(4)不想去未来，而是想回到过去吗？」"
     },
     {
-      "JP": "`$(1,0)@「そうね」",
-      "EN": "`$(1,1)@ ❝That's right.❞",
-      "Translation": "`$(1,1)@「没错」"
+      "JP": "@$(5)@「そうね」",
+      "EN": "@$(5)@ ❝That's right.❞",
+      "Translation": "@$(5)@「没错」"
     },
     {
       "JP": "顔を俯かせて、少しばかり遠い目になった。",
@@ -1041,34 +1041,34 @@
       "Translation": "她低下头，似乎正想着什么久远的事。"
     },
     {
-      "JP": "`$(1,0)@「もし、できたら…小さな時に戻りたいかな」",
-      "EN": "`$(1,1)@ ❝If possible... I want to return to the time I was small.❞",
-      "Translation": "`$(1,1)@「如果，可以的话…我想回到小时候去」"
+      "JP": "@$(5)@「もし、できたら…小さな時に戻りたいかな」",
+      "EN": "@$(5)@ ❝If possible... I want to return to the time I was small.❞",
+      "Translation": "@$(5)@「如果，可以的话…我想回到小时候去」"
     },
     {
-      "JP": "`$(1,0)@「そしてやり直したい」",
-      "EN": "`$(1,1)@ ❝And redo everything.❞",
-      "Translation": "`$(1,1)@「然后想重新再来一次」"
+      "JP": "@$(5)@「そしてやり直したい」",
+      "EN": "@$(5)@ ❝And redo everything.❞",
+      "Translation": "@$(5)@「然后想重新再来一次」"
     },
     {
-      "JP": "`理樹@「でもそれだと僕たちは出会えないよ。それでもいいの？」",
-      "EN": "`Riki@❝But we wouldn't have met if you do that. Are you alright with that?❞",
-      "Translation": "`理树@「但要是那样的话我们就不会相遇了。那样也可以吗？」"
+      "JP": "@理樹@「でもそれだと僕たちは出会えないよ。それでもいいの？」",
+      "EN": "@Riki@❝But we wouldn't have met if you do that. Are you alright with that?❞",
+      "Translation": "@理树@「但要是那样的话我们就不会相遇了。那样也可以吗？」"
     },
     {
-      "JP": "`$(1,0)@「それはやだな」",
-      "EN": "`$(1,1)@ ❝I'd hate that.❞",
-      "Translation": "`$(1,1)@「那可不行」"
+      "JP": "@$(5)@「それはやだな」",
+      "EN": "@$(5)@ ❝I'd hate that.❞",
+      "Translation": "@$(5)@「那可不行」"
     },
     {
-      "JP": "`$(1,0)@「じゃあ、理樹くんも一緒にどう？」",
-      "EN": "`$(1,1)@ ❝Then, how about coming with me, Riki-kun?❞",
-      "Translation": "`$(1,1)@「那，理树君也一起来如何？」"
+      "JP": "@$(5)@「じゃあ、理樹くんも一緒にどう？」",
+      "EN": "@$(5)@ ❝Then, how about coming with me, Riki-kun?❞",
+      "Translation": "@$(5)@「那，理树君也一起来如何？」"
     },
     {
-      "JP": "`理樹@「…それもいいかもね」",
-      "EN": "`Riki@❝That might be good...❞",
-      "Translation": "`理树@「…这样似乎也不错」"
+      "JP": "@理樹@「…それもいいかもね」",
+      "EN": "@Riki@❝That might be good...❞",
+      "Translation": "@理树@「…这样似乎也不错」"
     },
     {
       "JP": "少しだけ夢のように思う。",
@@ -1096,9 +1096,9 @@
       "Translation": "我们一句话也没说，静静的恢复体力。"
     },
     {
-      "JP": "`$(1,0)@「うんこ、ぶりぶりぶりー！」",
-      "EN": "`$(1,1)@ ❝Takin' a shit!❞",
-      "Translation": "`$(1,1)@「大便，咕噜咕噜咕噜ー！」"
+      "JP": "@$(5)@「うんこ、ぶりぶりぶりー！」",
+      "EN": "@$(5)@ ❝Takin' a shit!❞",
+      "Translation": "@$(5)@「大便，咕噜咕噜咕噜ー！」"
     },
     {
       "JP": "そう言いながら彼女が腰を持ち上げて、お尻を払った。",
@@ -1106,64 +1106,44 @@
       "Translation": "她这么说着，直起腰，拍了拍屁股。"
     },
     {
-      "JP": "`$(1,0)@「じゃ、そろそろいこうかしら」",
-      "EN": "`$(1,1)@ ❝Shall we go soon?❞",
-      "Translation": "`$(1,1)@「我们可以走了吗」"
+      "JP": "@$(5)@「じゃ、そろそろいこうかしら」",
+      "EN": "@$(5)@ ❝Shall we go soon?❞",
+      "Translation": "@$(5)@「我们可以走了吗」"
     },
     {
-      "JP": "`理樹@「ちょ、ちょっと、今のは？」",
-      "EN": "`Riki@❝W-wait, what was that?❞",
-      "Translation": "`理树@「等等，你刚才说的什么？」"
+      "JP": "@理樹@「ちょ、ちょっと、今のは？」",
+      "EN": "@Riki@❝W-wait, what was that?❞",
+      "Translation": "@理树@「等等，你刚才说的什么？」"
     },
     {
-      "JP": "`$(1,0)@「え？　なに？」",
-      "EN": "`$(1,1)@ ❝Eh? What?❞",
-      "Translation": "`$(1,1)@「嗯？什么？」"
+      "JP": "@$(5)@「え？　なに？」",
+      "EN": "@$(5)@ ❝Eh? What?❞",
+      "Translation": "@$(5)@「嗯？什么？」"
     },
     {
-      "JP": "`理樹@「今、ぶりぶりーって…」",
-      "EN": "`Riki@❝Just now, you said...❞",
-      "Translation": "`理树@「就刚才，你说的…」"
+      "JP": "@理樹@「今、ぶりぶりーって…」",
+      "EN": "@Riki@❝Just now, you said...❞",
+      "Translation": "@理树@「就刚才，你说的…」"
     },
     {
-      "JP": "`$(1,0)@「ああ。美少女はそういうことしないって思われてるんじゃないかと思って」",
-      "EN": "`$(1,1)@ ❝Ah, just wondered if you thought that girls don't do stuff like that.❞",
-      "Translation": "`$(1,1)@「啊啊，只是在想你会不会觉得美少女不会做这种事」"
+      "JP": "@$(5)@「ああ。美少女はそういうことしないって思われてるんじゃないかと思って」",
+      "EN": "@$(5)@ ❝Ah, just wondered if you thought that girls don't do stuff like that.❞",
+      "Translation": "@$(5)@「啊啊，只是在想你会不会觉得美少女不会做这种事」"
     },
     {
-      "JP": "`理樹@「いや、思ってないけど…」",
-      "EN": "`Riki@❝Ah no, I don't think that, but...❞",
-      "Translation": "`理树@「啊，我没这么想，但是…」"
+      "JP": "@理樹@「いや、思ってないけど…」",
+      "EN": "@Riki@❝Ah no, I don't think that, but...❞",
+      "Translation": "@理树@「啊，我没这么想，但是…」"
     },
     {
-      "JP": "`$(1,0)@「ならいいんだけど」",
-      "EN": "`$(1,1)@ ❝That's fine then.❞",
-      "Translation": "`$(1,1)@「那就好」"
+      "JP": "@$(5)@「ならいいんだけど」",
+      "EN": "@$(5)@ ❝That's fine then.❞",
+      "Translation": "@$(5)@「那就好」"
     },
     {
-      "JP": "`$(1,0)@「撃ち方始め！」",
-      "EN": "`$(1,1)@ ❝Open fire!❞",
-      "Translation": "`$(1,1)@「开始射击！」"
-    },
-    {
-      "JP": "どどどどど！",
-      "EN": "Rat-tat-tat!",
-      "Translation": "突突突突突！"
-    },
-    {
-      "JP": "`$(1,0)@「撃ち方やめ！」",
-      "EN": "`$(1,1)@ ❝Cease fire!❞",
-      "Translation": "`$(1,1)@「停止射击！」"
-    },
-    {
-      "JP": "`$(1,0)@「レディ、ゴ！」",
-      "EN": "`$(1,1)@ ❝Ready, go!❞",
-      "Translation": "`$(1,1)@「ＲＥＡＤＹ　ＧＯ！」"
-    },
-    {
-      "JP": "`$(1,0)@「撃ち方始め！」",
-      "EN": "`$(1,1)@ ❝Open fire!❞",
-      "Translation": "`$(1,1)@「开始射击！」"
+      "JP": "@$(5)@「撃ち方始め！」",
+      "EN": "@$(5)@ ❝Open fire!❞",
+      "Translation": "@$(5)@「开始射击！」"
     },
     {
       "JP": "どどどどど！",
@@ -1171,19 +1151,19 @@
       "Translation": "突突突突突！"
     },
     {
-      "JP": "`$(1,0)@「撃ち方やめ！」",
-      "EN": "`$(1,1)@ ❝Cease fire!❞",
-      "Translation": "`$(1,1)@「停止射击！」"
+      "JP": "@$(5)@「撃ち方やめ！」",
+      "EN": "@$(5)@ ❝Cease fire!❞",
+      "Translation": "@$(5)@「停止射击！」"
     },
     {
-      "JP": "`$(1,0)@「レディ、ゴ！」",
-      "EN": "`$(1,1)@ ❝Ready, go!❞",
-      "Translation": "`$(1,1)@「ＲＥＡＤＹ　ＧＯ！」"
+      "JP": "@$(5)@「レディ、ゴ！」",
+      "EN": "@$(5)@ ❝Ready, go!❞",
+      "Translation": "@$(5)@「ＲＥＡＤＹ　ＧＯ！」"
     },
     {
-      "JP": "`$(1,0)@「撃ち方始め！」",
-      "EN": "`$(1,1)@ ❝Open fire!❞",
-      "Translation": "`$(1,1)@「开始射击！」"
+      "JP": "@$(5)@「撃ち方始め！」",
+      "EN": "@$(5)@ ❝Open fire!❞",
+      "Translation": "@$(5)@「开始射击！」"
     },
     {
       "JP": "どどどどど！",
@@ -1191,14 +1171,34 @@
       "Translation": "突突突突突！"
     },
     {
-      "JP": "`$(1,0)@「撃ち方やめ！」",
-      "EN": "`$(1,1)@ ❝Cease fire!❞",
-      "Translation": "`$(1,1)@「停止射击！」"
+      "JP": "@$(5)@「撃ち方やめ！」",
+      "EN": "@$(5)@ ❝Cease fire!❞",
+      "Translation": "@$(5)@「停止射击！」"
     },
     {
-      "JP": "`$(1,0)@「………」",
-      "EN": "`$(1,1)@ ❝...❞",
-      "Translation": "`$(1,1)@「………」"
+      "JP": "@$(5)@「レディ、ゴ！」",
+      "EN": "@$(5)@ ❝Ready, go!❞",
+      "Translation": "@$(5)@「ＲＥＡＤＹ　ＧＯ！」"
+    },
+    {
+      "JP": "@$(5)@「撃ち方始め！」",
+      "EN": "@$(5)@ ❝Open fire!❞",
+      "Translation": "@$(5)@「开始射击！」"
+    },
+    {
+      "JP": "どどどどど！",
+      "EN": "Rat-tat-tat!",
+      "Translation": "突突突突突！"
+    },
+    {
+      "JP": "@$(5)@「撃ち方やめ！」",
+      "EN": "@$(5)@ ❝Cease fire!❞",
+      "Translation": "@$(5)@「停止射击！」"
+    },
+    {
+      "JP": "@$(5)@「………」",
+      "EN": "@$(5)@ ❝...❞",
+      "Translation": "@$(5)@「………」"
     },
     {
       "JP": "次なる命令は発せられなかった。",
@@ -1211,9 +1211,9 @@
       "Translation": "如果我没数错的话，我们应该是身在第７层，而脚下是通向第８层的地洞。"
     },
     {
-      "JP": "`$(1,0)@「この下よ」",
-      "EN": "`$(1,1)@ ❝Under here.❞",
-      "Translation": "`$(1,1)@「就在这下面哦」"
+      "JP": "@$(5)@「この下よ」",
+      "EN": "@$(5)@ ❝Under here.❞",
+      "Translation": "@$(5)@「就在这下面哦」"
     },
     {
       "JP": "彼女はそう告げた。",
@@ -1221,69 +1221,69 @@
       "Translation": "她这么说道。"
     },
     {
-      "JP": "`理樹@「えっ？　この下が最下層なの？」",
-      "EN": "`Riki@❝Eh? The floor below this is the last one?❞",
-      "Translation": "`理树@「咦？　这下面就是最底层了？」"
+      "JP": "@理樹@「えっ？　この下が最下層なの？」",
+      "EN": "@Riki@❝Eh? The floor below this is the last one?❞",
+      "Translation": "@理树@「咦？　这下面就是最底层了？」"
     },
     {
-      "JP": "`$(1,0)@「いいえ。最下層は６０階」",
-      "EN": "`$(1,1)@ ❝No, the bottom floor is the 60th.❞",
-      "Translation": "`$(1,1)@「不。最底层是第６０层」"
+      "JP": "@$(5)@「いいえ。最下層は６０階」",
+      "EN": "@$(5)@ ❝No, the bottom floor is the 60th.❞",
+      "Translation": "@$(5)@「不。最底层是第６０层」"
     },
     {
-      "JP": "`理樹@「６０階!?」",
-      "EN": "`Riki@❝60 floors!?❞",
-      "Translation": "`理树@「６０层！？」"
+      "JP": "@理樹@「６０階!?」",
+      "EN": "@Riki@❝60 floors!?❞",
+      "Translation": "@理树@「６０层！？」"
     },
     {
-      "JP": "`$(1,0)@「壊れたエレベーターで確認しただけだけどね」",
-      "EN": "`$(1,1)@ ❝I confirmed that at the broken elevator.❞",
-      "Translation": "`$(1,1)@「只是从坏掉了的电梯上确认的罢了」"
+      "JP": "@$(5)@「壊れたエレベーターで確認しただけだけどね」",
+      "EN": "@$(5)@ ❝I confirmed that at the broken elevator.❞",
+      "Translation": "@$(5)@「只是从坏掉了的电梯上确认的罢了」"
     },
     {
-      "JP": "`$(1,0)@「そんなに青ざめなくていいわよ。もしこの次の階よりもさらに、迷宮が広がっていようと、もう関係ないの」",
-      "EN": "`$(1,1)@ ❝You don't have to turn so pale. Even if the floor below has a larger maze, we don't have to deal with it.❞",
-      "Translation": "`$(1,1)@「脸用不着绿成那个样子啦。就算下面的迷宫要比这层的还要宽阔，那也没有任何关系的了」"
+      "JP": "@$(5)@「そんなに青ざめなくていいわよ。もしこの次の階よりもさらに、迷宮が広がっていようと、もう関係ないの」",
+      "EN": "@$(5)@ ❝You don't have to turn so pale. Even if the floor below has a larger maze, we don't have to deal with it.❞",
+      "Translation": "@$(5)@「脸用不着绿成那个样子啦。就算下面的迷宫要比这层的还要宽阔，那也没有任何关系的了」"
     },
     {
-      "JP": "`$(1,0)@「ここが、奴との最終決戦の場なのよ」",
-      "EN": "`$(1,1)@ ❝This will be the final battle with him.❞",
-      "Translation": "`$(1,1)@「这里就是与那家伙最终决战的地方」"
+      "JP": "@$(5)@「ここが、奴との最終決戦の場なのよ」",
+      "EN": "@$(5)@ ❝This will be the final battle with him.❞",
+      "Translation": "@$(5)@「这里就是与那家伙最终决战的地方」"
     },
     {
-      "JP": "`理樹@「奴って？」",
-      "EN": "`Riki@❝❛Him❜?❞",
-      "Translation": "`理树@「那家伙是？」"
+      "JP": "@理樹@「奴って？」",
+      "EN": "@Riki@❝❛Him❜?❞",
+      "Translation": "@理树@「那家伙是？」"
     },
     {
-      "JP": "`$(1,0)@「ラスボスよ」",
-      "EN": "`$(1,1)@ ❝The last boss.❞",
-      "Translation": "`$(1,1)@「ＬＡＳＴ　ＢＯＳＳ哦」"
+      "JP": "@$(5)@「ラスボスよ」",
+      "EN": "@$(5)@ ❝The last boss.❞",
+      "Translation": "@$(5)@「ＬＡＳＴ　ＢＯＳＳ哦」"
     },
     {
-      "JP": "`理樹@「闇の執行部の…幹部？」",
-      "EN": "`Riki@❝The leader of the Darkness Executives？❞",
-      "Translation": "`理树@「暗之执行部的…干事？」"
+      "JP": "@理樹@「闇の執行部の…幹部？」",
+      "EN": "@Riki@❝The leader of the Darkness Executives？❞",
+      "Translation": "@理树@「暗之执行部的…干事？」"
     },
     {
-      "JP": "`$(1,0)@「そう。時風瞬。とことん意地が悪い、部長様よ」",
-      "EN": "`$(1,1)@ ❝That's right. Shun Tokikaze. A thoroughly evil person. He's their leader.❞",
-      "Translation": "`$(1,1)@「没错。时风瞬。心眼坏到了极点的部长大人」"
+      "JP": "@$(5)@「そう。時風瞬。とことん意地が悪い、部長様よ」",
+      "EN": "@$(5)@ ❝That's right. Shun Tokikaze. A thoroughly evil person. He's their leader.❞",
+      "Translation": "@$(5)@「没错。时风瞬。心眼坏到了极点的部长大人」"
     },
     {
-      "JP": "`理樹@「強いんでしょ？」",
-      "EN": "`Riki@❝Isn't he strong?❞",
-      "Translation": "`理树@「很强吧？」"
+      "JP": "@理樹@「強いんでしょ？」",
+      "EN": "@Riki@❝Isn't he strong?❞",
+      "Translation": "@理树@「很强吧？」"
     },
     {
-      "JP": "`$(1,0)@「そりゃもう。奴はこの世界最強よ」",
-      "EN": "`$(1,1)@ ❝Of course. He's the strongest in this world.❞",
-      "Translation": "`$(1,1)@「算是吧，那家伙在这个世界是最强的」"
+      "JP": "@$(5)@「そりゃもう。奴はこの世界最強よ」",
+      "EN": "@$(5)@ ❝Of course. He's the strongest in this world.❞",
+      "Translation": "@$(5)@「算是吧，那家伙在这个世界是最强的」"
     },
     {
-      "JP": "`理樹@「でも、こっちもこの最終兵器があるよ。こいつだったら勝てるよ、きっと」",
-      "EN": "`Riki@❝But we also have an ultimate weapon here, if it's this guy, we can win for sure.❞",
-      "Translation": "`理树@「但是，我们也有这最终兵器在手啊。只要有它在的话就一定能取胜的」"
+      "JP": "@理樹@「でも、こっちもこの最終兵器があるよ。こいつだったら勝てるよ、きっと」",
+      "EN": "@Riki@❝But we also have an ultimate weapon here, if it's this guy, we can win for sure.❞",
+      "Translation": "@理树@「但是，我们也有这最终兵器在手啊。只要有它在的话就一定能取胜的」"
     },
     {
       "JP": "ここまでこの機関銃ひとつでやってきたんだ。",
@@ -1291,59 +1291,59 @@
       "Translation": "我们就是靠着这把机关枪来到这里的。"
     },
     {
-      "JP": "`$(1,0)@「物量でのごり押しなら最強だけど、敵が単身なら隙をついて懐に入られて逆に不利よ」",
-      "EN": "`$(1,1)@ ❝It's very effective against large numbers of enemies, but one-on-one you're actually at a disadvantage if your enemy comes charging at you.❞",
-      "Translation": "`$(1,1)@「虽然用来压制大量敌人时的确是最强，但如果单个敌人利用间隙冲过来的话，反而是我们不利」"
+      "JP": "@$(5)@「物量でのごり押しなら最強だけど、敵が単身なら隙をついて懐に入られて逆に不利よ」",
+      "EN": "@$(5)@ ❝It's very effective against large numbers of enemies, but one-on-one you're actually at a disadvantage if your enemy comes charging at you.❞",
+      "Translation": "@$(5)@「虽然用来压制大量敌人时的确是最强，但如果单个敌人利用间隙冲过来的话，反而是我们不利」"
     },
     {
-      "JP": "`$(1,0)@「それに相手が相手だしねぇ…真っ向から攻めても相打ちすら叶わないわね」",
-      "EN": "`$(1,1)@ ❝And we're up against a formidable opponent this time... if we go head to head, we can't even hope for a draw.❞",
-      "Translation": "`$(1,1)@「而且对方的实力实在太强…如果正面进攻的话，根本不可能和他对抗」"
+      "JP": "@$(5)@「それに相手が相手だしねぇ…真っ向から攻めても相打ちすら叶わないわね」",
+      "EN": "@$(5)@ ❝And we're up against a formidable opponent this time... if we go head to head, we can't even hope for a draw.❞",
+      "Translation": "@$(5)@「而且对方的实力实在太强…如果正面进攻的话，根本不可能和他对抗」"
     },
     {
-      "JP": "`理樹@「じゃ、どうするの？」",
-      "EN": "`Riki@❝Then, what shall we do?❞",
-      "Translation": "`理树@「那要怎么办？」"
+      "JP": "@理樹@「じゃ、どうするの？」",
+      "EN": "@Riki@❝Then, what shall we do?❞",
+      "Translation": "@理树@「那要怎么办？」"
     },
     {
-      "JP": "`$(1,0)@「それを考えるのがあなたの仕事でしょ」",
-      "EN": "`$(1,1)@ ❝It's your job to think about that, right?❞",
-      "Translation": "`$(1,1)@「那是你的工作吧，想想办法啊」"
+      "JP": "@$(5)@「それを考えるのがあなたの仕事でしょ」",
+      "EN": "@$(5)@ ❝It's your job to think about that, right?❞",
+      "Translation": "@$(5)@「那是你的工作吧，想想办法啊」"
     },
     {
-      "JP": "`理樹@「ええ、そうなの!?」",
-      "EN": "`Riki@❝Eh? For real!?❞",
-      "Translation": "`理树@「诶，真的吗!?」"
+      "JP": "@理樹@「ええ、そうなの!?」",
+      "EN": "@Riki@❝Eh? For real!?❞",
+      "Translation": "@理树@「诶，真的吗!?」"
     },
     {
-      "JP": "`$(1,0)@「そうよ。なんのためにあなたを連れてきたと思ってんのよ」",
-      "EN": "`$(1,1)@ ❝That's right. Why do you think I brought you along?❞",
-      "Translation": "`$(1,1)@「没错。不然你以为我为什么带你来？」"
+      "JP": "@$(5)@「そうよ。なんのためにあなたを連れてきたと思ってんのよ」",
+      "EN": "@$(5)@ ❝That's right. Why do you think I brought you along?❞",
+      "Translation": "@$(5)@「没错。不然你以为我为什么带你来？」"
     },
     {
-      "JP": "`理樹@「ええー、ちょっと待ってよ、何も聞いてないし、そんな簡単に引き受けられないよっ」",
-      "EN": "`Riki@❝Eeh, wait a second, I didn't hear about this, so I can't simply accept that!❞",
-      "Translation": "`理树@「诶——等一下啦，我完全没听说过，根本不可能随便接受啊！」"
+      "JP": "@理樹@「ええー、ちょっと待ってよ、何も聞いてないし、そんな簡単に引き受けられないよっ」",
+      "EN": "@Riki@❝Eeh, wait a second, I didn't hear about this, so I can't simply accept that!❞",
+      "Translation": "@理树@「诶——等一下啦，我完全没听说过，根本不可能随便接受啊！」"
     },
     {
-      "JP": "`$(1,0)@「なっさけない男ねぇ…幻滅だわ」",
-      "EN": "`$(1,1)@ ❝Such a pathetic man... I am disillusioned.❞",
-      "Translation": "`$(1,1)@「真是个没用的男人…太让我失望了」"
+      "JP": "@$(5)@「なっさけない男ねぇ…幻滅だわ」",
+      "EN": "@$(5)@ ❝Such a pathetic man... I am disillusioned.❞",
+      "Translation": "@$(5)@「真是个没用的男人…太让我失望了」"
     },
     {
-      "JP": "`理樹@「えぇ？　最近知り合ったばかりなのに、いつのまに評価が上がってたんだろう…」",
-      "EN": "`Riki@❝Eeh? We've only known each other for a while. Just what did I do to make you think so highly of me...?❞",
-      "Translation": "`理树@「诶？我们才刚认识没多久，什么时候评价就变高了啊…」"
+      "JP": "@理樹@「えぇ？　最近知り合ったばかりなのに、いつのまに評価が上がってたんだろう…」",
+      "EN": "@Riki@❝Eeh? We've only known each other for a while. Just what did I do to make you think so highly of me...?❞",
+      "Translation": "@理树@「诶？我们才刚认识没多久，什么时候评价就变高了啊…」"
     },
     {
-      "JP": "`理樹@「そんなこと一方的に言われても…」",
-      "EN": "`Riki@❝Even if you tell me that...❞",
-      "Translation": "`理树@「就算你单方面这么说…」"
+      "JP": "@理樹@「そんなこと一方的に言われても…」",
+      "EN": "@Riki@❝Even if you tell me that...❞",
+      "Translation": "@理树@「就算你单方面这么说…」"
     },
     {
-      "JP": "`$(1,0)@「じゃあ、あなたは囮よ、とっとと先陣きっていきなさいよっ、先陣きっちゃいなさいよっ」",
-      "EN": "`$(1,1)@ ❝Then you'll be the decoy. Hurry up and take the vanguard. Just take the vanguard already!❞",
-      "Translation": "`$(1,1)@「那么，你就当诱饵吧，快点走在最前面，冲在最前面！」"
+      "JP": "@$(5)@「じゃあ、あなたは囮よ、とっとと先陣きっていきなさいよっ、先陣きっちゃいなさいよっ」",
+      "EN": "@$(5)@ ❝Then you'll be the decoy. Hurry up and take the vanguard. Just take the vanguard already!❞",
+      "Translation": "@$(5)@「那么，你就当诱饵吧，快点走在最前面，冲在最前面！」"
     },
     {
       "JP": "どすどす、とお尻を蹴られる。",
@@ -1351,24 +1351,24 @@
       "Translation": "我的屁股被狠狠地踢了一脚。"
     },
     {
-      "JP": "`理樹@「そんなっ、殺されますからっ」",
-      "EN": "`Riki@❝I'd get killed if I do that.❞",
-      "Translation": "`理树@「别这样，会死人的啊！」"
+      "JP": "@理樹@「そんなっ、殺されますからっ」",
+      "EN": "@Riki@❝I'd get killed if I do that.❞",
+      "Translation": "@理树@「别这样，会死人的啊！」"
     },
     {
-      "JP": "`$(1,0)@「あなたなら死なないわよ、とっとといきなさいよっ、囮になっちゃいなさいよっ」",
-      "EN": "`$(1,1)@ ❝You won't die, just go already, become a decoy already!❞",
-      "Translation": "`$(1,1)@「你不会死的，快点走啦，快点去当诱饵啊！」"
+      "JP": "@$(5)@「あなたなら死なないわよ、とっとといきなさいよっ、囮になっちゃいなさいよっ」",
+      "EN": "@$(5)@ ❝You won't die, just go already, become a decoy already!❞",
+      "Translation": "@$(5)@「你不会死的，快点走啦，快点去当诱饵啊！」"
     },
     {
-      "JP": "`理樹@「僕、単なる一般人ですからっ」",
-      "EN": "`Riki@❝I am simply a normal person.❞",
-      "Translation": "`理树@「我只是个普通人啊！」"
+      "JP": "@理樹@「僕、単なる一般人ですからっ」",
+      "EN": "@Riki@❝I am simply a normal person.❞",
+      "Translation": "@理树@「我只是个普通人啊！」"
     },
     {
-      "JP": "`$(1,0)@「だからじゃないっ、なんならあたしが殺してさしあげましょうか？」",
-      "EN": "`$(1,1)@ ❝What, do you want me to kill you right now?❞",
-      "Translation": "`$(1,1)@「正是因为这样啊！要不然我现在就来杀了你怎么样？」"
+      "JP": "@$(5)@「だからじゃないっ、なんならあたしが殺してさしあげましょうか？」",
+      "EN": "@$(5)@ ❝What, do you want me to kill you right now?❞",
+      "Translation": "@$(5)@「正是因为这样啊！要不然我现在就来杀了你怎么样？」"
     },
     {
       "JP": "こわい…この子、本気だ！",
@@ -1431,9 +1431,9 @@
       "Translation": "我感到不安，决定返回原路。"
     },
     {
-      "JP": "`理樹@（相当な距離歩いたな…）",
-      "EN": "`Riki@(I've walk quite the distance...)",
-      "Translation": "`理树@（已经走了相当远的距离了…）"
+      "JP": "@理樹@（相当な距離歩いたな…）",
+      "EN": "@Riki@(I've walk quite the distance...)",
+      "Translation": "@理树@（已经走了相当远的距离了…）"
     },
     {
       "JP": "………。",
@@ -1446,9 +1446,9 @@
       "Translation": "咚！我撞到了墙壁上。"
     },
     {
-      "JP": "`理樹@「$(2,0)…」",
-      "EN": "`Riki@❝$(2,1)...❞",
-      "Translation": "`理树@「$(2,1)…」"
+      "JP": "@理樹@「$(4)…」",
+      "EN": "@Riki@❝$(4)...❞",
+      "Translation": "@理树@「$(4)…」"
     },
     {
       "JP": "囁くような声で呼んでみる。",
@@ -1466,14 +1466,14 @@
       "Translation": "没有任何回应。"
     },
     {
-      "JP": "`理樹@「朱鷺戸さぁん！」",
-      "EN": "`Riki@❝Tokido-san!❞",
-      "Translation": "`理树@「朱鹭户小姐！」"
+      "JP": "@理樹@「朱鷺戸さぁん！」",
+      "EN": "@Riki@❝Tokido-san!❞",
+      "Translation": "@理树@「朱鹭户小姐！」"
     },
     {
-      "JP": "`理樹@「沙耶ぁ！」",
-      "EN": "`Riki@❝Saya!❞",
-      "Translation": "`理树@「沙耶！」"
+      "JP": "@理樹@「沙耶ぁ！」",
+      "EN": "@Riki@❝Saya!❞",
+      "Translation": "@理树@「沙耶！」"
     },
     {
       "JP": "今度は大きな声で。",
@@ -1501,9 +1501,9 @@
       "Translation": "没有感受到任何人的气息。"
     },
     {
-      "JP": "$(2,0)はどこにいった？",
-      "EN": "Just where was $(2,1)?",
-      "Translation": "$(2,1)到底去了哪里？"
+      "JP": "$(4)はどこにいった？",
+      "EN": "Just where was $(4)?",
+      "Translation": "$(4)到底去了哪里？"
     },
     {
       "JP": "…まさか、僕が囮だと見抜かれていた、とか…。",
@@ -1511,9 +1511,9 @@
       "Translation": "…难道，他已经看穿了我是诱饵…？"
     },
     {
-      "JP": "僕の知らないところで$(2,0)は敵に捕まり、連れ去られた後だったり…。",
-      "EN": "$(2,1) had been caught by the enemy, and taken away...",
-      "Translation": "又或者，在我不知道的地方，$(2,1)被敌人抓住带走了…。"
+      "JP": "僕の知らないところで$(4)は敵に捕まり、連れ去られた後だったり…。",
+      "EN": "$(4) had been caught by the enemy, and taken away...",
+      "Translation": "又或者，在我不知道的地方，$(4)被敌人抓住带走了…。"
     },
     {
       "JP": "でも、もしそうだとして、僕に何ができる？",
@@ -1561,29 +1561,29 @@
       "Translation": "…没有必要久留，回去吧。"
     },
     {
-      "JP": "`沙耶@「そりゃあ、切り札を出すしかないわね」",
-      "EN": "`Saya@❝Then, I have no choice but to use my trump card.❞",
-      "Translation": "`沙耶@「那样的话，就只拿出王牌来了」"
+      "JP": "@沙耶@「そりゃあ、切り札を出すしかないわね」",
+      "EN": "@Saya@❝Then, I have no choice but to use my trump card.❞",
+      "Translation": "@沙耶@「那样的话，就只拿出王牌来了」"
     },
     {
-      "JP": "`理樹@「さすが、ちゃんと準備してきてるんだ。この機関銃よりすごいものなの？」",
-      "EN": "`Riki@❝I knew you would be prepared. Do you have something greater than this machine gun?❞",
-      "Translation": "`理树@「不愧是沙耶，都已经准备好了啊。是比这挺机关枪更厉害的家伙吗？」"
+      "JP": "@理樹@「さすが、ちゃんと準備してきてるんだ。この機関銃よりすごいものなの？」",
+      "EN": "@Riki@❝I knew you would be prepared. Do you have something greater than this machine gun?❞",
+      "Translation": "@理树@「不愧是沙耶，都已经准备好了啊。是比这挺机关枪更厉害的家伙吗？」"
     },
     {
-      "JP": "`沙耶@「一部には断然すごいという人たちもいるかもね」",
-      "EN": "`Saya@❝Some may say he's in a league of his own.❞",
-      "Translation": "`沙耶@「对某些人来说，的确是相当厉害的武器呢」"
+      "JP": "@沙耶@「一部には断然すごいという人たちもいるかもね」",
+      "EN": "@Saya@❝Some may say he's in a league of his own.❞",
+      "Translation": "@沙耶@「对某些人来说，的确是相当厉害的武器呢」"
     },
     {
-      "JP": "`理樹@「へぇ…」",
-      "EN": "`Riki@❝Really...❞",
-      "Translation": "`理树@「这样啊…」"
+      "JP": "@理樹@「へぇ…」",
+      "EN": "@Riki@❝Really...❞",
+      "Translation": "@理树@「这样啊…」"
     },
     {
-      "JP": "`沙耶@「じゃ、いきましょうか。マイパートナー」",
-      "EN": "`Saya@❝Shall we go then, my partner?❞",
-      "Translation": "`沙耶@「那么，前进吧。我的搭档」"
+      "JP": "@沙耶@「じゃ、いきましょうか。マイパートナー」",
+      "EN": "@Saya@❝Shall we go then, my partner?❞",
+      "Translation": "@沙耶@「那么，前进吧。我的搭档」"
     },
     {
       "JP": "わっし、と両肩をつかまれる。",
@@ -1591,14 +1591,14 @@
       "Translation": "猛地抓住了我的肩膀。"
     },
     {
-      "JP": "`理樹@「はい？」",
-      "EN": "`Riki@❝Yes?❞",
-      "Translation": "`理树@「什么？」"
+      "JP": "@理樹@「はい？」",
+      "EN": "@Riki@❝Yes?❞",
+      "Translation": "@理树@「什么？」"
     },
     {
-      "JP": "`沙耶@「あたしの切り札は、理樹くん。あなたなのよ」",
-      "EN": "`Saya@❝My trump card is you. Riki-kun.❞",
-      "Translation": "`沙耶@「我的王牌就是你哦，理树君」"
+      "JP": "@沙耶@「あたしの切り札は、理樹くん。あなたなのよ」",
+      "EN": "@Saya@❝My trump card is you. Riki-kun.❞",
+      "Translation": "@沙耶@「我的王牌就是你哦，理树君」"
     },
     {
       "JP": "時間をかけて準備を済ませた。",
@@ -1721,34 +1721,34 @@
       "Translation": "而我甚至还没来得及摆出架势。"
     },
     {
-      "JP": "`時風@「ジ・エンドだ」",
-      "EN": "`Tokikaze@❝It's the end.❞",
-      "Translation": "`时风@「结束了」"
+      "JP": "@時風@「ジ・エンドだ」",
+      "EN": "@Tokikaze@❝It's the end.❞",
+      "Translation": "@时风@「结束了」"
     },
     {
-      "JP": "`時風@「と言いたいところだが…」",
-      "EN": "`Tokikaze@❝Is what I'd like to say, but...❞",
-      "Translation": "`时风@「虽然想这么说…」"
+      "JP": "@時風@「と言いたいところだが…」",
+      "EN": "@Tokikaze@❝Is what I'd like to say, but...❞",
+      "Translation": "@时风@「虽然想这么说…」"
     },
     {
-      "JP": "`時風@「こんな茶番に付き合わされるとはな」",
-      "EN": "`Tokikaze@❝I can't believe I have to play along with this farce.❞",
-      "Translation": "`时风@「居然还要陪你们玩这样的把戏」"
+      "JP": "@時風@「こんな茶番に付き合わされるとはな」",
+      "EN": "@Tokikaze@❝I can't believe I have to play along with this farce.❞",
+      "Translation": "@时风@「居然还要陪你们玩这样的把戏」"
     },
     {
-      "JP": "`時風@「仲間に女装までさせて、しかもウィッグでシルエットまで同じにしてくるなんて…ナンセンスにもほどがある」",
-      "EN": "`Tokikaze@❝Making her comrade put on women's clothing and even a wig to make the silhouette look similar... This couldn't get any more ridiculous.❞",
-      "Translation": "`时风@「让同伴穿上女装，而且连假发和胸垫都用上了…简直就是胡闹」"
+      "JP": "@時風@「仲間に女装までさせて、しかもウィッグでシルエットまで同じにしてくるなんて…ナンセンスにもほどがある」",
+      "EN": "@Tokikaze@❝Making her comrade put on women's clothing and even a wig to make the silhouette look similar... This couldn't get any more ridiculous.❞",
+      "Translation": "@时风@「让同伴穿上女装，而且连假发和胸垫都用上了…简直就是胡闹」"
     },
     {
-      "JP": "`時風@「こんなものに引っかかるとでも思ったか」",
-      "EN": "`Tokikaze@❝Did she think I'd fall for this?❞",
-      "Translation": "`时风@「难道你觉得这种东西能骗得了我吗」"
+      "JP": "@時風@「こんなものに引っかかるとでも思ったか」",
+      "EN": "@Tokikaze@❝Did she think I'd fall for this?❞",
+      "Translation": "@时风@「难道你觉得这种东西能骗得了我吗」"
     },
     {
-      "JP": "`時風@「出てこい」",
-      "EN": "`Tokikaze@❝Come out.❞",
-      "Translation": "`时风@「给我出来」"
+      "JP": "@時風@「出てこい」",
+      "EN": "@Tokikaze@❝Come out.❞",
+      "Translation": "@时风@「给我出来」"
     },
     {
       "JP": "暗闇の中、男の冷ややかな声が響く。",
@@ -1761,9 +1761,9 @@
       "Translation": "在我身后约５米的地方，那“气息”出现了。"
     },
     {
-      "JP": "`沙耶@「あなたの負けよ」",
-      "EN": "`Saya@❝You've lost.❞",
-      "Translation": "`沙耶@「你输了」"
+      "JP": "@沙耶@「あなたの負けよ」",
+      "EN": "@Saya@❝You've lost.❞",
+      "Translation": "@沙耶@「你输了」"
     },
     {
       "JP": "沙耶の声。その言葉に僕は驚く。",
@@ -1771,9 +1771,9 @@
       "Translation": "是沙耶的声音。她的那句话让我感到惊讶。"
     },
     {
-      "JP": "`時風@「なぜ」",
-      "EN": "`Tokikaze@❝Why?❞",
-      "Translation": "`时风@「为什么」"
+      "JP": "@時風@「なぜ」",
+      "EN": "@Tokikaze@❝Why?❞",
+      "Translation": "@时风@「为什么」"
     },
     {
       "JP": "まさに、どうして？",
@@ -1786,39 +1786,39 @@
       "Translation": "沙耶和我互相调换衣服，而我则作为诱饵，把敌人引出来…这作战不是已经被彻底看穿了吗。"
     },
     {
-      "JP": "`沙耶@「あなたの銃は理樹くんに向いてる。その真後ろにあたしは立ってる」",
-      "EN": "`Saya@❝You are pointing your gun at Riki-kun. I'm standing right behind him.❞",
-      "Translation": "`沙耶@「你的枪正指着理树君。而我正站在他的后面」"
+      "JP": "@沙耶@「あなたの銃は理樹くんに向いてる。その真後ろにあたしは立ってる」",
+      "EN": "@Saya@❝You are pointing your gun at Riki-kun. I'm standing right behind him.❞",
+      "Translation": "@沙耶@「你的枪正指着理树君。而我正站在他的后面」"
     },
     {
-      "JP": "`沙耶@「理樹くんが邪魔で、あたしを撃てない」",
-      "EN": "`Saya@❝You can't shoot me since Riki-kun is in the way.❞",
-      "Translation": "`沙耶@「因为有理树君挡着，你没法向我开枪」"
+      "JP": "@沙耶@「理樹くんが邪魔で、あたしを撃てない」",
+      "EN": "@Saya@❝You can't shoot me since Riki-kun is in the way.❞",
+      "Translation": "@沙耶@「因为有理树君挡着，你没法向我开枪」"
     },
     {
-      "JP": "`沙耶@「角度を変えても、あたしは常に対角線上に動く。それぐらいの反射神経は持ってるわ」",
-      "EN": "`Saya@❝If you try to find another angle around him, I can always move to keep him between us. My reflexes are that good.❞",
-      "Translation": "`沙耶@「即使你改变角度，我也可以保持在你的对角线上。这点反射神经我还是有的」"
+      "JP": "@沙耶@「角度を変えても、あたしは常に対角線上に動く。それぐらいの反射神経は持ってるわ」",
+      "EN": "@Saya@❝If you try to find another angle around him, I can always move to keep him between us. My reflexes are that good.❞",
+      "Translation": "@沙耶@「即使你改变角度，我也可以保持在你的对角线上。这点反射神经我还是有的」"
     },
     {
-      "JP": "`時風@「………」",
-      "EN": "`Tokikaze@❝......❞",
-      "Translation": "`时风@「………」"
+      "JP": "@時風@「………」",
+      "EN": "@Tokikaze@❝......❞",
+      "Translation": "@时风@「………」"
     },
     {
-      "JP": "`時風@「つまり…」",
-      "EN": "`Tokikaze@❝In other words...❞",
-      "Translation": "`时风@「也就是说…」"
+      "JP": "@時風@「つまり…」",
+      "EN": "@Tokikaze@❝In other words...❞",
+      "Translation": "@时风@「也就是说…」"
     },
     {
-      "JP": "`時風@「仲間を囮にするのではなく、盾にしたのか」",
-      "EN": "`Tokikaze@❝You are not using your comrade as a bait, but as a shield.❞",
-      "Translation": "`时风@「并不是把同伴当成诱饵，而是当成了盾牌吗」"
+      "JP": "@時風@「仲間を囮にするのではなく、盾にしたのか」",
+      "EN": "@Tokikaze@❝You are not using your comrade as a bait, but as a shield.❞",
+      "Translation": "@时风@「并不是把同伴当成诱饵，而是当成了盾牌吗」"
     },
     {
-      "JP": "`沙耶@「ええ」",
-      "EN": "`Saya@❝Right.❞",
-      "Translation": "`沙耶@「没错」"
+      "JP": "@沙耶@「ええ」",
+      "EN": "@Saya@❝Right.❞",
+      "Translation": "@沙耶@「没错」"
     },
     {
       "JP": "いとも簡単に認めた…。",
@@ -1831,24 +1831,24 @@
       "Translation": "想要骗过敌人的话，就要先骗过自己人。我似乎正被实践着这句话。"
     },
     {
-      "JP": "`時風@「どうして、俺が撃てないと思う？　敵のパートナーを？」",
-      "EN": "`Tokikaze@❝Why do you think I can't shoot my enemy's partner?❞",
-      "Translation": "`时风@「为什么你认为我不会开枪？　对着敌人的搭档？」"
+      "JP": "@時風@「どうして、俺が撃てないと思う？　敵のパートナーを？」",
+      "EN": "@Tokikaze@❝Why do you think I can't shoot my enemy's partner?❞",
+      "Translation": "@时风@「为什么你认为我不会开枪？　对着敌人的搭档？」"
     },
     {
-      "JP": "`沙耶@「いろいろな状況を鑑みてね」",
-      "EN": "`Saya@❝I thought about it quite a bit.❞",
-      "Translation": "`沙耶@「从以前的许多状况来看呢」"
+      "JP": "@沙耶@「いろいろな状況を鑑みてね」",
+      "EN": "@Saya@❝I thought about it quite a bit.❞",
+      "Translation": "@沙耶@「从以前的许多状况来看呢」"
     },
     {
-      "JP": "`沙耶@「あなたは撃てないわ」",
-      "EN": "`Saya@❝You can't shoot.❞",
-      "Translation": "`沙耶@「你是不会开枪的」"
+      "JP": "@沙耶@「あなたは撃てないわ」",
+      "EN": "@Saya@❝You can't shoot.❞",
+      "Translation": "@沙耶@「你是不会开枪的」"
     },
     {
-      "JP": "`時風@「じゃあ、撃とう」",
-      "EN": "`Tokikaze@❝I'll show you.❞",
-      "Translation": "`时风@「那我就打给你看」"
+      "JP": "@時風@「じゃあ、撃とう」",
+      "EN": "@Tokikaze@❝I'll show you.❞",
+      "Translation": "@时风@「那我就打给你看」"
     },
     {
       "JP": "今でははっきりと見える。銃のグリップを持つ手に力が入った。",
@@ -1866,29 +1866,29 @@
       "Translation": "我闭上了眼睛。"
     },
     {
-      "JP": "`沙耶@「理樹くん、目を開いて」",
-      "EN": "`Saya@❝Riki-kun, open your eyes.❞",
-      "Translation": "`沙耶@「理树君，睁开眼睛」"
+      "JP": "@沙耶@「理樹くん、目を開いて」",
+      "EN": "@Saya@❝Riki-kun, open your eyes.❞",
+      "Translation": "@沙耶@「理树君，睁开眼睛」"
     },
     {
-      "JP": "`理樹@「え…」",
-      "EN": "`Riki@❝Huh...❞",
-      "Translation": "`理树@「哎…」"
+      "JP": "@理樹@「え…」",
+      "EN": "@Riki@❝Huh...❞",
+      "Translation": "@理树@「哎…」"
     },
     {
-      "JP": "`沙耶@「この拮抗状態を崩せるのは、あなたしかいないのよ？」",
-      "EN": "`Saya@❝Only you can break this deadlock.❞",
-      "Translation": "`沙耶@「能打破这对抗状态的，只有你而已哦？」"
+      "JP": "@沙耶@「この拮抗状態を崩せるのは、あなたしかいないのよ？」",
+      "EN": "@Saya@❝Only you can break this deadlock.❞",
+      "Translation": "@沙耶@「能打破这对抗状态的，只有你而已哦？」"
     },
     {
-      "JP": "`理樹@「どうして…」",
-      "EN": "`Riki@❝Why...?❞",
-      "Translation": "`理树@「为什么…」"
+      "JP": "@理樹@「どうして…」",
+      "EN": "@Riki@❝Why...?❞",
+      "Translation": "@理树@「为什么…」"
     },
     {
-      "JP": "`沙耶@「相手だって、あたしと同じようにあなたを中心とした対角線に逃げるはず」",
-      "EN": "`Saya@❝The opponent, just like me, is trying to run diagonally with you at the center❞",
-      "Translation": "`沙耶@「对方应该也会像我一样，从以你为中心的对角线逃走的」"
+      "JP": "@沙耶@「相手だって、あたしと同じようにあなたを中心とした対角線に逃げるはず」",
+      "EN": "@Saya@❝The opponent, just like me, is trying to run diagonally with you at the center❞",
+      "Translation": "@沙耶@「对方应该也会像我一样，从以你为中心的对角线逃走的」"
     },
     {
       "JP": "…こいつも沙耶並みの反射神経を持ち、どう動こうが僕を中心にぐるぐる回るだけ。",
@@ -1921,14 +1921,14 @@
       "Translation": "只要开枪就可以了。"
     },
     {
-      "JP": "`沙耶@「理樹くん、勝つのはあたしじゃないわ」",
-      "EN": "`Saya@❝Riki-kun, This isn't my victory.❞",
-      "Translation": "`沙耶@「理树君，取得胜利的不是我」"
+      "JP": "@沙耶@「理樹くん、勝つのはあたしじゃないわ」",
+      "EN": "@Saya@❝Riki-kun, This isn't my victory.❞",
+      "Translation": "@沙耶@「理树君，取得胜利的不是我」"
     },
     {
-      "JP": "`沙耶@「あたしたち、よ」",
-      "EN": "`Saya@❝It's ours.❞",
-      "Translation": "`沙耶@「是我们，哦」"
+      "JP": "@沙耶@「あたしたち、よ」",
+      "EN": "@Saya@❝It's ours.❞",
+      "Translation": "@沙耶@「是我们，哦」"
     },
     {
       "JP": "思い返せば、僕が彼女のパートナーとして役立ったことなんてあっただろうか。",
@@ -1966,9 +1966,9 @@
       "Translation": "虽然脸上是戴着面具没错…但手是露出来的，那明显是血肉之躯。"
     },
     {
-      "JP": "`沙耶@「右肩を狙いなさい、銃を封じさえすればいいのよ」",
-      "EN": "`Saya@❝Aim for his right shoulder. It's enough if he can't use a gun.❞",
-      "Translation": "`沙耶@「瞄准他的右肩，让他不能开枪就可以了」"
+      "JP": "@沙耶@「右肩を狙いなさい、銃を封じさえすればいいのよ」",
+      "EN": "@Saya@❝Aim for his right shoulder. It's enough if he can't use a gun.❞",
+      "Translation": "@沙耶@「瞄准他的右肩，让他不能开枪就可以了」"
     },
     {
       "JP": "僕の心が読めているのか、そんなアドバイスが後ろから飛んできた。",
@@ -1986,9 +1986,9 @@
       "Translation": "鼓起勇气，慢慢地抬起枪。"
     },
     {
-      "JP": "`時風@「………」",
-      "EN": "`Tokikaze@❝......❞",
-      "Translation": "`时风@「………」"
+      "JP": "@時風@「………」",
+      "EN": "@Tokikaze@❝......❞",
+      "Translation": "@时风@「………」"
     },
     {
       "JP": "相手は微動だにせず、銃口は僕の胸に向いたままだ。",
@@ -2056,9 +2056,9 @@
       "Translation": "想要知道结果…。"
     },
     {
-      "JP": "`理樹@「沙耶っ、どうなったんだ…」",
-      "EN": "`Riki@❝Saya, what happened...❞",
-      "Translation": "`理树@「沙耶，怎么样了…」"
+      "JP": "@理樹@「沙耶っ、どうなったんだ…」",
+      "EN": "@Riki@❝Saya, what happened...❞",
+      "Translation": "@理树@「沙耶，怎么样了…」"
     },
     {
       "JP": "………。",
@@ -2076,9 +2076,9 @@
       "Translation": "…没有回应！？"
     },
     {
-      "JP": "`理樹@「沙耶っ、沙耶！」",
-      "EN": "`Riki@❝Saya, Saya!❞",
-      "Translation": "`理树@「沙耶，沙耶！」"
+      "JP": "@理樹@「沙耶っ、沙耶！」",
+      "EN": "@Riki@❝Saya, Saya!❞",
+      "Translation": "@理树@「沙耶，沙耶！」"
     },
     {
       "JP": "そう暗闇に呼び続ける。",
@@ -2086,9 +2086,9 @@
       "Translation": "我在黑暗中不断呼喊着。"
     },
     {
-      "JP": "`理樹@「沙耶ぁ！」",
-      "EN": "`Riki@❝Saya!❞",
-      "Translation": "`理树@「沙耶！」"
+      "JP": "@理樹@「沙耶ぁ！」",
+      "EN": "@Riki@❝Saya!❞",
+      "Translation": "@理树@「沙耶！」"
     },
     {
       "JP": "………。",
@@ -2096,9 +2096,9 @@
       "Translation": "………。"
     },
     {
-      "JP": "`沙耶@「…大丈夫よ」",
-      "EN": "`Saya@❝...I'm fine.❞",
-      "Translation": "`沙耶@「…我没问题」"
+      "JP": "@沙耶@「…大丈夫よ」",
+      "EN": "@Saya@❝...I'm fine.❞",
+      "Translation": "@沙耶@「…我没问题」"
     },
     {
       "JP": "すぐ先の床から声がした。",
@@ -2106,24 +2106,24 @@
       "Translation": "从我不远处的地面上传来了声音。"
     },
     {
-      "JP": "`理樹@「撃たれたの!?」",
-      "EN": "`Riki@❝Were you shot!?❞",
-      "Translation": "`理树@「被打中了！？」"
+      "JP": "@理樹@「撃たれたの!?」",
+      "EN": "@Riki@❝Were you shot!?❞",
+      "Translation": "@理树@「被打中了！？」"
     },
     {
-      "JP": "`沙耶@「かすり傷程度よ、なんでもないわ」",
-      "EN": "`Saya@❝It's just a scratch, nothing to worry about.❞",
-      "Translation": "`沙耶@「只是擦伤而已，没什么大不了的」"
+      "JP": "@沙耶@「かすり傷程度よ、なんでもないわ」",
+      "EN": "@Saya@❝It's just a scratch, nothing to worry about.❞",
+      "Translation": "@沙耶@「只是擦伤而已，没什么大不了的」"
     },
     {
-      "JP": "`理樹@「でも倒れるぐらいって…」",
-      "EN": "`Riki@❝But you collapsed on the floor...❞",
-      "Translation": "`理树@「但是都倒下了…」"
+      "JP": "@理樹@「でも倒れるぐらいって…」",
+      "EN": "@Riki@❝But you collapsed on the floor...❞",
+      "Translation": "@理树@「但是都倒下了…」"
     },
     {
-      "JP": "`沙耶@「自分から床に倒れ込んだのよ」",
-      "EN": "`Saya@❝I just fell.❞",
-      "Translation": "`沙耶@「那是我自己倒在地上的」"
+      "JP": "@沙耶@「自分から床に倒れ込んだのよ」",
+      "EN": "@Saya@❝I just fell.❞",
+      "Translation": "@沙耶@「那是我自己倒在地上的」"
     },
     {
       "JP": "ひとりで立ち上がれたようだ。",
@@ -2131,34 +2131,34 @@
       "Translation": "于是乎她自己又站了起来。"
     },
     {
-      "JP": "`理樹@「ほんとになんともない？」",
-      "EN": "`Riki@❝Are you really alright?❞",
-      "Translation": "`理树@「真的没问题吗？」"
+      "JP": "@理樹@「ほんとになんともない？」",
+      "EN": "@Riki@❝Are you really alright?❞",
+      "Translation": "@理树@「真的没问题吗？」"
     },
     {
-      "JP": "`沙耶@「大丈夫だってば。相棒を信じなさいよ」",
-      "EN": "`Saya@❝I said I'm fine. Believe in your partner.❞",
-      "Translation": "`沙耶@「没事啦。要相信你的搭档啊」"
+      "JP": "@沙耶@「大丈夫だってば。相棒を信じなさいよ」",
+      "EN": "@Saya@❝I said I'm fine. Believe in your partner.❞",
+      "Translation": "@沙耶@「没事啦。要相信你的搭档啊」"
     },
     {
-      "JP": "`理樹@「じゃ…敵は…？」",
-      "EN": "`Riki@❝Then... the enemy...?❞",
-      "Translation": "`理树@「那…敌人呢…？」"
+      "JP": "@理樹@「じゃ…敵は…？」",
+      "EN": "@Riki@❝Then... the enemy...?❞",
+      "Translation": "@理树@「那…敌人呢…？」"
     },
     {
-      "JP": "`沙耶@「左右の肩を撃たれて、そこにうずくまってるわ」",
-      "EN": "`Saya@❝He was shot in both shoulders and is crouching over there.❞",
-      "Translation": "`沙耶@「左右肩都被击中了，正蹲坐在那里呢」"
+      "JP": "@沙耶@「左右の肩を撃たれて、そこにうずくまってるわ」",
+      "EN": "@Saya@❝He was shot in both shoulders and is crouching over there.❞",
+      "Translation": "@沙耶@「左右肩都被击中了，正蹲坐在那里呢」"
     },
     {
-      "JP": "`理樹@「それは…死なないの…」",
-      "EN": "`Riki@❝Is he going to die...?❞",
-      "Translation": "`理树@「那个…不会死吧…」"
+      "JP": "@理樹@「それは…死なないの…」",
+      "EN": "@Riki@❝Is he going to die...?❞",
+      "Translation": "@理树@「那个…不会死吧…」"
     },
     {
-      "JP": "`沙耶@「死なないわよ、安心なさい」",
-      "EN": "`Saya@❝He won't die, don't worry.❞",
-      "Translation": "`沙耶@「不会死的，放心吧」"
+      "JP": "@沙耶@「死なないわよ、安心なさい」",
+      "EN": "@Saya@❝He won't die, don't worry.❞",
+      "Translation": "@沙耶@「不会死的，放心吧」"
     },
     {
       "JP": "すぐそばまできたのがわかる。",
@@ -2166,14 +2166,14 @@
       "Translation": "她走到了我身边。"
     },
     {
-      "JP": "`沙耶@「理樹くんは、大丈夫？」",
-      "EN": "`Saya@❝Riki-kun, are you alright?❞",
-      "Translation": "`沙耶@「理树君没事吧？」"
+      "JP": "@沙耶@「理樹くんは、大丈夫？」",
+      "EN": "@Saya@❝Riki-kun, are you alright?❞",
+      "Translation": "@沙耶@「理树君没事吧？」"
     },
     {
-      "JP": "`理樹@「え、ああ…」",
-      "EN": "`Riki@❝Eh, aah...❞",
-      "Translation": "`理树@「哎，哦…」"
+      "JP": "@理樹@「え、ああ…」",
+      "EN": "@Riki@❝Eh, aah...❞",
+      "Translation": "@理树@「哎，哦…」"
     },
     {
       "JP": "言われて初めて僕は自分も怪我をしていることに気づいた。",
@@ -2191,39 +2191,39 @@
       "Translation": "试着碰了一下，伤口并不算深。"
     },
     {
-      "JP": "`理樹@「こっちもかすり傷程度だよ」",
-      "EN": "`Riki@❝I was just grazed, too.❞",
-      "Translation": "`理树@「我也只是擦伤的程度」"
+      "JP": "@理樹@「こっちもかすり傷程度だよ」",
+      "EN": "@Riki@❝I was just grazed, too.❞",
+      "Translation": "@理树@「我也只是擦伤的程度」"
     },
     {
-      "JP": "`沙耶@「そう、よかった」",
-      "EN": "`Saya@❝I see, that's good to hear.❞",
-      "Translation": "`沙耶@「是吗，那就好」"
+      "JP": "@沙耶@「そう、よかった」",
+      "EN": "@Saya@❝I see, that's good to hear.❞",
+      "Translation": "@沙耶@「是吗，那就好」"
     },
     {
-      "JP": "`沙耶@「理樹くん…頑張ったわね」",
-      "EN": "`Saya@❝Riki-kun... You did great.❞",
-      "Translation": "`沙耶@「理树君…真是努力了呢」"
+      "JP": "@沙耶@「理樹くん…頑張ったわね」",
+      "EN": "@Saya@❝Riki-kun... You did great.❞",
+      "Translation": "@沙耶@「理树君…真是努力了呢」"
     },
     {
-      "JP": "`理樹@「そ、そうだね…僕にしてはね…」",
-      "EN": "`Riki@❝T-that's right... not bad for me...❞",
-      "Translation": "`理树@「是，是啊…就连我也…」"
+      "JP": "@理樹@「そ、そうだね…僕にしてはね…」",
+      "EN": "@Riki@❝T-that's right... not bad for me...❞",
+      "Translation": "@理树@「是，是啊…就连我也…」"
     },
     {
-      "JP": "`沙耶@「普通の男の子でもなかなかできることじゃないわ」",
-      "EN": "`Saya@❝It's something a normal boy can't really do.❞",
-      "Translation": "`沙耶@「对普通的男孩来说这可不是随随便便就能做到的事哦」"
+      "JP": "@沙耶@「普通の男の子でもなかなかできることじゃないわ」",
+      "EN": "@Saya@❝It's something a normal boy can't really do.❞",
+      "Translation": "@沙耶@「对普通的男孩来说这可不是随随便便就能做到的事哦」"
     },
     {
-      "JP": "`沙耶@「立派よ」",
-      "EN": "`Saya@❝It was wonderful.❞",
-      "Translation": "`沙耶@「很了不起」"
+      "JP": "@沙耶@「立派よ」",
+      "EN": "@Saya@❝It was wonderful.❞",
+      "Translation": "@沙耶@「很了不起」"
     },
     {
-      "JP": "`理樹@「はは、ありがと」",
-      "EN": "`Riki@❝Haha, thanks.❞",
-      "Translation": "`理树@「哈哈，谢谢」"
+      "JP": "@理樹@「はは、ありがと」",
+      "EN": "@Riki@❝Haha, thanks.❞",
+      "Translation": "@理树@「哈哈，谢谢」"
     },
     {
       "JP": "僕は、その存在を確認するように、沙耶の頭や肩に触れた。",
@@ -2231,14 +2231,14 @@
       "Translation": "我就像为了确认她的存在一般，抚摸着沙耶的头和肩膀。"
     },
     {
-      "JP": "`理樹@「この先はどうするの？」",
-      "EN": "`Riki@❝What do we do now?❞",
-      "Translation": "`理树@「现在该怎么办？」"
+      "JP": "@理樹@「この先はどうするの？」",
+      "EN": "@Riki@❝What do we do now?❞",
+      "Translation": "@理树@「现在该怎么办？」"
     },
     {
-      "JP": "`声@「奧に稼働しているエレベーターがある…」",
-      "EN": "`Voice@❝There's an elevator going deeper inside...❞",
-      "Translation": "`声@「在里面有可以正常工作的电梯…」"
+      "JP": "@声@「奧に稼働しているエレベーターがある…」",
+      "EN": "@Voice@❝There's an elevator going deeper inside...❞",
+      "Translation": "@声@「在里面有可以正常工作的电梯…」"
     },
     {
       "JP": "反対方向から声が返ってきて僕は驚く。",
@@ -2251,29 +2251,29 @@
       "Translation": "是被打倒的时风的声音…。"
     },
     {
-      "JP": "`沙耶@「それはどうもありがと」",
-      "EN": "`Saya@❝Well, thank you.❞",
-      "Translation": "`沙耶@「那可真是多谢了」"
+      "JP": "@沙耶@「それはどうもありがと」",
+      "EN": "@Saya@❝Well, thank you.❞",
+      "Translation": "@沙耶@「那可真是多谢了」"
     },
     {
-      "JP": "`理樹@「待ってよ、罠かもしれないよっ」",
-      "EN": "`Riki@❝Wait, it could be a trap.❞",
-      "Translation": "`理树@「等等啊，那可能是陷阱啊」"
+      "JP": "@理樹@「待ってよ、罠かもしれないよっ」",
+      "EN": "@Riki@❝Wait, it could be a trap.❞",
+      "Translation": "@理树@「等等啊，那可能是陷阱啊」"
     },
     {
-      "JP": "`沙耶@「大丈夫よ」",
-      "EN": "`Saya@❝It's alright.❞",
-      "Translation": "`沙耶@「没问题的」"
+      "JP": "@沙耶@「大丈夫よ」",
+      "EN": "@Saya@❝It's alright.❞",
+      "Translation": "@沙耶@「没问题的」"
     },
     {
-      "JP": "`理樹@「どうしてそんな信頼できるの？　さっきまで戦ってた相手だよ？　沙耶も傷つけられたんだよ？」",
-      "EN": "`Riki@❝Why are you so certain? He was fighting with you a few seconds ago, you know? You got hurt, didn't you, Saya?❞",
-      "Translation": "`理树@「为什么那么相信他？　刚才不是还在跟他战斗的吗？　沙耶不是也被打伤了吗？」"
+      "JP": "@理樹@「どうしてそんな信頼できるの？　さっきまで戦ってた相手だよ？　沙耶も傷つけられたんだよ？」",
+      "EN": "@Riki@❝Why are you so certain? He was fighting with you a few seconds ago, you know? You got hurt, didn't you, Saya?❞",
+      "Translation": "@理树@「为什么那么相信他？　刚才不是还在跟他战斗的吗？　沙耶不是也被打伤了吗？」"
     },
     {
-      "JP": "`時風@「…安心しろ、坊主」",
-      "EN": "`Tokikaze@❝...Don't worry, boy.❞",
-      "Translation": "`时风@「…放心吧，小子」"
+      "JP": "@時風@「…安心しろ、坊主」",
+      "EN": "@Tokikaze@❝...Don't worry, boy.❞",
+      "Translation": "@时风@「…放心吧，小子」"
     },
     {
       "JP": "そいつは僕に話しかけているようだ。坊主とは僕のことだろう。",
@@ -2281,19 +2281,19 @@
       "Translation": "那家伙好像在对我说话。“小子”就是在说我吧。"
     },
     {
-      "JP": "`時風@「そいつは、秘宝を得る権利を勝ち取ったんだ。もう、罠も仕掛けもねぇよ…」",
-      "EN": "`Tokikaze@❝This person has already earned the right to take the treasure. There won't be any more traps...❞",
-      "Translation": "`时风@「她已经获得了赢取秘宝的权力。已经，不会再有陷阱和机关了…」"
+      "JP": "@時風@「そいつは、秘宝を得る権利を勝ち取ったんだ。もう、罠も仕掛けもねぇよ…」",
+      "EN": "@Tokikaze@❝This person has already earned the right to take the treasure. There won't be any more traps...❞",
+      "Translation": "@时风@「她已经获得了赢取秘宝的权力。已经，不会再有陷阱和机关了…」"
     },
     {
-      "JP": "`理樹@「権利ってのは…あなたを倒すことだったんですか…」",
-      "EN": "`Riki@❝The right to... Was the condition defeating you?❞",
-      "Translation": "`理树@「获得权力…就是打倒你吗…」"
+      "JP": "@理樹@「権利ってのは…あなたを倒すことだったんですか…」",
+      "EN": "@Riki@❝The right to... Was the condition defeating you?❞",
+      "Translation": "@理树@「获得权力…就是打倒你吗…」"
     },
     {
-      "JP": "`時風@「…そうだ。少なくとも俺とそいつの中ではな」",
-      "EN": "`Tokikaze@❝It was. At least between us two.❞",
-      "Translation": "`时风@「…没错。至少对于我和她来说是这样」"
+      "JP": "@時風@「…そうだ。少なくとも俺とそいつの中ではな」",
+      "EN": "@Tokikaze@❝It was. At least between us two.❞",
+      "Translation": "@时风@「…没错。至少对于我和她来说是这样」"
     },
     {
       "JP": "なんだろう…僕の知らないところで、取り決めてあったのだろうか。",
@@ -2301,9 +2301,9 @@
       "Translation": "怎么回事…是在我不知道的时候，做出了什么约定吗。"
     },
     {
-      "JP": "`沙耶@「そういうことよ、理樹くん。信じていいわ。いきましょ」",
-      "EN": "`Saya@❝He's telling the truth, Riki-kun. We can believe him. Let's go.❞",
-      "Translation": "`沙耶@「就是这样，理树君。现在的他可以相信。我们走吧」"
+      "JP": "@沙耶@「そういうことよ、理樹くん。信じていいわ。いきましょ」",
+      "EN": "@Saya@❝He's telling the truth, Riki-kun. We can believe him. Let's go.❞",
+      "Translation": "@沙耶@「就是这样，理树君。现在的他可以相信。我们走吧」"
     },
     {
       "JP": "彼女が先に立って、先が見えない僕の――彼女自身のものである――服の袖を引っ張る。",
@@ -2351,34 +2351,34 @@
       "Translation": "是因为速度相当快吗，身体有微微浮起来的感觉。"
     },
     {
-      "JP": "`理樹@「でもさ」",
-      "EN": "`Riki@❝That's odd.❞",
-      "Translation": "`理树@「但是啊」"
+      "JP": "@理樹@「でもさ」",
+      "EN": "@Riki@❝That's odd.❞",
+      "Translation": "@理树@「但是啊」"
     },
     {
-      "JP": "`理樹@「最下層が６０階だなんて…一体誰がこんなものを作ろうなんて考えたのやら」",
-      "EN": "`Riki@❝It goes 60 floors down... Who in the world thought of building this?❞",
-      "Translation": "`理树@「最底层居然是第６０层…到底是谁想出要做这种东西的呢」"
+      "JP": "@理樹@「最下層が６０階だなんて…一体誰がこんなものを作ろうなんて考えたのやら」",
+      "EN": "@Riki@❝It goes 60 floors down... Who in the world thought of building this?❞",
+      "Translation": "@理树@「最底层居然是第６０层…到底是谁想出要做这种东西的呢」"
     },
     {
-      "JP": "`沙耶@「まあ、当時はエレベーターすらなかったんでしょうから、随分マシよ」",
-      "EN": "`Saya@❝Well originally, there wasn't an elevator, so this is much better.❞",
-      "Translation": "`沙耶@「嘛，当时连电梯都没有，现在有电梯已经不错了」"
+      "JP": "@沙耶@「まあ、当時はエレベーターすらなかったんでしょうから、随分マシよ」",
+      "EN": "@Saya@❝Well originally, there wasn't an elevator, so this is much better.❞",
+      "Translation": "@沙耶@「嘛，当时连电梯都没有，现在有电梯已经不错了」"
     },
     {
-      "JP": "`理樹@「なかったら、オカシイよ」",
-      "EN": "`Riki@❝No way there wasn't one.❞",
-      "Translation": "`理树@「要是没有，那才奇怪呢」"
+      "JP": "@理樹@「なかったら、オカシイよ」",
+      "EN": "@Riki@❝No way there wasn't one.❞",
+      "Translation": "@理树@「要是没有，那才奇怪呢」"
     },
     {
-      "JP": "`沙耶@「でも、それに相応しい秘宝ということよ」",
-      "EN": "`Saya@❝That shows just how important the treasure must have been.❞",
-      "Translation": "`沙耶@「但也就是说，底下有着与这么夸张的东西所相配的秘宝」"
+      "JP": "@沙耶@「でも、それに相応しい秘宝ということよ」",
+      "EN": "@Saya@❝That shows just how important the treasure must have been.❞",
+      "Translation": "@沙耶@「但也就是说，底下有着与这么夸张的东西所相配的秘宝」"
     },
     {
-      "JP": "`理樹@「さて、なんだろうね…」",
-      "EN": "`Riki@❝Well, I wonder what it is...❞",
-      "Translation": "`理树@「那到底会是什么呢…」"
+      "JP": "@理樹@「さて、なんだろうね…」",
+      "EN": "@Riki@❝Well, I wonder what it is...❞",
+      "Translation": "@理树@「那到底会是什么呢…」"
     },
     {
       "JP": "さらに下、その底へ向けて、僕らは潜っていく…。",
@@ -2431,24 +2431,24 @@
       "Translation": "她巴不得马上就要冲进去的样子。"
     },
     {
-      "JP": "`理樹@「うわ、そんな簡単に入っていいの？」",
-      "EN": "`Riki@❝Wait, can we enter so easily?❞",
-      "Translation": "`理树@「哇，这样冒冒失失地进去没问题吗？」"
+      "JP": "@理樹@「うわ、そんな簡単に入っていいの？」",
+      "EN": "@Riki@❝Wait, can we enter so easily?❞",
+      "Translation": "@理树@「哇，这样冒冒失失地进去没问题吗？」"
     },
     {
-      "JP": "`沙耶@「言ってたでしょ、もう罠も仕掛けもないの」",
-      "EN": "`Saya@❝Didn't I say so? There won't be any more traps.❞",
-      "Translation": "`沙耶@「已经说过了的吧，不会再有陷阱和机关了」"
+      "JP": "@沙耶@「言ってたでしょ、もう罠も仕掛けもないの」",
+      "EN": "@Saya@❝Didn't I say so? There won't be any more traps.❞",
+      "Translation": "@沙耶@「已经说过了的吧，不会再有陷阱和机关了」"
     },
     {
-      "JP": "`理樹@「じゃ、ライト点けてもいい？」",
-      "EN": "`Riki@❝Then, can we turn on the light?❞",
-      "Translation": "`理树@「那，可以把灯打开了吗？」"
+      "JP": "@理樹@「じゃ、ライト点けてもいい？」",
+      "EN": "@Riki@❝Then, can we turn on the light?❞",
+      "Translation": "@理树@「那，可以把灯打开了吗？」"
     },
     {
-      "JP": "`沙耶@「そうね。いいわよ」",
-      "EN": "`Saya@❝That's right. Let's do that.❞",
-      "Translation": "`沙耶@「是呢，打开吧」"
+      "JP": "@沙耶@「そうね。いいわよ」",
+      "EN": "@Saya@❝That's right. Let's do that.❞",
+      "Translation": "@沙耶@「是呢，打开吧」"
     },
     {
       "JP": "ライトを点けると、意外にも小さな空間だということがわかった。",
@@ -2476,9 +2476,9 @@
       "Translation": "但实际上那只是个像冷清的医院一角般的房间。"
     },
     {
-      "JP": "`沙耶@「………」",
-      "EN": "`Saya@❝......❞",
-      "Translation": "`沙耶@「………」"
+      "JP": "@沙耶@「………」",
+      "EN": "@Saya@❝......❞",
+      "Translation": "@沙耶@「………」"
     },
     {
       "JP": "彼女は迷いのない足取りで、ガラス張りの部屋を目指していた。",
@@ -2491,9 +2491,9 @@
       "Translation": "我急忙紧跟在她后面。"
     },
     {
-      "JP": "`理樹@「どう？　わかる？」",
-      "EN": "`Riki@❝Well? Did you figure out anything?❞",
-      "Translation": "`理树@「怎么样？　能明白吗？」"
+      "JP": "@理樹@「どう？　わかる？」",
+      "EN": "@Riki@❝Well? Did you figure out anything?❞",
+      "Translation": "@理树@「怎么样？　能明白吗？」"
     },
     {
       "JP": "ガラスに張りついたその背中に問いかける。",
@@ -2501,9 +2501,9 @@
       "Translation": "正对着玻璃窗，在她背后这么问道。"
     },
     {
-      "JP": "`沙耶@「この中に入らない限りわからないわね」",
-      "EN": "`Saya@❝I can't tell unless we go inside.❞",
-      "Translation": "`沙耶@「不进去看看的话是不会知道的」"
+      "JP": "@沙耶@「この中に入らない限りわからないわね」",
+      "EN": "@Saya@❝I can't tell unless we go inside.❞",
+      "Translation": "@沙耶@「不进去看看的话是不会知道的」"
     },
     {
       "JP": "そこは、科学の実験室のような部屋だった。",
@@ -2521,9 +2521,9 @@
       "Translation": "能让人进去的空间，大概只能容纳一个人。"
     },
     {
-      "JP": "`沙耶@「あたしが入るわ」",
-      "EN": "`Saya@❝I will go in.❞",
-      "Translation": "`沙耶@「我进去吧」"
+      "JP": "@沙耶@「あたしが入るわ」",
+      "EN": "@Saya@❝I will go in.❞",
+      "Translation": "@沙耶@「我进去吧」"
     },
     {
       "JP": "僕は深く考えもせず、頷いていた。",
@@ -2676,9 +2676,9 @@
       "Translation": "我更加用力地敲击着玻璃窗。"
     },
     {
-      "JP": "`理樹@「どうしたの!?　何があったの!?　怪我をしたの!?」",
-      "EN": "`Riki@❝What's wrong!? What happened!? Did you get hurt!?❞",
-      "Translation": "`理树@「怎么了！？　发生什么事了！？　受伤了吗！？」"
+      "JP": "@理樹@「どうしたの!?　何があったの!?　怪我をしたの!?」",
+      "EN": "@Riki@❝What's wrong!? What happened!? Did you get hurt!?❞",
+      "Translation": "@理树@「怎么了！？　发生什么事了！？　受伤了吗！？」"
     },
     {
       "JP": "彼女は首を縦にも横にも振らない。",
@@ -2686,9 +2686,9 @@
       "Translation": "她既没有点头，也没有摇头。"
     },
     {
-      "JP": "`理樹@「ねぇ、聞こえる!?　返事をしてよ！」",
-      "EN": "`Riki@❝Hey, can you hear me!? Say something!❞",
-      "Translation": "`理树@「喂，听得到吗！？　回答我啊！」"
+      "JP": "@理樹@「ねぇ、聞こえる!?　返事をしてよ！」",
+      "EN": "@Riki@❝Hey, can you hear me!? Say something!❞",
+      "Translation": "@理树@「喂，听得到吗！？　回答我啊！」"
     },
     {
       "JP": "表情ひとつ変えず、ガラスに近づいてきた。",
@@ -2696,9 +2696,9 @@
       "Translation": "带着依然不变的表情，向玻璃窗走来。"
     },
     {
-      "JP": "`沙耶@『聞こえるわ』",
-      "EN": "`Saya@[I can hear you.]",
-      "Translation": "`沙耶@『我听得到』"
+      "JP": "@沙耶@『聞こえるわ』",
+      "EN": "@Saya@[I can hear you.]",
+      "Translation": "@沙耶@『我听得到』"
     },
     {
       "JP": "くぐもった声が聞こえた。",
@@ -2706,9 +2706,9 @@
       "Translation": "听得了含糊不清的声音。"
     },
     {
-      "JP": "`沙耶@『理樹くん、冷静でいてほしいんだけど』",
-      "EN": "`Saya@[Riki-kun, I want you to stay calm.]",
-      "Translation": "`沙耶@『理树君，希望你能冷静点』"
+      "JP": "@沙耶@『理樹くん、冷静でいてほしいんだけど』",
+      "EN": "@Saya@[Riki-kun, I want you to stay calm.]",
+      "Translation": "@沙耶@『理树君，希望你能冷静点』"
     },
     {
       "JP": "そんな前振りしないでよ…。",
@@ -2716,9 +2716,9 @@
       "Translation": "不要说这样的开场白啊…。"
     },
     {
-      "JP": "`沙耶@『生物兵器よ』",
-      "EN": "`Saya@[It's a biological weapon.]",
-      "Translation": "`沙耶@『是生物武器』"
+      "JP": "@沙耶@『生物兵器よ』",
+      "EN": "@Saya@[It's a biological weapon.]",
+      "Translation": "@沙耶@『是生物武器』"
     },
     {
       "JP": "せいぶつへいき…。",
@@ -2731,9 +2731,9 @@
       "Translation": "那是什么…。"
     },
     {
-      "JP": "`沙耶@『秘宝よ』",
-      "EN": "`Saya@[That's the secret treasure.]",
-      "Translation": "`沙耶@『秘宝』"
+      "JP": "@沙耶@『秘宝よ』",
+      "EN": "@Saya@[That's the secret treasure.]",
+      "Translation": "@沙耶@『秘宝』"
     },
     {
       "JP": "ひほうが…せいぶつへいき…!?",
@@ -2761,9 +2761,9 @@
       "Translation": "谁快来告诉我她不会有什么危险。"
     },
     {
-      "JP": "`沙耶@『致命的ね』",
-      "EN": "`Saya@[It's lethal.]",
-      "Translation": "`沙耶@『是致命的』"
+      "JP": "@沙耶@『致命的ね』",
+      "EN": "@Saya@[It's lethal.]",
+      "Translation": "@沙耶@『是致命的』"
     },
     {
       "JP": "ちめいてき…",
@@ -2776,9 +2776,9 @@
       "Translation": "到底要致…谁的命…"
     },
     {
-      "JP": "`沙耶@『ここでお別れよ』",
-      "EN": "`Saya@[Time to say goodbye.]",
-      "Translation": "`沙耶@『我们要在此分别了』"
+      "JP": "@沙耶@『ここでお別れよ』",
+      "EN": "@Saya@[Time to say goodbye.]",
+      "Translation": "@沙耶@『我们要在此分别了』"
     },
     {
       "JP": "おわかれ…",
@@ -2796,9 +2796,9 @@
       "Translation": "不要…我不要这样！"
     },
     {
-      "JP": "`理樹@「僕もいくよっ！」",
-      "EN": "`Riki@❝I'm coming in too!❞",
-      "Translation": "`理树@「我也进去！」"
+      "JP": "@理樹@「僕もいくよっ！」",
+      "EN": "@Riki@❝I'm coming in too!❞",
+      "Translation": "@理树@「我也进去！」"
     },
     {
       "JP": "ドアのほうに周り、中に入ろうとした。",
@@ -2821,9 +2821,9 @@
       "Translation": "回到玻璃窗前。"
     },
     {
-      "JP": "`理樹@「でてきてよっ、何が起きたか、説明してよっ！」",
-      "EN": "`Riki@❝Get out of there! What happened? Tell me!❞",
-      "Translation": "`理树@「快出来啊，到底发生了什么事，说明一下啊！」"
+      "JP": "@理樹@「でてきてよっ、何が起きたか、説明してよっ！」",
+      "EN": "@Riki@❝Get out of there! What happened? Tell me!❞",
+      "Translation": "@理树@「快出来啊，到底发生了什么事，说明一下啊！」"
     },
     {
       "JP": "………。",
@@ -2846,9 +2846,9 @@
       "Translation": "我无法保持冷静，陷入了混乱。"
     },
     {
-      "JP": "`理樹@「ねぇ、沙耶ったら、ねぇっ！」",
-      "EN": "`Riki@❝Hey, Saya, Saya!❞",
-      "Translation": "`理树@「沙耶，沙耶！」"
+      "JP": "@理樹@「ねぇ、沙耶ったら、ねぇっ！」",
+      "EN": "@Riki@❝Hey, Saya, Saya!❞",
+      "Translation": "@理树@「沙耶，沙耶！」"
     },
     {
       "JP": "名を呼び続けても、返事はない。",
@@ -2981,9 +2981,9 @@
       "Translation": "但是，她却摇着头制止了我。"
     },
     {
-      "JP": "`沙耶@『理樹くん…』",
-      "EN": "`Saya@[Riki-kun...]",
-      "Translation": "`沙耶@『理树君…』"
+      "JP": "@沙耶@『理樹くん…』",
+      "EN": "@Saya@[Riki-kun...]",
+      "Translation": "@沙耶@『理树君…』"
     },
     {
       "JP": "彼女が僕に語りかける。",
@@ -2991,14 +2991,14 @@
       "Translation": "她开始向我说话了。"
     },
     {
-      "JP": "`沙耶@『あたしと出会うルートは…』",
-      "EN": "`Saya@[The route where you meet me...]",
-      "Translation": "`沙耶@『与我相遇的路线…』"
+      "JP": "@沙耶@『あたしと出会うルートは…』",
+      "EN": "@Saya@[The route where you meet me...]",
+      "Translation": "@沙耶@『与我相遇的路线…』"
     },
     {
-      "JP": "`沙耶@『バッドエンドなのよ』",
-      "EN": "`Saya@[Only has a bad end.]",
-      "Translation": "`沙耶@『是ＢＡＤ　ＥＮＤ哦』"
+      "JP": "@沙耶@『バッドエンドなのよ』",
+      "EN": "@Saya@[Only has a bad end.]",
+      "Translation": "@沙耶@『是ＢＡＤ　ＥＮＤ哦』"
     },
     {
       "JP": "…え？",
@@ -3016,9 +3016,9 @@
       "Translation": "…ＢＡＤ　ＥＮＤ？"
     },
     {
-      "JP": "`沙耶@『そういう終わりしか、ここにはないの』",
-      "EN": "`Saya@[This doesn't have any other ending.]",
-      "Translation": "`沙耶@『在这里，就只会有这样的终结』"
+      "JP": "@沙耶@『そういう終わりしか、ここにはないの』",
+      "EN": "@Saya@[This doesn't have any other ending.]",
+      "Translation": "@沙耶@『在这里，就只会有这样的终结』"
     },
     {
       "JP": "意味がさっぱりわからない。",
@@ -3031,19 +3031,19 @@
       "Translation": "她到底想告诉我什么啊。"
     },
     {
-      "JP": "`理樹@「どういうことっ、ね!?」",
-      "EN": "`Riki@❝What are you saying, hey!?❞",
-      "Translation": "`理树@「到底是怎么回事啊！？」"
+      "JP": "@理樹@「どういうことっ、ね!?」",
+      "EN": "@Riki@❝What are you saying, hey!?❞",
+      "Translation": "@理树@「到底是怎么回事啊！？」"
     },
     {
-      "JP": "`理樹@「わけがわからないよっ」",
-      "EN": "`Riki@❝I don't get it!❞",
-      "Translation": "`理树@「完全不明白啊！」"
+      "JP": "@理樹@「わけがわからないよっ」",
+      "EN": "@Riki@❝I don't get it!❞",
+      "Translation": "@理树@「完全不明白啊！」"
     },
     {
-      "JP": "`理樹@「終わりってどういうことなの!?」",
-      "EN": "`Riki@❝What do you mean by ❛ending❜!?❞",
-      "Translation": "`理树@「什么终结，到底是怎么回事！？」"
+      "JP": "@理樹@「終わりってどういうことなの!?」",
+      "EN": "@Riki@❝What do you mean by ❛ending❜!?❞",
+      "Translation": "@理树@「什么终结，到底是怎么回事！？」"
     },
     {
       "JP": "ガラスに鼻と顎を強く押しつけて、問い続けた。",
@@ -3051,99 +3051,99 @@
       "Translation": "用力把鼻子和下颚紧贴在玻璃上，不断地问道。"
     },
     {
-      "JP": "`時風@「他に望みは。最後にひとつぐらいなら叶えてやろう」",
-      "EN": "`Tokikaze@❝Anything else? I can at least grant you one final wish.❞",
-      "Translation": "`时风@「其他愿望呢。在最后，我可以帮你实现一个」"
+      "JP": "@時風@「他に望みは。最後にひとつぐらいなら叶えてやろう」",
+      "EN": "@Tokikaze@❝Anything else? I can at least grant you one final wish.❞",
+      "Translation": "@时风@「其他愿望呢。在最后，我可以帮你实现一个」"
     },
     {
-      "JP": "`沙耶@「じゃ…」",
-      "EN": "`Saya@❝Then...❞",
-      "Translation": "`沙耶@「那么…」"
+      "JP": "@沙耶@「じゃ…」",
+      "EN": "@Saya@❝Then...❞",
+      "Translation": "@沙耶@「那么…」"
     },
     {
-      "JP": "`沙耶@「もしあたしたちがあなたを倒したら、この迷宮の秘宝を手に入れさせて」",
-      "EN": "`Saya@❝If we do manage to defeat you, let me have this labyrinth's hidden treasure.❞",
-      "Translation": "`沙耶@「如果我们打倒了你的话，就让我们得到这个迷宫的秘宝」"
+      "JP": "@沙耶@「もしあたしたちがあなたを倒したら、この迷宮の秘宝を手に入れさせて」",
+      "EN": "@Saya@❝If we do manage to defeat you, let me have this labyrinth's hidden treasure.❞",
+      "Translation": "@沙耶@「如果我们打倒了你的话，就让我们得到这个迷宫的秘宝」"
     },
     {
-      "JP": "`時風@「…秘宝の正体は原作でもまだ明かされていない」",
-      "EN": "`Tokikaze@❝...It hasn't even been revealed what the treasure is in the original yet.❞",
-      "Translation": "`时风@「…那秘宝到底是什么，就连原作里都还没揭晓」"
+      "JP": "@時風@「…秘宝の正体は原作でもまだ明かされていない」",
+      "EN": "@Tokikaze@❝...It hasn't even been revealed what the treasure is in the original yet.❞",
+      "Translation": "@时风@「…那秘宝到底是什么，就连原作里都还没揭晓」"
     },
     {
-      "JP": "`沙耶@「それも考えてあるわ」",
-      "EN": "`Saya@❝I've already thought about that.❞",
-      "Translation": "`沙耶@「那个我已经想好了」"
+      "JP": "@沙耶@「それも考えてあるわ」",
+      "EN": "@Saya@❝I've already thought about that.❞",
+      "Translation": "@沙耶@「那个我已经想好了」"
     },
     {
-      "JP": "`時風@「そうか…」",
-      "EN": "`Tokikaze@❝Is that so...❞",
-      "Translation": "`时风@「是吗…」"
+      "JP": "@時風@「そうか…」",
+      "EN": "@Tokikaze@❝Is that so...❞",
+      "Translation": "@时风@「是吗…」"
     },
     {
-      "JP": "`時風@「では訊こう」",
-      "EN": "`Tokikaze@❝Tell me, then.❞",
-      "Translation": "`时风@「那么我问你」"
+      "JP": "@時風@「では訊こう」",
+      "EN": "@Tokikaze@❝Tell me, then.❞",
+      "Translation": "@时风@「那么我问你」"
     },
     {
-      "JP": "`時風@「おまえの探し求める秘宝…それはなんだ」",
-      "EN": "`Tokikaze@❝The secret treasure you are hoping to find... what is it?❞",
-      "Translation": "`时风@「你所追求的秘宝…到底是什么」"
+      "JP": "@時風@「おまえの探し求める秘宝…それはなんだ」",
+      "EN": "@Tokikaze@❝The secret treasure you are hoping to find... what is it?❞",
+      "Translation": "@时风@「你所追求的秘宝…到底是什么」"
     },
     {
-      "JP": "`沙耶@「…生物兵器」",
-      "EN": "`Saya@❝...A biological weapon.❞",
-      "Translation": "`沙耶@「…生物武器」"
+      "JP": "@沙耶@「…生物兵器」",
+      "EN": "@Saya@❝...A biological weapon.❞",
+      "Translation": "@沙耶@「…生物武器」"
     },
     {
-      "JP": "`沙耶@「それも、とびきり強力で、感染力もすごくて、あっという間に国ひとつを滅ぼすぐらいの」",
-      "EN": "`Saya@❝One so ridiculously strong and infectious that it can even bring down a country.❞",
-      "Translation": "`沙耶@「而且是有着相当强的威力和感染力，可以在短短的时间内毁灭掉一个国家的那种」"
+      "JP": "@沙耶@「それも、とびきり強力で、感染力もすごくて、あっという間に国ひとつを滅ぼすぐらいの」",
+      "EN": "@Saya@❝One so ridiculously strong and infectious that it can even bring down a country.❞",
+      "Translation": "@沙耶@「而且是有着相当强的威力和感染力，可以在短短的时间内毁灭掉一个国家的那种」"
     },
     {
-      "JP": "`時風@「なるほど…確かにそんな秘宝も考えられるな」",
-      "EN": "`Tokikaze@❝I see... that certainly is plausible for a secret treasure.❞",
-      "Translation": "`时风@「原来如此…的确，那的确是可以称作秘宝了」"
+      "JP": "@時風@「なるほど…確かにそんな秘宝も考えられるな」",
+      "EN": "@Tokikaze@❝I see... that certainly is plausible for a secret treasure.❞",
+      "Translation": "@时风@「原来如此…的确，那的确是可以称作秘宝了」"
     },
     {
-      "JP": "`沙耶@「そう。決して見つかってはならないもの、という意味では実に相応しいわ」",
-      "EN": "`Saya@❝That's right. For something that must never be found, that is truly fitting.❞",
-      "Translation": "`沙耶@「没错。的确是配得上“绝对不能被发现的东西”这层意思呢」"
+      "JP": "@沙耶@「そう。決して見つかってはならないもの、という意味では実に相応しいわ」",
+      "EN": "@Saya@❝That's right. For something that must never be found, that is truly fitting.❞",
+      "Translation": "@沙耶@「没错。的确是配得上“绝对不能被发现的东西”这层意思呢」"
     },
     {
-      "JP": "`沙耶@「どう？　無理？」",
-      "EN": "`Saya@❝How about that? Is that too difficult?❞",
-      "Translation": "`沙耶@「怎么？　做不到？」"
+      "JP": "@沙耶@「どう？　無理？」",
+      "EN": "@Saya@❝How about that? Is that too difficult?❞",
+      "Translation": "@沙耶@「怎么？　做不到？」"
     },
     {
-      "JP": "`時風@「簡単さ…」",
-      "EN": "`Tokikaze@❝That's simple...❞",
-      "Translation": "`时风@「很简单…」"
+      "JP": "@時風@「簡単さ…」",
+      "EN": "@Tokikaze@❝That's simple...❞",
+      "Translation": "@时风@「很简单…」"
     },
     {
-      "JP": "`時風@「ただ…」",
-      "EN": "`Tokikaze@❝Just that...❞",
-      "Translation": "`时风@「只是…」"
+      "JP": "@時風@「ただ…」",
+      "EN": "@Tokikaze@❝Just that...❞",
+      "Translation": "@时风@「只是…」"
     },
     {
-      "JP": "`沙耶@「…ただ？」",
-      "EN": "`Saya@❝...Just that?❞",
-      "Translation": "`沙耶@「…只是？」"
+      "JP": "@沙耶@「…ただ？」",
+      "EN": "@Saya@❝...Just that?❞",
+      "Translation": "@沙耶@「…只是？」"
     },
     {
-      "JP": "`時風@「…本当にそれでいいのか？」",
-      "EN": "`Tokikaze@❝...Are your really alright with that?❞",
-      "Translation": "`时风@「…真的这样就可以了吗？」"
+      "JP": "@時風@「…本当にそれでいいのか？」",
+      "EN": "@Tokikaze@❝...Are your really alright with that?❞",
+      "Translation": "@时风@「…真的这样就可以了吗？」"
     },
     {
-      "JP": "`沙耶@「…いいわ」",
-      "EN": "`Saya@❝...It's fine.❞",
-      "Translation": "`沙耶@「…可以了」"
+      "JP": "@沙耶@「…いいわ」",
+      "EN": "@Saya@❝...It's fine.❞",
+      "Translation": "@沙耶@「…可以了」"
     },
     {
-      "JP": "`時風@「…わかった」",
-      "EN": "`Tokikaze@❝...Understood.❞",
-      "Translation": "`时风@「…我知道了」"
+      "JP": "@時風@「…わかった」",
+      "EN": "@Tokikaze@❝...Understood.❞",
+      "Translation": "@时风@「…我知道了」"
     },
     {
       "JP": "………。",
@@ -3341,14 +3341,14 @@
       "Translation": "理树君一直在敲着玻璃窗，一直在说着什么话。"
     },
     {
-      "JP": "`沙耶@「ありがとう。理樹くん」",
-      "EN": "`Saya@❝Thank you, Riki-kun.❞",
-      "Translation": "`沙耶@「谢谢你，理树君」"
+      "JP": "@沙耶@「ありがとう。理樹くん」",
+      "EN": "@Saya@❝Thank you, Riki-kun.❞",
+      "Translation": "@沙耶@「谢谢你，理树君」"
     },
     {
-      "JP": "`沙耶@『ありがとう。理樹くん』",
-      "EN": "`Saya@[Thank you, Riki-kun.]",
-      "Translation": "`沙耶@『谢谢你，理树君』"
+      "JP": "@沙耶@『ありがとう。理樹くん』",
+      "EN": "@Saya@[Thank you, Riki-kun.]",
+      "Translation": "@沙耶@『谢谢你，理树君』"
     },
     {
       "JP": "………。",
@@ -3386,19 +3386,19 @@
       "Translation": "在这一瞬间的永远中，我不断在回顾着。"
     },
     {
-      "JP": "`沙耶@「朱鷺戸です」",
-      "EN": "`Saya@❝I'm Tokido.❞",
-      "Translation": "`沙耶@「我叫朱鹭户」"
+      "JP": "@沙耶@「朱鷺戸です」",
+      "EN": "@Saya@❝I'm Tokido.❞",
+      "Translation": "@沙耶@「我叫朱鹭户」"
     },
     {
-      "JP": "`理樹@「えっと、直枝です、これ落ちてました」",
-      "EN": "`Riki@❝Um, I'm Naoe. I found this on the floor.❞",
-      "Translation": "`理树@「那个，我叫直枝。你的这个掉了」"
+      "JP": "@理樹@「えっと、直枝です、これ落ちてました」",
+      "EN": "@Riki@❝Um, I'm Naoe. I found this on the floor.❞",
+      "Translation": "@理树@「那个，我叫直枝。你的这个掉了」"
     },
     {
-      "JP": "`沙耶@「直枝くんね、ありがとう」",
-      "EN": "`Saya@❝Naoe-kun? Thank you.❞",
-      "Translation": "`沙耶@「是直枝君吧，谢谢」"
+      "JP": "@沙耶@「直枝くんね、ありがとう」",
+      "EN": "@Saya@❝Naoe-kun? Thank you.❞",
+      "Translation": "@沙耶@「是直枝君吧，谢谢」"
     },
     {
       "JP": "沙耶。",
@@ -3406,19 +3406,19 @@
       "Translation": "沙耶。"
     },
     {
-      "JP": "`沙耶@「っ…」",
-      "EN": "`Saya@❝...❞",
-      "Translation": "`沙耶@「唔…」"
+      "JP": "@沙耶@「っ…」",
+      "EN": "@Saya@❝...❞",
+      "Translation": "@沙耶@「唔…」"
     },
     {
-      "JP": "`沙耶@「そうよっ、寝てたのよっ」",
-      "EN": "`Saya@❝That's right, I slept!❞",
-      "Translation": "`沙耶@「没错，我睡着了啊」"
+      "JP": "@沙耶@「そうよっ、寝てたのよっ」",
+      "EN": "@Saya@❝That's right, I slept!❞",
+      "Translation": "@沙耶@「没错，我睡着了啊」"
     },
     {
-      "JP": "`沙耶@「あなたの想像通り、無防備に眠り込んでたのよっ、ひとに忠告しておいて、自分でこの様、滑稽でしょ、間抜けでしょ、笑いたいでしょっ、笑えばいいわっ！」",
-      "EN": "`Tokido@❝As you imagined, I let my guard down and fell asleep! Even though I told you not to, I did it myself! Hilarious, right? Stupid, right? You want to laugh, right? Just laugh already!❞",
-      "Translation": "`沙耶@「就像你想象的那样，毫无防备地睡着了，明明还忠告别人不要睡自己却这副样子，很滑稽吧，很愚蠢吧，很可笑吧，想笑的话就笑吧！」"
+      "JP": "@沙耶@「あなたの想像通り、無防備に眠り込んでたのよっ、ひとに忠告しておいて、自分でこの様、滑稽でしょ、間抜けでしょ、笑いたいでしょっ、笑えばいいわっ！」",
+      "EN": "@Tokido@❝As you imagined, I let my guard down and fell asleep! Even though I told you not to, I did it myself! Hilarious, right? Stupid, right? You want to laugh, right? Just laugh already!❞",
+      "Translation": "@沙耶@「就像你想象的那样，毫无防备地睡着了，明明还忠告别人不要睡自己却这副样子，很滑稽吧，很愚蠢吧，很可笑吧，想笑的话就笑吧！」"
     },
     {
       "JP": "僕の好きな沙耶。",
@@ -3426,19 +3426,19 @@
       "Translation": "我喜欢的沙耶。"
     },
     {
-      "JP": "`沙耶@「振り返っちゃ駄目よ…」",
-      "EN": "`Saya@❝Don't turn around...❞",
-      "Translation": "`沙耶@「不可以回头哦…」"
+      "JP": "@沙耶@「振り返っちゃ駄目よ…」",
+      "EN": "@Saya@❝Don't turn around...❞",
+      "Translation": "@沙耶@「不可以回头哦…」"
     },
     {
-      "JP": "`理樹@「わ、わかってるよ…」",
-      "EN": "`Riki@❝I k-know already...❞",
-      "Translation": "`理树@「知，知道啦…」"
+      "JP": "@理樹@「わ、わかってるよ…」",
+      "EN": "@Riki@❝I k-know already...❞",
+      "Translation": "@理树@「知，知道啦…」"
     },
     {
-      "JP": "`沙耶@「隠しようがないんだから」",
-      "EN": "`Saya@❝You can see everything.❞",
-      "Translation": "`沙耶@「因为根本没办法遮啊」"
+      "JP": "@沙耶@「隠しようがないんだから」",
+      "EN": "@Saya@❝You can see everything.❞",
+      "Translation": "@沙耶@「因为根本没办法遮啊」"
     },
     {
       "JP": "僕の大好きな沙耶。",
@@ -3446,19 +3446,19 @@
       "Translation": "我最喜欢的沙耶。"
     },
     {
-      "JP": "`沙耶@「ゲームスタート！」",
-      "EN": "`Saya@❝Game start!❞",
-      "Translation": "`沙耶@「Game start！」"
+      "JP": "@沙耶@「ゲームスタート！」",
+      "EN": "@Saya@❝Game start!❞",
+      "Translation": "@沙耶@「Game start！」"
     },
     {
-      "JP": "`沙耶@「くる…よし…こい…そのまま…」",
-      "EN": "`Saya@❝Okay... good... come on... just like that...❞",
-      "Translation": "`沙耶@「来吧…很好…上吧…就这样…」"
+      "JP": "@沙耶@「くる…よし…こい…そのまま…」",
+      "EN": "@Saya@❝Okay... good... come on... just like that...❞",
+      "Translation": "@沙耶@「来吧…很好…上吧…就这样…」"
     },
     {
-      "JP": "`沙耶@「よし、とっっったあああぁぁーーーーっ!!　見たかぁーっ、天才かってのっ、あたしはあぁぁーーっ!!」",
-      "EN": "`Saya@❝Yes, GOT ITTTTTT!!　Did you see that, aren't I a genius, riight!!❞",
-      "Translation": "`沙耶@「很好，抓到了————！！　看到了吗！！我是天才啊－－－－！！」"
+      "JP": "@沙耶@「よし、とっっったあああぁぁーーーーっ!!　見たかぁーっ、天才かってのっ、あたしはあぁぁーーっ!!」",
+      "EN": "@Saya@❝Yes, GOT ITTTTTT!!　Did you see that, aren't I a genius, riight!!❞",
+      "Translation": "@沙耶@「很好，抓到了————！！　看到了吗！！我是天才啊－－－－！！」"
     },
     {
       "JP": "蘇ってくる大好きな沙耶と過ごした、いつかの風景。",
@@ -3466,24 +3466,24 @@
       "Translation": "和我最喜欢的沙耶一起度过的那些时光，渐渐回忆了起来。"
     },
     {
-      "JP": "`沙耶@「あなた、そんなことで幸せになれるの…？」",
-      "EN": "`Saya@❝That kind of thing makes you happy...?❞",
-      "Translation": "`沙耶@「你靠这种东西就能变得幸福吗…？」"
+      "JP": "@沙耶@「あなた、そんなことで幸せになれるの…？」",
+      "EN": "@Saya@❝That kind of thing makes you happy...?❞",
+      "Translation": "@沙耶@「你靠这种东西就能变得幸福吗…？」"
     },
     {
-      "JP": "`沙耶@「…うっっっわ…」",
-      "EN": "`Saya@❝...Uwaaaaah...❞",
-      "Translation": "`沙耶@「…哇啊——…」"
+      "JP": "@沙耶@「…うっっっわ…」",
+      "EN": "@Saya@❝...Uwaaaaah...❞",
+      "Translation": "@沙耶@「…哇啊——…」"
     },
     {
-      "JP": "`沙耶@「なにこれ…」",
-      "EN": "`Saya@❝What the...❞",
-      "Translation": "`沙耶@「这是什么啊…」"
+      "JP": "@沙耶@「なにこれ…」",
+      "EN": "@Saya@❝What the...❞",
+      "Translation": "@沙耶@「这是什么啊…」"
     },
     {
-      "JP": "`沙耶@「こんなの初めてよ…」",
-      "EN": "`Saya@❝This is my first time...❞",
-      "Translation": "`沙耶@「这可是第一次啊…」"
+      "JP": "@沙耶@「こんなの初めてよ…」",
+      "EN": "@Saya@❝This is my first time...❞",
+      "Translation": "@沙耶@「这可是第一次啊…」"
     },
     {
       "JP": "かけがえのない風景。",
@@ -3491,24 +3491,24 @@
       "Translation": "无法取代的时光。"
     },
     {
-      "JP": "`沙耶@「ふんっ、かけるもんですかっ、適当に突っ込んだだけよっ、ものの数秒よっ」",
-      "EN": "`Saya@❝Hphm, not at all. I just randomly threw something together, it took no more than a few seconds.❞",
-      "Translation": "`沙耶@「哼，谁会花时间去做啊，只是胡乱把东西塞进去罢了，只花了几秒而已」"
+      "JP": "@沙耶@「ふんっ、かけるもんですかっ、適当に突っ込んだだけよっ、ものの数秒よっ」",
+      "EN": "@Saya@❝Hphm, not at all. I just randomly threw something together, it took no more than a few seconds.❞",
+      "Translation": "@沙耶@「哼，谁会花时间去做啊，只是胡乱把东西塞进去罢了，只花了几秒而已」"
     },
     {
-      "JP": "`理樹@「じゃ、そんなに絶望しないでよ…」",
-      "EN": "`Riki@❝Then don't be so heartbroken...❞",
-      "Translation": "`理树@「那就不要这么绝望啊…」"
+      "JP": "@理樹@「じゃ、そんなに絶望しないでよ…」",
+      "EN": "@Riki@❝Then don't be so heartbroken...❞",
+      "Translation": "@理树@「那就不要这么绝望啊…」"
     },
     {
-      "JP": "`理樹@「うわぁ…肉じゃがの汁が全体に浸みてる…」",
-      "EN": "`Riki@❝Uwaa... everything is soaked with the meat and potato stew...❞",
-      "Translation": "`理树@「哇…土豆炖肉的汁浸得到处都是了…」"
+      "JP": "@理樹@「うわぁ…肉じゃがの汁が全体に浸みてる…」",
+      "EN": "@Riki@❝Uwaa... everything is soaked with the meat and potato stew...❞",
+      "Translation": "@理树@「哇…土豆炖肉的汁浸得到处都是了…」"
     },
     {
-      "JP": "`沙耶@「うあああぁぁあぁぁあぁぁぁぁぁ」",
-      "EN": "`Saya@❝Uwaaaaaaaaaaaa...❞",
-      "Translation": "`沙耶@「哇啊啊啊啊啊啊啊啊啊啊啊啊啊」"
+      "JP": "@沙耶@「うあああぁぁあぁぁあぁぁぁぁぁ」",
+      "EN": "@Saya@❝Uwaaaaaaaaaaaa...❞",
+      "Translation": "@沙耶@「哇啊啊啊啊啊啊啊啊啊啊啊啊啊」"
     },
     {
       "JP": "そして僕たちは奇跡の再会を果たしたんだ。",
@@ -3551,9 +3551,9 @@
       "Translation": "躺在自己的床上哭泣。"
     },
     {
-      "JP": "`恭介@「よぅ、起きたか」",
-      "EN": "`Kyousuke@❝Hey, you awake?❞",
-      "Translation": "`恭介@「哟，起来了吗」"
+      "JP": "@恭介@「よぅ、起きたか」",
+      "EN": "@Kyousuke@❝Hey, you awake?❞",
+      "Translation": "@恭介@「哟，起来了吗」"
     },
     {
       "JP": "ベッドの端に恭介が腰掛けて、こっちを見ていた。",
@@ -3591,34 +3591,34 @@
       "Translation": "而恭介则一直在我身旁等待着。"
     },
     {
-      "JP": "`理樹@「ねぇ、恭介…」",
-      "EN": "`Riki@❝Hey, Kyousuke...❞",
-      "Translation": "`理树@「呐，恭介…」"
+      "JP": "@理樹@「ねぇ、恭介…」",
+      "EN": "@Riki@❝Hey, Kyousuke...❞",
+      "Translation": "@理树@「呐，恭介…」"
     },
     {
-      "JP": "`恭介@「なんだ」",
-      "EN": "`Kyousuke@❝What?❞",
-      "Translation": "`恭介@「什么」"
+      "JP": "@恭介@「なんだ」",
+      "EN": "@Kyousuke@❝What?❞",
+      "Translation": "@恭介@「什么」"
     },
     {
-      "JP": "`理樹@「…僕には大切なパートナーがいたんだ」",
-      "EN": "`Riki@❝...I had an important partner.❞",
-      "Translation": "`理树@「…我有个很重要的搭档」"
+      "JP": "@理樹@「…僕には大切なパートナーがいたんだ」",
+      "EN": "@Riki@❝...I had an important partner.❞",
+      "Translation": "@理树@「…我有个很重要的搭档」"
     },
     {
-      "JP": "`恭介@「ああ…」",
-      "EN": "`Kyousuke@❝Ah...❞",
-      "Translation": "`恭介@「嗯…」"
+      "JP": "@恭介@「ああ…」",
+      "EN": "@Kyousuke@❝Ah...❞",
+      "Translation": "@恭介@「嗯…」"
     },
     {
-      "JP": "`理樹@「でも、いなくなってしまった…」",
-      "EN": "`Riki@❝But now they're gone...❞",
-      "Translation": "`理树@「但是，她已经不在了…」"
+      "JP": "@理樹@「でも、いなくなってしまった…」",
+      "EN": "@Riki@❝But now they're gone...❞",
+      "Translation": "@理树@「但是，她已经不在了…」"
     },
     {
-      "JP": "`恭介@「そうか…」",
-      "EN": "`Kyousuke@❝Is that so...❞",
-      "Translation": "`恭介@「是吗…」"
+      "JP": "@恭介@「そうか…」",
+      "EN": "@Kyousuke@❝Is that so...❞",
+      "Translation": "@恭介@「是吗…」"
     },
     {
       "JP": "窓の外を見てから、もう一度僕を振り返った。",
@@ -3626,34 +3626,34 @@
       "Translation": "他看了看窗外，又回头望向我。"
     },
     {
-      "JP": "`恭介@「それと関係しているかはわからないが…」",
-      "EN": "`Kyousuke@❝I don't know if it's related to that, but...❞",
-      "Translation": "`恭介@「虽然不知道跟你说的那件事有没有关系…」"
+      "JP": "@恭介@「それと関係しているかはわからないが…」",
+      "EN": "@Kyousuke@❝I don't know if it's related to that, but...❞",
+      "Translation": "@恭介@「虽然不知道跟你说的那件事有没有关系…」"
     },
     {
-      "JP": "`恭介@「闇の執行部の連中が出し抜かれたという話を聞いたな」",
-      "EN": "`Kyousuke@❝I heard a story about the Darkness Executives being outsmarted.❞",
-      "Translation": "`恭介@「听说暗之执行部被人摆了一道」"
+      "JP": "@恭介@「闇の執行部の連中が出し抜かれたという話を聞いたな」",
+      "EN": "@Kyousuke@❝I heard a story about the Darkness Executives being outsmarted.❞",
+      "Translation": "@恭介@「听说暗之执行部被人摆了一道」"
     },
     {
-      "JP": "`理樹@「え…出し抜かれたって？」",
-      "EN": "`Riki@❝Eh... being outsmarted?❞",
-      "Translation": "`理树@「哎…被人摆了一道？」"
+      "JP": "@理樹@「え…出し抜かれたって？」",
+      "EN": "@Riki@❝Eh... being outsmarted?❞",
+      "Translation": "@理树@「哎…被人摆了一道？」"
     },
     {
-      "JP": "`恭介@「追跡中だった要マーク人物に、まんまと逃げられたらしい」",
-      "EN": "`Kyousuke@❝Apparently the person they've been pursuing made an escape.❞",
-      "Translation": "`恭介@「他们通缉中的某个重要人物，很漂亮地脱身了」"
+      "JP": "@恭介@「追跡中だった要マーク人物に、まんまと逃げられたらしい」",
+      "EN": "@Kyousuke@❝Apparently the person they've been pursuing made an escape.❞",
+      "Translation": "@恭介@「他们通缉中的某个重要人物，很漂亮地脱身了」"
     },
     {
-      "JP": "`恭介@「それが傑作ないいわけでさ…」",
-      "EN": "`Kyousuke@❝And you know what excuse they made?❞",
-      "Translation": "`恭介@「那借口简直称得上是杰作…」"
+      "JP": "@恭介@「それが傑作ないいわけでさ…」",
+      "EN": "@Kyousuke@❝And you know what excuse they made?❞",
+      "Translation": "@恭介@「那借口简直称得上是杰作…」"
     },
     {
-      "JP": "`恭介@「タイムマシンに乗って、過去に逃げられたんだとさ」",
-      "EN": "`Kyousuke@❝They say that person used a time machine and travelled to the past.❞",
-      "Translation": "`恭介@「居然说那个人乘着时光机，逃到了过去」"
+      "JP": "@恭介@「タイムマシンに乗って、過去に逃げられたんだとさ」",
+      "EN": "@Kyousuke@❝They say that person used a time machine and travelled to the past.❞",
+      "Translation": "@恭介@「居然说那个人乘着时光机，逃到了过去」"
     },
     {
       "JP": "僕は目を見開く。",
@@ -3661,29 +3661,29 @@
       "Translation": "我瞪大了眼睛。"
     },
     {
-      "JP": "`理樹@「タイムマシン…が…あったの？」",
-      "EN": "`Riki@❝There really was a time machine?❞",
-      "Translation": "`理树@「时光机…是…存在的啊？」"
+      "JP": "@理樹@「タイムマシン…が…あったの？」",
+      "EN": "@Riki@❝There really was a time machine?❞",
+      "Translation": "@理树@「时光机…是…存在的啊？」"
     },
     {
-      "JP": "`恭介@「あると思うのか？」",
-      "EN": "`Kyousuke@❝Do you think there was one?❞",
-      "Translation": "`恭介@「你觉得是存在的？」"
+      "JP": "@恭介@「あると思うのか？」",
+      "EN": "@Kyousuke@❝Do you think there was one?❞",
+      "Translation": "@恭介@「你觉得是存在的？」"
     },
     {
-      "JP": "`理樹@「いや、僕にはわからないけど…」",
-      "EN": "`Riki@❝Well, I don't know, but...❞",
-      "Translation": "`理树@「不，我不知道…」"
+      "JP": "@理樹@「いや、僕にはわからないけど…」",
+      "EN": "@Riki@❝Well, I don't know, but...❞",
+      "Translation": "@理树@「不，我不知道…」"
     },
     {
-      "JP": "`恭介@「でも、まるで本当にタイムマシンが存在したかのような言い方だったな」",
-      "EN": "`Kyousuke@❝But it sounded as if there really was.❞",
-      "Translation": "`恭介@「但听你的口气，就好像时光机是真的存在一样」"
+      "JP": "@恭介@「でも、まるで本当にタイムマシンが存在したかのような言い方だったな」",
+      "EN": "@Kyousuke@❝But it sounded as if there really was.❞",
+      "Translation": "@恭介@「但听你的口气，就好像时光机是真的存在一样」"
     },
     {
-      "JP": "`恭介@「まったく馬鹿馬鹿しい…世界的大発見、いや宇宙的大発見じゃないか」",
-      "EN": "`Kyousuke@❝How silly is that... wouldn't that be an international discovery? No, a universal discovery.❞",
-      "Translation": "`恭介@「真是荒谬…这不就成了世界级的大发现，不，是宇宙级的大发现了吗」"
+      "JP": "@恭介@「まったく馬鹿馬鹿しい…世界的大発見、いや宇宙的大発見じゃないか」",
+      "EN": "@Kyousuke@❝How silly is that... wouldn't that be an international discovery? No, a universal discovery.❞",
+      "Translation": "@恭介@「真是荒谬…这不就成了世界级的大发现，不，是宇宙级的大发现了吗」"
     },
     {
       "JP": "そう…秘宝がタイムマシンだったら、彼女は助かっていることになる…。",
@@ -3741,49 +3741,49 @@
       "Translation": "但是还留有一个疑问。"
     },
     {
-      "JP": "`理樹@「だったら…どうして、僕を連れていかなかったんだろう」",
-      "EN": "`Riki@❝If that's the case... why didn't she take me along?❞",
-      "Translation": "`理树@「那样的话…为什么没有带上我呢」"
+      "JP": "@理樹@「だったら…どうして、僕を連れていかなかったんだろう」",
+      "EN": "@Riki@❝If that's the case... why didn't she take me along?❞",
+      "Translation": "@理树@「那样的话…为什么没有带上我呢」"
     },
     {
-      "JP": "`恭介@「おまえまでそんなことを言い出すのか…ったく」",
-      "EN": "`Kyousuke@❝Geez, do you actually buy this stuff too?❞",
-      "Translation": "`恭介@「怎么连你都说出这种话了…真是的」"
+      "JP": "@恭介@「おまえまでそんなことを言い出すのか…ったく」",
+      "EN": "@Kyousuke@❝Geez, do you actually buy this stuff too?❞",
+      "Translation": "@恭介@「怎么连你都说出这种话了…真是的」"
     },
     {
-      "JP": "`恭介@「もし、タイムマシンが存在していてもだ」",
-      "EN": "`Kyousuke@❝Supposing the time machine really existed.❞",
-      "Translation": "`恭介@「就算时光机真的存在」"
+      "JP": "@恭介@「もし、タイムマシンが存在していてもだ」",
+      "EN": "@Kyousuke@❝Supposing the time machine really existed.❞",
+      "Translation": "@恭介@「就算时光机真的存在」"
     },
     {
-      "JP": "`恭介@「別におまえはここに留まることを選んだわけじゃないだろ？」",
-      "EN": "`Kyousuke@❝It's not like you chose to stay here, right?❞",
-      "Translation": "`恭介@「也并不是你选择了留在这里」"
+      "JP": "@恭介@「別におまえはここに留まることを選んだわけじゃないだろ？」",
+      "EN": "@Kyousuke@❝It's not like you chose to stay here, right?❞",
+      "Translation": "@恭介@「也并不是你选择了留在这里」"
     },
     {
-      "JP": "`理樹@「え？　どういう意味？」",
-      "EN": "`Riki@❝Eh? What do you mean?❞",
-      "Translation": "`理树@「咦？　那是什么意思？」"
+      "JP": "@理樹@「え？　どういう意味？」",
+      "EN": "@Riki@❝Eh? What do you mean?❞",
+      "Translation": "@理树@「咦？　那是什么意思？」"
     },
     {
-      "JP": "`恭介@「言ってしまえば、おまえが生まれてさえいれば、過去にだっておまえは存在するんだ」",
-      "EN": "`Kyousuke@❝In a sense, if you are living here now, you are also existing in the past, right?❞",
-      "Translation": "`恭介@「要说的话就是，只要你在这个世界中出生了，那在过去也是有一个你存在的吧」"
+      "JP": "@恭介@「言ってしまえば、おまえが生まれてさえいれば、過去にだっておまえは存在するんだ」",
+      "EN": "@Kyousuke@❝In a sense, if you are living here now, you are also existing in the past, right?❞",
+      "Translation": "@恭介@「要说的话就是，只要你在这个世界中出生了，那在过去也是有一个你存在的吧」"
     },
     {
-      "JP": "`恭介@「つまりだな…逃げた奴から言わせれば、時間を遡ってもまた出会えると、そう考えたんじゃないのか」",
-      "EN": "`Kyousuke@❝In other words... from that person's perspective, once they go back in time they can meet you once again, no?❞",
-      "Translation": "`恭介@「也就是说…从逃走的那个家伙的角度出发，即使穿越了时间也是能再次相会的，不是吗」"
+      "JP": "@恭介@「つまりだな…逃げた奴から言わせれば、時間を遡ってもまた出会えると、そう考えたんじゃないのか」",
+      "EN": "@Kyousuke@❝In other words... from that person's perspective, once they go back in time they can meet you once again, no?❞",
+      "Translation": "@恭介@「也就是说…从逃走的那个家伙的角度出发，即使穿越了时间也是能再次相会的，不是吗」"
     },
     {
-      "JP": "`恭介@「それは今のおまえじゃないが、紛れもない、おまえだ」",
-      "EN": "`Kyousuke@❝That person is not the you right now, but without doubt, it's you.❞",
-      "Translation": "`恭介@「那虽然不是现在的你，但毫无疑问，那也是你啊」"
+      "JP": "@恭介@「それは今のおまえじゃないが、紛れもない、おまえだ」",
+      "EN": "@Kyousuke@❝That person is not the you right now, but without doubt, it's you.❞",
+      "Translation": "@恭介@「那虽然不是现在的你，但毫无疑问，那也是你啊」"
     },
     {
-      "JP": "`理樹@「え…」",
-      "EN": "`Riki@❝Eh...❞",
-      "Translation": "`理树@「哎…」"
+      "JP": "@理樹@「え…」",
+      "EN": "@Riki@❝Eh...❞",
+      "Translation": "@理树@「哎…」"
     },
     {
       "JP": "すると…",
@@ -3841,9 +3841,9 @@
       "Translation": "哎呀？真小啊。"
     },
     {
-      "JP": "`お父さん@「起きたかい、あや」",
-      "EN": "`Father@❝Are you awake, Aya?❞",
-      "Translation": "`父亲@「醒来了吗，彩」"
+      "JP": "@お父さん@「起きたかい、あや」",
+      "EN": "@Father@❝Are you awake, Aya?❞",
+      "Translation": "@父亲@「醒来了吗，彩」"
     },
     {
       "JP": "え？　お父さん？",
@@ -3856,9 +3856,9 @@
       "Translation": "父亲他也没事吗？"
     },
     {
-      "JP": "`お父さん@「どうした？　夢でも見てたかい」",
-      "EN": "`Father@❝What happened? Did you see a dream?❞",
-      "Translation": "`父亲@「怎么了？　做了一场梦吗」"
+      "JP": "@お父さん@「どうした？　夢でも見てたかい」",
+      "EN": "@Father@❝What happened? Did you see a dream?❞",
+      "Translation": "@父亲@「怎么了？　做了一场梦吗」"
     },
     {
       "JP": "夢…。",
@@ -3891,9 +3891,9 @@
       "Translation": "如果是这样的话…还真是个漫长的梦啊。"
     },
     {
-      "JP": "`お父さん@「どんな夢を見てたんだい」",
-      "EN": "`Father@❝What kind of dream did you have?❞",
-      "Translation": "`父亲@「做了个什么样的梦？」"
+      "JP": "@お父さん@「どんな夢を見てたんだい」",
+      "EN": "@Father@❝What kind of dream did you have?❞",
+      "Translation": "@父亲@「做了个什么样的梦？」"
     },
     {
       "JP": "お父さん…",
@@ -3921,9 +3921,9 @@
       "Translation": "在地下迷宫里，拿着枪跟敌人枪战哦。"
     },
     {
-      "JP": "`お父さん@「あっはっは、おてんばなあやらしい夢だなあ」",
-      "EN": "`Father@❝Ahaha, you're such a tomboy, Aya.❞",
-      "Translation": "`父亲@「啊—哈—哈，那真是有野丫头彩风格的梦呢」"
+      "JP": "@お父さん@「あっはっは、おてんばなあやらしい夢だなあ」",
+      "EN": "@Father@❝Ahaha, you're such a tomboy, Aya.❞",
+      "Translation": "@父亲@「啊—哈—哈，那真是有野丫头彩风格的梦呢」"
     },
     {
       "JP": "それでね、あたしにはパートナーがいてね、その子があたしに恋しちゃうんだ。",
@@ -3931,9 +3931,9 @@
       "Translation": "还有，我有个搭档，他喜欢上我了呢。"
     },
     {
-      "JP": "`お父さん@「あやのほうはどう思ってたんだい？」",
-      "EN": "`Father@❝How did you feel about him, Aya?❞",
-      "Translation": "`父亲@「那彩又是怎么想的呢？」"
+      "JP": "@お父さん@「あやのほうはどう思ってたんだい？」",
+      "EN": "@Father@❝How did you feel about him, Aya?❞",
+      "Translation": "@父亲@「那彩又是怎么想的呢？」"
     },
     {
       "JP": "あはは、最後まで面と向かっては言えなかったけどね…",
@@ -3951,9 +3951,9 @@
       "Translation": "真的，非常喜欢他。"
     },
     {
-      "JP": "`お父さん@「それもあまのじゃくなあやらしいな。伝えてあげればよかったのに」",
-      "EN": "`Father@❝You're always so obstinate, Aya. You should've just told him.❞",
-      "Translation": "`父亲@「那也很有淘气鬼彩的风格呢。如果说出来的话就好了」"
+      "JP": "@お父さん@「それもあまのじゃくなあやらしいな。伝えてあげればよかったのに」",
+      "EN": "@Father@❝You're always so obstinate, Aya. You should've just told him.❞",
+      "Translation": "@父亲@「那也很有淘气鬼彩的风格呢。如果说出来的话就好了」"
     },
     {
       "JP": "だって、初恋なのよ!?",
@@ -3966,14 +3966,14 @@
       "Translation": "初恋不是无法实现的吗！"
     },
     {
-      "JP": "`お父さん@「誰にそんなこと吹き込まれたのやら、やれやれ…」",
-      "EN": "`Father@❝Just who put those ideas in you, my my...❞",
-      "Translation": "`父亲@「哎呀哎呀，到底是谁告诉你这种事的啊…」"
+      "JP": "@お父さん@「誰にそんなこと吹き込まれたのやら、やれやれ…」",
+      "EN": "@Father@❝Just who put those ideas in you, my my...❞",
+      "Translation": "@父亲@「哎呀哎呀，到底是谁告诉你这种事的啊…」"
     },
     {
-      "JP": "`お父さん@「じゃあ、彼にも希望はあるのかな」",
-      "EN": "`Father@❝Then, I wonder if that boy has any chance.❞",
-      "Translation": "`父亲@「那么，他也就还有希望了咯」"
+      "JP": "@お父さん@「じゃあ、彼にも希望はあるのかな」",
+      "EN": "@Father@❝Then, I wonder if that boy has any chance.❞",
+      "Translation": "@父亲@「那么，他也就还有希望了咯」"
     },
     {
       "JP": "ん？　彼って？",
@@ -3981,14 +3981,14 @@
       "Translation": "嗯？　他是谁？"
     },
     {
-      "JP": "`お父さん@「こっちに来てから、ずっと遊んでいる男の子だよ」",
-      "EN": "`Father@❝That boy you've been playing with all the time since coming here.❞",
-      "Translation": "`父亲@「来到这边以后，一直和你在一起玩的那个男孩子啊」"
+      "JP": "@お父さん@「こっちに来てから、ずっと遊んでいる男の子だよ」",
+      "EN": "@Father@❝That boy you've been playing with all the time since coming here.❞",
+      "Translation": "@父亲@「来到这边以后，一直和你在一起玩的那个男孩子啊」"
     },
     {
-      "JP": "`お父さん@「あの子、きっと、あやのことが好きなはずだよ。お父さんの予想ではね」",
-      "EN": "`Father@❝I'm sure he likes you. Well, that's my impression anyway.❞",
-      "Translation": "`父亲@「那孩子一定很喜欢彩。爸爸是这么想的」"
+      "JP": "@お父さん@「あの子、きっと、あやのことが好きなはずだよ。お父さんの予想ではね」",
+      "EN": "@Father@❝I'm sure he likes you. Well, that's my impression anyway.❞",
+      "Translation": "@父亲@「那孩子一定很喜欢彩。爸爸是这么想的」"
     },
     {
       "JP": "そんなこと知らないわ。",
@@ -4001,9 +4001,9 @@
       "Translation": "我才刚从初恋的梦里醒来，就马上要换个新的对象，做不到的啦。"
     },
     {
-      "JP": "`お父さん@「いいよ。今のは聞かなかったことにして、いつも通り遊びなさい」",
-      "EN": "`Father@❝That's fine. Forget I said that for now, just go and play as usual.❞",
-      "Translation": "`父亲@「好啦。刚才的话就当我没说过，像平常那样去玩吧」"
+      "JP": "@お父さん@「いいよ。今のは聞かなかったことにして、いつも通り遊びなさい」",
+      "EN": "@Father@❝That's fine. Forget I said that for now, just go and play as usual.❞",
+      "Translation": "@父亲@「好啦。刚才的话就当我没说过，像平常那样去玩吧」"
     },
     {
       "JP": "うん。",
@@ -4016,9 +4016,9 @@
       "Translation": "哎呀？　不过还真是不可思议呢。"
     },
     {
-      "JP": "`お父さん@「どうしたんだい？」",
-      "EN": "`Father@❝What's wrong?❞",
-      "Translation": "`父亲@「怎么了？」"
+      "JP": "@お父さん@「どうしたんだい？」",
+      "EN": "@Father@❝What's wrong?❞",
+      "Translation": "@父亲@「怎么了？」"
     },
     {
       "JP": "両方、りきくんなんだ。",
@@ -4026,9 +4026,9 @@
       "Translation": "两个人都是理树君。"
     },
     {
-      "JP": "`お父さん@「はっはっは、じゃあこっちでも両思いじゃないか」",
-      "EN": "`Father@❝Hahaha, then maybe it's mutual over here too.❞",
-      "Translation": "`父亲@「哈哈哈，那你们两个就是两情相悦了咯」"
+      "JP": "@お父さん@「はっはっは、じゃあこっちでも両思いじゃないか」",
+      "EN": "@Father@❝Hahaha, then maybe it's mutual over here too.❞",
+      "Translation": "@父亲@「哈哈哈，那你们两个就是两情相悦了咯」"
     },
     {
       "JP": "うーん、あいつはまだまだよ。これからってところね。",
@@ -4041,14 +4041,14 @@
       "Translation": "如果他能更有男子汉气概一些的话，要让我给他一次约会的机会也不是不可以。"
     },
     {
-      "JP": "`お父さん@「あやは厳しいな」",
-      "EN": "`Father@❝Aya sure is strict.❞",
-      "Translation": "`父亲@「彩真是严格呢」"
+      "JP": "@お父さん@「あやは厳しいな」",
+      "EN": "@Father@❝Aya sure is strict.❞",
+      "Translation": "@父亲@「彩真是严格呢」"
     },
     {
-      "JP": "`お父さん@「じゃ、ほら、いきなさい。ボールはいつものところだよ」",
-      "EN": "`Father@❝Well, here, go and play ball at the usual place.❞",
-      "Translation": "`父亲@「好啦，快去吧。球就放在平时那里」"
+      "JP": "@お父さん@「じゃ、ほら、いきなさい。ボールはいつものところだよ」",
+      "EN": "@Father@❝Well, here, go and play ball at the usual place.❞",
+      "Translation": "@父亲@「好啦，快去吧。球就放在平时那里」"
     },
     {
       "JP": "うん。",

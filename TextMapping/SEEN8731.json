@@ -1,39 +1,39 @@
 {
   "TASK": [
     {
-      "JP1": "$(3,0)ＶＳ$(4,0)　バトル中　　　",
-      "EN1": "$(3,1) VS $(4,1). Battle rages on$I0{630} ",
-      "Translation1": "$(3,1) VS $(4,1). 战斗中"
+      "JP1": "$(6)ＶＳ$(7)　バトル中$C(255,255,255,0)………",
+      "EN1": "$(6) VS $(7). Battle rages on$C(255,255,255,0).........",
+      "Translation1": "$(6) VS $(7). 战斗中$C(255,255,255,0)………"
     },
     {
-      "JP1": "$(3,0)ＶＳ$(4,0)　バトル中…　　",
-      "EN1": "$(3,1) VS $(4,1). Battle rages on...$I0{630} ",
-      "Translation1": "$(3,1) VS $(4,1). 战斗中…"
+      "JP1": "$(6)ＶＳ$(7)　バトル中…$C(255,255,255,0)……",
+      "EN1": "$(6) VS $(7). Battle rages on...$C(255,255,255,0)......",
+      "Translation1": "$(6) VS $(7). 战斗中…$C(255,255,255,0)……"
     },
     {
-      "JP1": "$(3,0)ＶＳ$(4,0)　バトル中……　",
-      "EN1": "$(3,1) VS $(4,1). Battle rages on......$I0{630} ",
-      "Translation1": "$(3,1) VS $(4,1). 战斗中……"
+      "JP1": "$(6)ＶＳ$(7)　バトル中……$C(255,255,255,0)…",
+      "EN1": "$(6) VS $(7). Battle rages on......$C(255,255,255,0)...",
+      "Translation1": "$(6) VS $(7). 战斗中……$C(255,255,255,0)…"
     },
     {
-      "JP1": "$(3,0)ＶＳ$(4,0)　バトル中………",
-      "EN1": "$(3,1) VS $(4,1). Battle rages on.........$I0{630} ",
-      "Translation1": "$(3,1) VS $(4,1). 战斗中………"
+      "JP1": "$(6)ＶＳ$(7)　バトル中………",
+      "EN1": "$(6) VS $(7). Battle rages on.........",
+      "Translation1": "$(6) VS $(7). 战斗中………"
     },
     {
-      "JP1": "$(3,0)は$(4,0)に勝利した！",
-      "EN1": "$(3,1) has beaten $(4,1)!",
-      "Translation1": "$(3,1) 击败了 $(4,1)!"
+      "JP1": "$(6)は$(7)に勝利した！",
+      "EN1": "$(6) has beaten $(7)!",
+      "Translation1": "$(6) 击败了 $(7)!"
     },
     {
-      "JP1": "$(4,0)は$(3,0)に勝利した！",
-      "EN1": "$(4,1) has beaten $(3,1)!",
-      "Translation1": "$(4,1) 击败了 $(3,1)!"
+      "JP1": "$(7)は$(6)に勝利した！",
+      "EN1": "$(7) has beaten $(6)!",
+      "Translation1": "$(7) 击败了 $(6)!"
     },
     {
-      "JP1": "$(3,0)と$(4,0)は引き分けた！",
-      "EN1": "$(3,1)'s battle with $(4,1) ends in a draw!",
-      "Translation1": "$(3,1) 与 $(4,1) 打成了平局！"
+      "JP1": "$(6)と$(7)は引き分けた！",
+      "EN1": "$(6)'s battle with $(7) ends in a draw!",
+      "Translation1": "$(6) 与 $(7) 打成了平局！"
     }
   ],
   "MESSAGE": [
@@ -55,117 +55,117 @@
     {
       "JP": "鈴《$V(#6451+1)位》が現れた。",
       "EN": "Rin《Rank $v(#6451+1)》appeared.",
-      "Translation": "铃《第$v(#6451+1)位》出现了。"
+      "Translation": "铃《第$V(#6451+1)位》出现了。"
     },
     {
       "JP": "小毬《$V(#6452+1)位》が現れた。",
       "EN": "Komari《Rank $v(#6452+1)》appeared.",
-      "Translation": "小毬《第$v(#6452+1)位》出现了。"
+      "Translation": "小毬《第$V(#6452+1)位》出现了。"
     },
     {
       "JP": "来ヶ谷《$V(#6453+1)位》が現れた。",
       "EN": "Kurugaya《Rank $v(#6453+1)》appeared.",
-      "Translation": "来谷《第$v(#6453+1)位》出现了。"
+      "Translation": "来谷《第$V(#6453+1)位》出现了。"
     },
     {
       "JP": "クド《$V(#6454+1)位》が現れた。",
       "EN": "Kud《Rank $v(#6454+1)》appeared.",
-      "Translation": "库特《第$v(#6454+1)位》出现了。"
+      "Translation": "库特《第$V(#6454+1)位》出现了。"
     },
     {
       "JP": "葉留佳《$V(#6455+1)位》が現れた。",
       "EN": "Haruka《Rank $v(#6455+1)》appeared.",
-      "Translation": "叶留佳《第$v(#6455+1)位》出现了。"
+      "Translation": "叶留佳《第$V(#6455+1)位》出现了。"
     },
     {
       "JP": "美魚《$V(#6456+1)位》が現れた。",
       "EN": "Mio《Rank $v(#6456+1)》appeared.",
-      "Translation": "美鱼《第$v(#6456+1)位》出现了。"
+      "Translation": "美鱼《第$V(#6456+1)位》出现了。"
     },
     {
       "JP": "理樹《$V(#6457+1)位》が現れた。",
       "EN": "Riki《Rank $v(#6457+1)》appeared.",
-      "Translation": "理树《第$v(#6457+1)位》出现了。"
+      "Translation": "理树《第$V(#6457+1)位》出现了。"
     },
     {
       "JP": "真人《$V(#6458+1)位》が現れた。",
       "EN": "Masato《Rank $v(#6458+1)》appeared.",
-      "Translation": "真人《第$v(#6458+1)位》出现了。"
+      "Translation": "真人《第$V(#6458+1)位》出现了。"
     },
     {
       "JP": "謙吾《$V(#6459+1)位》が現れた。",
       "EN": "Kengo《Rank $v(#6459+1)》appeared.",
-      "Translation": "谦吾《第$v(#6459+1)位》出现了。"
+      "Translation": "谦吾《第$V(#6459+1)位》出现了。"
     },
     {
       "JP": "恭介《$V(#6460+1)位》が現れた。",
       "EN": "Kyousuke《Rank $v(#6460+1)》appeared.",
-      "Translation": "恭介《第$v(#6460+1)位》出现了。"
+      "Translation": "恭介《第$V(#6460+1)位》出现了。"
     },
     {
       "JP": "マスクザ斉藤《$V(#6461+1)位》が現れた。",
       "EN": "Mask the Saito《Rank $v(#6461+1)》appeared.",
-      "Translation": "假面齐藤《第$v(#6461+1)位》出现了。"
+      "Translation": "假面齐藤《第$V(#6461+1)位》出现了。"
     },
     {
       "JP": "佐々美《$V(#6462+1)位》が現れた。",
       "EN": "Sasami《Rank $v(#6462+1)》appeared.",
-      "Translation": "佐佐美《第$v(#6462+1)位》出现了。"
+      "Translation": "佐佐美《第$V(#6462+1)位》出现了。"
     },
     {
       "JP": "ソフト部員《$V(#6463+1)位》が現れた。",
       "EN": "Club Member《Rank $v(#6463+1)》appeared.",
-      "Translation": "社团成员《第$v(#6463+1)位》出现了。"
+      "Translation": "社团成员《第$V(#6463+1)位》出现了。"
     },
     {
       "JP": "謎の生命体《$V(#6464+1)位》が現れた。",
       "EN": "Unknown Lifeform《Rank $v(#6464+1)》appeared.",
-      "Translation": "迷之生命体《第$v(#6464+1)位》出现了。"
+      "Translation": "迷之生命体《第$V(#6464+1)位》出现了。"
     },
     {
       "JP": "他４《$V(#6465+1)位》が現れた。",
       "EN": "Other 4《Rank $v(#6465+1)》appeared.",
-      "Translation": "其他4《第$v(#6465+1)位》出现了。"
+      "Translation": "其他4《第$V(#6465+1)位》出现了。"
     },
     {
-      "JP": "`恭介@「武器には様々な攻撃特性がある。出来るだけ有利な武器で戦いたいもんだな」",
-      "EN": "`Kyousuke@❝Different weapons have different attack types. You should use the most effective weapon whenever possible.❞ ",
-      "Translation": "`恭介@「武器有各种攻击特性。尽量用最有利的武器战斗吧」"
+      "JP": "@恭介@「武器には様々な攻撃特性がある。出来るだけ有利な武器で戦いたいもんだな」",
+      "EN": "@Kyousuke@❝Different weapons have different attack types. You should use the most effective weapon whenever possible.❞ ",
+      "Translation": "@恭介@「武器有各种攻击特性。尽量用最有利的武器战斗吧」"
     },
     {
-      "JP": "`恭介@「武器は使い込んでいるか？　武器には攻撃回数の範囲がある。使い込んでいくと攻撃回数の上限も上がっていくぞ」",
-      "EN": "`Kyousuke@❝Are you using your weapons regularly? Every weapon has a limited number of attacks. You can raise the limit by using a particular weapon for a while.❞",
-      "Translation": "`恭介@「你经常使用武器吗？每种武器都有攻击次数的限制。使用一段时间后，攻击次数的上限也会增加」"
+      "JP": "@恭介@「武器は使い込んでいるか？　武器には攻撃回数の範囲がある。使い込んでいくと攻撃回数の上限も上がっていくぞ」",
+      "EN": "@Kyousuke@❝Are you using your weapons regularly? Every weapon has a limited number of attacks. You can raise the limit by using a particular weapon for a while.❞",
+      "Translation": "@恭介@「你经常使用武器吗？每种武器都有攻击次数的限制。使用一段时间后，攻击次数的上限也会增加」"
     },
     {
-      "JP": "`恭介@「手にした武器によっては、非力な者でも一瞬で強敵に変わる。油断はするな」",
-      "EN": "`Kyousuke@❝No matter how weak someone is, they can turn into a tough opponent once they get their hands on a weapon. Don't let your guard down.❞",
-      "Translation": "`恭介@「无论对手多么弱，一旦拿到武器就会变成强敌。不要掉以轻心」"
+      "JP": "@恭介@「手にした武器によっては、非力な者でも一瞬で強敵に変わる。油断はするな」",
+      "EN": "@Kyousuke@❝No matter how weak someone is, they can turn into a tough opponent once they get their hands on a weapon. Don't let your guard down.❞",
+      "Translation": "@恭介@「无论对手多么弱，一旦拿到武器就会变成强敌。不要掉以轻心」"
     },
     {
-      "JP": "`恭介@「持ち物には能力アップやヒットポイント回復など色々な効果があり、発動するタイミングも様々だ。中には能力がダウンしてしまうものもある。気をつけろ」",
-      "EN": "`Kyousuke@❝Items may have different effects like increasing your skills, or restoring your HP; they're all activated at different times. Some items may decrease your skills, so watch out.❞",
-      "Translation": "`恭介@「物品有各种效果，比如提升能力或恢复生命值，激活的时机也各不相同。有些物品会降低能力，要小心」"
+      "JP": "@恭介@「持ち物には能力アップやヒットポイント回復など色々な効果があり、発動するタイミングも様々だ。中には能力がダウンしてしまうものもある。気をつけろ」",
+      "EN": "@Kyousuke@❝Items may have different effects like increasing your skills, or restoring your HP; they're all activated at different times. Some items may decrease your skills, so watch out.❞",
+      "Translation": "@恭介@「物品有各种效果，比如提升能力或恢复生命值，激活的时机也各不相同。有些物品会降低能力，要小心」"
     },
     {
-      "JP": "`恭介@「武器には様々な攻撃特性がある。特性が同じなら、違う武器で覚えたコツも引き継がれる。同じ特性の武器を使い続ければ非常に有効だな」",
-      "EN": "`Kyousuke@❝Weapons have different types. If you master one, it will affect others of the same type. By using many weapons of the same type, you'll become better with them.❞",
-      "Translation": "`恭介@「武器有各种攻击特性。如果特性相同，不同武器学到的技巧也会继承。继续使用相同特性的武器非常有效」"
+      "JP": "@恭介@「武器には様々な攻撃特性がある。特性が同じなら、違う武器で覚えたコツも引き継がれる。同じ特性の武器を使い続ければ非常に有効だな」",
+      "EN": "@Kyousuke@❝Weapons have different types. If you master one, it will affect others of the same type. By using many weapons of the same type, you'll become better with them.❞",
+      "Translation": "@恭介@「武器有各种攻击特性。如果特性相同，不同武器学到的技巧也会继承。继续使用相同特性的武器非常有效」"
     },
     {
-      "JP": "`恭介@「相手が攻撃をミスしたときや、相手の攻撃を受け止めたときは反撃のチャンスだ。反撃でさらにクリティカルが決まった時は最高に気持ちいいぜ」",
-      "EN": "`Kyousuke@❝When your opponent misses or you successfully stop their attack, you get a chance to counter-attack. It's the best feeling when you manage to land a critical hit from that.❞",
-      "Translation": "`恭介@「当对手攻击失误或你成功挡住攻击时，是反击的好机会。如果反击时还能打出暴击，那感觉真是太棒了」"
+      "JP": "@恭介@「相手が攻撃をミスしたときや、相手の攻撃を受け止めたときは反撃のチャンスだ。反撃でさらにクリティカルが決まった時は最高に気持ちいいぜ」",
+      "EN": "@Kyousuke@❝When your opponent misses or you successfully stop their attack, you get a chance to counter-attack. It's the best feeling when you manage to land a critical hit from that.❞",
+      "Translation": "@恭介@「当对手攻击失误或你成功挡住攻击时，是反击的好机会。如果反击时还能打出暴击，那感觉真是太棒了」"
     },
     {
-      "JP": "`恭介@「武器には、使用者の腕力からダメージを引き出すものと、その武器が持つ攻撃力からダメージを算出する、ふたつがあるぞ」",
-      "EN": "`Kyousuke@❝The damage is calculated based on the weapon's attack, and the physical strength of the user.❞",
-      "Translation": "`恭介@「武器的伤害有两种计算方式，一种是根据使用者的力量，另一种是根据武器的攻击力」"
+      "JP": "@恭介@「武器には、使用者の腕力からダメージを引き出すものと、その武器が持つ攻撃力からダメージを算出する、ふたつがあるぞ」",
+      "EN": "@Kyousuke@❝The damage is calculated based on the weapon's attack, and the physical strength of the user.❞",
+      "Translation": "@恭介@「武器的伤害有两种计算方式，一种是根据使用者的力量，另一种是根据武器的攻击力」"
     },
     {
-      "JP": "`恭介@「攻撃回数の上限がたくさん上がる、ポテンシャルを秘めた武器を探して鍛えていくのも有効だ」",
-      "EN": "`Kyousuke@❝The number of attacks for every weapon can grow substantially, so it's effective to use a weapon with hidden potential.❞",
-      "Translation": "`恭介@「寻找并锻炼那些攻击次数上限能大幅提升的潜力武器也是有效的」"
+      "JP": "@恭介@「攻撃回数の上限がたくさん上がる、ポテンシャルを秘めた武器を探して鍛えていくのも有効だ」",
+      "EN": "@Kyousuke@❝The number of attacks for every weapon can grow substantially, so it's effective to use a weapon with hidden potential.❞",
+      "Translation": "@恭介@「寻找并锻炼那些攻击次数上限能大幅提升的潜力武器也是有效的」"
     },
     {
       "JP": "そう言い残して、恭介は立ち去った。",
@@ -403,9 +403,9 @@
       "Translation": "卟噜噜噜… 卟噜噜噜…"
     },
     {
-      "JP": "$(5,0)で$(3,0)《$V(#6451[#6136[#6153]]+1)位》と$(4,0)《$V(#6451[#6139[#6153]]+1)位》のバトルが勃発したようだ。",
-      "EN": "A battle is about to begin between $(3,1)《Rank $v(#6451[#6136[#6153]]+1)》and $(4,1)《Rank $v(#6451[#6139[#6153]]+1)》$(5,1).",
-      "Translation": "$(5,1)处$(3,1)《第$v(#6451[#6136[#6153]]+1)位》和$(4,1)《第$v(#6451[#6139[#6153]]+1)位》的战斗即将爆发。"
+      "JP": "$(8)で$(6)《$V(#6451[#6136[#6153]]+1)位》と$(7)《$V(#6451[#6139[#6153]]+1)位》のバトルが勃発したようだ。",
+      "EN": "A battle is about to begin between $(6)《Rank $v(#6451[#6136[#6153]]+1)》and $(7)《Rank $v(#6451[#6139[#6153]]+1)》$(8).",
+      "Translation": "$(8)处$(6)《第$V(#6451[#6136[#6153]]+1)位》和$(7)《第$V(#6451[#6139[#6153]]+1)位》的战斗即将爆发。"
     },
     {
       "JP": "興味のあるカードだ。見にいこう。",

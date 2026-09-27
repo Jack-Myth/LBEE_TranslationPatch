@@ -2041,7 +2041,7 @@
   },
   {
     "Source": "%s summons %s to her aid!",
-    "Target": "%s召唤了%s前来协助！",
+    "Target": "%s召唤了动物前来协助！",
     "JP": null
   },
   {
@@ -3061,7 +3061,7 @@
   },
   {
     "Source": "%s gathers %s!",
-    "Target": "%s选中了『%s』！",
+    "Target": "%s选好了道具！",
     "JP": "%sは『%s』を選び取った！"
   },
   {
@@ -3141,7 +3141,7 @@
   },
   {
     "Source": "%s: %s chosen!",
-    "Target": "%s选择了%s！",
+    "Target": "%s选择了道具！",
     "JP": null
   },
   {
@@ -5551,5 +5551,55 @@
     "Source": "You can move Riki by pressing the directional buttons, by tilting the L Stick or the R Stick, or by dragging on the touch screen.",
     "Target": "使用方向键、左摇杆、右摇杆，或在触摸屏上拖动，即可移动理树。",
     "JP": "方向ボタン、Lスティック、Rスティックまたはタッチスクリーンのドラッグで理樹の移動ができます。"
+  },
+  {
+    "Source": "You can see the positions of your teammates by checking the radar at the top-right of the screen.",
+    "Target": "可以通过画面上方的雷达确认队员的位置。",
+    "JP": "画面上部のレーダーでメンバーの位置を確認できます。"
+  },
+  {
+    "Source": "The red dot on the radar shows Kyousuke’s current position.",
+    "Target": "雷达上的红点表示恭介所在的位置。",
+    "JP": "レーダーの赤い点が恭介のいる位置を表しています。"
+  },
+  {
+    "Source": "You can bring the menu up by pressing the X button or by flicking up on the touch screen.",
+    "Target": "按Ｘ键或在触摸屏上向上滑动，即可打开菜单。",
+    "JP": "Ｘボタンまたはタッチスクリーンの上フリックでメニューが呼びだせます。"
+  },
+  {
+    "Source": "If you hit returning ball, you’ll build up a combo.",
+    "Target": "将传回来的球再次击出，就能形成连击。",
+    "JP": "返ってきたボールを打ち返すとコンボがつながります。"
+  },
+  {
+    "Source": "Members who participate in the combo will receive increased parameter growth.",
+    "Target": "连续击球可以让队员进一步成长。",
+    "JP": "コンボをつなげることでメンバーはさらに成長します。"
+  },
+  {
+    "Source": "Hold the Up Button when hitting for a ground ball.",
+    "Target": "击球时按住方向键上，可打出滚地球。",
+    "JP": "方向ボタンの上を押しながら打つとボールを軽く転がせます。"
+  },
+  {
+    "Source": "Hold the Down Button when hitting for a fly ball.",
+    "Target": "击球时按住方向键下，可将球击向远处。",
+    "JP": "方向ボタンの下を押しながら打つとボールを遠くに飛ばせます。"
+  },
+  {
+    "Source": "Please select the trays to serve the meals\nas soon as they contain the foods on the menu.\n$C(255,255,204)(Getting a low score will not hinder story progression)",
+    "Target": "按菜单备齐餐点后，\n请选择托盘进行配餐。\n$C(255,255,204)（得分低也不会影响故事进度）",
+    "JP": "メニュー通りの品がそろい次第\nトレイを選択して配膳してください\n$C(255,255,204)（スコアが低くても物語を進めるうえで支障はありません）"
+  },
+  {
+    "Source": "$A1Data save in progress...\n$S001 \n$S024$A1Do not turn the console off while saving.",
+    "Target": "$A1正在保存。\n$S001 \n$S024保存期间请勿关闭主机电源。",
+    "JP": "$A1セーブ中です。\n$S001 \n$S024セーブ中は本体の電源を切らないで下さい。"
+  },
+  {
+    "Source": "$A1Clear information (system data) save in progress.\n$S001 \n$S024$A1Do not turn the console off while saving.",
+    "Target": "$A1正在保存通关信息（系统数据）。\n$S001 \n$S024$A1保存期间请勿关闭主机电源。",
+    "JP": "$A1クリア情報（システムデータ）をセーブ中です。\n$S001 \n$S024$A1セーブ中は本体の電源を切らないで下さい。"
   }
 ]
