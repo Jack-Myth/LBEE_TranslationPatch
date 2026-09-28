@@ -563,7 +563,7 @@
     {
       "JP": "`理樹@「今日は$K65肉ジャガ$K0だね」",
       "EN": "`Riki@❝The main dish is $K65niku-jaga$K0.❞",
-      "Translation": "`理树@「今天是$K65土豆炖肉$K0啊」"
+      "Translation": "`理树@「今天是$K(65)土豆炖肉$K()啊」"
     },
     {
       "JP": "寮の食堂の椅子に腰掛ける。",

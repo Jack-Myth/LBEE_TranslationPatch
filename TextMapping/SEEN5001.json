@@ -473,7 +473,7 @@
     {
       "JP": "`真人@「…$K70のりべん$K0とか…」",
       "EN": "`Masato@❝What about $K70noriben$K0...❞",
-      "Translation": "`真人@「…比如$K70海苔便当$K0之类的…」"
+      "Translation": "`真人@「…比如$K(70)海苔便当$K()之类的…」"
     },
     {
       "JP": "`西園@「いやです」",
@@ -883,7 +883,7 @@
     {
       "JP": "`クド@「任せてくださいですっ。おいしいんですよー$K74沖縄料理$K0ー」",
       "EN": "`Kud@❝Leave it to me. $K74Okinawan cuisine$K0 is delicious.❞",
-      "Translation": "`库特@「交给我吧。$K74冲绳料理$K0可是很好吃的哦ー」"
+      "Translation": "`库特@「交给我吧。$K(74)冲绳料理$K()可是很好吃的哦ー」"
     },
     {
       "JP": "`真人@「沖縄料理？」",

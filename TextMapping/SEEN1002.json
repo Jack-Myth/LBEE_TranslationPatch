@@ -2048,7 +2048,7 @@
     {
       "JP": "`小次郎@「ふん、わしの時代は$K14元服$K0がすめば、ぶっ倒れるまで酒をかっ食らってたものよ」",
       "EN": "`Kojirou@❝Huh. In my generation, people used to drink themselves to oblivion and topple down after their $K14coming of age ceremony$K0.❞",
-      "Translation": "`小次郎@「哼，在我那个时代从$K14元服$K0开始，就会喝酒喝到醉倒的哦」"
+      "Translation": "`小次郎@「哼，在我那个时代从$K(14)元服$K()开始，就会喝酒喝到醉倒的哦」"
     },
     {
       "JP": "`理樹@「いや元服って、小次郎さん何年生きてるんですか」",

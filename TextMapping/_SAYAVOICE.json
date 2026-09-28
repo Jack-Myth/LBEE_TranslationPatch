@@ -3,27 +3,27 @@
     {
       "JP": "`$(1,0)@「何やってるの？」",
       "EN": "`$(1,0)@「何やってるの？」",
-      "Translation": "`$(1,1)@「你在做什么？」"
+      "Translation": "`$(5)@「你在做什么？」"
     },
     {
       "JP": "`$(1,0)@「何かの訓練？」",
       "EN": "`$(1,0)@「何かの訓練？」",
-      "Translation": "`$(1,1)@「是某种训练吗？」"
+      "Translation": "`$(5)@「是某种训练吗？」"
     },
     {
       "JP": "`$(1,0)@「理樹くんはあほなの？」",
       "EN": "`$(1,0)@「理樹くんはあほなの？」",
-      "Translation": "`$(1,1)@「理树君是笨蛋吗？」"
+      "Translation": "`$(5)@「理树君是笨蛋吗？」"
     },
     {
       "JP": "`$(1,0)@「理樹くんが…狂った…」",
       "EN": "`$(1,0)@「理樹くんが…狂った…」",
-      "Translation": "`$(1,1)@「理树君……疯了……」"
+      "Translation": "`$(5)@「理树君……疯了……」"
     },
     {
       "JP": "`$(1,0)@「よっぽどそうするのが好きなのね」",
       "EN": "`$(1,0)@「よっぽどそうするのが好きなのね」",
-      "Translation": "`$(1,1)@「你果然很喜欢这么做呢」"
+      "Translation": "`$(5)@「你果然很喜欢这么做呢」"
     },
     {
       "JP": "`理樹@「なに？　どうしたの？」",
@@ -98,1557 +98,1557 @@
     {
       "JP": "`$(1,0)@「標的確認」",
       "EN": "`$(1,1)@ \"Target spotted.\"",
-      "Translation": "`$(1,1)@「目标确认」"
+      "Translation": "`$(5)@「目标确认」"
     },
     {
       "JP": "`$(1,0)@「目標捕捉」",
       "EN": "`$(1,1)@ \"Enemy detected.\"",
-      "Translation": "`$(1,1)@「捕捉到目标」"
+      "Translation": "`$(5)@「捕捉到目标」"
     },
     {
       "JP": "`$(1,0)@「始めるわよ」",
       "EN": "`$(1,1)@ \"Let's get started.\"",
-      "Translation": "`$(1,1)@「开始了哦」"
+      "Translation": "`$(5)@「开始了哦」"
     },
     {
       "JP": "`$(1,0)@「いっちょ、いくか」",
       "EN": "`$(1,1)@ \"Let's go.\"",
-      "Translation": "`$(1,1)@「来吧，试一试吧」"
+      "Translation": "`$(5)@「来吧，试一试吧」"
     },
     {
       "JP": "`$(1,0)@「ゲームスタートね」",
       "EN": "`$(1,1)@ \"Time to start the game.\"",
-      "Translation": "`$(1,1)@「游戏开始了呢」"
+      "Translation": "`$(5)@「游戏开始了呢」"
     },
     {
       "JP": "`$(1,0)@「楽しませてね」",
       "EN": "`$(1,1)@ \"Amuse us.\"",
-      "Translation": "`$(1,1)@「让我好好享受吧」"
+      "Translation": "`$(5)@「让我好好享受吧」"
     },
     {
       "JP": "`$(1,0)@「イッツショータイム」",
       "EN": "`$(1,1)@ \"It's show time.\"",
-      "Translation": "`$(1,1)@「表演时间到」"
+      "Translation": "`$(5)@「表演时间到」"
     },
     {
       "JP": "`$(1,0)@「お手並み拝見ね」",
       "EN": "`$(1,1)@ \"Let us see what you guys have.\"",
-      "Translation": "`$(1,1)@「让我看看你们的本事吧」"
+      "Translation": "`$(5)@「让我看看你们的本事吧」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、いくわよ」",
       "EN": "`$(1,1)@ \"Riki-kun, let's roll.\"",
-      "Translation": "`$(1,1)@「理树君，上吧」"
+      "Translation": "`$(5)@「理树君，上吧」"
     },
     {
       "JP": "`$(1,0)@「退屈してたところよ」",
       "EN": "`$(1,1)@ \"Good timing. I was bored.\"",
-      "Translation": "`$(1,1)@「刚好有些无聊呢」"
+      "Translation": "`$(5)@「刚好有些无聊呢」"
     },
     {
       "JP": "`$(1,0)@「暇つぶしにはちょうどね」",
       "EN": "`$(1,1)@ \"This is a good way to kill time.\"",
-      "Translation": "`$(1,1)@「正好消磨时间呢」"
+      "Translation": "`$(5)@「正好消磨时间呢」"
     },
     {
       "JP": "`$(1,0)@「甘く見られたものね」",
       "EN": "`$(1,1)@ \"Don't underestimate us.\"",
-      "Translation": "`$(1,1)@「真是小瞧我们了呢」"
+      "Translation": "`$(5)@「真是小瞧我们了呢」"
     },
     {
       "JP": "`$(1,0)@「あたしたち、強いわよ」",
       "EN": "`$(1,1)@ \"Just so you know, we're strong.\"",
-      "Translation": "`$(1,1)@「我们可是很强的哦」"
+      "Translation": "`$(5)@「我们可是很强的哦」"
     },
     {
       "JP": "`$(1,0)@「消えてもらうわ」",
       "EN": "`$(1,1)@ \"I'm going to erase all of you.\"",
-      "Translation": "`$(1,1)@「让你们消失吧」"
+      "Translation": "`$(5)@「让你们消失吧」"
     },
     {
       "JP": "`$(1,0)@「運が悪かったわね」",
       "EN": "`$(1,1)@ \"It's not your lucky day.\"",
-      "Translation": "`$(1,1)@「你今天真不走运」"
+      "Translation": "`$(5)@「你今天真不走运」"
     },
     {
       "JP": "`$(1,0)@「邪魔な連中ね」",
       "EN": "`$(1,1)@ \"You guys are such a drag.\"",
-      "Translation": "`$(1,1)@「真是碍事的一群人」"
+      "Translation": "`$(5)@「真是碍事的一群人」"
     },
     {
       "JP": "`$(1,0)@「しつこいわよ、あんたたち」",
       "EN": "`$(1,1)@ \"You guys are driving me crazy.\"",
-      "Translation": "`$(1,1)@「你们真是太烦人了」"
+      "Translation": "`$(5)@「你们真是太烦人了」"
     },
     {
       "JP": "`$(1,0)@「ふわぁ…眠気覚ましね」",
       "EN": "`$(1,1)@ \"*Yawn*... Wanna help me wake up?\"",
-      "Translation": "`$(1,1)@「哈啊…真是提神」"
+      "Translation": "`$(5)@「哈啊…真是提神」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、自信を持って」",
       "EN": "`$(1,1)@ \"Riki-kun, trust yourself.\"",
-      "Translation": "`$(1,1)@「理树君，相信自己」"
+      "Translation": "`$(5)@「理树君，相信自己」"
     },
     {
       "JP": "`$(1,0)@「できるできる」",
       "EN": "`$(1,1)@ \"We  can do this.\"",
-      "Translation": "`$(1,1)@「可以的可以的」"
+      "Translation": "`$(5)@「可以的可以的」"
     },
     {
       "JP": "`$(1,0)@「秘宝はどこ？　吐いちゃいなさいよ」",
       "EN": "`$(1,1)@ \"Where's the treasure? Just tell us.\"",
-      "Translation": "`$(1,1)@「宝藏在哪里？快说出来吧」"
+      "Translation": "`$(5)@「宝藏在哪里？快说出来吧」"
     },
     {
       "JP": "`$(1,0)@「ことごとく消し去ってやる」",
       "EN": "`$(1,1)@ \"We'll snuff out every last one of you.\"",
-      "Translation": "`$(1,1)@「我要把你们彻底抹杀掉」"
+      "Translation": "`$(5)@「我要把你们彻底抹杀掉」"
     },
     {
       "JP": "`$(1,0)@「大人しく消えればいいのよ」",
       "EN": "`$(1,1)@ \"Just be gone already.\"",
-      "Translation": "`$(1,1)@「乖乖地消失就好了哦」"
+      "Translation": "`$(5)@「乖乖地消失就好了哦」"
     },
     {
       "JP": "`$(1,0)@「そろそろ本気でいこうかしら？」",
       "EN": "`$(1,1)@ \"Guess it's time for us to go all out?\"",
-      "Translation": "`$(1,1)@「该认真起来了吧？」"
+      "Translation": "`$(5)@「该认真起来了吧？」"
     },
     {
       "JP": "`$(1,0)@「いくわよ、マイパートナー」",
       "EN": "`$(1,1)@ \"Let's go, my partner.\"",
-      "Translation": "`$(1,1)@「上吧，My Partner」"
+      "Translation": "`$(5)@「上吧，My Partner」"
     },
     {
       "JP": "`$(1,0)@「今の理樹くんはすごいわよ？」",
       "EN": "`$(1,1)@ \"Aren't you aware you're doing a real good job here?\"",
-      "Translation": "`$(1,1)@「现在的理树君很厉害哦？」"
+      "Translation": "`$(5)@「现在的理树君很厉害哦？」"
     },
     {
       "JP": "`$(1,0)@「今の理樹くんなら大丈夫よ」",
       "EN": "`$(1,1)@ \"You're good enough now to make it through this.\"",
-      "Translation": "`$(1,1)@「现在的理树君没问题的哦」"
+      "Translation": "`$(5)@「现在的理树君没问题的哦」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、かっこいいわよ」",
       "EN": "`$(1,1)@ \"Riki-kun, you look so manly.\"",
-      "Translation": "`$(1,1)@「理树君，好帅」"
+      "Translation": "`$(5)@「理树君，好帅」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、様になってきたじゃない」",
       "EN": "`$(1,1)@ \"Riki-kun, you're now really good at that.\"",
-      "Translation": "`$(1,1)@「理树君，越来越像样了呢」"
+      "Translation": "`$(5)@「理树君，越来越像样了呢」"
     },
     {
       "JP": "`$(1,0)@「最強のコンビよ」",
       "EN": "`$(1,1)@ \"We're the strongest team.\"",
-      "Translation": "`$(1,1)@「我们是最强的搭档哦」"
+      "Translation": "`$(5)@「我们是最强的搭档哦」"
     },
     {
       "JP": "`$(1,0)@「最強のコンビに挑戦？」",
       "EN": "`$(1,1)@ \"You sure you wanna challenge us, the strongest team ever?\"",
-      "Translation": "`$(1,1)@「挑战最强的组合吗？」"
+      "Translation": "`$(5)@「挑战最强的组合吗？」"
     },
     {
       "JP": "`$(1,0)@「あたしたちに勝てると思って？」",
       "EN": "`$(1,1)@ \"Do you really think you can beat us?\"",
-      "Translation": "`$(1,1)@「你真的以为能赢我们吗？」"
+      "Translation": "`$(5)@「你真的以为能赢我们吗？」"
     },
     {
       "JP": "`$(1,0)@「あたしたちを舐めてるわね」",
       "EN": "`$(1,1)@ \"You're obviously underestimating us.\"",
-      "Translation": "`$(1,1)@「你们真是小看我们了呢」"
+      "Translation": "`$(5)@「你们真是小看我们了呢」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、やっちゃうわよ？」",
       "EN": "`$(1,1)@ \"Riki-kun, let's get them, okay?\"",
-      "Translation": "`$(1,1)@「理树君，要上啦？」"
+      "Translation": "`$(5)@「理树君，要上啦？」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、やっちゃいなさい」",
       "EN": "`$(1,1)@ \"Riki-kun, go get them.\"",
-      "Translation": "`$(1,1)@「理树君，快动手吧」"
+      "Translation": "`$(5)@「理树君，快动手吧」"
     },
     {
       "JP": "`$(1,0)@「秒殺ね」",
       "EN": "`$(1,1)@ \"It won't take a second to finish them all.\"",
-      "Translation": "`$(1,1)@「秒杀哦」"
+      "Translation": "`$(5)@「秒杀哦」"
     },
     {
       "JP": "`$(1,0)@「理樹くんは今大変お怒りよ」",
       "EN": "`$(1,1)@ \"Riki-kun here is extremely angry.\"",
-      "Translation": "`$(1,1)@「理树君现在非常生气哦」"
+      "Translation": "`$(5)@「理树君现在非常生气哦」"
     },
     {
       "JP": "`$(1,0)@「その勇気だけは認めてあげるわ」",
       "EN": "`$(1,1)@ \"Well, I respect that you are willing to face us.\"",
-      "Translation": "`$(1,1)@「我只能佩服你们的勇气了」"
+      "Translation": "`$(5)@「我只能佩服你们的勇气了」"
     },
     {
       "JP": "`$(1,0)@「蛮勇ね」",
       "EN": "`$(1,1)@ \"What reckless courage.\"",
-      "Translation": "`$(1,1)@「真是鲁莽呢」"
+      "Translation": "`$(5)@「真是鲁莽呢」"
     },
     {
       "JP": "`$(1,0)@「ちゃんちゃらおかしいわ」",
       "EN": "`$(1,1)@ \"Think again because you're not as strong as you think you are.\"",
-      "Translation": "`$(1,1)@「真是滑稽」"
+      "Translation": "`$(5)@「真是滑稽」"
     },
     {
       "JP": "`$(1,0)@「理樹くんも何か言ってやんなさいよ」",
       "EN": "`$(1,1)@ \"Riki-kun, you should also say something to them just like I do.\"",
-      "Translation": "`$(1,1)@「理树君，也说点什么吧」"
+      "Translation": "`$(5)@「理树君，也说点什么吧」"
     },
     {
       "JP": "`$(1,0)@「いっちょ、いきますか…」",
       "EN": "`$(1,1)@ \"Let's do this...\"",
-      "Translation": "`$(1,1)@「来吧，动手吧…」"
+      "Translation": "`$(5)@「来吧，动手吧…」"
     },
     {
       "JP": "`$(1,0)@「ゲームスタートね…」",
       "EN": "`$(1,1)@ \"Time to start the game, huh.\"",
-      "Translation": "`$(1,1)@「游戏开始了呢…」"
+      "Translation": "`$(5)@「游戏开始了呢…」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、いくわよ…」",
       "EN": "`$(1,1)@ \"Riki-kun, let's go.\"",
-      "Translation": "`$(1,1)@「理树君，上吧…」"
+      "Translation": "`$(5)@「理树君，上吧…」"
     },
     {
       "JP": "`$(1,0)@「しつこいわよ、あんたたち…」",
       "EN": "`$(1,1)@ \"You guys sicken me...\"",
-      "Translation": "`$(1,1)@「你们真是太烦人了…」"
+      "Translation": "`$(5)@「你们真是太烦人了…」"
     },
     {
       "JP": "`$(1,0)@「いい加減にして…」",
       "EN": "`$(1,1)@ \"Enough is enough...\"",
-      "Translation": "`$(1,1)@「够了…」"
+      "Translation": "`$(5)@「够了…」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、堪えて」",
       "EN": "`$(1,1)@ \"Riki-kun, hang in there.\"",
-      "Translation": "`$(1,1)@「理树君，坚持住」"
+      "Translation": "`$(5)@「理树君，坚持住」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、あまり前に出ないで」",
       "EN": "`$(1,1)@ \"Riki-kun, stay back.\"",
-      "Translation": "`$(1,1)@「理树君，不要太往前了」"
+      "Translation": "`$(5)@「理树君，不要太往前了」"
     },
     {
       "JP": "`$(1,0)@「乗り切りましょ」",
       "EN": "`$(1,1)@ \"We can get through this.\"",
-      "Translation": "`$(1,1)@「我们撑过去吧」"
+      "Translation": "`$(5)@「我们撑过去吧」"
     },
     {
       "JP": "`$(1,0)@「持ちこたえるわよっ」",
       "EN": "`$(1,1)@ \"We'll live through this.\"",
-      "Translation": "`$(1,1)@「撑住啊！」"
+      "Translation": "`$(5)@「撑住啊！」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、がんばって」",
       "EN": "`$(1,1)@ \"Riki-kun, don't give up.\"",
-      "Translation": "`$(1,1)@「理树君，加油」"
+      "Translation": "`$(5)@「理树君，加油」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、堪えて…」",
       "EN": "`$(1,1)@ \"Riki-kun, hang in there.\"",
-      "Translation": "`$(1,1)@「理树君，坚持住…」"
+      "Translation": "`$(5)@「理树君，坚持住…」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、がんばって…」",
       "EN": "`$(1,1)@ \"Riki-kun, don't give up.\"",
-      "Translation": "`$(1,1)@「理树君，加油…」"
+      "Translation": "`$(5)@「理树君，加油…」"
     },
     {
       "JP": "`$(1,0)@「いちじ！」",
       "EN": "`$(1,1)@ \"One o'clock!\"",
-      "Translation": "`$(1,1)@「１点钟！」"
+      "Translation": "`$(5)@「１点钟！」"
     },
     {
       "JP": "`$(1,0)@「にじ！」",
       "EN": "`$(1,1)@ \"Two o'clock!\"",
-      "Translation": "`$(1,1)@「２点钟！」"
+      "Translation": "`$(5)@「２点钟！」"
     },
     {
       "JP": "`$(1,0)@「さんじ！」",
       "EN": "`$(1,1)@ \"Three o'clock!\"",
-      "Translation": "`$(1,1)@「３点钟！」"
+      "Translation": "`$(5)@「３点钟！」"
     },
     {
       "JP": "`$(1,0)@「よじ！」",
       "EN": "`$(1,1)@ \"Four o'clock!\"",
-      "Translation": "`$(1,1)@「４点钟！」"
+      "Translation": "`$(5)@「４点钟！」"
     },
     {
       "JP": "`$(1,0)@「ごじ！」",
       "EN": "`$(1,1)@ \"Five o'clock!\"",
-      "Translation": "`$(1,1)@「５点钟！」"
+      "Translation": "`$(5)@「５点钟！」"
     },
     {
       "JP": "`$(1,0)@「ろくじ！」",
       "EN": "`$(1,1)@ \"Six o'clock!\"",
-      "Translation": "`$(1,1)@「６点钟！」"
+      "Translation": "`$(5)@「６点钟！」"
     },
     {
       "JP": "`$(1,0)@「ななじ！」",
       "EN": "`$(1,1)@ \"Seven o'clock!\"",
-      "Translation": "`$(1,1)@「７点钟！」"
+      "Translation": "`$(5)@「７点钟！」"
     },
     {
       "JP": "`$(1,0)@「はちじ！」",
       "EN": "`$(1,1)@ \"Eight o'clock!\"",
-      "Translation": "`$(1,1)@「８点钟！」"
+      "Translation": "`$(5)@「８点钟！」"
     },
     {
       "JP": "`$(1,0)@「くじ！」",
       "EN": "`$(1,1)@ \"Nine o'clock!\"",
-      "Translation": "`$(1,1)@「９点钟！」"
+      "Translation": "`$(5)@「９点钟！」"
     },
     {
       "JP": "`$(1,0)@「じゅうじ！」",
       "EN": "`$(1,1)@ \"Ten o'clock!\"",
-      "Translation": "`$(1,1)@「１０点钟！」"
+      "Translation": "`$(5)@「１０点钟！」"
     },
     {
       "JP": "`$(1,0)@「じゅういちじ！」",
       "EN": "`$(1,1)@ \"Eleven o'clock!\"",
-      "Translation": "`$(1,1)@「１１点钟！」"
+      "Translation": "`$(5)@「１１点钟！」"
     },
     {
       "JP": "`$(1,0)@「じゅうにじ！」",
       "EN": "`$(1,1)@ \"Twelve o'clock!\"",
-      "Translation": "`$(1,1)@「１２点钟！」"
+      "Translation": "`$(5)@「１２点钟！」"
     },
     {
       "JP": "`$(1,0)@「いちじ！」",
       "EN": "`$(1,1)@ \"One o'clock!\"",
-      "Translation": "`$(1,1)@「１点钟！」"
+      "Translation": "`$(5)@「１点钟！」"
     },
     {
       "JP": "`$(1,0)@「にじ！」",
       "EN": "`$(1,1)@ \"Two o'clock!\"",
-      "Translation": "`$(1,1)@「２点钟！」"
+      "Translation": "`$(5)@「２点钟！」"
     },
     {
       "JP": "`$(1,0)@「さんじ！」",
       "EN": "`$(1,1)@ \"Three o'clock!\"",
-      "Translation": "`$(1,1)@「３点钟！」"
+      "Translation": "`$(5)@「３点钟！」"
     },
     {
       "JP": "`$(1,0)@「よじ！」",
       "EN": "`$(1,1)@ \"Four o'clock!\"",
-      "Translation": "`$(1,1)@「４点钟！」"
+      "Translation": "`$(5)@「４点钟！」"
     },
     {
       "JP": "`$(1,0)@「ごじ！」",
       "EN": "`$(1,1)@ \"Five o'clock!\"",
-      "Translation": "`$(1,1)@「５点钟！」"
+      "Translation": "`$(5)@「５点钟！」"
     },
     {
       "JP": "`$(1,0)@「ろくじ！」",
       "EN": "`$(1,1)@ \"Six o'clock!\"",
-      "Translation": "`$(1,1)@「６点钟！」"
+      "Translation": "`$(5)@「６点钟！」"
     },
     {
       "JP": "`$(1,0)@「ななじ！」",
       "EN": "`$(1,1)@ \"Seven o'clock!\"",
-      "Translation": "`$(1,1)@「７点钟！」"
+      "Translation": "`$(5)@「７点钟！」"
     },
     {
       "JP": "`$(1,0)@「はちじ！」",
       "EN": "`$(1,1)@ \"Eight o'clock!\"",
-      "Translation": "`$(1,1)@「８点钟！」"
+      "Translation": "`$(5)@「８点钟！」"
     },
     {
       "JP": "`$(1,0)@「くじ！」",
       "EN": "`$(1,1)@ \"Nine o'clock!\"",
-      "Translation": "`$(1,1)@「９点钟！」"
+      "Translation": "`$(5)@「９点钟！」"
     },
     {
       "JP": "`$(1,0)@「じゅうじ！」",
       "EN": "`$(1,1)@ \"Ten o'clock!\"",
-      "Translation": "`$(1,1)@「１０点钟！」"
+      "Translation": "`$(5)@「１０点钟！」"
     },
     {
       "JP": "`$(1,0)@「じゅういちじ！」",
       "EN": "`$(1,1)@ \"Eleven o'clock!\"",
-      "Translation": "`$(1,1)@「１１点钟！」"
+      "Translation": "`$(5)@「１１点钟！」"
     },
     {
       "JP": "`$(1,0)@「じゅうにじ！」",
       "EN": "`$(1,1)@ \"Twelve o'clock!\"",
-      "Translation": "`$(1,1)@「１２点钟！」"
+      "Translation": "`$(5)@「１２点钟！」"
     },
     {
       "JP": "`$(1,0)@「いちじ！」",
       "EN": "`$(1,1)@ \"One o'clock!\"",
-      "Translation": "`$(1,1)@「１点钟！」"
+      "Translation": "`$(5)@「１点钟！」"
     },
     {
       "JP": "`$(1,0)@「にじ！」",
       "EN": "`$(1,1)@ \"Two o'clock!\"",
-      "Translation": "`$(1,1)@「２点钟！」"
+      "Translation": "`$(5)@「２点钟！」"
     },
     {
       "JP": "`$(1,0)@「さんじ！」",
       "EN": "`$(1,1)@ \"Three o'clock!\"",
-      "Translation": "`$(1,1)@「３点钟！」"
+      "Translation": "`$(5)@「３点钟！」"
     },
     {
       "JP": "`$(1,0)@「よじ！」",
       "EN": "`$(1,1)@ \"Four o'clock!\"",
-      "Translation": "`$(1,1)@「４点钟！」"
+      "Translation": "`$(5)@「４点钟！」"
     },
     {
       "JP": "`$(1,0)@「ごじ！」",
       "EN": "`$(1,1)@ \"Five o'clock!\"",
-      "Translation": "`$(1,1)@「５点钟！」"
+      "Translation": "`$(5)@「５点钟！」"
     },
     {
       "JP": "`$(1,0)@「ろくじ！」",
       "EN": "`$(1,1)@ \"Six o'clock!\"",
-      "Translation": "`$(1,1)@「６点钟！」"
+      "Translation": "`$(5)@「６点钟！」"
     },
     {
       "JP": "`$(1,0)@「ななじ！」",
       "EN": "`$(1,1)@ \"Seven o'clock!\"",
-      "Translation": "`$(1,1)@「７点钟！」"
+      "Translation": "`$(5)@「７点钟！」"
     },
     {
       "JP": "`$(1,0)@「はちじ！」",
       "EN": "`$(1,1)@ \"Eight o'clock!\"",
-      "Translation": "`$(1,1)@「８点钟！」"
+      "Translation": "`$(5)@「８点钟！」"
     },
     {
       "JP": "`$(1,0)@「くじ！」",
       "EN": "`$(1,1)@ \"Nine o'clock!\"",
-      "Translation": "`$(1,1)@「９点钟！」"
+      "Translation": "`$(5)@「９点钟！」"
     },
     {
       "JP": "`$(1,0)@「じゅうじ！」",
       "EN": "`$(1,1)@ \"Ten o'clock!\"",
-      "Translation": "`$(1,1)@「１０点钟！」"
+      "Translation": "`$(5)@「１０点钟！」"
     },
     {
       "JP": "`$(1,0)@「じゅういちじ！」",
       "EN": "`$(1,1)@ \"Eleven o'clock!\"",
-      "Translation": "`$(1,1)@「１１点钟！」"
+      "Translation": "`$(5)@「１１点钟！」"
     },
     {
       "JP": "`$(1,0)@「じゅうにじ！」",
       "EN": "`$(1,1)@ \"Twelve o'clock!\"",
-      "Translation": "`$(1,1)@「１２点钟！」"
+      "Translation": "`$(5)@「１２点钟！」"
     },
     {
       "JP": "`$(1,0)@「いち！」",
       "EN": "`$(1,1)@ \"One o'clock!\"",
-      "Translation": "`$(1,1)@「１点钟！」"
+      "Translation": "`$(5)@「１点钟！」"
     },
     {
       "JP": "`$(1,0)@「に！」",
       "EN": "`$(1,1)@ \"Two o'clock!\"",
-      "Translation": "`$(1,1)@「２点钟！」"
+      "Translation": "`$(5)@「２点钟！」"
     },
     {
       "JP": "`$(1,0)@「さん！」",
       "EN": "`$(1,1)@ \"Three o'clock!\"",
-      "Translation": "`$(1,1)@「３点钟！」"
+      "Translation": "`$(5)@「３点钟！」"
     },
     {
       "JP": "`$(1,0)@「よん！」",
       "EN": "`$(1,1)@ \"Four o'clock!\"",
-      "Translation": "`$(1,1)@「４点钟！」"
+      "Translation": "`$(5)@「４点钟！」"
     },
     {
       "JP": "`$(1,0)@「ご！」",
       "EN": "`$(1,1)@ \"Five o'clock!\"",
-      "Translation": "`$(1,1)@「５点钟！」"
+      "Translation": "`$(5)@「５点钟！」"
     },
     {
       "JP": "`$(1,0)@「ろく！」",
       "EN": "`$(1,1)@ \"Six o'clock!\"",
-      "Translation": "`$(1,1)@「６点钟！」"
+      "Translation": "`$(5)@「６点钟！」"
     },
     {
       "JP": "`$(1,0)@「なな！」",
       "EN": "`$(1,1)@ \"Seven o'clock!\"",
-      "Translation": "`$(1,1)@「７点钟！」"
+      "Translation": "`$(5)@「７点钟！」"
     },
     {
       "JP": "`$(1,0)@「はち！」",
       "EN": "`$(1,1)@ \"Eight o'clock!\"",
-      "Translation": "`$(1,1)@「８点钟！」"
+      "Translation": "`$(5)@「８点钟！」"
     },
     {
       "JP": "`$(1,0)@「きゅう！」",
       "EN": "`$(1,1)@ \"Nine o'clock!\"",
-      "Translation": "`$(1,1)@「９点钟！」"
+      "Translation": "`$(5)@「９点钟！」"
     },
     {
       "JP": "`$(1,0)@「じゅう！」",
       "EN": "`$(1,1)@ \"Ten o'clock!\"",
-      "Translation": "`$(1,1)@「１０点钟！」"
+      "Translation": "`$(5)@「１０点钟！」"
     },
     {
       "JP": "`$(1,0)@「じゅういち！」",
       "EN": "`$(1,1)@ \"Eleven o'clock!\"",
-      "Translation": "`$(1,1)@「１１点钟！」"
+      "Translation": "`$(5)@「１１点钟！」"
     },
     {
       "JP": "`$(1,0)@「じゅうに！」",
       "EN": "`$(1,1)@ \"Twelve o'clock!\"",
-      "Translation": "`$(1,1)@「１２点钟！」"
+      "Translation": "`$(5)@「１２点钟！」"
     },
     {
       "JP": "`$(1,0)@「いち！」",
       "EN": "`$(1,1)@ \"One o'clock!\"",
-      "Translation": "`$(1,1)@「１点钟！」"
+      "Translation": "`$(5)@「１点钟！」"
     },
     {
       "JP": "`$(1,0)@「に！」",
       "EN": "`$(1,1)@ \"Two o'clock!\"",
-      "Translation": "`$(1,1)@「２点钟！」"
+      "Translation": "`$(5)@「２点钟！」"
     },
     {
       "JP": "`$(1,0)@「さん！」",
       "EN": "`$(1,1)@ \"Three o'clock!\"",
-      "Translation": "`$(1,1)@「３点钟！」"
+      "Translation": "`$(5)@「３点钟！」"
     },
     {
       "JP": "`$(1,0)@「よん！」",
       "EN": "`$(1,1)@ \"Four o'clock!\"",
-      "Translation": "`$(1,1)@「４点钟！」"
+      "Translation": "`$(5)@「４点钟！」"
     },
     {
       "JP": "`$(1,0)@「ご！」",
       "EN": "`$(1,1)@ \"Five o'clock!\"",
-      "Translation": "`$(1,1)@「５点钟！」"
+      "Translation": "`$(5)@「５点钟！」"
     },
     {
       "JP": "`$(1,0)@「ろく！」",
       "EN": "`$(1,1)@ \"Six o'clock!\"",
-      "Translation": "`$(1,1)@「６点钟！」"
+      "Translation": "`$(5)@「６点钟！」"
     },
     {
       "JP": "`$(1,0)@「なな！」",
       "EN": "`$(1,1)@ \"Seven o'clock!\"",
-      "Translation": "`$(1,1)@「７点钟！」"
+      "Translation": "`$(5)@「７点钟！」"
     },
     {
       "JP": "`$(1,0)@「はち！」",
       "EN": "`$(1,1)@ \"Eight o'clock!\"",
-      "Translation": "`$(1,1)@「８点钟！」"
+      "Translation": "`$(5)@「８点钟！」"
     },
     {
       "JP": "`$(1,0)@「きゅう！」",
       "EN": "`$(1,1)@ \"Nine o'clock!\"",
-      "Translation": "`$(1,1)@「９点钟！」"
+      "Translation": "`$(5)@「９点钟！」"
     },
     {
       "JP": "`$(1,0)@「じゅう！」",
       "EN": "`$(1,1)@ \"Ten o'clock!\"",
-      "Translation": "`$(1,1)@「１０点钟！」"
+      "Translation": "`$(5)@「１０点钟！」"
     },
     {
       "JP": "`$(1,0)@「じゅういち！」",
       "EN": "`$(1,1)@ \"Eleven o'clock!\"",
-      "Translation": "`$(1,1)@「１１点钟！」"
+      "Translation": "`$(5)@「１１点钟！」"
     },
     {
       "JP": "`$(1,0)@「じゅうに！」",
       "EN": "`$(1,1)@ \"Twelve o'clock!\"",
-      "Translation": "`$(1,1)@「１２点钟！」"
+      "Translation": "`$(5)@「１２点钟！」"
     },
     {
       "JP": "`$(1,0)@「えーーと、よん、ろく…？　いや、なな、いやいやろく、あーえーと…」",
       "EN": "`$(1,1)@ \"Well, four, six? Er, ten... ten... ugh...!\"",
-      "Translation": "`$(1,1)@「嗯——四、六…？不对，七，不不不，六，啊——呃——」"
+      "Translation": "`$(5)@「嗯——四、六…？不对，七，不不不，六，啊——呃——」"
     },
     {
       "JP": "`$(1,0)@「いち？　いや、あー、じゅう…じゅう…ああぁ…！」",
       "EN": "`$(1,1)@ \"One? No, err, ten... ten... ugh...!\"",
-      "Translation": "`$(1,1)@「一？不对，啊——十…十…啊啊啊…！」"
+      "Translation": "`$(5)@「一？不对，啊——十…十…啊啊啊…！」"
     },
     {
       "JP": "`$(1,0)@「さ…さん…さん…きゅう？　いや、はち、あっ、いちっ、あーじゅうっ！」",
       "EN": "`$(1,1)@ \"Th... three... three... nine? No, eight, uh, one, err, ten!\"",
-      "Translation": "`$(1,1)@「三…三…三…九？不对，八，啊，一，啊——十！」"
+      "Translation": "`$(5)@「三…三…三…九？不对，八，啊，一，啊——十！」"
     },
     {
       "JP": "`$(1,0)@「大変よくできました」",
       "EN": "`$(1,1)@ \"Excellent!\"",
-      "Translation": "`$(1,1)@「非常棒！」"
+      "Translation": "`$(5)@「非常棒！」"
     },
     {
       "JP": "`$(1,0)@「やるじゃない」",
       "EN": "`$(1,1)@ \"Way to go!\"",
-      "Translation": "`$(1,1)@「干得不错！」"
+      "Translation": "`$(5)@「干得不错！」"
     },
     {
       "JP": "`$(1,0)@「完璧ね」",
       "EN": "`$(1,1)@ \"Perfection!\"",
-      "Translation": "`$(1,1)@「完美！」"
+      "Translation": "`$(5)@「完美！」"
     },
     {
       "JP": "`$(1,0)@「パーフェクト！」",
       "EN": "`$(1,1)@ \"Perfect!\"",
-      "Translation": "`$(1,1)@「完美无瑕！」"
+      "Translation": "`$(5)@「完美无瑕！」"
     },
     {
       "JP": "`$(1,0)@「素晴らしい出来だわ」",
       "EN": "`$(1,1)@ \"Splendid work!\"",
-      "Translation": "`$(1,1)@「真是了不起的表现呢。」"
+      "Translation": "`$(5)@「真是了不起的表现呢。」"
     },
     {
       "JP": "`$(1,0)@「やるときゃやるのね」",
       "EN": "`$(1,1)@ \"I knew you could do it!\"",
-      "Translation": "`$(1,1)@「该做的时候还是能做到嘛！」"
+      "Translation": "`$(5)@「该做的时候还是能做到嘛！」"
     },
     {
       "JP": "`$(1,0)@「いい感じだったわよ」",
       "EN": "`$(1,1)@ \"That was super!\"",
-      "Translation": "`$(1,1)@「感觉很不错哦。」"
+      "Translation": "`$(5)@「感觉很不错哦。」"
     },
     {
       "JP": "`$(1,0)@「うわっはっはっは！」",
       "EN": "`$(1,1)@ \"Uhahaha!\"",
-      "Translation": "`$(1,1)@「哇哈哈哈哈！」"
+      "Translation": "`$(5)@「哇哈哈哈哈！」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、やるじゃない！」",
       "EN": "`$(1,1)@ \"Riki-kun, way to go!\"",
-      "Translation": "`$(1,1)@「理树君，干得漂亮！」"
+      "Translation": "`$(5)@「理树君，干得漂亮！」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、あなた才能あるわよ」",
       "EN": "`$(1,1)@ \"Riki-kun, you have talent in this!\"",
-      "Translation": "`$(1,1)@「理树君，你很有天赋哦。」"
+      "Translation": "`$(5)@「理树君，你很有天赋哦。」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、あたしの目に間違いはなかったわ…」",
       "EN": "`$(1,1)@ \"Riki-kun, I was right to bring you here.\"",
-      "Translation": "`$(1,1)@「理树君，我果然没看错人…」"
+      "Translation": "`$(5)@「理树君，我果然没看错人…」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、スパイに転職すべきよ」",
       "EN": "`$(1,1)@ \"Riki-kun, you should become a spy.\"",
-      "Translation": "`$(1,1)@「理树君，你应该去当间谍才对。」"
+      "Translation": "`$(5)@「理树君，你应该去当间谍才对。」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、あなた、実はすでにどこかのスパイなんじゃないの？」",
       "EN": "`$(1,1)@ \"Riki-kun, aren't you already working as a spy for some organization?\"",
-      "Translation": "`$(1,1)@「理树君，你是不是已经在哪个组织当间谍了？」"
+      "Translation": "`$(5)@「理树君，你是不是已经在哪个组织当间谍了？」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、あなた、あたしよりすごくない？」",
       "EN": "`$(1,1)@ \"Riki-kun, aren't you better than me?\"",
-      "Translation": "`$(1,1)@「理树君，你是不是比我还厉害？」"
+      "Translation": "`$(5)@「理树君，你是不是比我还厉害？」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、あなたが敵じゃなくてよかったわ…」",
       "EN": "`$(1,1)@ \"Riki-kun, I'm glad you're not my enemy...\"",
-      "Translation": "`$(1,1)@「理树君，幸好你不是我的敌人…」"
+      "Translation": "`$(5)@「理树君，幸好你不是我的敌人…」"
     },
     {
       "JP": "`$(1,0)@「なによっ、そうよっ、あなたよりあたしのほうがへたよっ！」",
       "EN": "`$(1,1)@ \"What? That's right! I'm worse than you!\"",
-      "Translation": "`$(1,1)@「什么啦，对啊，我就是不如你啦！」"
+      "Translation": "`$(5)@「什么啦，对啊，我就是不如你啦！」"
     },
     {
       "JP": "`$(1,0)@「いい気になってんじゃないわよっ！」",
       "EN": "`$(1,1)@ \"Don't you get carried away!\"",
-      "Translation": "`$(1,1)@「别得意忘形了！」"
+      "Translation": "`$(5)@「别得意忘形了！」"
     },
     {
       "JP": "`$(1,0)@「なによっ、そんなに射撃が上手いほうが偉いわけ!?」",
       "EN": "`$(1,1)@ \"What? You think you're better than me just because you're better at shooting than me?\"",
-      "Translation": "`$(1,1)@「什么嘛，射击厉害就了不起吗！？」"
+      "Translation": "`$(5)@「什么嘛，射击厉害就了不起吗！？」"
     },
     {
       "JP": "`$(1,0)@「なんてことないわね」",
       "EN": "`$(1,1)@ \"That was a piece of cake.\"",
-      "Translation": "`$(1,1)@「没什么大不了的呢。」"
+      "Translation": "`$(5)@「没什么大不了的呢。」"
     },
     {
       "JP": "`$(1,0)@「成仏なさい」",
       "EN": "`$(1,1)@ \"Rest in peace.\"",
-      "Translation": "`$(1,1)@「安息吧。」"
+      "Translation": "`$(5)@「安息吧。」"
     },
     {
       "JP": "`$(1,0)@「よくできました」",
       "EN": "`$(1,1)@ \"Well done.\"",
-      "Translation": "`$(1,1)@「表现不错哦。」"
+      "Translation": "`$(5)@「表现不错哦。」"
     },
     {
       "JP": "`$(1,0)@「オーケー、上出来よ」",
       "EN": "`$(1,1)@ \"Okay. That was great.\"",
-      "Translation": "`$(1,1)@「好的，很出色的表现。」"
+      "Translation": "`$(5)@「好的，很出色的表现。」"
     },
     {
       "JP": "`$(1,0)@「馬鹿にしてるの？」",
       "EN": "`$(1,1)@ \"Are you making fun of me?\"",
-      "Translation": "`$(1,1)@「你在嘲笑我吗？」"
+      "Translation": "`$(5)@「你在嘲笑我吗？」"
     },
     {
       "JP": "`$(1,0)@「舐めてるわね…」",
       "EN": "`$(1,1)@ \"Don't you underestimate me...\"",
-      "Translation": "`$(1,1)@「小看我呢…」"
+      "Translation": "`$(5)@「小看我呢…」"
     },
     {
       "JP": "`$(1,0)@「負ける気がしないわ」",
       "EN": "`$(1,1)@ \"I can't picture myself losing.\"",
-      "Translation": "`$(1,1)@「我完全不觉得会输呢。」"
+      "Translation": "`$(5)@「我完全不觉得会输呢。」"
     },
     {
       "JP": "`$(1,0)@「朝飯前ね」",
       "EN": "`$(1,1)@ \"A walk in the park.\"",
-      "Translation": "`$(1,1)@「小菜一碟。」"
+      "Translation": "`$(5)@「小菜一碟。」"
     },
     {
       "JP": "`$(1,0)@「余裕、余裕」",
       "EN": "`$(1,1)@ \"Not a problem at all.\"",
-      "Translation": "`$(1,1)@「轻轻松松。」"
+      "Translation": "`$(5)@「轻轻松松。」"
     },
     {
       "JP": "`$(1,0)@「暇だったわ…」",
       "EN": "`$(1,1)@ \"That was boring...\"",
-      "Translation": "`$(1,1)@「真无聊啊…」"
+      "Translation": "`$(5)@「真无聊啊…」"
     },
     {
       "JP": "`$(1,0)@「理樹くんひとりでも勝てそうね」",
       "EN": "`$(1,1)@ \"Riki-kun, I think you can take care of them on your own.\"",
-      "Translation": "`$(1,1)@「理树君，一个人也能赢吧。」"
+      "Translation": "`$(5)@「理树君，一个人也能赢吧。」"
     },
     {
       "JP": "`$(1,0)@「ぜんっぜん本気になれないんだけど」",
       "EN": "`$(1,1)@ \"I don't even need to get half serious.\"",
-      "Translation": "`$(1,1)@「完全用不上全力呢。」"
+      "Translation": "`$(5)@「完全用不上全力呢。」"
     },
     {
       "JP": "`$(1,0)@「邪魔よ」",
       "EN": "`$(1,1)@ \"Get out of my way.\"",
-      "Translation": "`$(1,1)@「碍事。」"
+      "Translation": "`$(5)@「碍事。」"
     },
     {
       "JP": "`$(1,0)@「あたしを倒そうなんて…馬鹿じゃないの？」",
       "EN": "`$(1,1)@ \"Did you really think you'd beat me...? How dumb.\"",
-      "Translation": "`$(1,1)@「打算打倒我…你是笨蛋吧？」"
+      "Translation": "`$(5)@「打算打倒我…你是笨蛋吧？」"
     },
     {
       "JP": "`$(1,0)@「時間の無駄遣いね…」",
       "EN": "`$(1,1)@ \"What a waste of time...\"",
-      "Translation": "`$(1,1)@「浪费时间啊…」"
+      "Translation": "`$(5)@「浪费时间啊…」"
     },
     {
       "JP": "`$(1,0)@「ゴミクズね」",
       "EN": "`$(1,1)@ \"Garbage.\"",
-      "Translation": "`$(1,1)@「垃圾。」"
+      "Translation": "`$(5)@「垃圾。」"
     },
     {
       "JP": "`$(1,0)@「うざったい奴らね…」",
       "EN": "`$(1,1)@ \"You guys are annooying...\"",
-      "Translation": "`$(1,1)@「真是讨厌的家伙们…」"
+      "Translation": "`$(5)@「真是讨厌的家伙们…」"
     },
     {
       "JP": "`$(1,0)@「弾がもったいないわ」",
       "EN": "`$(1,1)@ \"I don't want to waste my bullets.\"",
-      "Translation": "`$(1,1)@「连子弹都不想浪费。」"
+      "Translation": "`$(5)@「连子弹都不想浪费。」"
     },
     {
       "JP": "`$(1,0)@「素手でも勝てそうね」",
       "EN": "`$(1,1)@ \"I think we can beat them with our bare hands.\"",
-      "Translation": "`$(1,1)@「徒手都能赢吧。」"
+      "Translation": "`$(5)@「徒手都能赢吧。」"
     },
     {
       "JP": "`$(1,0)@「あんたらどれだけ弱いのよ」",
       "EN": "`$(1,1)@ \"How weak are you guys?\"",
-      "Translation": "`$(1,1)@「你们到底有多弱啊。」"
+      "Translation": "`$(5)@「你们到底有多弱啊。」"
     },
     {
       "JP": "`$(1,0)@「ったく、時間の無駄よ…」",
       "EN": "`$(1,1)@ \"Jeez, this is a waste of time.\"",
-      "Translation": "`$(1,1)@「真是的，浪费时间。」"
+      "Translation": "`$(5)@「真是的，浪费时间。」"
     },
     {
       "JP": "`$(1,0)@「退屈だわ…」",
       "EN": "`$(1,1)@ \"I'm bored.\"",
-      "Translation": "`$(1,1)@「无聊…」"
+      "Translation": "`$(5)@「无聊…」"
     },
     {
       "JP": "`$(1,0)@「ぜんっぜん本気になれないんですけど」",
       "EN": "`$(1,1)@ \"I don't even need to get half serious.\"",
-      "Translation": "`$(1,1)@「完全用不上全力啊。」"
+      "Translation": "`$(5)@「完全用不上全力啊。」"
     },
     {
       "JP": "`$(1,0)@「ふわぁ…眠い…」",
       "EN": "`$(1,1)@ \"*Yawn*. I'm sleepy...\"",
-      "Translation": "`$(1,1)@「呼啊…好困…」"
+      "Translation": "`$(5)@「呼啊…好困…」"
     },
     {
       "JP": "`$(1,0)@「数学の問題を解くより易しいわね」",
       "EN": "`$(1,1)@ \"Math problems are harder than this.\"",
-      "Translation": "`$(1,1)@「比解数学题还简单呢。」"
+      "Translation": "`$(5)@「比解数学题还简单呢。」"
     },
     {
       "JP": "`$(1,0)@「あたしを倒そうなんて…あほね」",
       "EN": "`$(1,1)@ \"It's ridiculous for you to even try to beat me.\"",
-      "Translation": "`$(1,1)@「打算打倒我…真是笨蛋。」"
+      "Translation": "`$(5)@「打算打倒我…真是笨蛋。」"
     },
     {
       "JP": "`$(1,0)@「暇だからラーメン食ってきたわよ」",
       "EN": "`$(1,1)@ \"I ate ramen because I had nothing else to do.\"",
-      "Translation": "`$(1,1)@「无聊到去吃了碗拉面。」"
+      "Translation": "`$(5)@「无聊到去吃了碗拉面。」"
     },
     {
       "JP": "`$(1,0)@「退屈だったからカツサンド買いにいってたわ。理樹くん食べる？」",
       "EN": "`$(1,1)@ \"I went out to buy pork cutlet sandwiches because I was bored. Riki-kun, you want some?\"",
-      "Translation": "`$(1,1)@「无聊到去买了猪排三明治。理树君，要吃吗？」"
+      "Translation": "`$(5)@「无聊到去买了猪排三明治。理树君，要吃吗？」"
     },
     {
       "JP": "`$(1,0)@「退屈だったから５５１の肉まん買ってきたわ。理樹くん食べる？」",
       "EN": "`$(1,1)@ \"I went out to buy Go Go Ichi's steamed meat buns because I was bored. Riki-kun, you want some?\"",
-      "Translation": "`$(1,1)@「无聊到去买了‘551’的肉包。理树君，要吃吗？」"
+      "Translation": "`$(5)@「无聊到去买了‘551’的肉包。理树君，要吃吗？」"
     },
     {
       "JP": "`$(1,0)@「退屈だったからカレー作ってきたわ。理樹くん食べる？」",
       "EN": "`$(1,1)@ \"I cooked curry because I was bored. Riki-kun, you want some?\"",
-      "Translation": "`$(1,1)@「无聊到做了咖喱。理树君，要吃吗？」"
+      "Translation": "`$(5)@「无聊到做了咖喱。理树君，要吃吗？」"
     },
     {
       "JP": "`$(1,0)@「退屈だったから広島対横浜戦見てきたわ。地味な一戦だったわ」",
       "EN": "`$(1,1)@ \"Since I was bored, I went to see a baseball game between Hirosima and Yokohama. It was nothing special.\"",
-      "Translation": "`$(1,1)@「无聊到去看了广岛对横滨的比赛。真是一场无趣的比赛啊。」"
+      "Translation": "`$(5)@「无聊到去看了广岛对横滨的比赛。真是一场无趣的比赛啊。」"
     },
     {
       "JP": "`$(1,0)@「退屈だったから巨人阪神伝統の一戦を見てきたわ。見応えのある一戦だったわ」",
       "EN": "`$(1,1)@ \"Since I was bored, I went to see a baseball game between the Giants and the Tigers. That really was something else.\"",
-      "Translation": "`$(1,1)@「无聊到看了巨人对阪神的传统对决。真是一场精彩的比赛啊。」"
+      "Translation": "`$(5)@「无聊到看了巨人对阪神的传统对决。真是一场精彩的比赛啊。」"
     },
     {
       "JP": "`$(1,0)@「暇だからデパ地下で試食しまくってきたわ」",
       "EN": "`$(1,1)@ \"I was so bored, I went to try food samples in the basement of a department store.\"",
-      "Translation": "`$(1,1)@「无聊到去百货地下试吃了个遍。」"
+      "Translation": "`$(5)@「无聊到去百货地下试吃了个遍。」"
     },
     {
       "JP": "`$(1,0)@「その制服、たくさん持ってるのね」",
       "EN": "`$(1,1)@ \"Looks like they have a lot of uniforms.\"",
-      "Translation": "`$(1,1)@「那套制服，真是多得不得了啊。」"
+      "Translation": "`$(5)@「那套制服，真是多得不得了啊。」"
     },
     {
       "JP": "`$(1,0)@「あたし途中から寝てたわ」",
       "EN": "`$(1,1)@ \"I fell asleep in the middle.\"",
-      "Translation": "`$(1,1)@「我中途睡着了。」"
+      "Translation": "`$(5)@「我中途睡着了。」"
     },
     {
       "JP": "`$(1,0)@「あたし途中から読書してたわ」",
       "EN": "`$(1,1)@ \"I started reading halfway through the fight.\"",
-      "Translation": "`$(1,1)@「我中途开始看书了。」"
+      "Translation": "`$(5)@「我中途开始看书了。」"
     },
     {
       "JP": "`$(1,0)@「あたし途中からアイス食べてたわ」",
       "EN": "`$(1,1)@ \"I started eating ice cream halfway through the fight.\"",
-      "Translation": "`$(1,1)@「我中途开始吃冰淇淋了。」"
+      "Translation": "`$(5)@「我中途开始吃冰淇淋了。」"
     },
     {
       "JP": "`$(1,0)@「あたし途中でシャワー浴びてきたわよ」",
       "EN": "`$(1,1)@ \"I went to take a shower halfway through the fight.\"",
-      "Translation": "`$(1,1)@「我中途去洗了个澡。」"
+      "Translation": "`$(5)@「我中途去洗了个澡。」"
     },
     {
       "JP": "`$(1,0)@「あたし途中から小説を執筆してたわ」",
       "EN": "`$(1,1)@ \"I started writing a novel halfway through the fight.\"",
-      "Translation": "`$(1,1)@「我中途开始写小说了。」"
+      "Translation": "`$(5)@「我中途开始写小说了。」"
     },
     {
       "JP": "`$(1,0)@「あたし途中から目つぶってたわ」",
       "EN": "`$(1,1)@ \"I closed my eyes halfway through the fight.\"",
-      "Translation": "`$(1,1)@「我中途闭上了眼睛。」"
+      "Translation": "`$(5)@「我中途闭上了眼睛。」"
     },
     {
       "JP": "`$(1,0)@「あなたたち、そんなのでいいの？」",
       "EN": "`$(1,1)@ \"Are you guys sure you're okay with the way things are?\"",
-      "Translation": "`$(1,1)@「你们这样真的好吗？」"
+      "Translation": "`$(5)@「你们这样真的好吗？」"
     },
     {
       "JP": "`$(1,0)@「あなたたち、夢とかないの？」",
       "EN": "`$(1,1)@ \"Don't you guys have dreams and aspirations?\"",
-      "Translation": "`$(1,1)@「你们就没有梦想吗？」"
+      "Translation": "`$(5)@「你们就没有梦想吗？」"
     },
     {
       "JP": "`$(1,0)@「影ってそんなに楽しいの？」",
       "EN": "`$(1,1)@ \"Is being a shadow that much fun?\"",
-      "Translation": "`$(1,1)@「当影子真的那么有趣吗？」"
+      "Translation": "`$(5)@「当影子真的那么有趣吗？」"
     },
     {
       "JP": "`$(1,0)@「他に趣味とかないの？」",
       "EN": "`$(1,1)@ \"Don't you guys have any other hobbies?\"",
-      "Translation": "`$(1,1)@「就没有别的兴趣爱好吗？」"
+      "Translation": "`$(5)@「就没有别的兴趣爱好吗？」"
     },
     {
       "JP": "`$(1,0)@「本体は何してるの？」",
       "EN": "`$(1,1)@ \"What's the source of those shadows doing?\"",
-      "Translation": "`$(1,1)@「本体在干什么呢？」"
+      "Translation": "`$(5)@「本体在干什么呢？」"
     },
     {
       "JP": "`$(1,0)@「あほばっかだわ」",
       "EN": "`$(1,1)@ \"A bunch of bubbleheads.\"",
-      "Translation": "`$(1,1)@「真是满脑子蠢货啊。」"
+      "Translation": "`$(5)@「真是满脑子蠢货啊。」"
     },
     {
       "JP": "`$(1,0)@「あー、なんかむしゃくしゃするわねっ」",
       "EN": "`$(1,1)@ \"Jeez, I'm feeling frustrated for some reason.\"",
-      "Translation": "`$(1,1)@「啊——真是让人火大啊！」"
+      "Translation": "`$(5)@「啊——真是让人火大啊！」"
     },
     {
       "JP": "`$(1,0)@「水道管ゲームでもしてたほうが有意義ね」",
       "EN": "`$(1,1)@ \"Playing Waterworks would be much more meaningful.\"",
-      "Translation": "`$(1,1)@「玩水管游戏都比这个有意义。」"
+      "Translation": "`$(5)@「玩水管游戏都比这个有意义。」"
     },
     {
       "JP": "`$(1,0)@「あーっはっはっはっ！」",
       "EN": "`$(1,1)@ \"Ahahaha!\"",
-      "Translation": "`$(1,1)@「啊哈哈哈哈！」"
+      "Translation": "`$(5)@「啊哈哈哈哈！」"
     },
     {
       "JP": "`$(1,0)@「うんこね」",
       "EN": "`$(1,1)@ \"What crap.\"",
-      "Translation": "`$(1,1)@「真是屎啊。」"
+      "Translation": "`$(5)@「真是屎啊。」"
     },
     {
       "JP": "`$(1,0)@「カスね」",
       "EN": "`$(1,1)@ \"What trash.\"",
-      "Translation": "`$(1,1)@「真是废物啊。」"
+      "Translation": "`$(5)@「真是废物啊。」"
     },
     {
       "JP": "`$(1,0)@「相撲でも勝てそうね」",
       "EN": "`$(1,1)@ \"I think we'd still be able to beat them in Sumo.\"",
-      "Translation": "`$(1,1)@「就算是相扑也能赢吧。」"
+      "Translation": "`$(5)@「就算是相扑也能赢吧。」"
     },
     {
       "JP": "`$(1,0)@「書記とかも居るの？」",
       "EN": "`$(1,1)@ \"Are there any secretaries among you guys?\"",
-      "Translation": "`$(1,1)@「你们当中还有书记之类的吗？」"
+      "Translation": "`$(5)@「你们当中还有书记之类的吗？」"
     },
     {
       "JP": "`$(1,0)@「ちゃんと授業出てるの？」",
       "EN": "`$(1,1)@ \"Do you guys go to class as you should be?\"",
-      "Translation": "`$(1,1)@「你们有好好上课吗？」"
+      "Translation": "`$(5)@「你们有好好上课吗？」"
     },
     {
       "JP": "`$(1,0)@「あなたたち顔色悪いわよ」",
       "EN": "`$(1,1)@ \"You all look pale.\"",
-      "Translation": "`$(1,1)@「你们脸色都不好哦。」"
+      "Translation": "`$(5)@「你们脸色都不好哦。」"
     },
     {
       "JP": "`$(1,0)@「手間取らせやがって…」",
       "EN": "`$(1,1)@ \"Damn, they're such a bother.\"",
-      "Translation": "`$(1,1)@「真是麻烦死了…」"
+      "Translation": "`$(5)@「真是麻烦死了…」"
     },
     {
       "JP": "`$(1,0)@「どれだけ居るのよ…」",
       "EN": "`$(1,1)@ \"Just how many of them are there...\"",
-      "Translation": "`$(1,1)@「到底有多少人啊…」"
+      "Translation": "`$(5)@「到底有多少人啊…」"
     },
     {
       "JP": "`$(1,0)@「ふぅ…」",
       "EN": "`$(1,1)@ \"*Sigh*.\"",
-      "Translation": "`$(1,1)@「呼…」"
+      "Translation": "`$(5)@「呼…」"
     },
     {
       "JP": "`$(1,0)@「どこまで続くの…」",
       "EN": "`$(1,1)@ \"How far will this go...\"",
-      "Translation": "`$(1,1)@「到底要持续到什么时候啊…」"
+      "Translation": "`$(5)@「到底要持续到什么时候啊…」"
     },
     {
       "JP": "`$(1,0)@「大丈夫？」",
       "EN": "`$(1,1)@ \"You okay?\"",
-      "Translation": "`$(1,1)@「没事吧？」"
+      "Translation": "`$(5)@「没事吧？」"
     },
     {
       "JP": "`$(1,0)@「あちゃー」",
       "EN": "`$(1,1)@ \"Oh my God.\"",
-      "Translation": "`$(1,1)@「哎呀——」"
+      "Translation": "`$(5)@「哎呀——」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、無事？」",
       "EN": "`$(1,1)@ \"Riki-kun, are you all right?\"",
-      "Translation": "`$(1,1)@「理树君，没事吧？」"
+      "Translation": "`$(5)@「理树君，没事吧？」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、大丈夫？」",
       "EN": "`$(1,1)@ \"Riki-kun, are you okay?\"",
-      "Translation": "`$(1,1)@「理树君，没问题吧？」"
+      "Translation": "`$(5)@「理树君，没问题吧？」"
     },
     {
       "JP": "`$(1,0)@「生きてる？」",
       "EN": "`$(1,1)@ \"Still alive?\"",
-      "Translation": "`$(1,1)@「还活着吗？」"
+      "Translation": "`$(5)@「还活着吗？」"
     },
     {
       "JP": "`$(1,0)@「あらー…」",
       "EN": "`$(1,1)@ \"Ouch.\"",
-      "Translation": "`$(1,1)@「哎呀——…」"
+      "Translation": "`$(5)@「哎呀——…」"
     },
     {
       "JP": "`$(1,0)@「うーん、途中までいい感じだったのにな…」",
       "EN": "`$(1,1)@ \"Hmm, you were doing great until halfway through.\"",
-      "Translation": "`$(1,1)@「嗯——明明到中途都很顺利的说…」"
+      "Translation": "`$(5)@「嗯——明明到中途都很顺利的说…」"
     },
     {
       "JP": "`$(1,0)@「やばかった？」",
       "EN": "`$(1,1)@ \"Did you almost screw up?\"",
-      "Translation": "`$(1,1)@「是不是刚刚很危险？」"
+      "Translation": "`$(5)@「是不是刚刚很危险？」"
     },
     {
       "JP": "`$(1,0)@「あーあ…もう…」",
       "EN": "`$(1,1)@ \"Give me a break.\"",
-      "Translation": "`$(1,1)@「啊——真是的…」"
+      "Translation": "`$(5)@「啊——真是的…」"
     },
     {
       "JP": "`$(1,0)@「くっそぅ！」",
       "EN": "`$(1,1)@ \"Shit!\"",
-      "Translation": "`$(1,1)@「可恶！」"
+      "Translation": "`$(5)@「可恶！」"
     },
     {
       "JP": "`$(1,0)@「はぁ…はぁ…」",
       "EN": "`$(1,1)@ \"*Pant pant pant*\"",
-      "Translation": "`$(1,1)@「哈…哈…」"
+      "Translation": "`$(5)@「哈…哈…」"
     },
     {
       "JP": "`$(1,0)@「理樹くん!?」",
       "EN": "`$(1,1)@ \"Riki-kun!?\"",
-      "Translation": "`$(1,1)@「理树君！？」"
+      "Translation": "`$(5)@「理树君！？」"
     },
     {
       "JP": "`$(1,0)@「うあ、理樹くん!?」",
       "EN": "`$(1,1)@ \"Riki-kun!?\"",
-      "Translation": "`$(1,1)@「呜啊，理树君！？」"
+      "Translation": "`$(5)@「呜啊，理树君！？」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、しっかり！」",
       "EN": "`$(1,1)@ \"Riki-kun!?\"",
-      "Translation": "`$(1,1)@「理树君，振作点！」"
+      "Translation": "`$(5)@「理树君，振作点！」"
     },
     {
       "JP": "`$(1,0)@「なんなの、あなたたち…」",
       "EN": "`$(1,1)@ \"What's wrong with you guys...?\"",
-      "Translation": "`$(1,1)@「你们到底怎么回事啊…」"
+      "Translation": "`$(5)@「你们到底怎么回事啊…」"
     },
     {
       "JP": "`$(1,0)@「不気味よ…」",
       "EN": "`$(1,1)@ \"You're just creepy...\"",
-      "Translation": "`$(1,1)@「真是让人毛骨悚然…」"
+      "Translation": "`$(5)@「真是让人毛骨悚然…」"
     },
     {
       "JP": "`$(1,0)@「とっとと消えちゃいなさいよ！」",
       "EN": "`$(1,1)@ \"Just go away already!\"",
-      "Translation": "`$(1,1)@「赶紧消失啦！」"
+      "Translation": "`$(5)@「赶紧消失啦！」"
     },
     {
       "JP": "`$(1,0)@「消し去ってやる！」",
       "EN": "`$(1,1)@ \"I'm going to make you go away!\"",
-      "Translation": "`$(1,1)@「我让你们彻底消失！」"
+      "Translation": "`$(5)@「我让你们彻底消失！」"
     },
     {
       "JP": "`$(1,0)@「おまえら、みんな消えろ！」",
       "EN": "`$(1,1)@ \"Be gone, all of you!\"",
-      "Translation": "`$(1,1)@「你们这些家伙，统统给我消失！」"
+      "Translation": "`$(5)@「你们这些家伙，统统给我消失！」"
     },
     {
       "JP": "`$(1,0)@「また現れたか…」",
       "EN": "`$(1,1)@ \"There you go again...\"",
-      "Translation": "`$(1,1)@「又出现了啊…」"
+      "Translation": "`$(5)@「又出现了啊…」"
     },
     {
       "JP": "`$(1,0)@「居やがったか…」",
       "EN": "`$(1,1)@ \"Darn, not you guys again...\"",
-      "Translation": "`$(1,1)@「居然还在这儿…」"
+      "Translation": "`$(5)@「居然还在这儿…」"
     },
     {
       "JP": "`$(1,0)@「少しは自重しなさいよね…」",
       "EN": "`$(1,1)@ \"Stop bothering us for a bit, would you?\"",
-      "Translation": "`$(1,1)@「稍微克制一下吧…」"
+      "Translation": "`$(5)@「稍微克制一下吧…」"
     },
     {
       "JP": "`$(1,0)@「本気にさせたわね…」",
       "EN": "`$(1,1)@ \"You guys just made me serious...\"",
-      "Translation": "`$(1,1)@「你们逼得我认真了…」"
+      "Translation": "`$(5)@「你们逼得我认真了…」"
     },
     {
       "JP": "`$(1,0)@「消えなさい」",
       "EN": "`$(1,1)@ \"Disappear.\"",
-      "Translation": "`$(1,1)@「消失吧。」"
+      "Translation": "`$(5)@「消失吧。」"
     },
     {
       "JP": "`$(1,0)@「みんな死ねばいいのよっ」",
       "EN": "`$(1,1)@ \"You can all die!\"",
-      "Translation": "`$(1,1)@「你们全都去死吧！」"
+      "Translation": "`$(5)@「你们全都去死吧！」"
     },
     {
       "JP": "`$(1,0)@「くそぉ…」",
       "EN": "`$(1,1)@ \"Crap...\"",
-      "Translation": "`$(1,1)@「真是该死…」"
+      "Translation": "`$(5)@「真是该死…」"
     },
     {
       "JP": "`$(1,0)@「なんて奴らだ…」",
       "EN": "`$(1,1)@ \"I hate you guys.\"",
-      "Translation": "`$(1,1)@「什么怪家伙…」"
+      "Translation": "`$(5)@「什么怪家伙…」"
     },
     {
       "JP": "`$(1,0)@「あいつめ…」",
       "EN": "`$(1,1)@ \"Damn him...\"",
-      "Translation": "`$(1,1)@「那家伙…」"
+      "Translation": "`$(5)@「那家伙…」"
     },
     {
       "JP": "`$(1,0)@「時風を出せえぇ！」",
       "EN": "`$(1,1)@ \"Get Tokikaze here!\"",
-      "Translation": "`$(1,1)@「把时风叫过来啊！」"
+      "Translation": "`$(5)@「把时风叫过来啊！」"
     },
     {
       "JP": "`$(1,0)@「邪魔すんな！」",
       "EN": "`$(1,1)@ \"Get the hell out of our way!\"",
-      "Translation": "`$(1,1)@「滚开！」"
+      "Translation": "`$(5)@「滚开！」"
     },
     {
       "JP": "`$(1,0)@「邪魔よ…」",
       "EN": "`$(1,1)@ \"Out of our way...\"",
-      "Translation": "`$(1,1)@「碍事…」"
+      "Translation": "`$(5)@「碍事…」"
     },
     {
       "JP": "`$(1,0)@「このウジ虫が…」",
       "EN": "`$(1,1)@ \"You maggots...\"",
-      "Translation": "`$(1,1)@「你们这些虫子…」"
+      "Translation": "`$(5)@「你们这些虫子…」"
     },
     {
       "JP": "`$(1,0)@「死ねっ」",
       "EN": "`$(1,1)@ \"Drop dead!\"",
-      "Translation": "`$(1,1)@「去死吧！」"
+      "Translation": "`$(5)@「去死吧！」"
     },
     {
       "JP": "`$(1,0)@「消えろ！」",
       "EN": "`$(1,1)@ \"Beat it!\"",
-      "Translation": "`$(1,1)@「消失！」"
+      "Translation": "`$(5)@「消失！」"
     },
     {
       "JP": "`$(1,0)@「失せろ！」",
       "EN": "`$(1,1)@ \"Get lost!\"",
-      "Translation": "`$(1,1)@「滚远点！」"
+      "Translation": "`$(5)@「滚远点！」"
     },
     {
       "JP": "`$(1,0)@「ヒット！」",
       "EN": "`$(1,1)@ \"Hit!\"",
-      "Translation": "`$(1,1)@「击中！」"
+      "Translation": "`$(5)@「击中！」"
     },
     {
       "JP": "`$(1,0)@「クール！」",
       "EN": "`$(1,1)@ \"Cool!\"",
-      "Translation": "`$(1,1)@「酷啊！」"
+      "Translation": "`$(5)@「酷啊！」"
     },
     {
       "JP": "`$(1,0)@「邪魔っ」",
       "EN": "`$(1,1)@ \"Outta our way!\"",
-      "Translation": "`$(1,1)@「让开！」"
+      "Translation": "`$(5)@「让开！」"
     },
     {
       "JP": "`$(1,0)@「どう!?」",
       "EN": "`$(1,1)@ \"How was it!?\"",
-      "Translation": "`$(1,1)@「怎么样!?」"
+      "Translation": "`$(5)@「怎么样!?」"
     },
     {
       "JP": "`$(1,0)@「よし！」",
       "EN": "`$(1,1)@ \"Yeah!\"",
-      "Translation": "`$(1,1)@「好！」"
+      "Translation": "`$(5)@「好！」"
     },
     {
       "JP": "`$(1,0)@「へえ」",
       "EN": "`$(1,1)@ \"Oh.\"",
-      "Translation": "`$(1,1)@「哦。」"
+      "Translation": "`$(5)@「哦。」"
     },
     {
       "JP": "`$(1,0)@「ふうん」",
       "EN": "`$(1,1)@ \"I see.\"",
-      "Translation": "`$(1,1)@「是吗。」"
+      "Translation": "`$(5)@「是吗。」"
     },
     {
       "JP": "`$(1,0)@「うっ」",
       "EN": "`$(1,1)@ \"Ugh...\"",
-      "Translation": "`$(1,1)@「呃…」"
+      "Translation": "`$(5)@「呃…」"
     },
     {
       "JP": "`$(1,0)@「ちっ…」",
       "EN": "`$(1,1)@ \"Tsk...\"",
-      "Translation": "`$(1,1)@「啧…」"
+      "Translation": "`$(5)@「啧…」"
     },
     {
       "JP": "`$(1,0)@「なによっ…」",
       "EN": "`$(1,1)@ \"Geez...\"",
-      "Translation": "`$(1,1)@「什么嘛…」"
+      "Translation": "`$(5)@「什么嘛…」"
     },
     {
       "JP": "`$(1,0)@「わっ…」",
       "EN": "`$(1,1)@ \"Whoa...\"",
-      "Translation": "`$(1,1)@「哇…」"
+      "Translation": "`$(5)@「哇…」"
     },
     {
       "JP": "`$(1,0)@「おわっ」",
       "EN": "`$(1,1)@ \"Oh!\"",
-      "Translation": "`$(1,1)@「哎呀！」"
+      "Translation": "`$(5)@「哎呀！」"
     },
     {
       "JP": "`$(1,0)@「えっ…」",
       "EN": "`$(1,1)@ \"Eh...\"",
-      "Translation": "`$(1,1)@「诶…」"
+      "Translation": "`$(5)@「诶…」"
     },
     {
       "JP": "`$(1,0)@「そんなっ」",
       "EN": "`$(1,1)@ \"No way!\"",
-      "Translation": "`$(1,1)@「怎么会…」"
+      "Translation": "`$(5)@「怎么会…」"
     },
     {
       "JP": "`$(1,0)@「くそっ」",
       "EN": "`$(1,1)@ \"Crap!\"",
-      "Translation": "`$(1,1)@「可恶！」"
+      "Translation": "`$(5)@「可恶！」"
     },
     {
       "JP": "`$(1,0)@「シット！」",
       "EN": "`$(1,1)@ \"Shit!\"",
-      "Translation": "`$(1,1)@「该死！」"
+      "Translation": "`$(5)@「该死！」"
     },
     {
       "JP": "`$(1,0)@「ワオ！」",
       "EN": "`$(1,1)@ \"Wow!\"",
-      "Translation": "`$(1,1)@「哇哦！」"
+      "Translation": "`$(5)@「哇哦！」"
     },
     {
       "JP": "`$(1,0)@「はっ、どんなものよ」",
       "EN": "`$(1,1)@ \"Ha, you guys deserve that.\"",
-      "Translation": "`$(1,1)@「哈，看你们的下场。」"
+      "Translation": "`$(5)@「哈，看你们的下场。」"
     },
     {
       "JP": "`$(1,0)@「ざっとこんなものよ」",
       "EN": "`$(1,1)@ \"This is how good I am.\"",
-      "Translation": "`$(1,1)@「就这点水平。」"
+      "Translation": "`$(5)@「就这点水平。」"
     },
     {
       "JP": "`$(1,0)@「余裕すぎるわ」",
       "EN": "`$(1,1)@ \"Way too easy.\"",
-      "Translation": "`$(1,1)@「太轻松了。」"
+      "Translation": "`$(5)@「太轻松了。」"
     },
     {
       "JP": "`$(1,0)@「待ってなさいよ…」",
       "EN": "`$(1,1)@ \"I'm coming for you...\"",
-      "Translation": "`$(1,1)@「等着瞧吧…」"
+      "Translation": "`$(5)@「等着瞧吧…」"
     },
     {
       "JP": "`$(1,0)@「くそったれがっ」",
       "EN": "`$(1,1)@ \"You sons of bitches!\"",
-      "Translation": "`$(1,1)@「该死的混蛋！」"
+      "Translation": "`$(5)@「该死的混蛋！」"
     },
     {
       "JP": "`$(1,0)@「やられるかっての」",
       "EN": "`$(1,1)@ \"I can't take this anymore.\"",
-      "Translation": "`$(1,1)@「才不会输给你们呢。」"
+      "Translation": "`$(5)@「才不会输给你们呢。」"
     },
     {
       "JP": "`$(1,0)@「負けてやるものかっ」",
       "EN": "`$(1,1)@ \"I'm not going down!\"",
-      "Translation": "`$(1,1)@「绝对不认输！」"
+      "Translation": "`$(5)@「绝对不认输！」"
     },
     {
       "JP": "`$(1,0)@「はんっ、馬鹿にしないでもらいたいわね」",
       "EN": "`$(1,1)@ \"Ha, I'm much better than you think I am.\"",
-      "Translation": "`$(1,1)@「哼，别小看我了。」"
+      "Translation": "`$(5)@「哼，别小看我了。」"
     },
     {
       "JP": "`$(1,0)@「見たことか」",
       "EN": "`$(1,1)@ \"That serves you right.\"",
-      "Translation": "`$(1,1)@「看到了吧。」"
+      "Translation": "`$(5)@「看到了吧。」"
     },
     {
       "JP": "`$(1,0)@「こんなんじゃまだまだよ」",
       "EN": "`$(1,1)@ \"I haven't had enough yet.\"",
-      "Translation": "`$(1,1)@「我还没尽兴呢！」"
+      "Translation": "`$(5)@「我还没尽兴呢！」"
     },
     {
       "JP": "`$(1,0)@「あっはは、負けてやーんのっ」",
       "EN": "`$(1,1)@ \"Ahaha, losers!\"",
-      "Translation": "`$(1,1)@「哈哈哈，输得真惨！」"
+      "Translation": "`$(5)@「哈哈哈，输得真惨！」"
     },
     {
       "JP": "`$(1,0)@「これで本気？」",
       "EN": "`$(1,1)@ \"Is that all you got?\"",
-      "Translation": "`$(1,1)@「就这点实力？」"
+      "Translation": "`$(5)@「就这点实力？」"
     },
     {
       "JP": "`$(1,0)@「まだまだぁっ！」",
       "EN": "`$(1,1)@ \"I'm far from satisfied!\"",
-      "Translation": "`$(1,1)@「还差得远呢！」"
+      "Translation": "`$(5)@「还差得远呢！」"
     },
     {
       "JP": "`$(1,0)@「どけよ、てめぇーらっ！」",
       "EN": "`$(1,1)@ \"Get the hell outta our way, you bastards!\"",
-      "Translation": "`$(1,1)@「滚开，你们这些混蛋！」"
+      "Translation": "`$(5)@「滚开，你们这些混蛋！」"
     },
     {
       "JP": "`$(1,0)@「邪魔だ、こらぁっ！」",
       "EN": "`$(1,1)@ \"Outta our way, damn it!\"",
-      "Translation": "`$(1,1)@「碍事啊，混蛋！」"
+      "Translation": "`$(5)@「碍事啊，混蛋！」"
     },
     {
       "JP": "`$(1,0)@「とっととうせろっ」",
       "EN": "`$(1,1)@ \"Go get lost already!\"",
-      "Translation": "`$(1,1)@「赶紧滚开吧！」"
+      "Translation": "`$(5)@「赶紧滚开吧！」"
     },
     {
       "JP": "`$(1,0)@「こっちだって本気よ！」",
       "EN": "`$(1,1)@ \"I'm giving it my all too!\"",
-      "Translation": "`$(1,1)@「我也要全力以赴了！」"
+      "Translation": "`$(5)@「我也要全力以赴了！」"
     },
     {
       "JP": "`$(1,0)@「死ね死ねばーか！」",
       "EN": "`$(1,1)@ \"Die, morons, die!\"",
-      "Translation": "`$(1,1)@「去死去死去死吧！」"
+      "Translation": "`$(5)@「去死去死去死吧！」"
     },
     {
       "JP": "`$(1,0)@「こんなとこで立ち止まってなんかいられないのよ」",
       "EN": "`$(1,1)@ \"We've got no time to stop here.\"",
-      "Translation": "`$(1,1)@「不能在这里停下！」"
+      "Translation": "`$(5)@「不能在这里停下！」"
     },
     {
       "JP": "`$(1,0)@「ザコごときにやられるかってのっ」",
       "EN": "`$(1,1)@ \"There's no way you maggots can beat us!\"",
-      "Translation": "`$(1,1)@「这点小虫子也想赢我们！」"
+      "Translation": "`$(5)@「这点小虫子也想赢我们！」"
     },
     {
       "JP": "`$(1,0)@「死ね死ね死ねえぇ！」",
       "EN": "`$(1,1)@ \"Die, die, diiiie!\"",
-      "Translation": "`$(1,1)@「死死死吧！」"
+      "Translation": "`$(5)@「死死死吧！」"
     },
     {
       "JP": "`$(1,0)@「はぁっ…ぎりぎりかっ」",
       "EN": "`$(1,1)@ \"Phew... That was a close one.\"",
-      "Translation": "`$(1,1)@「哈…好险啊！」"
+      "Translation": "`$(5)@「哈…好险啊！」"
     },
     {
       "JP": "`$(1,0)@「うわ、つぇーな…」",
       "EN": "`$(1,1)@ \"Shoot, they were hella good.\"",
-      "Translation": "`$(1,1)@「哇，好强…」"
+      "Translation": "`$(5)@「哇，好强…」"
     },
     {
       "JP": "`$(1,0)@「はぁっ…はぁっ…」",
       "EN": "`$(1,1)@ \"*Pant...*pant*...\"",
-      "Translation": "`$(1,1)@「哈…哈…」"
+      "Translation": "`$(5)@「哈…哈…」"
     },
     {
       "JP": "`$(1,0)@「なんとか勝てた…」",
       "EN": "`$(1,1)@ \"We barely managed to win...\"",
-      "Translation": "`$(1,1)@「总算赢了…」"
+      "Translation": "`$(5)@「总算赢了…」"
     },
     {
       "JP": "`$(1,0)@「あ…れ…」",
       "EN": "`$(1,1)@ \"Oh... no...\"",
-      "Translation": "`$(1,1)@「啊…这…」"
+      "Translation": "`$(5)@「啊…这…」"
     },
     {
       "JP": "`$(1,0)@「あ…りゃ…」",
       "EN": "`$(1,1)@ \"No... way...\"",
-      "Translation": "`$(1,1)@「啊…糟了…」"
+      "Translation": "`$(5)@「啊…糟了…」"
     },
     {
       "JP": "`$(1,0)@「ありゃりゃ…」",
       "EN": "`$(1,1)@ \"I don't believe this...\"",
-      "Translation": "`$(1,1)@「糟糕了…」"
+      "Translation": "`$(5)@「糟糕了…」"
     },
     {
       "JP": "`$(1,0)@「うあぁ…」",
       "EN": "`$(1,1)@ \"No...\"",
-      "Translation": "`$(1,1)@「不…」"
+      "Translation": "`$(5)@「不…」"
     },
     {
       "JP": "`$(1,0)@「なんてこと…」",
       "EN": "`$(1,1)@ \"Oh my God...\"",
-      "Translation": "`$(1,1)@「怎么会这样…」"
+      "Translation": "`$(5)@「怎么会这样…」"
     },
     {
       "JP": "`$(1,0)@「まさか…」",
       "EN": "`$(1,1)@ \"This can't be happening...\"",
-      "Translation": "`$(1,1)@「不会吧…」"
+      "Translation": "`$(5)@「不会吧…」"
     },
     {
       "JP": "`$(1,0)@「不覚…」",
       "EN": "`$(1,1)@ \"Could've done better...\"",
-      "Translation": "`$(1,1)@「可惜…」"
+      "Translation": "`$(5)@「可惜…」"
     },
     {
       "JP": "`$(1,0)@「しまったぁ…」",
       "EN": "`$(1,1)@ \"They got us...\"",
-      "Translation": "`$(1,1)@「糟了啊…」"
+      "Translation": "`$(5)@「糟了啊…」"
     },
     {
       "JP": "`$(1,0)@「やられちゃったの…？」",
       "EN": "`$(1,1)@ \"Did we lose...?\"",
-      "Translation": "`$(1,1)@「我们输了吗…？」"
+      "Translation": "`$(5)@「我们输了吗…？」"
     },
     {
       "JP": "`$(1,0)@「そんな馬鹿な…」",
       "EN": "`$(1,1)@ \"This can't be true...\"",
-      "Translation": "`$(1,1)@「怎么可能…」"
+      "Translation": "`$(5)@「怎么可能…」"
     },
     {
       "JP": "`$(1,0)@「ぐふっ…」",
       "EN": "`$(1,1)@ \"Gufu...\"",
-      "Translation": "`$(1,1)@「咕呃…」"
+      "Translation": "`$(5)@「咕呃…」"
     },
     {
       "JP": "`$(1,0)@「おえっ…」",
       "EN": "`$(1,1)@ \"Oeh...\"",
-      "Translation": "`$(1,1)@「呕…」"
+      "Translation": "`$(5)@「呕…」"
     },
     {
       "JP": "`$(1,0)@「ぐあ…」",
       "EN": "`$(1,1)@ \"Guah...\"",
-      "Translation": "`$(1,1)@「呜啊…」"
+      "Translation": "`$(5)@「呜啊…」"
     },
     {
       "JP": "`$(1,0)@「うあ…」",
       "EN": "`$(1,1)@ \"Uwah...\"",
-      "Translation": "`$(1,1)@「呜啊啊…」"
+      "Translation": "`$(5)@「呜啊啊…」"
     },
     {
       "JP": "`$(1,0)@「時風ぇぇ…」",
       "EN": "`$(1,1)@ \"Tokikazeee...\"",
-      "Translation": "`$(1,1)@「时风啊啊…」"
+      "Translation": "`$(5)@「时风啊啊…」"
     },
     {
       "JP": "`$(1,0)@「うわ…やったあああぁぁーーーーっ!!」",
       "EN": "`$(1,1)@ \"Yes... We did iiiiit!!\"",
-      "Translation": "`$(1,1)@「哇…太棒了——！！」"
+      "Translation": "`$(5)@「哇…太棒了——！！」"
     },
     {
       "JP": "`$(1,0)@「とんで火にいる夏のむし～♪」",
       "EN": "`$(1,1)@ \"Fools rush in where angels fear to tread♪\"",
-      "Translation": "`$(1,1)@「飞蛾扑火～♪」"
+      "Translation": "`$(5)@「飞蛾扑火～♪」"
     },
     {
       "JP": "`$(1,0)@「はい、いくわよ～」",
       "EN": "`$(1,1)@ \"Okay, here we go.\"",
-      "Translation": "`$(1,1)@「好，走吧～」"
+      "Translation": "`$(5)@「好，走吧～」"
     },
     {
       "JP": "`$(1,0)@「問答無用！」",
       "EN": "`$(1,1)@ \"No argument allowed!\"",
-      "Translation": "`$(1,1)@「没得商量！」"
+      "Translation": "`$(5)@「没得商量！」"
     },
     {
       "JP": "`$(1,0)@「邪魔だからどいてね」",
       "EN": "`$(1,1)@ \"Move aside, would you?\"",
-      "Translation": "`$(1,1)@「碍事，麻烦让开哦。」"
+      "Translation": "`$(5)@「碍事，麻烦让开哦。」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、いくわよ」",
       "EN": "`$(1,1)@ \"Riki-kun, let's roll.\"",
-      "Translation": "`$(1,1)@「理树君，上吧！」"
+      "Translation": "`$(5)@「理树君，上吧！」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、やっちゃいなさい」",
       "EN": "`$(1,1)@ \"Riki-kun, get them all.\"",
-      "Translation": "`$(1,1)@「理树君，干掉他们！」"
+      "Translation": "`$(5)@「理树君，干掉他们！」"
     },
     {
       "JP": "`$(1,0)@「はい、おっかたっづけ～」",
       "EN": "`$(1,1)@ \"All right, time to clean up the mess.\"",
-      "Translation": "`$(1,1)@「好了，收拾残局吧～」"
+      "Translation": "`$(5)@「好了，收拾残局吧～」"
     },
     {
       "JP": "`$(1,0)@「瞬殺ね」",
       "EN": "`$(1,1)@ \"Quick kills.\"",
-      "Translation": "`$(1,1)@「瞬杀。」"
+      "Translation": "`$(5)@「瞬杀。」"
     },
     {
       "JP": "`$(1,0)@「秒殺ね」",
       "EN": "`$(1,1)@ \"Instant kills.\"",
-      "Translation": "`$(1,1)@「秒杀。」"
+      "Translation": "`$(5)@「秒杀。」"
     },
     {
       "JP": "`$(1,0)@「草木も生えそうにないわね」",
       "EN": "`$(1,1)@ \"This place is now like a desert.\"",
-      "Translation": "`$(1,1)@「寸草不生啊。」"
+      "Translation": "`$(5)@「寸草不生啊。」"
     },
     {
       "JP": "`$(1,0)@「イチコロね」",
       "EN": "`$(1,1)@ \"Piece of cake.\"",
-      "Translation": "`$(1,1)@「轻轻松松。」"
+      "Translation": "`$(5)@「轻轻松松。」"
     },
     {
       "JP": "`$(1,0)@「いい戦いだったわ～」",
       "EN": "`$(1,1)@ \"That was a good battle.\"",
-      "Translation": "`$(1,1)@「真是场不错的战斗～」"
+      "Translation": "`$(5)@「真是场不错的战斗～」"
     },
     {
       "JP": "`$(1,0)@「素晴らしいわよ、理樹くん」",
       "EN": "`$(1,1)@ \"Wonderful, Riki-kun.\"",
-      "Translation": "`$(1,1)@「太棒了，理树君。」"
+      "Translation": "`$(5)@「太棒了，理树君。」"
     },
     {
       "JP": "`$(1,0)@「まさに一掃ね」",
       "EN": "`$(1,1)@ \"That was literally cleanup.\"",
-      "Translation": "`$(1,1)@「简直是横扫啊。」"
+      "Translation": "`$(5)@「简直是横扫啊。」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、すご～い♪」",
       "EN": "`$(1,1)@ \"Riki-kun, you're incredible♪\"",
-      "Translation": "`$(1,1)@「理树君，好厉害～♪」"
+      "Translation": "`$(5)@「理树君，好厉害～♪」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、天才」",
       "EN": "`$(1,1)@ \"Riki-kun, you're a genius.\"",
-      "Translation": "`$(1,1)@「理树君，你是天才。」"
+      "Translation": "`$(5)@「理树君，你是天才。」"
     },
     {
       "JP": "`$(1,0)@「うわっはっはっは！　笑いしか出てこないわ」",
       "EN": "`$(1,1)@ \"Uwahahaha! I can't help but laugh.\"",
-      "Translation": "`$(1,1)@「哇哈哈哈！笑得停不下来！」"
+      "Translation": "`$(5)@「哇哈哈哈！笑得停不下来！」"
     },
     {
       "JP": "`$(1,0)@「惜しかったわね～」",
       "EN": "`$(1,1)@ \"That was close.\"",
-      "Translation": "`$(1,1)@「真是可惜啊～」"
+      "Translation": "`$(5)@「真是可惜啊～」"
     },
     {
       "JP": "`$(1,0)@「残念でした～」",
       "EN": "`$(1,1)@ \"Too bad.\"",
-      "Translation": "`$(1,1)@「太遗憾了～」"
+      "Translation": "`$(5)@「太遗憾了～」"
     },
     {
       "JP": "`$(1,0)@「感じる…エクスタシーを…」",
       "EN": "`$(1,1)@ \"Ecstasy... I'm feeling it...\"",
-      "Translation": "`$(1,1)@「感受到…极致的欢愉…」"
+      "Translation": "`$(5)@「感受到…极致的欢愉…」"
     },
     {
       "JP": "`$(1,0)@「包まれる…エクスタシーに…」",
       "EN": "`$(1,1)@ \"Ecstasy... It's embracing me...\"",
-      "Translation": "`$(1,1)@「被极致的欢愉包围着…」"
+      "Translation": "`$(5)@「被极致的欢愉包围着…」"
     },
     {
       "JP": "`$(1,0)@「生まれる…エクスタシーが…」",
       "EN": "`$(1,1)@ \"Ecstasy... It's about to be born...\"",
-      "Translation": "`$(1,1)@「极致的欢愉正在诞生…」"
+      "Translation": "`$(5)@「极致的欢愉正在诞生…」"
     },
     {
       "JP": "`$(1,0)@「広がる…エクスタシーが…」",
       "EN": "`$(1,1)@ \"Ecstasy... It's spreading...\"",
-      "Translation": "`$(1,1)@「极致的欢愉正在扩散…」"
+      "Translation": "`$(5)@「极致的欢愉正在扩散…」"
     },
     {
       "JP": "`$(1,0)@「始まる…エクスタシーが…」",
       "EN": "`$(1,1)@ \"Ecstasy... It's about to start...\"",
-      "Translation": "`$(1,1)@「极致的欢愉即将开始…」"
+      "Translation": "`$(5)@「极致的欢愉即将开始…」"
     },
     {
       "JP": "`$(1,0)@「訪れる…エクスタシーが…」",
       "EN": "`$(1,1)@ \"Ecstasy... It's about to get to me...\"",
-      "Translation": "`$(1,1)@「极致的欢愉正在降临…」"
+      "Translation": "`$(5)@「极致的欢愉正在降临…」"
     },
     {
       "JP": "`時風@「さあ、ゲームを始めようか」",

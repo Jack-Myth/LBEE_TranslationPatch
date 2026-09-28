@@ -708,7 +708,7 @@
     {
       "JP": "`葉留佳@「$K120座布団$K0五枚ーゲットー。ヘイ、カモンマウンテンライスフィールドっ」",
       "EN": "`Haruka@❝That's another five $K120cushions$K0 for me～. Hey, come on mountain rice field!❞",
-      "Translation": "`叶留佳@「五枚$K120座垫$K0Get～ Hey, come on mountain rice field!」"
+      "Translation": "`叶留佳@「五枚$K(120)座垫$K()Get～ Hey, come on mountain rice field!」"
     },
     {
       "JP": "`風紀委員１@「あ、あなたっていうひとは…」",
@@ -7723,7 +7723,7 @@
     {
       "JP": "`葉留佳@「…$K5麦茶$K0でいい？」",
       "EN": "`Haruka@❝...Is $K5barley tea$K0 okay?❞",
-      "Translation": "`叶留佳@「…$K5麦茶$K0可以吗？」"
+      "Translation": "`叶留佳@「…$K(5)麦茶$K()可以吗？」"
     },
     {
       "JP": "`理樹@「うん」",
@@ -12988,7 +12988,7 @@
     {
       "JP": "`理樹@「なんで次が$K21演歌$K0？」",
       "EN": "`Riki@❝Why is the next song an $K21enka$K0?❞",
-      "Translation": "`理树@「为什么接下来是$K21演歌$K0？」"
+      "Translation": "`理树@「为什么接下来是$K(21)演歌$K()？」"
     },
     {
       "JP": "全然趣味があってなかった。",

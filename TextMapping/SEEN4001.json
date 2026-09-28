@@ -1783,7 +1783,7 @@
     {
       "JP": "`クド@「これが$K6ぶらっくほわいと$K0なわけです」",
       "EN": "`Kud@❝This is a so-called $K6black and white$K0 situation.❞",
-      "Translation": "`库特@「这是$K6黑和白$K0的说」"
+      "Translation": "`库特@「这是$K(6)黑和白$K()的说」"
     },
     {
       "JP": "`クド@「でぃす・いず・ぶらっくほわいとーっ」",
@@ -3418,7 +3418,7 @@
     {
       "JP": "`来ヶ谷@「うむ、特選特上$K60めかぶ$K0を持ってきたぞ。クドリャフカ君は海藻が好物だったからな」",
       "EN": "`Kurugaya@❝Yeah, I brought some special top grade $K60mekabu$K0. Since Kudryavka-kun likes seaweed.❞",
-      "Translation": "`来谷@「唔，大姐我带来了本人精选的特级$K60裙带菜$K0。库特莉亚芙卡君你很喜欢海藻类的对吧」"
+      "Translation": "`来谷@「唔，大姐我带来了本人精选的特级$K(60)裙带菜$K()。库特莉亚芙卡君你很喜欢海藻类的对吧」"
     },
     {
       "JP": "`来ヶ谷@「さあ、思うさまにねっとりとさせるといい」",
@@ -4838,7 +4838,7 @@
     {
       "JP": "クドが言うには、$K73沖縄$K0よりさらに南でないと見られない星らしい。",
       "EN": "It seems you need to be further south than even $K73Okinawa$K0 to see these stars.",
-      "Translation": "库特所说的，大概就是比在$K73冲绳岛$K0更加往南才能看得到的星座吧。"
+      "Translation": "库特所说的，大概就是比在$K(73)冲绳岛$K()更加往南才能看得到的星座吧。"
     },
     {
       "JP": "`理樹@「僕は見たことがないな」",
@@ -7368,7 +7368,7 @@
     {
       "JP": "$K2アオザイ$K0っぽい気もする。裾が短いけれど。",
       "EN": "It sort of feels like an $K2ao dai$K0 too, although the sleeves are shorter.",
-      "Translation": "有点像是$K2奥黛$K0，就是下摆较短。"
+      "Translation": "有点像是$K(2)奥黛$K()，就是下摆较短。"
     },
     {
       "JP": "裾からズボンみたいな白い布地が覗いている。ドロワーズ…かな？",

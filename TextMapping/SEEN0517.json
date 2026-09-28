@@ -795,7 +795,7 @@
     {
       "JP": "`謙吾@「宇宙人を$K43関西$K0人にでもしてみたらどうだ？　よっぽど自然だろ」",
       "EN": "`Kengo@❝Why not change the alien into a $K43Kansai$K0 man? I guess it'd be more natural.❞",
-      "Translation": "`谦吾@「把宇宙人换成$K43关西$K0人如何？不就自然了吗」"
+      "Translation": "`谦吾@「把宇宙人换成$K(43)关西$K()人如何？不就自然了吗」"
     },
     {
       "JP": "`真人@「なるほど…」",
@@ -1250,7 +1250,7 @@
     {
       "JP": "`三枝@「えーとね、$K10筆ペン$K0貸して欲しいんだけど」",
       "EN": "`Saigusa@❝Well, may I borrow your $K10calligraphy pen$K0?❞",
-      "Translation": "`三枝@「那个，想借$K10水笔$K0」"
+      "Translation": "`三枝@「那个，想借$K(10)水笔$K()」"
     },
     {
       "JP": "`理樹@「筆ペン!?　あったかなぁ、そんなの」",
@@ -1420,7 +1420,7 @@
     {
       "JP": "`理樹@「ごめん…僕は僕より強い奴と戦うために、さすらうよ…」",
       "EN": "`Riki@❝Sorry, I must go wandering around in order to fight stronger guys...❞",
-      "Translation": "`理树@「抱歉，我正在为了比我强的家伙战斗，而徘徊…」"
+      "Translation": "`理树@「抱歉，为了和更强的对手战斗，我正四处闲逛…」"
     },
     {
       "JP": "`三枝@「まー、そっかー。しょうがないね」",
@@ -2405,7 +2405,7 @@
     {
       "JP": "すらり、と$K40日本刀$K0を抜き放つ。",
       "EN": "...A $K40Japanese sword$K0. She drew it quietly.",
-      "Translation": "则是唰地拔出了$K40日本刀$K0。"
+      "Translation": "则是唰地拔出了$K(40)日本刀$K()。"
     },
     {
       "JP": "`理樹@「うわ、銃刀法違反!?」",
@@ -2430,7 +2430,7 @@
     {
       "JP": "だが、その手にあるのは$K84あおひげ$K0だ。",
       "EN": "However, it was a $K84pirate figure$K0 that he was holding.",
-      "Translation": "但是，真人手里只有$K84青胡子海盗$K0。"
+      "Translation": "但是，真人手里只有$K(84)青胡子海盗$K()。"
     },
     {
       "JP": "`来ヶ谷@「この私に殴られるのがそんなに嬉しいか」",
@@ -3070,7 +3070,7 @@
     {
       "JP": "$(1,0)さんとタッグを組んだら、それこそ敵なしなのでは…？",
       "EN": "If she and $(1,1) form a tag team, wouldn't they be unbeatable...?",
-      "Translation": "如果和$(1,1)组队的话，大概就无敌了…？"
+      "Translation": "如果和$(5)组队的话，大概就无敌了…？"
     },
     {
       "JP": "けど、助太刀してもらったら、鈴を危険にさらすことになるのは変わりない…。",
@@ -3885,7 +3885,7 @@
     {
       "JP": "`鈴@「$K15コロッケそば$K0が大変まずい」",
       "EN": "`Rin@❝The $K15croquette soba$K0 is yucky.❞",
-      "Translation": "`铃@「$K15炸肉饼荞麦面$K0太难吃了」"
+      "Translation": "`铃@「$K(15)炸肉饼荞麦面$K()太难吃了」"
     },
     {
       "JP": "`理樹@「だから？」",
@@ -3965,7 +3965,7 @@
     {
       "JP": "`おばさん@「でも、あれでしょ？　$K106天ぷら$K0とかはいいわけでしょ？」",
       "EN": "`Staff Lady@❝But you wouldn't care if it's $K106tempura$K0, right?❞",
-      "Translation": "`大娘@「但是，是那个吧？$K106天麸罗$K0不就很不错吗？」"
+      "Translation": "`大娘@「但是，是那个吧？$K(106)天麸罗$K()不就很不错吗？」"
     },
     {
       "JP": "`鈴@「なにがだ？」",
@@ -10607,7 +10607,7 @@
     {
       "JP": "探してみる$dない$dさすらう",
       "EN": "Look for it$dDon't have it$dWander",
-      "Translation": "找找看$d表示没有$d徘徊"
+      "Translation": "找找看$d表示没有$d闲逛"
     },
     {
       "JP": "探してみる$dない",
@@ -10632,7 +10632,7 @@
     {
       "JP": "鈴を追う$dさすらう$d真人と遊ぶ",
       "EN": "Run after Rin$dWander$dPlay with Masato",
-      "Translation": "去追铃$d徘徊$d和真人玩"
+      "Translation": "去追铃$d闲逛$d和真人玩"
     },
     {
       "JP": "鈴を追う$d放っておく$d真人と遊ぶ",
@@ -10647,7 +10647,7 @@
     {
       "JP": "さすらう$d休む",
       "EN": "Wander$dTake a break",
-      "Translation": "徘徊$d休息"
+      "Translation": "闲逛$d休息"
     },
     {
       "JP": "屋上にいく$d屋上にいかない",
@@ -10657,7 +10657,7 @@
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "徘徊$d休息"
+      "Translation": "闲逛$d休息"
     }
   ]
 }

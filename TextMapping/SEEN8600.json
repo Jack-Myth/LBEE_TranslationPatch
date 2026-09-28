@@ -3,17 +3,17 @@
     {
       "JP": "に$V(#20002)のダメージ！",
       "EN": " takes $v(#20002) damage!",
-      "Translation": "受到了$v(#20002)点伤害！"
+      "Translation": "受到了$V(#20002)点伤害！"
     },
     {
       "JP": "に$V(#20002)田中ダメージ！",
       "EN": " takes $v(#20002) Tanaka damage!",
-      "Translation": "受到了$v(#20002)点田中伤害！"
+      "Translation": "受到了$V(#20002)点田中伤害！"
     },
     {
       "JP": "に$V(#20002)斉藤ダメージ！",
       "EN": " takes $v(#20002) Saito damage!",
-      "Translation": "受到了$v(#20002)点齐藤伤害！"
+      "Translation": "受到了$V(#20002)点齐藤伤害！"
     },
     {
       "JP": "しゅこしゅこ！　",
@@ -21,7 +21,7 @@
       "Translation": "咻咻咻！",
       "JP2": "に$V(#20002)のダメージ！",
       "EN2": " takes $v(#20002) damage!",
-      "Translation2": "受到了$v(#20002)点伤害！"
+      "Translation2": "受到了$V(#20002)点伤害！"
     },
     {
       "JP": "勝負あり！　",
@@ -51,7 +51,7 @@
       "EN": "Earthquake Attack! ",
       "Translation": "地震攻击！　",
       "EN2": " takes $v(#20002) damage!",
-      "Translation2": "受到了$v(#20002)点伤害!"
+      "Translation2": "受到了$V(#20002)点伤害!"
     },
     {
       "JP": "侵入成功！　",
@@ -64,17 +64,17 @@
     {
       "JP": "に$V(#20002)のダメージ！",
       "EN": " takes $v(#20002) damage!",
-      "Translation": "受到$v(#20002)点伤害！"
+      "Translation": "受到$V(#20002)点伤害！"
     },
     {
       "JP": "に$V(#20002)田中ダメージ！",
       "EN": " takes $v(#20002) Tanaka damage!",
-      "Translation": "受到了$v(#20002)点田中伤害！"
+      "Translation": "受到了$V(#20002)点田中伤害！"
     },
     {
       "JP": "に$V(#20002)斉藤ダメージ！",
       "EN": " takes $v(#20002) Saito damage!",
-      "Translation": "受到了$v(#20002)点齐藤伤害！"
+      "Translation": "受到了$V(#20002)点齐藤伤害！"
     },
     {
       "JP": "しゅこしゅこ！　",
@@ -82,7 +82,7 @@
       "Translation": "咻咻咻！",
       "JP2": "に$V(#20002)のダメージ！",
       "EN2": " takes $v(#20002) damage!",
-      "Translation2": "受到了$v(#20002)点伤害！"
+      "Translation2": "受到了$V(#20002)点伤害！"
     },
     {
       "JP": "勝負あり！　",
@@ -113,7 +113,7 @@
       "Translation": "地震攻击！ ",
       "JP2": "に$V(#20002)のダメージ！",
       "EN2": " takes $v(#20002) damage!",
-      "Translation2": "受到了$v(#20002)点伤害！"
+      "Translation2": "受到了$V(#20002)点伤害！"
     },
     {
       "JP": "侵入成功！　",
@@ -136,7 +136,7 @@
     {
       "JP": "は$(6,0)のコツを覚えた！",
       "EN": " has learned the $(6,1) trick!",
-      "Translation": "学会了$(6,1)的技巧！"
+      "Translation": "学会了$(9)的技巧！"
     }
   ]
 }

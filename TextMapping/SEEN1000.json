@@ -3168,7 +3168,7 @@
     {
       "JP": "`小毬@「うーん、$K75お好み焼き$K0みたいで、それもなかなか美味しいかもしれないねえ」",
       "EN": "`Komari@❝Hmm, that'd be like $K75okonomiyaki$K0. It might be quite yummy too.❞",
-      "Translation": "`小毬@「嗯－，感觉好像K75煎菜饼$K0一样啊，那个也是很好吃的」"
+      "Translation": "`小毬@「嗯－，感觉好像$K(75)煎菜饼$K()一样啊，那个也是很好吃的」"
     },
     {
       "JP": "`鈴@「………」",
@@ -4843,7 +4843,7 @@
     {
       "JP": "`小毬@「プリンもそれだけでこのお店の目玉になるくらいでアイスも自家製のやさしい甘味でクッキーもまだほかほかの香りが残ってるしこの砂糖菓子は$K117和三盆$K0で…」",
       "EN": "`Komari@❝The pudding can be the cafe's signature dish by itself. The ice cream is kindly sweet, the cookie smells freshly baked, and they use $K117wasanbon$K0 sugar...❞",
-      "Translation": "`小毬@「布丁本身就可以算得上这家店的招牌点心，冰激淋也是自制的有种柔和的甜味，曲奇还留有热乎乎的香味，砂糖点心用的也是$K117和三盆白糖$K0…」"
+      "Translation": "`小毬@「布丁本身就可以算得上这家店的招牌点心，冰激淋也是自制的有种柔和的甜味，曲奇还留有热乎乎的香味，砂糖点心用的也是$K(117)和三盆白糖$K()…」"
     },
     {
       "JP": "`小毬@「あとあとっ、このチェリーもベリーもこだわりの砂糖漬けでフルーツも季節の美味しいとこ取りでソースもストロベリーとチョコが程よくマッチして…」",
@@ -5543,7 +5543,7 @@
     {
       "JP": "`小毬@「はい、$K50コンペイトウ$K0で補給しましょう」",
       "EN": "`Komari@❝Here, replenish yourself with a $K50kompeito$K0.❞",
-      "Translation": "`小毬@「给，吃点$K50太妃糖$K0补充一下吧」"
+      "Translation": "`小毬@「给，吃点$K(50)太妃糖$K()补充一下吧」"
     },
     {
       "JP": "`理樹@「あーうん、貰っておくよ」",
@@ -6678,7 +6678,7 @@
     {
       "JP": "ていうか、メロディは思いっきり$K97昭和時代$K0の歌謡曲だ…。",
       "EN": "And I just realized that she's singing a song of the $K97Showa period$K0.",
-      "Translation": "说起来，曲调居然是$K97昭和时代$K0的歌谣啊…。"
+      "Translation": "说起来，曲调居然是$K(97)昭和时代$K()的歌谣啊…。"
     },
     {
       "JP": "`理樹@（老人ホームのアイドルというか、みんなのマスコット的存在というか…）",
@@ -7118,7 +7118,7 @@
     {
       "JP": "`小次郎@「昔は$K113津軽海峡$K0まで徒歩で旅をしたものじゃ」",
       "EN": "`Kojirou@❝I once made a trip to the $K113Tsugaru Straits$K0 on foot.❞",
-      "Translation": "`小次郎@「以前可是能徒步旅行到$K113津轻海峡$K0的呢」"
+      "Translation": "`小次郎@「以前可是能徒步旅行到$K(113)津轻海峡$K()的呢」"
     },
     {
       "JP": "`小次郎@「みちのくをひとり渡り歩いたあの頃が懐かしいわい」",
@@ -7128,7 +7128,7 @@
     {
       "JP": "`理樹@「$K57松尾芭蕉$K0みたいな人ですね…」",
       "EN": "`Riki@❝You're like $K57Matsuo Basho$K0...❞",
-      "Translation": "`理树@「是个像$K57松尾芭蕉$K0那样的人呢…」"
+      "Translation": "`理树@「是个像$K(57)松尾芭蕉$K()那样的人呢…」"
     },
     {
       "JP": "`小次郎@「されば天地は万物の逆旅（げきりょ）、光陰は百代の過客、浮世は夢幻（まぼろし）と」",

@@ -2275,7 +2275,7 @@
     {
       "JP": "`神北@「じゃあ、せっかく来たから$K53うすしお$K0でもどうぞ～」",
       "EN": "`Kamikita@❝Well, since you went through the trouble to come here, have some $K53potato chips$K0～.❞",
-      "Translation": "`神北@「既然好不容易来了，那就尝尝这个$K53盐味薯片$K0吧～」"
+      "Translation": "`神北@「既然好不容易来了，那就尝尝这个$K(53)盐味薯片$K()吧～」"
     },
     {
       "JP": "`理樹@「あ、うん…じゃあ貰っていこうかな」",
@@ -4190,7 +4190,7 @@
     {
       "JP": "`恭介@「おまえは$K67ノーコン$K0だ」",
       "EN": "`Kyousuke@❝You're a $K67no-con$K0.❞",
-      "Translation": "`恭介@「你是$K67高射炮$K0」"
+      "Translation": "`恭介@「你是$K(67)高射炮$K()」"
     },
     {
       "JP": "`恭介@「しかも、神懸かり的な、だ」",
@@ -6052,7 +6052,7 @@
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "徘徊$d休息"
+      "Translation": "闲逛$d休息"
     },
     {
       "JP": "取りにいく$d別のノートで代用",

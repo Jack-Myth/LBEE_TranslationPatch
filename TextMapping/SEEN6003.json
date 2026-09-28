@@ -3063,7 +3063,7 @@
     {
       "JP": "シンデレラに白雪姫や人魚姫、桃太郎に$K46金太郎$K0、$K116浦島太郎$K0、青い鳥、千夜一夜物語、等々。",
       "EN": "Cinderella, Snow White, Little Mermaid, Momotarou, $K46Kintarou$K0, $K116Urashima Tarou$K0, Blue Bird, Arabian Nights, you name it.",
-      "Translation": "灰姑娘，白雪公主，人鱼公主，桃太郎和$K46金太郎$K0，$K116浦岛太郎$K0，青鸟，千夜物语，等等。"
+      "Translation": "灰姑娘，白雪公主，人鱼公主，桃太郎和$K(46)金太郎$K()，$K(116)浦岛太郎$K()，青鸟，千夜物语，等等。"
     },
     {
       "JP": "絵本の主人公達は、とても勇敢で、とても賢く、とても綺麗で、とても幸福です。",
@@ -3193,7 +3193,7 @@
     {
       "JP": "何度も読んで憶えてしまった台詞を、母の$K111三面鏡$K0の前で口にしました。",
       "EN": "From my mother's $K111triple mirror$K0, I asked the question which I had learned from the picture book.",
-      "Translation": "我将读过数次的、已经牢牢记住的台词，在母亲的$K111三面镜$K0前面说道。"
+      "Translation": "我将读过数次的、已经牢牢记住的台词，在母亲的$K(111)三面镜$K()前面说道。"
     },
     {
       "JP": "『それは、白雪姫です』",

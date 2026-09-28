@@ -83,7 +83,7 @@
     {
       "JP": "`クド@「つまり$K110とーじんぼー$K0かられっつだいぶですっ」",
       "EN": "`Kud@❝I mean, rettsu daibu furomu $K110Tojinbo$K0!!❞",
-      "Translation": "`库特@「也就是说，从$K110东寻坊$K0顶上往下跳的说」"
+      "Translation": "`库特@「也就是说，从$K(110)东寻坊$K()顶上往下跳的说」"
     },
     {
       "JP": "`小毬@「大不正解ーっ」",
@@ -438,12 +438,12 @@
     {
       "JP": "注文票の控えをちらりとのぞいてみると、干しシイタケだの$K44かつおぶし$K0だの名前が見える。",
       "EN": "A glance at the copy of the order form in her hand revealed it scrawled with ingredients such as dried shiitakes and $K44katsuobushi$K0.",
-      "Translation": "偷偷瞄了一眼写好的订货单，发现上面写着香菇干和$K44干鲣鱼$K0之类的东西。"
+      "Translation": "偷偷瞄了一眼写好的订货单，发现上面写着香菇干和$K(44)干鲣鱼$K()之类的东西。"
     },
     {
       "JP": "`理樹@「ええと、最後のは$K49昆布$K0？　なにに使うの？　量が多いみたいだけど」",
       "EN": "`Riki@❝Looks like you ordered a large amount of $K49kombu$K0 too. What are you using it for?❞",
-      "Translation": "`理树@「那个，最后的是$K49昆布海带$K0？干嘛用的？看上去订的量还挺多的」"
+      "Translation": "`理树@「那个，最后的是$K(49)昆布海带$K()？干嘛用的？看上去订的量还挺多的」"
     },
     {
       "JP": "`クド@「昆布はですねぇ、昆布巻き用です」",
@@ -548,7 +548,7 @@
     {
       "JP": "`クド@「オムレツ焼くより、$K16だし巻き玉子$K0作るほうが得意ですよ」",
       "EN": "`Kud@❝Actually, I'm better at making $K16tamagoyaki$K0 than omelettes.❞",
-      "Translation": "`库特@「比起蛋包饭来，我更擅长做$K16玉子烧$K0」"
+      "Translation": "`库特@「比起蛋包饭来，我更擅长做$K(16)玉子烧$K()」"
     },
     {
       "JP": "`クド@「自分で言うのもなんですが、クドリャフカお手製玉子焼きはお昼の時間引く手あまたなのです」",
@@ -4603,7 +4603,7 @@
     {
       "JP": "`クド@「$K8玄米茶$K0に$K83梅こぶ茶$K0、抹茶にほうじ茶。どなたの趣味ですか？」",
       "EN": "`Kud@❝$K8Brown rice tea$K0, $K83plum kelp tea$K0, ceremonial green tea, roasted green tea. Whose collection is that?❞",
-      "Translation": "`库特@「$K8玄米茶$K0、$K83梅昆布茶$K0、抹茶、焙茶。是谁的兴趣呢？」"
+      "Translation": "`库特@「$K(8)玄米茶$K()、$K(83)梅昆布茶$K()、抹茶、焙茶。是谁的兴趣呢？」"
     },
     {
       "JP": "`二木@「寮長じゃないの？　あとは時々来ヶ谷さんも持ち込んでるみたいね」",
@@ -9198,7 +9198,7 @@
     {
       "JP": "パンは$K118焼きそばパン$K0にホットドッグ。",
       "EN": "I had a $K118yakisoba bread$K0 and a hotdog.",
-      "Translation": "面包则是$K118炒面面包$K0和热狗。"
+      "Translation": "面包则是$K(118)炒面面包$K()和热狗。"
     },
     {
       "JP": "`理樹@「…ってホットドッグはまずかったかな…」",
@@ -9893,7 +9893,7 @@
     {
       "JP": "`クド@「まるで$K99双六$K0のコマを一つ一つ進めてるみたいですからっ」",
       "EN": "`Kud@❝It was just like playing a $K99sugoroku$K0 game!❞",
-      "Translation": "`库特@「就像是$K99双六$K0的棋子那样一步一步稳稳当当地前进着的说」"
+      "Translation": "`库特@「就像是$K(99)双六$K()的棋子那样一步一步稳稳当当地前进着的说」"
     },
     {
       "JP": "`理樹@「そっか、確かにそんな感じかもね」",
@@ -11458,7 +11458,7 @@
     {
       "JP": "\n$A(1)――――――――――ＧＲＡＮＤ\u3000ＥＮＤ――――――――――",
       "EN": "\n$S(16,1)\n$S(35,1)$A(1)――――――――――ＧＲＡＮＤ\u3000ＥＮＤ――――――――――",
-      "Translation": "\n$S(16,1)\n$S(35,1)$A(1)――――――――――ＧＲＡＮＤ\u3000ＥＮＤ――――――――――"
+      "Translation": "\n\n$A(1)――――――――――ＧＲＡＮＤ　ＥＮＤ――――――――――"
     },
     {
       "JP": "",
@@ -11903,7 +11903,7 @@
     {
       "JP": "―――――――――――ＴＨＥ　ＥＮＤ―――――――――――",
       "EN": "$S030―――――――――――ＴＨＥ　ＥＮＤ―――――――――――",
-      "Translation": "——————ＴＨＥ　ＥＮＤ——————"
+      "Translation": "$A(1)——————ＴＨＥ　ＥＮＤ——————"
     },
     {
       "JP": "",
@@ -12053,7 +12053,7 @@
     {
       "JP": "`二木@「…ちょっと薄味というかほとんど味ないじゃない、この$K51高野豆腐$K0の煮付け」",
       "EN": "`Futaki@❝...This simmered $K51kouya dofu$K0 doesn't even taste bland. It hardly has any taste at all.❞",
-      "Translation": "`二木@「…这块$K51高野豆腐$K0的炖煮几乎没什么味道啊」"
+      "Translation": "`二木@「…这块$K(51)高野豆腐$K()的炖煮几乎没什么味道啊」"
     },
     {
       "JP": "`クド@「そうですか？　うちでは薄味だったものですから…」",
@@ -15198,12 +15198,12 @@
     {
       "JP": "`小毬@「次の時間がいわゆるひとつの$K92関ヶ原$K0だよー」",
       "EN": "`Komari@❝Next hour is one of the critical battles, like $K92Sekigahara$K0.❞",
-      "Translation": "`小毬@「下一场一言蔽之就是一次$K92关原之战$K0哟－」"
+      "Translation": "`小毬@「下一场一言蔽之就是一次$K(92)关原之战$K()哟－」"
     },
     {
       "JP": "`クド@「つまり$K108天王山$K0ですかーっ」",
       "EN": "`Kud@❝Or a strategic point, like $K108Mount Tennouzan$K0.❞",
-      "Translation": "`库特@「也就是说关键点是$K108天王山$K0吗－」"
+      "Translation": "`库特@「也就是说关键点是$K(108)天王山$K()吗－」"
     },
     {
       "JP": "`小毬@「よくわからないけど、きっとそうだよー」",

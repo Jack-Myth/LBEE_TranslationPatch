@@ -334,7 +334,7 @@
     {
       "JP": "今度は真人が$K4バラン$K0を箸で寄せていく。",
       "EN": "This time, Masato held a $K4baran sheet$K0 out to it.",
-      "Translation": "这次是真人用筷子夹了片$K4马兰$K0送过来。"
+      "Translation": "这次是真人用筷子夹了片$K(4)马兰$K()送过来。"
     },
     {
       "JP": "`鈴@「食えるかーっ！」",
@@ -2084,7 +2084,7 @@
     {
       "JP": "`恭介@「これから$K91サラリーマン$K0としてあくせく働いていくんだろうな…それだけはわかる」",
       "EN": "`Kyousuke@❝I'm going to work as a $K91salaryman$K0 from here on... That's all I know.❞",
-      "Translation": "`恭介@「接下来会是当个$K91上班族$K0每天忙的团团转吧…我至少可以确定这一点」"
+      "Translation": "`恭介@「接下来会是当个$K(91)上班族$K()每天忙的团团转吧…我至少可以确定这一点」"
     },
     {
       "JP": "`恭介@「でも、それはなんだか流されてるな、という気がしたんだ」",

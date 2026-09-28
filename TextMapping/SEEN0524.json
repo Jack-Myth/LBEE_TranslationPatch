@@ -1079,7 +1079,7 @@
     {
       "JP": "`理樹@「すまない、僕は今さすらうことにしたんだ」",
       "EN": "`Riki@❝Sorry but I've decided to go wander.❞",
-      "Translation": "`理树@「抱歉，但我决定去徘徊」"
+      "Translation": "`理树@「抱歉，但我决定去闲逛」"
     },
     {
       "JP": "`理樹@「手伝ってあげたいのは山々だけど、とても出来そうにない。次の瞬間、僕らは敵同士なんだ」",
@@ -5929,7 +5929,7 @@
     {
       "JP": "$K17般若の面$K0をこっちに向ける。",
       "EN": "She was holding a traditional $K17demon mask$K0.",
-      "Translation": "她拿出了一个传统的$K17般若面具$K0。"
+      "Translation": "她拿出了一个传统的$K(17)般若面具$K()。"
     },
     {
       "JP": "…突然こんなの見たら、確かにビビるだろうな…。",
@@ -10739,7 +10739,7 @@
     {
       "JP": "…さらに天井から$K81パチンコ玉$K0が大量に落ちてきて、バケツを豪快に連打した。",
       "EN": "...In addition, a load of $K81pachinko balls$K0 rained down from the ceiling and hit the top of the bucket.",
-      "Translation": "…接着，大量的$K81弹珠$K0从天花板落下，猛烈地敲击着水桶。`"
+      "Translation": "…接着，大量的$K(81)弹珠$K()从天花板落下，猛烈地敲击着水桶。`"
     },
     {
       "JP": "`理樹@「…こんなのとかさ」",
@@ -12686,7 +12686,7 @@
     {
       "JP": "ジュースを買いに行く$d真人と遊ぶ$dさすらう",
       "EN": "Go and get something to drink$dPlay with Masato$dWander",
-      "Translation": "去买点喝的$d和真人玩$d徘徊"
+      "Translation": "去买点喝的$d和真人玩$d闲逛"
     },
     {
       "JP": "ジュースを買いに行く$d真人と遊ぶ",
@@ -12696,7 +12696,7 @@
     {
       "JP": "手伝う$d見送る$dさすらう",
       "EN": "Help her out$dSee her off$dWander",
-      "Translation": "帮她一把$d目送她离开$d徘徊"
+      "Translation": "帮她一把$d目送她离开$d闲逛"
     },
     {
       "JP": "手伝う$d見送る",
@@ -12731,7 +12731,7 @@
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "徘徊$d休息"
+      "Translation": "闲逛$d休息"
     },
     {
       "JP": "[(#297==0),]小毬$d[(#298==0),]鈴$d[(#299==0),]葉留佳$d[(#300==0),]クド$d[(#301==0),]来ヶ谷$d[(#302==0),]美魚$d[(#303==0),]考える",

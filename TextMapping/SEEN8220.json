@@ -3,52 +3,52 @@
     {
       "JP": "１番バッター、$(6,0)",
       "EN": "1st Batter, $(6,1).",
-      "Translation": "１号击球手，$(6,1)."
+      "Translation": "１号击球手，$(9)."
     },
     {
       "JP": "２番バッター、$(6,0)",
       "EN": "2nd Batter, $(6,1).",
-      "Translation": "２号击球手，$(6,1)"
+      "Translation": "２号击球手，$(9)"
     },
     {
       "JP": "３番バッター、$(6,0)",
       "EN": "3rd Batter, $(6,1).",
-      "Translation": "３号击球手，$(6,1)"
+      "Translation": "３号击球手，$(9)"
     },
     {
       "JP": "４番バッター、$(6,0)",
       "EN": "4th Batter, $(6,1).",
-      "Translation": "４号击球手，$(6,1)"
+      "Translation": "４号击球手，$(9)"
     },
     {
       "JP": "５番バッター、$(6,0)",
       "EN": "5th Batter, $(6,1).",
-      "Translation": "５号击球手，$(6,1)"
+      "Translation": "５号击球手，$(9)"
     },
     {
       "JP": "６番バッター、$(6,0)",
       "EN": "6th Batter, $(6,1).",
-      "Translation": "６号击球手，$(6,1)"
+      "Translation": "６号击球手，$(9)"
     },
     {
       "JP": "７番バッター、$(6,0)",
       "EN": "7th Batter, $(6,1).",
-      "Translation": "７号击球手，$(6,1)"
+      "Translation": "７号击球手，$(9)"
     },
     {
       "JP": "８番バッター、$(6,0)",
       "EN": "8th Batter, $(6,1).",
-      "Translation": "８号击球手，$(6,1)"
+      "Translation": "８号击球手，$(9)"
     },
     {
       "JP": "９番バッター、$(6,0)",
       "EN": "9th Batter, $(6,1).",
-      "Translation": "９号击球手，$(6,1)"
+      "Translation": "９号击球手，$(9)"
     },
     {
       "JP": "ピッチャー$(6,0)、第$V(#6240+1)球を――",
       "EN": "Pitcher is $(6,1), pitch no.$v(#6240+1)――",
-      "Translation": "投手是$(6,1)，第$v(#6240+1)球――"
+      "Translation": "投手是$(9)，第$V(#6240+1)球――"
     }
   ]
 }

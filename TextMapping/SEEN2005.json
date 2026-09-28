@@ -48,47 +48,47 @@
     {
       "JP": "問\u3000：$I紀元前四三年の三頭政治を行った三人を答えよ。",
       "EN": "Question:$I{227}Who are the three people that comprised the triumvirate in 43 BC?",
-      "Translation": "题目：$I{227}写出公元前43年组成后三头同盟的三个人。"
+      "Translation": "题目：$I写出公元前43年组成后三头同盟的三个人。"
     },
     {
       "JP": "\n$S(8)＿$S()\n答\u3000：$Iオクタビアヌス、アントニウス、マサトヌス",
       "EN": "\n$S(8)＿$S()\nAnswer:$I{227}Octavianus, Antonius, Masatonus.",
-      "Translation": "\n$S(8)＿$S()\n答：$I{227}屋大维努斯、安东尼努斯、真人努斯"
+      "Translation": "\n$S(8)＿$S()\n答：$I屋大维努斯、安东尼努斯、真人努斯"
     },
     {
       "JP": "\n$S(8)＿$S()\n解説：$I一見するとだまされてしまうほど自然に、真人が歴史に登場している。「ヌス」とか「ウス」とかつければそれっぽく見えてしまう、世界史の盲点をついた名回答だ。",
       "EN": "\n$S(8)＿$S()\nExplanation:$I{227}On first glance, it looks almost natural to see Masato as part of the world history. It's possible to make one's name look legit by suffixing ❛u❜' or ❛nus❜ to it. It's a clever answer that targets the blind spot of world history.",
-      "Translation": "\n$S(8)＿$S()\n点评：$I{227}真人就这么自然地出现在了历史之中，乍一看很容易被骗。在名字后头添个「努斯」或者「乌斯」，立刻就有那么回事了。这答案精准钻了世界史的空子。"
+      "Translation": "\n$S(8)＿$S()\n点评：$I真人就这么自然地出现在了历史之中，乍一看很容易被骗。在名字后头添个「努斯」或者「乌斯」，立刻就有那么回事了。这答案精准钻了世界史的空子。"
     },
     {
       "JP": "問\u3000：$I四五二年、アッティラの侵攻に遭うローマにおいて、その説得を行った当時の王を答えよ。",
       "EN": "Question:$I{227}When Attila invaded Rome in 452, who was it that persuaded him to withdraw?",
-      "Translation": "题目：$I{227}公元452年阿提拉入侵罗马时，当时是哪位王出面劝退了他？"
+      "Translation": "题目：$I公元452年阿提拉入侵罗马时，当时是哪位王出面劝退了他？"
     },
     {
       "JP": "\n$S(8)＿$S()\n答\u3000：$Iオレ",
       "EN": "\n$S(8)＿$S()\nAnswer:$I{227}Me (ore)",
-      "Translation": "\n$S(8)＿$S()\n答:$I{227}老子(Ore)"
+      "Translation": "\n$S(8)＿$S()\n答:$I老子(Ore)"
     },
     {
       "JP": "\n$S(8)＿$S()\n解説：$Iここの答えは「レオ」なんだが、なぜか逆にしてしまったがために、再び歴史に真人が登場してしまっている。近いようで三千里は離れた回答だ。",
       "EN": "\n$S(8)＿$S()\nExplanation:$I{227}The correct answer is Leo (reo), but for an unknown reason it was reversed and as a result Masato became a historical figure once more.",
-      "Translation": "\n$S(8)＿$S()\n解释:$I{227}这里的答案是「Leo(reo)」，但不知怎么弄反了，历史上又出现了真人。这是一个看似接近，实则差了三千里的回答。"
+      "Translation": "\n$S(8)＿$S()\n解释:$I这里的答案是「Leo(reo)」，但不知怎么弄反了，历史上又出现了真人。这是一个看似接近，实则差了三千里的回答。"
     },
     {
       "JP": "問\u3000：$I一九二四年ベチュアナランド（現ボツワナ共和国）で発見された、人類のルーツとして最も原始的な物を答えよ。",
       "EN": "Question:$I{227}What's the most primitive hominid discovered in 1924 in the Republic of Botswana (Bechuanaland at the time of discovery)?",
-      "Translation": "题目：$I{227}写出1924年在贝专纳兰（今博茨瓦纳）发现、被视为人类最原始祖先的名称。"
+      "Translation": "题目：$I写出1924年在贝专纳兰（今博茨瓦纳）发现、被视为人类最原始祖先的名称。"
     },
     {
       "JP": "\n$S(8)＿$S()\n答\u3000：$Iアウトトラトラエックス",
       "EN": "\n$S(8)＿$S()\nAnswer:$I{227}Auto-toratora EX",
-      "Translation": "\n$S(8)＿$S()\n答:$I{227}Auto-toratora EX"
+      "Translation": "\n$S(8)＿$S()\n答:$IAuto-toratora EX"
     },
     {
       "JP": "\n$S(8)＿$S()\n解説：$Iこれは「アウストラロピテクス」という語感だけは覚えていたが、うろ覚えであったために謎のスーパーロボットになってしまった回答だ。真人の人並みはずれた想像力が覗える。",
       "EN": "\n$S(8)＿$S()\nExplanation:$I{227}He was close to the answer, Australopithecus, but his memory was vague and after searching for something that resembled the correct answer he came up with a name fit for a mysterious super robot. His creativity is outstanding.",
-      "Translation": "\n$S(8)＿$S()\n解释:$I{227}这是只记得「Australopithecus」这个语感，却因为记忆模糊而变成某个神秘机器人的名字。可以窥见真人超乎常人的想象力。"
+      "Translation": "\n$S(8)＿$S()\n解释:$I这是只记得「Australopithecus」这个语感，却因为记忆模糊而变成某个神秘机器人的名字。可以窥见真人超乎常人的想象力。"
     },
     {
       "JP": "\n$S(8)＿$S()\n俺の武勇伝に関しては、またの機会にな。",

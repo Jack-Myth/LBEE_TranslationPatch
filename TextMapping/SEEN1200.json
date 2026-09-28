@@ -2759,7 +2759,7 @@
     {
       "JP": "`西園@「$K13ちーかま$K0はいかがですか」",
       "EN": "`Nishizono@❝Would you like some $K13chikama$K0?❞",
-      "Translation": "`西园@「$K13起司鱼肠$K0怎么样」"
+      "Translation": "`西园@「$K(13)起司鱼肠$K()怎么样」"
     },
     {
       "JP": "今度はちーかまを差し出した。",

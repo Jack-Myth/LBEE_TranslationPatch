@@ -1915,7 +1915,7 @@
     {
       "JP": "`鈴@「２−Ａ１…つまり、$K1エーイチ$K0という奴だ」",
       "EN": "`Rin@❝2-A1... In other words it's $K1Eiichi$K0?❞",
-      "Translation": "`铃@「２－Ａ１…也就是说，叫做$K1Ａ１$K0的家伙」"
+      "Translation": "`铃@「２－Ａ１…也就是说，叫做$K(1)Ａ１$K()的家伙」"
     },
     {
       "JP": "`理樹@「ありゃ…さっきまで頼もしいと思ってたけど、いきなり不安になってきたぞ…」",
@@ -2100,7 +2100,7 @@
     {
       "JP": "さすらおう…。それが僕の生きる道だから…。",
       "EN": "Wandering... That's my way of life...",
-      "Translation": "徘徊吧…。因为这是我的生存之道…。"
+      "Translation": "闲逛吧…。因为这是我的生存之道…。"
     },
     {
       "JP": "…ちょっと、そんな期待が持てる休み時間だった。",
@@ -2860,7 +2860,7 @@
     {
       "JP": "袋には『ニュー・$K3あんぱん$K0』と書いてあった。",
       "EN": "The description on the bag read ❛New $K3Anpan$K0.❜",
-      "Translation": "在袋子上写着『Ｎｅｗ·$K3豆沙包$K0』。"
+      "Translation": "在袋子上写着『Ｎｅｗ·$K(3)豆沙包$K()』。"
     },
     {
       "JP": "`理樹@「これ、あんパン…だよね？」",
@@ -2900,7 +2900,7 @@
     {
       "JP": "`朱鷺戸@$S020「あーそうよっ、買うまで気づかなかったのよ！　これはあんパンで最低の１点よ、サンドイッチが５点だから計６点！　ダブルスコアの大敗よ、惨めでしょ、哀れでしょ、ほら笑えばいいじゃないっ、あーはっはっはっは！って、笑いなさいよっ！」　",
       "EN": "`Tokido@$S020 ❝That's right! I didn't notice! It's the dreaded 1-pointer, which totals 6 points when added to my 5-point sandwich! I got half your score! I'm wretched! Pitiful, right?! Just go ahead and laugh! Give me your best ❛Ahahaha!❜❞",
-      "Translation": "`朱鹭户@$S020「啊－是啊，我在买之前都没有注意到啊！　这是豆沙包是最低的１分，三明治是５分合计６分！　是双倍分差的大惨败，很悲惨吧，很可怜吧，来笑我就好了啊，你快点　啊－哈－哈－哈－哈！的给我笑啊」"
+      "Translation": "`朱鹭户@$S(32)「啊－是啊，我在买之前都没有注意到啊！　这是豆沙包是最低的１分，三明治是５分合计６分！　是双倍分差的大惨败，很悲惨吧，很可怜吧，来笑我就好了啊，你快点　啊－哈－哈－哈－哈！的给我笑啊」"
     },
     {
       "JP": "`朱鷺戸@「あーっはっはっはっ！」",
@@ -3265,7 +3265,7 @@
     {
       "JP": "本文：『とりあえずスキップしながら「アッヒョー」と叫んで真人少年に$K33ペガサス百烈拳$K0をお見舞いしろ』",
       "EN": "Message: [Just skip to the part where you run over to young man Masato, yelling ❛ahhyo-❜ and execute the $K33Hundred Pegasus Strike$K0 on him.]",
-      "Translation": "正文：『就先一边跳着一边叫着「阿皮哟」并对着真人少年那样发出$K33天马百烈拳$K0』"
+      "Translation": "正文：『就先一边跳着一边叫着「阿皮哟」并对着真人少年那样发出$K(33)天马百烈拳$K()』"
     },
     {
       "JP": "…むちゃくちゃだこれ…。",
@@ -4730,7 +4730,7 @@
     {
       "JP": "`理樹@「手伝いってあげたいところなんだけど、これからさすらいたくて…」",
       "EN": "`Riki@❝I'd like to help you, but I was going to wander...❞",
-      "Translation": "`理树@「我很想帮你，但我现在正在四处徘徊…」"
+      "Translation": "`理树@「我很想帮你，但我正准备去闲逛…」"
     },
     {
       "JP": "`三枝@「さすらいは大事ですヨ。頑張ってさすらってくださいませませ」",
@@ -4745,7 +4745,7 @@
     {
       "JP": "そうだ、さすらおう…。",
       "EN": "Alright, let's wander...",
-      "Translation": "好了，继续徘徊吧…"
+      "Translation": "好了，继续闲逛吧…"
     },
     {
       "JP": "昼食の後。",
@@ -4975,7 +4975,7 @@
     {
       "JP": "`三枝@「思わず$K31ハラキリ$K0したくなっちゃうねっ！」",
       "EN": "`Saigusa@❝You might end up wanting to commit $K31harakiri$K0!❞",
-      "Translation": "`三枝@「肯定会想都不想就$K31切腹$K0的！」"
+      "Translation": "`三枝@「肯定会想都不想就$K(31)切腹$K()的！」"
     },
     {
       "JP": "`理樹@「いやそれはやばいから…」",
@@ -6460,7 +6460,7 @@
     {
       "JP": "さあ、さすらおう…。",
       "EN": "All right, let's wander...",
-      "Translation": "好吧，徘徊吧…"
+      "Translation": "好吧，闲逛吧…"
     },
     {
       "JP": "ＨＲが終わり、放課後となる。",
@@ -7295,7 +7295,7 @@
     {
       "JP": "`西園@「おにぎりは、鬼桐男爵が考え出したものです。江戸時代、男爵が$K23花札$K0を中断する手間を惜しんで考え出したのがおにぎりです。だから、いいんです」",
       "EN": "`Nishizono@❝Onigiri was invented by Baron Onigiri in the Edo period who hated taking breaks while playing $K23flower cards$K0. So it's okay.❞",
-      "Translation": "`西园@「饭团，是鬼桐（和饭团同音）男爵想出来的。在江户时代，男爵为了珍惜在玩$K23花札$K0的时候中断的时间所想出来的就是饭团。所以是可以的」"
+      "Translation": "`西园@「饭团，是鬼桐（和饭团同音）男爵想出来的。在江户时代，男爵为了珍惜在玩$K(23)花札$K()的时候中断的时间所想出来的就是饭团。所以是可以的」"
     },
     {
       "JP": "`理樹@「………」",
@@ -9125,7 +9125,7 @@
     {
       "JP": "`来ヶ谷@「$K28青汁$K0と書いてあるように見えるが」",
       "EN": "`Kurugaya@❝There's ❛$K28green juice$K0❜ written on it.❞",
-      "Translation": "`来谷@「上面好像写着$K28青汁$K0啊」"
+      "Translation": "`来谷@「上面好像写着$K(28)青汁$K()啊」"
     },
     {
       "JP": "`三枝@「あぁ、こっちもいいかもしれないですヨっ」",
@@ -9140,7 +9140,7 @@
     {
       "JP": "`来ヶ谷@「$K82紅生姜$K0、と書いてあるように見えるが」",
       "EN": "`Kurugaya@❝There's ❛$K82pickled ginger$K0❜ written on it...❞",
-      "Translation": "`来谷@「上面好像写着$K82红生姜$K0啊」"
+      "Translation": "`来谷@「上面好像写着$K(82)红生姜$K()啊」"
     },
     {
       "JP": "`三枝@「あぁもう、姉御にはこれだ！　これがお勧め！」",
@@ -11135,7 +11135,7 @@
     {
       "JP": "`理樹@「なんで$K19浮世絵$K0…」",
       "EN": "`Riki@❝Why an $K19Edo period print$K0...❞",
-      "Translation": "`理树@「为什么是$K19浮世絵$K0…」"
+      "Translation": "`理树@「为什么是$K(19)浮世絵$K()…」"
     },
     {
       "JP": "`クド@「これを貼れとかおじい様言ってましたが…」",
@@ -13462,7 +13462,7 @@
     {
       "JP": "鈴を探す$d放っておく$dさすらう",
       "EN": "Look for Rin$dLeave her alone$dWander",
-      "Translation": "去找铃$d不管她$d徘徊"
+      "Translation": "去找铃$d不管她$d闲逛"
     },
     {
       "JP": "鈴を探す$d放っておく",
@@ -13487,7 +13487,7 @@
     {
       "JP": "表に出る$d真人と遊ぶ$dさすらう",
       "EN": "Go out$dPlay with Masato$dWander",
-      "Translation": "去外面$d和真人玩$d徘徊"
+      "Translation": "去外面$d和真人玩$d闲逛"
     },
     {
       "JP": "表に出る$d真人と遊ぶ",
@@ -13497,7 +13497,7 @@
     {
       "JP": "手伝う$d立ち去る$dさすらう",
       "EN": "Give her a hand$dWalk away$dWander",
-      "Translation": "帮她一把$d离开$d徘徊"
+      "Translation": "帮她一把$d离开$d闲逛"
     },
     {
       "JP": "手伝う$d立ち去る",
@@ -13507,7 +13507,7 @@
     {
       "JP": "首をつっこむ$d大人しく過ごす$dさすらう",
       "EN": "Butt in$dBehave myself$dWander",
-      "Translation": "参与其中$d安分一点$d徘徊"
+      "Translation": "参与其中$d安分一点$d闲逛"
     },
     {
       "JP": "首をつっこむ$d大人しく過ごす$d真人と遊ぶ",
@@ -13532,7 +13532,7 @@
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "徘徊$d休息"
+      "Translation": "闲逛$d休息"
     },
     {
       "JP": "手伝う$d宿題が…",

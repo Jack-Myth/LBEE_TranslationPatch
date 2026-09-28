@@ -1301,12 +1301,12 @@
     {
       "JP": "は$V(#20004)のＨＰを吸収した！",
       "EN": " absorbs $v(#20004) HP! ",
-      "Translation": "吸收了$v(#20004)的HP！"
+      "Translation": "吸收了$V(#20004)的HP！"
     },
     {
       "JP": "は$V(#20004)のＨＰを吸収した！",
       "EN": " absorbs $v(#20004) HP! ",
-      "Translation": "吸收了$v(#20004)的HP！"
+      "Translation": "吸收了$V(#20004)的HP！"
     },
     {
       "JP": "リズミカルに踊って攻撃！",
@@ -1873,67 +1873,67 @@
     {
       "JP": "にゃあ！　$(6,0)は飛びかかった！",
       "EN": "Meowww! $(6,1) leaps! ",
-      "Translation": "喵！$(6,1)扑了过去！"
+      "Translation": "喵！$(9)扑了过去！"
     },
     {
       "JP": "にゃあ！　$(6,0)は飛びかかった！",
       "EN": "Meowww! $(6,1) leaps! ",
-      "Translation": "喵！$(6,1)扑了过去！"
+      "Translation": "喵！$(9)扑了过去！"
     },
     {
       "JP": "しかし$(6,0)の攻撃は外れた！",
       "EN": "But $(6,1) missed! ",
-      "Translation": "但是$(6,1)的攻击落空了！"
+      "Translation": "但是$(9)的攻击落空了！"
     },
     {
       "JP": "$(6,0)は自分の顔を洗っている！",
       "EN": "$(6,1) washes its face! ",
-      "Translation": "$(6,1)在洗自己的脸！"
+      "Translation": "$(9)在洗自己的脸！"
     },
     {
       "JP": "$(6,0)は自分の尻尾を追いかけている！",
       "EN": "$(6,1) chases its own tail! ",
-      "Translation": "$(6,1)在追自己的尾巴！"
+      "Translation": "$(9)在追自己的尾巴！"
     },
     {
       "JP": "$(6,0)はごろごろと転がって遊んでいる！",
       "EN": "$(6,1) rolls around and purrs! ",
-      "Translation": "$(6,1)在滚来滚去玩耍！"
+      "Translation": "$(9)在滚来滚去玩耍！"
     },
     {
       "JP": "$(6,0)は鈴のほうを見ている！",
       "EN": "$(6,1) stares at Rin! ",
-      "Translation": "$(6,1)在看着铃！"
+      "Translation": "$(9)在看着铃！"
     },
     {
       "JP": "$(6,0)は遊んでほしそうに鈴を見つめている！",
       "EN": "$(6,1) looks at Rin, wanting to play! ",
-      "Translation": "$(6,1)看着铃，想要玩耍！"
+      "Translation": "$(9)看着铃，想要玩耍！"
     },
     {
       "JP": "$(6,0)は鈴の足にまとわりついている！",
       "EN": "$(6,1) coils around Rin's legs! ",
-      "Translation": "$(6,1)缠着铃的腿！"
+      "Translation": "$(9)缠着铃的腿！"
     },
     {
       "JP": "$(6,0)は脱力してお腹を見せている！",
       "EN": "$(6,1) submissively shows its belly! ",
-      "Translation": "$(6,1)无力地露出肚子！"
+      "Translation": "$(9)无力地露出肚子！"
     },
     {
       "JP": "$(6,0)はあくびをしている！",
       "EN": "$(6,1) yawns! ",
-      "Translation": "$(6,1)在打哈欠！"
+      "Translation": "$(9)在打哈欠！"
     },
     {
       "JP": "$(6,0)は眠っている！",
       "EN": "$(6,1)is asleep! ",
-      "Translation": "$(6,1)在睡觉！"
+      "Translation": "$(9)在睡觉！"
     },
     {
       "JP": "$(6,0)はそわそわしている！",
       "EN": "$(6,1) is restless! ",
-      "Translation": "$(6,1)在坐立不安！"
+      "Translation": "$(9)在坐立不安！"
     },
     {
       "JP": "ミス！　ドルジの攻撃は外れた！",
@@ -2511,17 +2511,17 @@
       "Translation": "但是",
       "JP2": "はそれを$(6,0)で華麗に受け止めてみせた！",
       "EN2": " uses the $(6,1) to block the attack!",
-      "Translation2": "使用$(6,1)华丽的挡住了攻击！"
+      "Translation2": "使用$(9)华丽的挡住了攻击！"
     },
     {
       "JP": "はすかさず$(6,0)で反撃！",
       "EN": " quickly counterattacks with $(6,1)!",
-      "Translation": "迅速用$(6,1)反击！"
+      "Translation": "迅速用$(9)反击！"
     },
     {
       "JP": "さらにそこから$(6,0)で反撃！",
       "EN": "And counterattacks with $(6,1)!",
-      "Translation": "然后用$(6,1)反击！"
+      "Translation": "然后用$(9)反击！"
     },
     {
       "JP": "はすかさず折れたごぼうで反撃！",
@@ -2736,12 +2736,12 @@
     {
       "JP": "はすかさず$(6,0)で反撃！",
       "EN": " quickly counterattacks with $(6,1)!",
-      "Translation": "迅速用$(6,1)反击！"
+      "Translation": "迅速用$(9)反击！"
     },
     {
       "JP": "さらにそこから$(6,0)で反撃！",
       "EN": "And counterattacks with $(6,1)!",
-      "Translation": "然后用$(6,1)反击！"
+      "Translation": "然后用$(9)反击！"
     },
     {
       "JP": "はすかさず折れたごぼうで反撃！",
@@ -2849,7 +2849,7 @@
     {
       "JP": "沙耶の銃弾が折れた$(6,0)をはじいた！",
       "EN": "Saya's bullets repel $(6,1)!",
-      "Translation": "沙耶的子弹弹开了$(6,1)！"
+      "Translation": "沙耶的子弹弹开了$(9)！"
     },
     {
       "JP": "は攻撃することができなかった！",
@@ -2919,7 +2919,7 @@
     {
       "JP": "沙耶の銃弾が$(6,0)をはじいた！",
       "EN": "Saya's bullets repel the $(6,1)!",
-      "Translation": "沙耶的子弹弹开了$(6,1)！"
+      "Translation": "沙耶的子弹弹开了$(9)！"
     },
     {
       "JP": "は攻撃することができなかった！",

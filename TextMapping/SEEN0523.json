@@ -5629,7 +5629,7 @@
     {
       "JP": "`小毬@「$K25ゴゴティー$K0もあわせてどうぞ～」",
       "EN": "`Komari@❝And have some $K25Go-Go tea$K0～.❞",
-      "Translation": "`小毬@「和着$K25可可茶$K0喝吧～」"
+      "Translation": "`小毬@「和着$K(25)可可茶$K()喝吧～」"
     },
     {
       "JP": "`理樹@「ああ、うん。もらうよ」",
@@ -6779,7 +6779,7 @@
     {
       "JP": "`葉留佳@「ねーねー、理樹くん、$K107甜茶（てんちゃ）$K0買ってきてー、甜茶」",
       "EN": "`Haruka@❝Say, Riki-kun. Can you get me $K107Tencha tea$K0, please?❞",
-      "Translation": "`叶留佳@「呐－呐－，理树君，买$K107甜茶$K0给我啦－，甜茶」"
+      "Translation": "`叶留佳@「呐－呐－，理树君，买$K(107)甜茶$K()给我啦－，甜茶」"
     },
     {
       "JP": "早速脈絡がなかった！",
@@ -7594,12 +7594,12 @@
     {
       "JP": "`理樹@「いや、今ご飯食べてるし、その後さすらいたいんだ」",
       "EN": "`Riki@❝No, I'm having my lunch right now, and after that I'll be wandering around.❞",
-      "Translation": "`理树@「不，我在吃午饭，之后我还要去徘徊」"
+      "Translation": "`理树@「不，我在吃午饭，之后我还要去闲逛」"
     },
     {
       "JP": "`葉留佳@「さすらうんだったら、仕方ないデスネ」",
       "EN": "`Haruka@❝I guess it can't be helped then, if you're going wandering.❞",
-      "Translation": "`叶留佳@「那就没办法了，如果你要去徘徊的话」"
+      "Translation": "`叶留佳@「那就没办法了，如果你要去闲逛的话」"
     },
     {
       "JP": "`葉留佳@「ま、来た道戻るだけだから、ひとりでもだいじょうぶかなぁ～」",
@@ -12299,7 +12299,7 @@
     {
       "JP": "`理樹@「ごめん、ちょっとさすらってくるよ」",
       "EN": "`Riki@❝Sorry, but I'll wander for a bit.❞",
-      "Translation": "`理树@「抱歉，但我现在正在去徘徊」"
+      "Translation": "`理树@「抱歉，但我现在正在去闲逛」"
     },
     {
       "JP": "`恭介@「おう、気をつけてな」",
@@ -13504,7 +13504,7 @@
     {
       "JP": "`鈴@「それは…$K71のりたま$K0!?」",
       "EN": "`Rin@❝That is... $K71noritama$K0 seasoning!?❞",
-      "Translation": "`铃@「那是…$K71海苔鸡蛋碎$K0！？」"
+      "Translation": "`铃@「那是…$K(71)海苔鸡蛋碎$K()！？」"
     },
     {
       "JP": "ふりかけだった。",
@@ -16796,7 +16796,7 @@
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "徘徊$d休息"
+      "Translation": "闲逛$d休息"
     },
     {
       "JP": "屋上にいく$d[,(#12010==1)]中庭にいく$d学食にいく",
@@ -16811,7 +16811,7 @@
     {
       "JP": "[,(#12010==1)]中庭にいく$d学食にいく$dさすらう",
       "EN": "[,(#12010==1)]Go to the courtyard$dGo to the cafeteria$dWander",
-      "Translation": "[,(#12010==1)]去中庭$d去食堂$d徘徊"
+      "Translation": "[,(#12010==1)]去中庭$d去食堂$d闲逛"
     },
     {
       "JP": "屋上にいく$d学食にいく",
@@ -16826,12 +16826,12 @@
     {
       "JP": "あたしとメニューかぶるだろ！$dみんなの服に飛び散っただろ！！$dむしろおまえが浴びろ！！",
       "EN": "$S024Why did you have to choose the same!!$d$S024You're dirtying everybody's clothes with that soup!!$d$S024Why don't you bathe in the soup!!",
-      "Translation": "$S024为什么和我选一样的啊！！$d$S024都沾到别人衣服上了啊！！$d$S024为什么淋到汤的不是你啊！！"
+      "Translation": "为什么和我选一样的啊！！$d都沾到别人衣服上了啊！！$d为什么淋到汤的不是你啊！！"
     },
     {
       "JP": "手伝う$d断る$dさすらう",
       "EN": "Help her$dDon't help her$dWander",
-      "Translation": "帮她$d不帮她$d徘徊"
+      "Translation": "帮她$d不帮她$d闲逛"
     },
     {
       "JP": "手伝う$d断る",
@@ -16856,7 +16856,7 @@
     {
       "JP": "掃除する$d放っておく$dさすらう",
       "EN": "Clean up the room$dLeave it as it is$dWander",
-      "Translation": "整理活动室$d放着不管$d徘徊"
+      "Translation": "整理活动室$d放着不管$d闲逛"
     },
     {
       "JP": "掃除する$d放っておく",

@@ -84,7 +84,7 @@
     {
       "JP": "$(7,0)、一塁に牽制球――！",
       "EN": "$(7,1) throws a pickoff to first――!",
-      "Translation": "$(7,1)将牵制球投向一垒――！"
+      "Translation": "$(10)将牵制球投向一垒――！"
     },
     {
       "JP": "　",
@@ -114,7 +114,7 @@
     {
       "JP": "$(7,0)、二塁に牽制球――！",
       "EN": "$(7,1) throws a pickoff to second――!",
-      "Translation": "$(7,1)将牵制球投向二垒――！"
+      "Translation": "$(10)将牵制球投向二垒――！"
     },
     {
       "JP": "　",
@@ -144,7 +144,7 @@
     {
       "JP": "$(7,0)、三塁に牽制球――！",
       "EN": "$(7,1) throws a pickoff to third――!",
-      "Translation": "$(7,1)将牵制球投向三垒――！"
+      "Translation": "$(10)将牵制球投向三垒――！"
     },
     {
       "JP": "　",
@@ -414,12 +414,12 @@
     {
       "JP": "$(6,0)はバットを振った――$d",
       "EN": "$(6,1) swings the bat――\n",
-      "Translation": "$(6,1)挥棒――$d"
+      "Translation": "$(9)挥棒――$d"
     },
     {
       "JP": "$(6,0)はバントの構え――$d",
       "EN": "$(6,1) attempts a bunt――\n",
-      "Translation": "$(6,1)准备短打――$d"
+      "Translation": "$(9)准备短打――$d"
     },
     {
       "JP": "空振り。ストライク。",
@@ -449,12 +449,12 @@
     {
       "JP": "$(6,0)はバットを振った――$d",
       "EN": "$(6,1) swings the bat――\n",
-      "Translation": "$(6,1)挥棒――$d"
+      "Translation": "$(9)挥棒――$d"
     },
     {
       "JP": "$(6,0)はバントの構え――$d",
       "EN": "$(6,1) attempts a bunt――\n",
-      "Translation": "$(6,1)准备短打――$d"
+      "Translation": "$(9)准备短打――$d"
     },
     {
       "JP": "デッドボール！",
@@ -569,17 +569,17 @@
     {
       "JP": "$(7,0)、三塁へ送球するが――",
       "EN": "$(7,1) throws the ball to third―― ",
-      "Translation": "$(7,1) 向三垒传球―― "
+      "Translation": "$(10) 向三垒传球―― "
     },
     {
       "JP": "$(7,0)、三塁へ送球――！",
       "EN": "$(7,1) throws the ball to third――!",
-      "Translation": "$(7,1) 向三垒传球――!"
+      "Translation": "$(10) 向三垒传球――!"
     },
     {
       "JP": "$(7,0)、三塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws the ball to third! It's a close race――",
-      "Translation": "$(7,1) 向三垒传球! 千钧一发――"
+      "Translation": "$(10) 向三垒传球! 千钧一发――"
     },
     {
       "JP": "　",
@@ -609,17 +609,17 @@
     {
       "JP": "$(7,0)、二塁へ送球するが――",
       "EN": "$(7,1) throws the ball to second―― ",
-      "Translation": "$(7,1) 向二垒传球―― "
+      "Translation": "$(10) 向二垒传球―― "
     },
     {
       "JP": "$(7,0)、二塁へ送球――！",
       "EN": "$(7,1) throws the ball to second!",
-      "Translation": "$(7,1) 向二垒传球――！"
+      "Translation": "$(10) 向二垒传球――！"
     },
     {
       "JP": "$(7,0)、二塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws the ball to second! It's a close race――",
-      "Translation": "$(7,1) 向二垒传球！千钧一发――"
+      "Translation": "$(10) 向二垒传球！千钧一发――"
     },
     {
       "JP": "　",
@@ -679,17 +679,17 @@
     {
       "JP": "$(7,0)、急いでホームへ送球するが――",
       "EN": "$(7,1) hurries to throw the ball home―― ",
-      "Translation": "$(7,1) 立刻将球传向本垒―― "
+      "Translation": "$(10) 立刻将球传向本垒―― "
     },
     {
       "JP": "$(7,0)、急いでホームへ送球――！",
       "EN": "$(7,1) hurries to throw the ball home――!",
-      "Translation": "$(7,1) 立刻将球传向本垒――！"
+      "Translation": "$(10) 立刻将球传向本垒――！"
     },
     {
       "JP": "$(7,0)、急いでホームへ送球！　きわどいタイミング――",
       "EN": "$(7,1) hurries to throw the ball home! It's a close race――",
-      "Translation": "$(7,1) 立刻将球传向本垒―！千钧一发――"
+      "Translation": "$(10) 立刻将球传向本垒―！千钧一发――"
     },
     {
       "JP": "　",
@@ -804,7 +804,7 @@
     {
       "JP": "$(7,0)はボールをキャッチ！",
       "EN": "$(7,1) catches the ball!",
-      "Translation": "$(7,1)接住了球!"
+      "Translation": "$(10)接住了球!"
     },
     {
       "JP": "　",
@@ -814,7 +814,7 @@
     {
       "JP": "なんと、$(7,0)はボールをこぼしてしまった！",
       "EN": "Amazingly, $(7,1) drops the ball!",
-      "Translation": "天哪, $(7,1)掉球了！"
+      "Translation": "天哪, $(10)掉球了！"
     },
     {
       "JP": "　",
@@ -864,7 +864,7 @@
     {
       "JP": "$(7,0)はボールをキャッチ！",
       "EN": "$(7,1) catches the ball!",
-      "Translation": "$(7,1)接住了球！"
+      "Translation": "$(10)接住了球！"
     },
     {
       "JP": "　",
@@ -874,7 +874,7 @@
     {
       "JP": "なんと、$(7,0)はボールをこぼしてしまった！",
       "EN": "Amazingly, $(7,1) drops the ball!",
-      "Translation": "天哪，$(7,1)掉球了！"
+      "Translation": "天哪，$(10)掉球了！"
     },
     {
       "JP": "　",
@@ -924,7 +924,7 @@
     {
       "JP": "$(7,0)はボールをキャッチ！",
       "EN": "$(7,1) catches the ball!",
-      "Translation": "$(7,1)接住了球！"
+      "Translation": "$(10)接住了球！"
     },
     {
       "JP": "　",
@@ -934,7 +934,7 @@
     {
       "JP": "$(7,0)はボールをこぼしてしまった！　慌ててボールを拾う",
       "EN": "$(7,1) drops the ball and picks it up in a panic!",
-      "Translation": "$(7,1)掉球了！慌忙捡起了球"
+      "Translation": "$(10)掉球了！慌忙捡起了球"
     },
     {
       "JP": "　",
@@ -1039,7 +1039,7 @@
     {
       "JP": "$(7,0)はボールをキャッチ！",
       "EN": "$(7,1) catches the ball!",
-      "Translation": "$(7,1)接住了球！"
+      "Translation": "$(10)接住了球！"
     },
     {
       "JP": "　",
@@ -1454,7 +1454,7 @@
     {
       "JP": "$(7,0)、懸命に追うが届かない！",
       "EN": "$(7,1) frantically chases the ball but can't reach it!",
-      "Translation": "$(7,1) 拼命追赶但还是没能追上！"
+      "Translation": "$(10) 拼命追赶但还是没能追上！"
     },
     {
       "JP": "　",
@@ -1514,7 +1514,7 @@
     {
       "JP": "$(7,0)が打球に素早く反応する！",
       "EN": "$(7,1) instantly reacts to the ball!",
-      "Translation": "$(7,1)迅速对球做出反应！"
+      "Translation": "$(10)迅速对球做出反应！"
     },
     {
       "JP": "",
@@ -1524,7 +1524,7 @@
     {
       "JP": "$(7,0)はボールを捕球",
       "EN": "$(7,1) catches the ball!",
-      "Translation": "$(7,1)接住了球！"
+      "Translation": "$(10)接住了球！"
     },
     {
       "JP": "　",
@@ -1554,7 +1554,7 @@
     {
       "JP": "$(7,0)、バックホーム――",
       "EN": "$(7,1) throws to home plate―― ",
-      "Translation": "$(7,1)、传球到本垒――"
+      "Translation": "$(10)、传球到本垒――"
     },
     {
       "JP": "　",
@@ -1574,7 +1574,7 @@
     {
       "JP": "$(7,0)、三塁へ送球――",
       "EN": "$(7,1) throws to third―― ",
-      "Translation": "$(7,1)、传球到三垒――"
+      "Translation": "$(10)、传球到三垒――"
     },
     {
       "JP": "　",
@@ -1594,7 +1594,7 @@
     {
       "JP": "$(7,0)、二塁へ送球――",
       "EN": "$(7,1) throws to second―― ",
-      "Translation": "$(7,1)、传球到二垒――"
+      "Translation": "$(10)、传球到二垒――"
     },
     {
       "JP": "　",
@@ -1614,17 +1614,17 @@
     {
       "JP": "$(7,0)、一塁へ送球するが――",
       "EN": "$(7,1) throws to first―― ",
-      "Translation": "$(7,1)、传球到一垒――"
+      "Translation": "$(10)、传球到一垒――"
     },
     {
       "JP": "$(7,0)、一塁へ送球――",
       "EN": "$(7,1) throws to first―― ",
-      "Translation": "$(7,1)、传球到一垒――"
+      "Translation": "$(10)、传球到一垒――"
     },
     {
       "JP": "$(7,0)、一塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws to first! It's a close race――",
-      "Translation": "$(7,1)、传球到一垒！　千钧一发――"
+      "Translation": "$(10)、传球到一垒！　千钧一发――"
     },
     {
       "JP": "　",
@@ -1684,7 +1684,7 @@
     {
       "JP": "$(7,0)、一塁へ送球――",
       "EN": "$(7,1) throws to first―― ",
-      "Translation": "$(7,1)、传球到一垒――"
+      "Translation": "$(10)、传球到一垒――"
     },
     {
       "JP": "　",
@@ -1704,7 +1704,7 @@
     {
       "JP": "$(7,0)、バックホーム――",
       "EN": "$(7,1) throws to home plate―― ",
-      "Translation": "$(7,1)、传球到本垒――"
+      "Translation": "$(10)、传球到本垒――"
     },
     {
       "JP": "　",
@@ -1724,7 +1724,7 @@
     {
       "JP": "$(7,0)、三塁へ送球――",
       "EN": "$(7,1) throws to third―― ",
-      "Translation": "$(7,1) 传球到三垒――"
+      "Translation": "$(10) 传球到三垒――"
     },
     {
       "JP": "　",
@@ -1744,7 +1744,7 @@
     {
       "JP": "$(7,0)、二塁へ送球――",
       "EN": "$(7,1) throws to second―― ",
-      "Translation": "$(7,1) 传球到二垒――"
+      "Translation": "$(10) 传球到二垒――"
     },
     {
       "JP": "　",
@@ -1764,7 +1764,7 @@
     {
       "JP": "$(7,0)、一塁へ送球――",
       "EN": "$(7,1) throws to first―― ",
-      "Translation": "$(7,1) 传球到一垒――"
+      "Translation": "$(10) 传球到一垒――"
     },
     {
       "JP": "　",
@@ -1784,7 +1784,7 @@
     {
       "JP": "$(7,0)、バックホーム――",
       "EN": "$(7,1) throws to home plate―― ",
-      "Translation": "$(7,1) 传球到本垒――"
+      "Translation": "$(10) 传球到本垒――"
     },
     {
       "JP": "　",
@@ -1804,7 +1804,7 @@
     {
       "JP": "$(7,0)、三塁へ送球――",
       "EN": "$(7,1) throws to third―― ",
-      "Translation": "$(7,1) 把球传向三垒――"
+      "Translation": "$(10) 把球传向三垒――"
     },
     {
       "JP": "　",
@@ -1824,7 +1824,7 @@
     {
       "JP": "$(7,0)、二塁へ送球――",
       "EN": "$(7,1) throws to second―― ",
-      "Translation": "$(7,1) 把球传向二垒――"
+      "Translation": "$(10) 把球传向二垒――"
     },
     {
       "JP": "　",
@@ -1844,17 +1844,17 @@
     {
       "JP": "$(7,0)、一塁へ送球するが――",
       "EN": "$(7,1) throws to first―― ",
-      "Translation": "$(7,1) 把球传向一垒――"
+      "Translation": "$(10) 把球传向一垒――"
     },
     {
       "JP": "$(7,0)、一塁へ送球――",
       "EN": "$(7,1) throws to first―― ",
-      "Translation": "$(7,1) 把球传向一垒――"
+      "Translation": "$(10) 把球传向一垒――"
     },
     {
       "JP": "$(7,0)、一塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws to first! It's a close race――",
-      "Translation": "$(7,1) 把球传向一垒！ 千钧一发――"
+      "Translation": "$(10) 把球传向一垒！ 千钧一发――"
     },
     {
       "JP": "　",
@@ -1924,12 +1924,12 @@
     {
       "JP": "$(7,0)、バックホーム！",
       "EN": "$(7,1) throws to home plate!",
-      "Translation": "$(7,1) 把球传向本垒！"
+      "Translation": "$(10) 把球传向本垒！"
     },
     {
       "JP": "$(7,0)、バックホーム！　きわどいタイミング――",
       "EN": "$(7,1) throws to home plate! It's a close race――",
-      "Translation": "$(7,1) 把球传向本垒！ 千钧一发――"
+      "Translation": "$(10) 把球传向本垒！ 千钧一发――"
     },
     {
       "JP": "　",
@@ -2014,12 +2014,12 @@
     {
       "JP": "$(7,0)、三塁へ送球！",
       "EN": "$(7,1) throws to third!",
-      "Translation": "$(7,1) 把球传向三垒！"
+      "Translation": "$(10) 把球传向三垒！"
     },
     {
       "JP": "$(7,0)、三塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws the ball to third! It's a close race――",
-      "Translation": "$(7,1) 把球传向三垒！千钧一发――"
+      "Translation": "$(10) 把球传向三垒！千钧一发――"
     },
     {
       "JP": "　",
@@ -2069,12 +2069,12 @@
     {
       "JP": "$(7,0)、二塁へ送球！",
       "EN": "$(7,1) throws to second! ",
-      "Translation": "$(7,1) 把球传向二垒！"
+      "Translation": "$(10) 把球传向二垒！"
     },
     {
       "JP": "$(7,0)、二塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws the ball to second! It's a close race――",
-      "Translation": "$(7,1) 把球传向二垒！ 千钧一发――"
+      "Translation": "$(10) 把球传向二垒！ 千钧一发――"
     },
     {
       "JP": "　",
@@ -2114,17 +2114,17 @@
     {
       "JP": "$(7,0)、一塁へ送球するが――",
       "EN": "$(7,1) throws to first―― ",
-      "Translation": "$(7,1) 把球传向一垒――"
+      "Translation": "$(10) 把球传向一垒――"
     },
     {
       "JP": "$(7,0)、一塁へ送球！",
       "EN": "$(7,1) throws to first! ",
-      "Translation": "$(7,1) 把球传向一垒！"
+      "Translation": "$(10) 把球传向一垒！"
     },
     {
       "JP": "$(7,0)、一塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws to first! It's a close race――",
-      "Translation": "$(7,1) 把球传向一垒！ 千钧一发―"
+      "Translation": "$(10) 把球传向一垒！ 千钧一发―"
     },
     {
       "JP": "　",
@@ -2164,7 +2164,7 @@
     {
       "JP": "$(7,0)を強襲！　ボールをはじいてしまった！　慌ててボールを拾う",
       "EN": "$(7,1) has dropped the ball! What a thing to happen! It's being picked up in a panic.",
-      "Translation": "$(7,1) 强袭！ 球被打飞了！ 慌忙捡起球"
+      "Translation": "$(10) 强袭！ 球被打飞了！ 慌忙捡起球"
     },
     {
       "JP": "　",
@@ -2214,7 +2214,7 @@
     {
       "JP": "$(7,0)はボールを捕り損ねてしまった！",
       "EN": "$(7,1) fails to catch the ball!",
-      "Translation": "$(7,1)没能接住球！"
+      "Translation": "$(10)没能接住球！"
     },
     {
       "JP": "　",
@@ -2274,7 +2274,7 @@
     {
       "JP": "$(7,0)はボールをはじいてしまった！　慌ててボールを拾う",
       "EN": "$(7,1) fumbles the ball and picks it up in a panic!",
-      "Translation": "$(7,1)弹开了球！慌忙捡起球。"
+      "Translation": "$(10)弹开了球！慌忙捡起球。"
     },
     {
       "JP": "　",
@@ -2494,7 +2494,7 @@
     {
       "JP": "$(7,0)、懸命に追うが届かない！",
       "EN": "$(7,1) frantically chases the ball but can't reach it!",
-      "Translation": "$(7,1)拼命追赶，但还是没能接到！"
+      "Translation": "$(10)拼命追赶，但还是没能接到！"
     },
     {
       "JP": "　",
@@ -2554,7 +2554,7 @@
     {
       "JP": "$(7,0)を強襲！　ボールをはじいてしまった！　慌ててボールを拾う",
       "EN": "$(7,1) has dropped the ball! What a thing to happen! It's being picked up in a panic.",
-      "Translation": "$(7,1)被球击中！球弹开了！慌忙捡起球"
+      "Translation": "$(10)被球击中！球弹开了！慌忙捡起球"
     },
     {
       "JP": "　",
@@ -2604,7 +2604,7 @@
     {
       "JP": "$(7,0)が打球に素早く反応する！",
       "EN": "$(7,1) instantly reacts to the ball!",
-      "Translation": "$(7,1)迅速反应接球！"
+      "Translation": "$(10)迅速反应接球！"
     },
     {
       "JP": "",
@@ -2614,7 +2614,7 @@
     {
       "JP": "$(7,0)、ボールをキャッチ！",
       "EN": "$(7,1) catches the ball!",
-      "Translation": "$(7,1)接住了球！"
+      "Translation": "$(10)接住了球！"
     },
     {
       "JP": "　",
@@ -2684,7 +2684,7 @@
     {
       "JP": "$(7,0)、三塁へ送球――",
       "EN": "$(7,1) throws to third―― ",
-      "Translation": "$(7,1)传球到三垒――"
+      "Translation": "$(10)传球到三垒――"
     },
     {
       "JP": "　",
@@ -2704,7 +2704,7 @@
     {
       "JP": "$(7,0)、二塁へ送球――",
       "EN": "$(7,1) throws to second―― ",
-      "Translation": "$(7,1)传球到二垒――"
+      "Translation": "$(10)传球到二垒――"
     },
     {
       "JP": "　",
@@ -2724,7 +2724,7 @@
     {
       "JP": "$(7,0)、一塁へ送球――",
       "EN": "$(7,1) throws to first―― ",
-      "Translation": "$(7,1)传球到一垒――"
+      "Translation": "$(10)传球到一垒――"
     },
     {
       "JP": "　",
@@ -2744,7 +2744,7 @@
     {
       "JP": "$(7,0)、三塁へ送球、きわどいタイミング――",
       "EN": "$(7,1) throws to third! It's a close race――",
-      "Translation": "$(7,1)传球到三垒，千钧一发――"
+      "Translation": "$(10)传球到三垒，千钧一发――"
     },
     {
       "JP": "　",
@@ -2774,7 +2774,7 @@
     {
       "JP": "$(7,0)、二塁へ送球、きわどいタイミング――",
       "EN": "$(7,1) throws to second! It's a close race――",
-      "Translation": "$(7,1)传球到二垒，千钧一发――"
+      "Translation": "$(10)传球到二垒，千钧一发――"
     },
     {
       "JP": "　",
@@ -2804,7 +2804,7 @@
     {
       "JP": "$(7,0)、一塁へ送球、きわどいタイミング――",
       "EN": "$(7,1) throws to first! It's a close race――",
-      "Translation": "$(7,1)传球到一垒，千钧一发――"
+      "Translation": "$(10)传球到一垒，千钧一发――"
     },
     {
       "JP": "　",
@@ -2834,7 +2834,7 @@
     {
       "JP": "$(7,0)はボールを捕り損ねてしまった！",
       "EN": "$(7,1) fails to catch the ball!",
-      "Translation": "$(7,1)没能接住球！"
+      "Translation": "$(10)没能接住球！"
     },
     {
       "JP": "　",
@@ -2894,7 +2894,7 @@
     {
       "JP": "$(7,0)はボールをはじいてしまった！　慌ててボールを拾う",
       "EN": "$(7,1) fumbles the ball and picks it up in a panic!",
-      "Translation": "$(7,1)弹开了球！慌忙捡起球"
+      "Translation": "$(10)弹开了球！慌忙捡起球"
     },
     {
       "JP": "　",
@@ -2984,7 +2984,7 @@
     {
       "JP": "$(7,0)はボールをキャッチ！",
       "EN": "$(7,1) catches the ball!",
-      "Translation": "$(7,1)接住了球！"
+      "Translation": "$(10)接住了球！"
     },
     {
       "JP": "　",
@@ -2994,7 +2994,7 @@
     {
       "JP": "$(7,0)はボールをこぼしてしまった！　慌ててボールを拾う",
       "EN": "$(7,1) drops the ball and picks it up in a panic!",
-      "Translation": "$(7,1)没接住球，慌忙捡起球"
+      "Translation": "$(10)没接住球，慌忙捡起球"
     },
     {
       "JP": "　",
@@ -3154,7 +3154,7 @@
     {
       "JP": "$(7,0)はノーバウンドでボールをキャッチ！",
       "EN": "$(7,1) catches the ball in flight!",
-      "Translation": "$(7,1)无反弹接住了球！"
+      "Translation": "$(10)无反弹接住了球！"
     },
     {
       "JP": "　",
@@ -3164,7 +3164,7 @@
     {
       "JP": "$(7,0)はボールをこぼしてしまった！　慌ててボールを拾う",
       "EN": "$(7,1) drops the ball and picks it up in a panic!",
-      "Translation": "$(7,1)没接住球，慌忙捡起球"
+      "Translation": "$(10)没接住球，慌忙捡起球"
     },
     {
       "JP": "　",
@@ -3184,7 +3184,7 @@
     {
       "JP": "$(7,0)はボールに追いついた！　急いで捕球！",
       "EN": "$(7,1) catches up with the ball and picks it up!",
-      "Translation": "$(7,1)追上了球，急忙捡起！"
+      "Translation": "$(10)追上了球，急忙捡起！"
     },
     {
       "JP": "　",
@@ -3274,7 +3274,7 @@
     {
       "JP": "$(7,0)、懸命に追うが届かない！",
       "EN": "$(7,1) frantically chases the ball but can't reach it!",
-      "Translation": "$(7,1)拼命追球但没追上！"
+      "Translation": "$(10)拼命追球但没追上！"
     },
     {
       "JP": "　",
@@ -3294,7 +3294,7 @@
     {
       "JP": "$(7,0)はボールに追いついた！　急いで捕球！",
       "EN": "$(7,1) catches up with the ball and picks it up!",
-      "Translation": "$(7,1)追上了球，急忙捡起！"
+      "Translation": "$(10)追上了球，急忙捡起！"
     },
     {
       "JP": "　",
@@ -3304,7 +3304,7 @@
     {
       "JP": "$(7,0)はワンバウンドでボールを捕球",
       "EN": "$(7,1) catches the ball on the first bounce.",
-      "Translation": "$(7,1)一弹接住了球"
+      "Translation": "$(10)一弹接住了球"
     },
     {
       "JP": "　",
@@ -3314,7 +3314,7 @@
     {
       "JP": "$(7,0)がものすごい勢いでボールを追う！",
       "EN": "$(7,1) hastily chases after the ball!",
-      "Translation": "$(7,1)拼命追球！"
+      "Translation": "$(10)拼命追球！"
     },
     {
       "JP": "",
@@ -3324,7 +3324,7 @@
     {
       "JP": "$(7,0)はノーバウンドでボールをキャッチ！",
       "EN": "$(7,1) catches the ball in flight!",
-      "Translation": "$(7,1)无反弹接住了球！"
+      "Translation": "$(10)无反弹接住了球！"
     },
     {
       "JP": "　",
@@ -3334,7 +3334,7 @@
     {
       "JP": "$(7,0)はボールを捕り損ねてしまった！",
       "EN": "$(7,1) fails to catch the ball!",
-      "Translation": "$(7,1)没接住球！"
+      "Translation": "$(10)没接住球！"
     },
     {
       "JP": "　",
@@ -3354,7 +3354,7 @@
     {
       "JP": "$(7,0)はボールに追いついた！　急いで捕球！",
       "EN": "$(7,1) catches up with the ball and picks it up!",
-      "Translation": "$(7,1)追上了球，急忙捡起！"
+      "Translation": "$(10)追上了球，急忙捡起！"
     },
     {
       "JP": "　",
@@ -3364,7 +3364,7 @@
     {
       "JP": "$(7,0)はボールをはじいてしまった！　慌ててボールを拾う",
       "EN": "$(7,1) fumbles the ball and picks it up in a panic!",
-      "Translation": "$(7,1)弹开了球，慌忙捡起"
+      "Translation": "$(10)弹开了球，慌忙捡起"
     },
     {
       "JP": "　",
@@ -3384,7 +3384,7 @@
     {
       "JP": "$(7,0)はボールに追いついた！　急いで捕球！",
       "EN": "$(7,1) catches up with the ball and picks it up!",
-      "Translation": "$(7,1)追上了球，急忙捡起！"
+      "Translation": "$(10)追上了球，急忙捡起！"
     },
     {
       "JP": "　",
@@ -3459,7 +3459,7 @@
     {
       "JP": "$(7,0)、懸命に追うが届かない！",
       "EN": "$(7,1) frantically chases the ball but can't reach it!",
-      "Translation": "$(7,1)拼命追赶但没能赶上！"
+      "Translation": "$(10)拼命追赶但没能赶上！"
     },
     {
       "JP": "　",
@@ -3479,7 +3479,7 @@
     {
       "JP": "$(7,0)はボールに追いついた！　急いで捕球！",
       "EN": "$(7,1) catches up with the ball and picks it up!",
-      "Translation": "$(7,1)追上了球！急忙接住！"
+      "Translation": "$(10)追上了球！急忙接住！"
     },
     {
       "JP": "　",
@@ -3489,7 +3489,7 @@
     {
       "JP": "$(7,0)がものすごい勢いでボールを追う！",
       "EN": "$(7,1) hastily chases after the ball!",
-      "Translation": "$(7,1)以惊人的速度追赶球！"
+      "Translation": "$(10)以惊人的速度追赶球！"
     },
     {
       "JP": "",
@@ -3499,7 +3499,7 @@
     {
       "JP": "$(7,0)はノーバウンドでボールをキャッチ！",
       "EN": "$(7,1) catches the ball in flight!",
-      "Translation": "$(7,1)无弹跳接住了球！"
+      "Translation": "$(10)无弹跳接住了球！"
     },
     {
       "JP": "　",
@@ -3509,7 +3509,7 @@
     {
       "JP": "$(7,0)はボールを捕り損ねてしまった！",
       "EN": "$(7,1) fails to catch the ball!",
-      "Translation": "$(7,1)没能接住球！"
+      "Translation": "$(10)没能接住球！"
     },
     {
       "JP": "　",
@@ -3529,7 +3529,7 @@
     {
       "JP": "$(7,0)はボールに追いついた！　急いで捕球！",
       "EN": "$(7,1) catches up with the ball and picks it up!",
-      "Translation": "$(7,1)追上了球！急忙接住！"
+      "Translation": "$(10)追上了球！急忙接住！"
     },
     {
       "JP": "　",
@@ -3539,7 +3539,7 @@
     {
       "JP": "$(7,0)はボールをはじいてしまった！　慌ててボールを拾う",
       "EN": "$(7,1) fumbles the ball and picks it up in a panic!",
-      "Translation": "$(7,1)弹开了球！慌忙捡起球"
+      "Translation": "$(10)弹开了球！慌忙捡起球"
     },
     {
       "JP": "　",
@@ -3559,7 +3559,7 @@
     {
       "JP": "$(7,0)はボールに追いついた！　急いで捕球！",
       "EN": "$(7,1) catches up with the ball and picks it up!",
-      "Translation": "$(7,1)追上了球！急忙接住！"
+      "Translation": "$(10)追上了球！急忙接住！"
     },
     {
       "JP": "　",
@@ -3619,7 +3619,7 @@
     {
       "JP": "$(7,0)、懸命に追うが届かない！",
       "EN": "$(7,1) frantically chases the ball but can't reach it!",
-      "Translation": "$(7,1)拼命追赶但没能赶上！"
+      "Translation": "$(10)拼命追赶但没能赶上！"
     },
     {
       "JP": "　",
@@ -3639,7 +3639,7 @@
     {
       "JP": "$(7,0)はボールに追いついた！　急いで捕球！",
       "EN": "$(7,1) catches up with the ball and picks it up!",
-      "Translation": "$(7,1)追上了球！急忙接住！"
+      "Translation": "$(10)追上了球！急忙接住！"
     },
     {
       "JP": "　",
@@ -3649,7 +3649,7 @@
     {
       "JP": "$(7,0)がものすごい勢いでボールを追う！",
       "EN": "$(7,1) hastily chases after the ball!",
-      "Translation": "$(7,1)以惊人的速度追赶球！"
+      "Translation": "$(10)以惊人的速度追赶球！"
     },
     {
       "JP": "",
@@ -3659,7 +3659,7 @@
     {
       "JP": "$(7,0)はノーバウンドでボールをキャッチ！",
       "EN": "$(7,1) catches the ball in flight!",
-      "Translation": "$(7,1)无弹跳接住了球！"
+      "Translation": "$(10)无弹跳接住了球！"
     },
     {
       "JP": "　",
@@ -3669,7 +3669,7 @@
     {
       "JP": "$(7,0)はボールをはじいてしまった！　慌ててボールを拾う",
       "EN": "$(7,1) fumbles the ball and picks it up in a panic!",
-      "Translation": "$(7,1)弹开了球！慌忙捡起球"
+      "Translation": "$(10)弹开了球！慌忙捡起球"
     },
     {
       "JP": "　",
@@ -3689,7 +3689,7 @@
     {
       "JP": "$(7,0)はボールに追いついた！　急いで捕球！",
       "EN": "$(7,1) catches up with the ball and picks it up!",
-      "Translation": "$(7,1)追上了球！急忙接住！"
+      "Translation": "$(10)追上了球！急忙接住！"
     },
     {
       "JP": "　",
@@ -3749,7 +3749,7 @@
     {
       "JP": "$(7,0)、懸命に追うが追いつけない！",
       "EN": "$(7,1) hastily chases after the ball but can't reach it!",
-      "Translation": "$(7,1)拼命追赶但没能赶上！"
+      "Translation": "$(10)拼命追赶但没能赶上！"
     },
     {
       "JP": "　",
@@ -3769,7 +3769,7 @@
     {
       "JP": "$(7,0)がものすごい勢いでボールを追う！",
       "EN": "$(7,1) hastily chases after the ball!",
-      "Translation": "$(7,1)以惊人的速度追赶球！"
+      "Translation": "$(10)以惊人的速度追赶球！"
     },
     {
       "JP": "",
@@ -3779,7 +3779,7 @@
     {
       "JP": "$(7,0)、ボールに追いつきキャッチ！",
       "EN": "$(7,1) runs for the ball and catches it!",
-      "Translation": "$(7,1)追上了球并接住了！"
+      "Translation": "$(10)追上了球并接住了！"
     },
     {
       "JP": "　",
@@ -4124,17 +4124,17 @@
     {
       "JP": "$(7,0)、バックホームするが――",
       "EN": "$(7,1) throws to home plate―― ",
-      "Translation": "$(7,1)传球回本垒，但——"
+      "Translation": "$(10)传球回本垒，但——"
     },
     {
       "JP": "$(7,0)、バックホーム！",
       "EN": "$(7,1) throws to home plate!",
-      "Translation": "$(7,1)传球回本垒！"
+      "Translation": "$(10)传球回本垒！"
     },
     {
       "JP": "$(7,0)、バックホーム！　きわどいタイミング――",
       "EN": "$(7,1) throws to home plate! It's a close race――",
-      "Translation": "$(7,1)传球回本垒！ 千钧一发——"
+      "Translation": "$(10)传球回本垒！ 千钧一发——"
     },
     {
       "JP": "　",
@@ -4144,17 +4144,17 @@
     {
       "JP": "$(7,0)、三塁へ送球するが――",
       "EN": "$(7,1) throws the ball to third―― ",
-      "Translation": "$(7,1)传球到三垒，但——"
+      "Translation": "$(10)传球到三垒，但——"
     },
     {
       "JP": "$(7,0)、三塁へ送球！",
       "EN": "$(7,1) throws to third!",
-      "Translation": "$(7,1)传球到三垒！"
+      "Translation": "$(10)传球到三垒！"
     },
     {
       "JP": "$(7,0)、三塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws the ball to third! It's a close race――",
-      "Translation": "$(7,1)传球到三垒！ 千钧一发——"
+      "Translation": "$(10)传球到三垒！ 千钧一发——"
     },
     {
       "JP": "　",
@@ -4164,17 +4164,17 @@
     {
       "JP": "$(7,0)、二塁へ送球するが――",
       "EN": "$(7,1) throws the ball to second―― ",
-      "Translation": "$(7,1)传球到二垒，但——"
+      "Translation": "$(10)传球到二垒，但——"
     },
     {
       "JP": "$(7,0)、二塁へ送球！",
       "EN": "$(7,1) throws to second! ",
-      "Translation": "$(7,1)传球到二垒！"
+      "Translation": "$(10)传球到二垒！"
     },
     {
       "JP": "$(7,0)、二塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws the ball to second! It's a close race――",
-      "Translation": "$(7,1)传球到二垒！ 千钧一发——"
+      "Translation": "$(10)传球到二垒！ 千钧一发——"
     },
     {
       "JP": "　",
@@ -4369,17 +4369,17 @@
     {
       "JP": "$(7,0)、バックホームするが――",
       "EN": "$(7,1) throws to home plate―― ",
-      "Translation": "$(7,1)传球回本垒，但——"
+      "Translation": "$(10)传球回本垒，但——"
     },
     {
       "JP": "$(7,0)、バックホーム！",
       "EN": "$(7,1) throws to home plate!",
-      "Translation": "$(7,1)传球回本垒！"
+      "Translation": "$(10)传球回本垒！"
     },
     {
       "JP": "$(7,0)、バックホーム！　きわどいタイミング――",
       "EN": "$(7,1) throws to home plate! It's a close race――",
-      "Translation": "$(7,1)传球回本垒！ 千钧一发——"
+      "Translation": "$(10)传球回本垒！ 千钧一发——"
     },
     {
       "JP": "　",
@@ -4389,17 +4389,17 @@
     {
       "JP": "$(7,0)、三塁へ送球するが――",
       "EN": "$(7,1) throws the ball to third―― ",
-      "Translation": "$(7,1)传球到三垒，但——"
+      "Translation": "$(10)传球到三垒，但——"
     },
     {
       "JP": "$(7,0)、三塁へ送球！",
       "EN": "$(7,1) throws to third!",
-      "Translation": "$(7,1)传球到三垒！"
+      "Translation": "$(10)传球到三垒！"
     },
     {
       "JP": "$(7,0)、三塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws the ball to third! It's a close race――",
-      "Translation": "$(7,1)传球到三垒！ 千钧一发——"
+      "Translation": "$(10)传球到三垒！ 千钧一发——"
     },
     {
       "JP": "　",
@@ -4409,17 +4409,17 @@
     {
       "JP": "$(7,0)、二塁へ送球するが――",
       "EN": "$(7,1) throws the ball to second―― ",
-      "Translation": "$(7,1)传球到二垒，但——"
+      "Translation": "$(10)传球到二垒，但——"
     },
     {
       "JP": "$(7,0)、二塁へ送球！",
       "EN": "$(7,1) throws to second! ",
-      "Translation": "$(7,1)传球到二垒！"
+      "Translation": "$(10)传球到二垒！"
     },
     {
       "JP": "$(7,0)、二塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws the ball to second! It's a close race――",
-      "Translation": "$(7,1)传球到二垒！ 千钧一发——"
+      "Translation": "$(10)传球到二垒！ 千钧一发——"
     },
     {
       "JP": "　",

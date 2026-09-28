@@ -7405,7 +7405,7 @@
     {
       "JP": "`真人@「…昼から$K36伊勢エビ$K0なんていいなぁ」",
       "EN": "`Masato@❝...Isn't it great, getting to eat $K36Ise shrimp$K0 for lunch...❞",
-      "Translation": "`真人@「…大白天就吃$K36伊势虾$K0，真好啊」"
+      "Translation": "`真人@「…大白天就吃$K(36)伊势虾$K()，真好啊」"
     },
     {
       "JP": "`理樹@「うわぁぁぁ、わけがわからない！　飲み物繋がりだったらなんでもありなのか!?」",
@@ -11310,7 +11310,7 @@
     {
       "JP": "使い込まれた$K104畳$K0に$K105ちゃぶ台$K0。",
       "EN": "The $K105tea-table$K0 on the worn-out $K104tatami$K0 mat.",
-      "Translation": "用了很久的$K105饭桌$K0放在$K104榻榻米$K0上。"
+      "Translation": "用了很久的$K(105)饭桌$K()放在$K(104)榻榻米$K()上。"
     },
     {
       "JP": "`クド@「お待たせしました」",
@@ -14605,7 +14605,7 @@
     {
       "JP": "`来ヶ谷@「$K100ふんどし$K0のほうが良かったか？」",
       "EN": "`Kurugaya@❝Would you like a $K100sumo loincloth$K0 better?❞",
-      "Translation": "`来谷@「$K100兜裆布$K0的话更好吗？」"
+      "Translation": "`来谷@「$K(100)兜裆布$K()的话更好吗？」"
     },
     {
       "JP": "`理樹@「もっといやだよっ!!」",
@@ -14730,7 +14730,7 @@
     {
       "JP": "`来ヶ谷@「理樹君$K61萌え$K0ーと言いたいようだ」",
       "EN": "`Kurugaya@❝❛Riki-kun $K61moe$K0～,❜ is what she seems to want to say.❞",
-      "Translation": "`来谷@「她好像是想说理树君好$K61萌$K0啊－」"
+      "Translation": "`来谷@「她好像是想说理树君好$K(61)萌$K()啊－」"
     },
     {
       "JP": "`西園@「ち、違いますっ！　来ヶ谷さんと一緒にしないでくださいっ!!」",
@@ -16077,7 +16077,7 @@
     {
       "JP": "教室に戻る$d真人と遊ぶ$dさすらう",
       "EN": "Go back to the classroom$dPlay with Masato$dWander",
-      "Translation": "回教室$d和真人玩$d徘徊"
+      "Translation": "回教室$d和真人玩$d闲逛"
     },
     {
       "JP": "中庭にいく$d裏庭にいく$d学食にいく",
@@ -16117,7 +16117,7 @@
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "徘徊$d休息"
+      "Translation": "闲逛$d休息"
     },
     {
       "JP": "[,(#12008==1)]クドに頷いた$dクドに首を振った",

@@ -55,7 +55,7 @@
     {
       "JP": "ただ、あの後、$(2,0)がどうなったのか、後でクラスに寄って確かめてみよう。",
       "EN": "I wonder what happened to $(2,1) after that. I'll go to her class and check later.",
-      "Translation": "不过，之后$(2,0)怎么样了，之后去她的班级确认一下吧。"
+      "Translation": "不过，之后$(4)怎么样了，之后去她的班级确认一下吧。"
     },
     {
       "JP": "一時間目を終えた後、僕は一目散に彼女のクラスを目指した。",
@@ -1755,7 +1755,7 @@
     {
       "JP": "生卵、海苔、$K32ひじき$K0の煮付け、冷蔵庫から鮭の切り身も出てきた。",
       "EN": "Eggs, laver, $K32hijiki$K0 cooked in soy sauce, and filleted salmon.",
-      "Translation": "生鸡蛋、海苔、煮好的$K32羊栖菜$K0、还有从冰箱里面拿出来的切好的鲑鱼肉。"
+      "Translation": "生鸡蛋、海苔、煮好的$K(32)羊栖菜$K()、还有从冰箱里面拿出来的切好的鲑鱼肉。"
     },
     {
       "JP": "大きな釜ではご飯も焚けていた。",
@@ -3865,7 +3865,7 @@
     {
       "JP": "`クド@「$K18どきどき$K0…」",
       "EN": "`Kud@❝$K18Doki doki$K0...❞",
-      "Translation": "`库特@「$K18Doki Doki$K0…」"
+      "Translation": "`库特@「$K(18)Doki Doki$K()…」"
     },
     {
       "JP": "緊張を口に出して小毬さんの返事を待つ。",
@@ -3995,7 +3995,7 @@
     {
       "JP": "`クド@「『$K37よいではないか$K0よいではないか』『あれぇ～』と回すのですっ」",
       "EN": "`Kud@❝I'll spin her around and around, saying ❛$K37Isn't this fun?$K0 Isn't this fun?❜ and make her say ❛Oh no～.❜❞",
-      "Translation": "`库特@「我要一边转一边说『$K37不也很好吗$K0不也很好吗』『啊咧～』」"
+      "Translation": "`库特@「我要一边转一边说『$K(37)不也很好吗$K()不也很好吗』『啊咧～』」"
     },
     {
       "JP": "`クド@「………」",
@@ -5670,7 +5670,7 @@
     {
       "JP": "`クド@「例えば…そうですね、$K115うどん$K0そばとか」",
       "EN": "`Kud@❝An example... Well, something like $K115udon$K0-soba.❞",
-      "Translation": "`库特@「比方说…是呢、比如说$K115乌冬$K0荞麦面如何」"
+      "Translation": "`库特@「比方说…是呢、比如说$K(115)乌冬$K()荞麦面如何」"
     },
     {
       "JP": "`理樹@「うどんそば!?」",
@@ -9105,7 +9105,7 @@
     {
       "JP": "`理樹@「私情で誠に申し訳ないのですが、これからさすらうので無理です」",
       "EN": "`Riki@❝I'm truly sorry, but I must wander around now, so I can't do it.❞",
-      "Translation": "`理树@「真的很抱歉，我现在正徘徊，所以暂时做不了」"
+      "Translation": "`理树@「真的很抱歉，我现在正在闲逛，所以暂时做不了」"
     },
     {
       "JP": "`教師@「そうか…よくわからんが戦う男の目つきになっているから、仕方があるまい…」",
@@ -11605,7 +11605,7 @@
     {
       "JP": "`鈴@「$K48駒田$K0」",
       "EN": "`Rin@❝$K48Komada$K0.❞",
-      "Translation": "`铃@「$K48驹田$K0」"
+      "Translation": "`铃@「$K(48)驹田$K()」"
     },
     {
       "JP": "`小毬@「ふえええっ!?」",
@@ -11920,7 +11920,7 @@
     {
       "JP": "よし、さすらうぞ。",
       "EN": "Alright, I'll wander around.",
-      "Translation": "好，去徘徊吧。"
+      "Translation": "好，去闲逛吧。"
     },
     {
       "JP": "出てこい。強敵め。",
@@ -11940,7 +11940,7 @@
     {
       "JP": "`理樹@「え？　今？　さすらってるところだけど…」",
       "EN": "`Riki@❝Huh? Right now? I'm wandering around...❞",
-      "Translation": "`理树@「啊？现在？我在徘徊…」"
+      "Translation": "`理树@「啊？现在？我在闲逛…」"
     },
     {
       "JP": "`朱鷺戸@「何考えてるの、あなた」",
@@ -14522,7 +14522,7 @@
     {
       "JP": "さすらう$d休む",
       "EN": "Wander$dTake a break",
-      "Translation": "徘徊$d休息一下"
+      "Translation": "闲逛$d休息一下"
     },
     {
       "JP": "学食に戻る$d中庭に残る",
@@ -14537,12 +14537,12 @@
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "徘徊$d休息"
+      "Translation": "闲逛$d休息"
     },
     {
       "JP": "ジュースを買いに行く$d真人と遊ぶ$dさすらう",
       "EN": "Go buy juice$dPlay with Masato$dWander",
-      "Translation": "去买果汁$d和真人玩$d徘徊"
+      "Translation": "去买果汁$d和真人玩$d闲逛"
     },
     {
       "JP": "ジュースを買いに行く$d真人と遊ぶ",
@@ -14552,7 +14552,7 @@
     {
       "JP": "引き受ける$dちょっと考える$dさすらう",
       "EN": "Take on the task$dGive it some thought$dWander",
-      "Translation": "接受$d我想一下$d徘徊"
+      "Translation": "接受$d我想一下$d闲逛"
     },
     {
       "JP": "引き受ける$dちょっと考える",
@@ -14567,7 +14567,7 @@
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "徘徊$d休息"
+      "Translation": "闲逛$d休息"
     },
     {
       "JP": "やや好き$d好き$d大好き",

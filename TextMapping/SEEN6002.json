@@ -3768,7 +3768,7 @@
     {
       "JP": "ラーメン？　$K29餃子$K0セット？　それとも、鳥のから揚げだったかな。",
       "EN": "Ramen? $K29Gyoza$K0 combo? Or fried chicken?",
-      "Translation": "拉面？$K29饺子$K0？还是，炸鸡呢。"
+      "Translation": "拉面？$K(29)饺子$K()？还是，炸鸡呢。"
     },
     {
       "JP": "`理樹@「うーん」",

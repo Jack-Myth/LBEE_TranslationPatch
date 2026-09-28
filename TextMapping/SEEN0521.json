@@ -415,7 +415,7 @@
     {
       "JP": "近所の席の鈴が$K98手裏剣$K0のようにしゅぱっと教科書を投げる。",
       "EN": "Rin, whose seat was next to hers, hurled a textbook to her as if throwing a $K98shuriken$K0.",
-      "Translation": "在旁边的位子上的铃突然把教科书像$K98手里剑$K0一样扔过去。"
+      "Translation": "在旁边的位子上的铃突然把教科书像$K(98)手里剑$K()一样扔过去。"
     },
     {
       "JP": "一度小毬さんのお尻に当たり、ちょうど椅子の上に落ちる。",
@@ -4955,7 +4955,7 @@
     {
       "JP": "`来ヶ谷@「…あー、２ＡＰ＝ＯＰよって４ＡＰの二乗＝ＯＰの二乗、ＡＰ$[$b$b二乗$/$]＝（ｘ−３）二乗＋ｙ二乗、ＯＰ二乗＝ｘ二乗＋ｙ二乗これ代入で…」",
       "EN": "`Kurugaya@❝...Ah, 2AP equals OP, therefore 4AP^2 equals OP^2, AP^2 equals (x - 3)^2 + y^2, OP^2 equals x^2 + y^2; if we assign the value to...❞",
-      "Translation": "`来谷@「…啊ー、２ＡＰ＝ＯＰ，所以４ＡＰ平方＝ＯＰ平方、ＡＰ平方＝（ｘ－３）平方＋ｙ平方、将ＯＰ平方＝ｘ平方＋ｙ平方代入…」"
+      "Translation": "`来谷@「…啊ー、２ＡＰ＝ＯＰ，所以４ＡＰ平方＝ＯＰ平方、ＡＰ$[$b平方$]＝（ｘ－３）平方＋ｙ平方、将ＯＰ平方＝ｘ平方＋ｙ平方代入…」"
     },
     {
       "JP": "`来ヶ谷@「ていうかこれ例題じゃないか。まあ、４｛（ｘ−３）二乗＋ｙ二乗｝…」",
@@ -5220,7 +5220,7 @@
     {
       "JP": "`来ヶ谷@「$K66新渡戸$K0だ」",
       "EN": "`Kurugaya@❝$K66Nitobe$K0.❞",
-      "Translation": "`来谷@「$K66新渡户$K0」"
+      "Translation": "`来谷@「$K(66)新渡户$K()」"
     },
     {
       "JP": "`理樹@「何で僕をモデルにして新渡戸に変わるのさっ!!」",
@@ -5845,12 +5845,12 @@
     {
       "JP": "さて…今日もいくか。",
       "EN": "All right... I'll go wandering around today too.",
-      "Translation": "好…今天也要四处徘徊…"
+      "Translation": "好…今天也要四处闲逛…"
     },
     {
       "JP": "`理樹@「悪いけど、今からさすらってくるよ」",
       "EN": "`Riki@❝Sorry, I'm going to wander right now.❞",
-      "Translation": "`理树@「抱歉，我正要去徘徊…」"
+      "Translation": "`理树@「抱歉，我正要去闲逛…」"
     },
     {
       "JP": "`真人@「そうか…ふたりで遊ぶのもいいが、バトルも悪くねぇな」",
@@ -6085,7 +6085,7 @@
     {
       "JP": "`西園@「$K69海苔$K0です。おにぎりを作ったら余ってしまったので差し上げます」",
       "EN": "`Nishizono@❝$K69Nori$K0. I give them to you, since there was some left after I made onigiri.❞",
-      "Translation": "`西园@「是$K69海苔$K0。因为做饭团剩下了，所以就给你吧」"
+      "Translation": "`西园@「是$K(69)海苔$K()。因为做饭团剩下了，所以就给你吧」"
     },
     {
       "JP": "`理樹@「…うん」",
@@ -9255,7 +9255,7 @@
     {
       "JP": "`理樹@「確かにぱさぱさだけど…ん、なんだろ、$K11カステラ$K0みたいなかんじ」",
       "EN": "`Riki@❝It's definitely dry, but... hm, well, it's kind like $K11Castella$K0.❞",
-      "Translation": "`理树@「虽然确实是干巴巴的…嗯，怎么说呢，有点像$K11长崎蛋糕$K0的感觉」"
+      "Translation": "`理树@「虽然确实是干巴巴的…嗯，怎么说呢，有点像$K(11)长崎蛋糕$K()的感觉」"
     },
     {
       "JP": "`葉留佳@「あぁ、そうかも。百円お菓子のカステラっぽいよねぇこれ」",
@@ -13050,7 +13050,7 @@
     {
       "JP": "『$K7若山牧水$K0歌集』",
       "EN": "[$K7Bokusui Wakayama$K0 Poetry Collection]",
-      "Translation": "『$K7若山牧水$K0歌集』"
+      "Translation": "『$K(7)若山牧水$K()歌集』"
     },
     {
       "JP": "表紙の一番上には、そう書かれていた。",
@@ -19125,7 +19125,7 @@
     {
       "JP": "『$K87ラジヲ体操$K0第一～!!　腕をー前から上にあげて、のびのびと背伸びの運動から～!!　はいっ!!』",
       "EN": "[$K87Radio gymnastics$K0 #1! Raise your chest upwards and start stretching! All right!]",
-      "Translation": "『$K87广播体操$K0第一节～！！从把手向上伸过头顶的准备运动开始～！！来！！』"
+      "Translation": "『$K(87)广播体操$K()第一节～！！从把手向上伸过头顶的准备运动开始～！！来！！』"
     },
     {
       "JP": "`理樹@「………」",
@@ -19592,7 +19592,7 @@
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "徘徊$d休息"
+      "Translation": "闲逛$d休息"
     },
     {
       "JP": "小毬さん$dクド$d西園さん",
@@ -19602,7 +19602,7 @@
     {
       "JP": "ジュースを買いに行く$d真人と遊ぶ$dさすらう",
       "EN": "Go buy juice$dPlay with Masato$dWander",
-      "Translation": "去买果汁$d和真人玩$d徘徊"
+      "Translation": "去买果汁$d和真人玩$d闲逛"
     },
     {
       "JP": "ジュースを買いに行く$d真人と遊ぶ",
@@ -19612,7 +19612,7 @@
     {
       "JP": "ジュースを買いに行く$d真人と遊ぶ$d外の空気を吸いに行く$dさすらう",
       "EN": "Go buy juice$dPlay with Masato$dGet a breath of fresh air$dWander",
-      "Translation": "去买果汁$d和真人玩$d呼吸清新空气$d徘徊"
+      "Translation": "去买果汁$d和真人玩$d呼吸清新空气$d闲逛"
     },
     {
       "JP": "ジュースを買いに行く$d真人と遊ぶ$d外の空気を吸いに行く",
@@ -19682,7 +19682,7 @@
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "徘徊$d休息"
+      "Translation": "闲逛$d休息"
     }
   ]
 }
