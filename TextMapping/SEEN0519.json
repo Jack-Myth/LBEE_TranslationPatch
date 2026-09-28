@@ -2100,7 +2100,7 @@
     {
       "JP": "さすらおう…。それが僕の生きる道だから…。",
       "EN": "Wandering... That's my way of life...",
-      "Translation": "徘徊吧…。因为这是我的生存之道…。"
+      "Translation": "闲逛吧…。因为这是我的生存之道…。"
     },
     {
       "JP": "…ちょっと、そんな期待が持てる休み時間だった。",
@@ -4730,7 +4730,7 @@
     {
       "JP": "`理樹@「手伝いってあげたいところなんだけど、これからさすらいたくて…」",
       "EN": "`Riki@❝I'd like to help you, but I was going to wander...❞",
-      "Translation": "`理树@「我很想帮你，但我现在正在四处徘徊…」"
+      "Translation": "`理树@「我很想帮你，但我现在正在四处闲逛…」"
     },
     {
       "JP": "`三枝@「さすらいは大事ですヨ。頑張ってさすらってくださいませませ」",
@@ -4745,7 +4745,7 @@
     {
       "JP": "そうだ、さすらおう…。",
       "EN": "Alright, let's wander...",
-      "Translation": "好了，继续徘徊吧…"
+      "Translation": "好了，继续闲逛吧…"
     },
     {
       "JP": "昼食の後。",
@@ -6470,7 +6470,7 @@
     {
       "JP": "さあ、さすらおう…。",
       "EN": "All right, let's wander...",
-      "Translation": "好吧，徘徊吧…"
+      "Translation": "好吧，闲逛吧…"
     },
     {
       "JP": "ＨＲが終わり、放課後となる。",
@@ -13472,7 +13472,7 @@
     {
       "JP": "鈴を探す$d放っておく$dさすらう",
       "EN": "Look for Rin$dLeave her alone$dWander",
-      "Translation": "去找铃$d不管她$d徘徊"
+      "Translation": "去找铃$d不管她$d闲逛"
     },
     {
       "JP": "鈴を探す$d放っておく",
@@ -13497,7 +13497,7 @@
     {
       "JP": "表に出る$d真人と遊ぶ$dさすらう",
       "EN": "Go out$dPlay with Masato$dWander",
-      "Translation": "去外面$d和真人玩$d徘徊"
+      "Translation": "去外面$d和真人玩$d闲逛"
     },
     {
       "JP": "表に出る$d真人と遊ぶ",
@@ -13507,7 +13507,7 @@
     {
       "JP": "手伝う$d立ち去る$dさすらう",
       "EN": "Give her a hand$dWalk away$dWander",
-      "Translation": "帮她一把$d离开$d徘徊"
+      "Translation": "帮她一把$d离开$d闲逛"
     },
     {
       "JP": "手伝う$d立ち去る",
@@ -13517,7 +13517,7 @@
     {
       "JP": "首をつっこむ$d大人しく過ごす$dさすらう",
       "EN": "Butt in$dBehave myself$dWander",
-      "Translation": "参与其中$d安分一点$d徘徊"
+      "Translation": "参与其中$d安分一点$d闲逛"
     },
     {
       "JP": "首をつっこむ$d大人しく過ごす$d真人と遊ぶ",
@@ -13542,7 +13542,7 @@
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "徘徊$d休息"
+      "Translation": "闲逛$d休息"
     },
     {
       "JP": "手伝う$d宿題が…",

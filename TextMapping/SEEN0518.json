@@ -9105,7 +9105,7 @@
     {
       "JP": "`理樹@「私情で誠に申し訳ないのですが、これからさすらうので無理です」",
       "EN": "`Riki@❝I'm truly sorry, but I must wander around now, so I can't do it.❞",
-      "Translation": "`理树@「真的很抱歉，我现在正徘徊，所以暂时做不了」"
+      "Translation": "`理树@「真的很抱歉，我现在正闲逛，所以暂时做不了」"
     },
     {
       "JP": "`教師@「そうか…よくわからんが戦う男の目つきになっているから、仕方があるまい…」",
@@ -11920,7 +11920,7 @@
     {
       "JP": "よし、さすらうぞ。",
       "EN": "Alright, I'll wander around.",
-      "Translation": "好，去徘徊吧。"
+      "Translation": "好，去闲逛吧。"
     },
     {
       "JP": "出てこい。強敵め。",
@@ -11940,7 +11940,7 @@
     {
       "JP": "`理樹@「え？　今？　さすらってるところだけど…」",
       "EN": "`Riki@❝Huh? Right now? I'm wandering around...❞",
-      "Translation": "`理树@「啊？现在？我在徘徊…」"
+      "Translation": "`理树@「啊？现在？我在闲逛…」"
     },
     {
       "JP": "`朱鷺戸@「何考えてるの、あなた」",
@@ -14522,7 +14522,7 @@
     {
       "JP": "さすらう$d休む",
       "EN": "Wander$dTake a break",
-      "Translation": "徘徊$d休息一下"
+      "Translation": "闲逛$d休息一下"
     },
     {
       "JP": "学食に戻る$d中庭に残る",
@@ -14537,12 +14537,12 @@
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "徘徊$d休息"
+      "Translation": "闲逛$d休息"
     },
     {
       "JP": "ジュースを買いに行く$d真人と遊ぶ$dさすらう",
       "EN": "Go buy juice$dPlay with Masato$dWander",
-      "Translation": "去买果汁$d和真人玩$d徘徊"
+      "Translation": "去买果汁$d和真人玩$d闲逛"
     },
     {
       "JP": "ジュースを買いに行く$d真人と遊ぶ",
@@ -14552,7 +14552,7 @@
     {
       "JP": "引き受ける$dちょっと考える$dさすらう",
       "EN": "Take on the task$dGive it some thought$dWander",
-      "Translation": "接受$d我想一下$d徘徊"
+      "Translation": "接受$d我想一下$d闲逛"
     },
     {
       "JP": "引き受ける$dちょっと考える",
@@ -14567,7 +14567,7 @@
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "徘徊$d休息"
+      "Translation": "闲逛$d休息"
     },
     {
       "JP": "やや好き$d好き$d大好き",

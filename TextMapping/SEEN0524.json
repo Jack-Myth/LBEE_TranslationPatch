@@ -1079,7 +1079,7 @@
     {
       "JP": "`理樹@「すまない、僕は今さすらうことにしたんだ」",
       "EN": "`Riki@❝Sorry but I've decided to go wander.❞",
-      "Translation": "`理树@「抱歉，但我决定去徘徊」"
+      "Translation": "`理树@「抱歉，但我决定去闲逛」"
     },
     {
       "JP": "`理樹@「手伝ってあげたいのは山々だけど、とても出来そうにない。次の瞬間、僕らは敵同士なんだ」",
@@ -12686,7 +12686,7 @@
     {
       "JP": "ジュースを買いに行く$d真人と遊ぶ$dさすらう",
       "EN": "Go and get something to drink$dPlay with Masato$dWander",
-      "Translation": "去买点喝的$d和真人玩$d徘徊"
+      "Translation": "去买点喝的$d和真人玩$d闲逛"
     },
     {
       "JP": "ジュースを買いに行く$d真人と遊ぶ",
@@ -12696,7 +12696,7 @@
     {
       "JP": "手伝う$d見送る$dさすらう",
       "EN": "Help her out$dSee her off$dWander",
-      "Translation": "帮她一把$d目送她离开$d徘徊"
+      "Translation": "帮她一把$d目送她离开$d闲逛"
     },
     {
       "JP": "手伝う$d見送る",
@@ -12731,7 +12731,7 @@
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "徘徊$d休息"
+      "Translation": "闲逛$d休息"
     },
     {
       "JP": "[(#297==0),]小毬$d[(#298==0),]鈴$d[(#299==0),]葉留佳$d[(#300==0),]クド$d[(#301==0),]来ヶ谷$d[(#302==0),]美魚$d[(#303==0),]考える",

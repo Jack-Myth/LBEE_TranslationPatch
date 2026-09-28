@@ -40,12 +40,12 @@
     {
       "JP": "よし、強い相手を求めて、校内をさまよってみよう。",
       "EN": "Seeking a strong opponent, I wander around the campus.",
-      "Translation": "寻找强大的对手，我在校园里徘徊。"
+      "Translation": "寻找强大的对手，我在校园里闲逛。"
     },
     {
       "JP": "よし、強い相手を求めて、あてなくさまよってみよう。",
       "EN": "Looking around for a strong opponent, I wander aimlessly.",
-      "Translation": "寻找强大的对手，我漫无目的地徘徊。"
+      "Translation": "寻找强大的对手，我漫无目的地闲逛。"
     },
     {
       "JP": "乗り気はしないけど、仕方なく謙吾を探す。",
@@ -425,12 +425,12 @@
     {
       "JP": "ふぅ…さすらうのはこのぐらいにして教室に戻ろう。",
       "EN": "Phew... I guess I'll head back to class.",
-      "Translation": "呼…徘徊到此为止，回教室吧。"
+      "Translation": "呼…闲逛到此为止，回教室吧。"
     },
     {
       "JP": "ふぅ…さすらうのはこのぐらいにして戻ろう。",
       "EN": "Phew... I guess this is enough wandering about.",
-      "Translation": "呼…徘徊到此为止，回去吧。"
+      "Translation": "呼…闲逛到此为止，回去吧。"
     },
     {
       "JP": "ふぅ…部屋に戻ろう。",
@@ -452,7 +452,7 @@
     {
       "JP": "もっとさすらう$dそろそろ戻る",
       "EN": "Wander around some more$dGo back",
-      "Translation": "继续徘徊$d回去"
+      "Translation": "继续闲逛$d回去"
     }
   ]
 }
