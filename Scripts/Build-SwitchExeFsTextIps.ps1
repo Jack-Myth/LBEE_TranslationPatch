@@ -148,6 +148,50 @@ while ($buildIdLength -gt 0 -and $buildIdBytes[$buildIdLength - 1] -eq 0) { $bui
 if ($buildIdLength -eq 0) { throw 'NSO Build ID is empty.' }
 $buildId = [BitConverter]::ToString($buildIdBytes, 0, $buildIdLength).Replace('-', '')
 
+# Stop counting at NUL and exclude NUL padding when appending a UTF-8 range.
+# Both code paths were verified only for this game build.
+if ($buildId -cne 'DF3FAB24E1D0C6E8F5EBB006009A2B1CCAAEFF0D') {
+    throw "Unsupported Build ID for the UTF-8 counter fix: $buildId."
+}
+$textStart = [BitConverter]::ToInt32($original, 0x10)
+$textAddress = [BitConverter]::ToInt32($original, 0x14)
+$textSize = [BitConverter]::ToInt32($original, 0x18)
+# Rewrite B4470's UTF-8 branch in place, using its shared epilogue at B44A4.
+# Scan at most [begin,end), then pass only the bytes before NUL to the existing
+# UTF-8 copy / UTF-16 conversion routines. The UTF-16 input branch is untouched.
+# The last instruction uses one verified padding word before the next function.
+$appendBeforeHex = '01 21 40 A9 02 01 01 EB 20 01 00 54 68 42 40 39 1F 0D 00 71 40 01 00 54 68 00 00 35 E8 03 1F 32 68 42 00 39 E0 03 13 AA 99 84 FF 97 FD 7B 41 A9 E0 03 13 AA F3 07 42 F8 C0 03 5F D6 E0 03 13 AA FB 83 FF 97 FD 7B 41 A9 E0 03 13 AA F3 07 42 F8 C0 03 5F D6 00 00 00 00'
+$appendAfterHex = '01 21 40 A9 02 00 80 D2 3F 00 08 EB 22 FF FF 54 29 68 62 38 A9 00 00 34 42 04 00 91 29 00 02 8B 3F 01 08 EB 63 FF FF 54 42 FE FF B4 68 42 40 39 1F 0D 00 71 C0 00 00 54 48 00 00 35 E8 03 1F 32 68 42 00 39 92 84 FF 97 EA FF FF 17 E0 03 13 AA F7 83 FF 97 E7 FF FF 17'
+$codePatches = @(
+    [pscustomobject]@{
+        Name = 'Utf8CounterStopAtNul'; Address = 0xCC710; Offset = 0L
+        Before = [byte[]](0x6A, 0x00, 0x00, 0x34) # cbz w10, 0xCC71C
+        After = [byte[]](0x6A, 0x02, 0x00, 0x34)  # cbz w10, 0xCC75C (ret)
+    },
+    [pscustomobject]@{
+        Name = 'Utf8AppendStopAtNul'; Address = 0xB44B4; Offset = 0L
+        Before = [byte[]]@($appendBeforeHex.Split(' ') | ForEach-Object { [Convert]::ToByte($_, 16) })
+        After = [byte[]]@($appendAfterHex.Split(' ') | ForEach-Object { [Convert]::ToByte($_, 16) })
+    }
+)
+if ($textStart -lt 0x100 -or $textSize -le 0 -or
+    [long]$textStart + $textSize -gt $original.Length) {
+    throw 'Invalid NSO .text bounds.'
+}
+foreach ($codePatch in $codePatches) {
+    if ($codePatch.Before.Length -ne $codePatch.After.Length -or
+        $codePatch.Address -lt $textAddress -or
+        [long]$codePatch.Address + $codePatch.Before.Length -gt [long]$textAddress + $textSize) {
+        throw "$($codePatch.Name) is outside the NSO .text segment or changes code size."
+    }
+    $codePatch.Offset = [long]$textStart + $codePatch.Address - $textAddress
+    for ($i = 0; $i -lt $codePatch.Before.Length; $i++) {
+        if ($original[$codePatch.Offset + $i] -ne $codePatch.Before[$i]) {
+            throw "Unexpected $($codePatch.Name) code at file offset 0x$('{0:X}' -f $codePatch.Offset)."
+        }
+    }
+}
+
 $items = @(Get-Content -LiteralPath $MappingPath -Raw -Encoding UTF8 | ConvertFrom-Json)
 if ($items.Count -eq 0) { throw 'Mapping JSON has no rows.' }
 $patched = [byte[]]$original.Clone()
@@ -249,8 +293,11 @@ for ($i = 0; $i -lt $items.Count; $i++) {
     $rows.Add([pscustomobject]$row)
 }
 
+if ($counts.Patched -eq 0) { throw 'No Japanese text could be patched.' }
+foreach ($codePatch in $codePatches) {
+    [Array]::Copy($codePatch.After, 0, $patched, $codePatch.Offset, $codePatch.After.Length)
+}
 $ips = [SwitchExeFsJapaneseIps]::MakeIps($original, $patched)
-if ($ips.Length -eq 8) { throw 'No Japanese text could be patched.' }
 $verified = [SwitchExeFsJapaneseIps]::ApplyIps($original, $ips)
 for ($i = 0; $i -lt $patched.Length; $i++) {
     if ($verified[$i] -ne $patched[$i]) { throw "IPS verification failed at 0x$('{0:X}' -f $i)." }
@@ -271,6 +318,11 @@ $report = [ordered]@{
     InputNso = $NsoPath; Mapping = $MappingPath; SourceField = 'JP'; BuildId = $buildId
     RoDataOffset = ('0x{0:X}' -f $roStart); RoDataSize = $roSize
     IpsPath = $ipsPath; FontCharactersPath = $charsetPath
+    CodePatches = @($codePatches | ForEach-Object { [ordered]@{
+        Name = $_.Name; Address = ('0x{0:X}' -f $_.Address); Offset = ('0x{0:X}' -f $_.Offset)
+        Before = [BitConverter]::ToString($_.Before); After = [BitConverter]::ToString($_.After)
+    }
+    })
     Counts = $counts; Rows = $rows.ToArray()
 }
 [IO.File]::WriteAllBytes($ipsPath, $ips)
@@ -279,6 +331,7 @@ $report = [ordered]@{
 Write-Host "IPS: $ipsPath"
 Write-Host "Report: $reportPath"
 Write-Host "Font characters: $charsetPath"
+Write-Host 'UTF-8 fixes: counting and range appending stop at NUL.'
 Write-Host "Rows: $($items.Count); patched: $($counts.Patched) (zero slack: $($counts.SlackPatched)); too long: $($counts.TooLong); missing JP: $($counts.MissingJapanese); not found: $($counts.NotFound); conflict: $($counts.Conflict)"
 if ($counts.TooLong -or $counts.NotFound -or $counts.MissingJapanese -or $counts.Conflict -or $counts.Invalid) {
     Write-Warning 'The IPS contains only safely matched Japanese strings. Review the report before distribution.'

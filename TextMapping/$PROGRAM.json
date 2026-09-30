@@ -1975,6 +1975,11 @@
     "JP": "%sは『%s』の称号を得た！"
   },
   {
+    "Source": "%s received the title❝Provisional Ruler of the Battle Rankings❞！",
+    "Target": "%s获得了『战斗排位赛暂定王者』的称号！",
+    "JP": "%sは『バトルランキング暫定王者』の称号を得た！"
+  },
+  {
     "Source": "System data is being saved.",
     "Target": "系统数据已保存。",
     "JP": "システムデータをセーブ中です。"
@@ -2041,8 +2046,13 @@
   },
   {
     "Source": "%s summons %s to her aid!",
-    "Target": "%s召唤了动物前来协助！",
-    "JP": null
+    "Target": "%s召唤了%s前来协助！",
+    "JP": "%sの元に『%s』が駆けつけた！"
+  },
+  {
+    "Source": "%sの元に『%s』が現れた！",
+    "Target": "%s身边出现了%s！",
+    "JP": "%sの元に『%s』が現れた！"
   },
   {
     "Source": "Bon Lantern Festival Gift",
@@ -2746,7 +2756,7 @@
   },
   {
     "Source": "%s: %s picked up!",
-    "Target": "%s拿到了道具！",
+    "Target": "%s拿到了%s！",
     "JP": "%sは『%s』を手に取った！"
   },
   {
@@ -3061,8 +3071,8 @@
   },
   {
     "Source": "%s gathers %s!",
-    "Target": "%s选好了道具！",
-    "JP": "%sは『%s』を選び取った！"
+    "Target": "%s周围聚集了%s！",
+    "JP": "%sの元に『%s』が集まった！"
   },
   {
     "Source": "Position of　　　",
@@ -3141,8 +3151,8 @@
   },
   {
     "Source": "%s: %s chosen!",
-    "Target": "%s选择了道具！",
-    "JP": null
+    "Target": "%s选择了%s！",
+    "JP": "%sは『%s』を選び取った！"
   },
   {
     "Source": "Wait a little.",
