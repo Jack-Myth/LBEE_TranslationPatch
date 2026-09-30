@@ -260,6 +260,11 @@
     "JP": "%sは『%s』を返上して『バトルランキング暫定王者』の称号を得た！"
   },
   {
+    "Source": "%s received the title❝Provisional Ruler of the Battle Rankings❞！",
+    "Target": "%s获得了『战斗排位赛暂定王者』的称号！",
+    "JP": "%sは『バトルランキング暫定王者』の称号を得た！"
+  },
+  {
     "Source": "Give it a rest already, think about those lifeforms with 8 or 10 feet sometimes too.",
     "Target": "够了，偶尔想想那些有8只或10只脚的生命体吧。",
     "JP": "「もう足が１５本生えた未知の生物はいいだろ、少しは八本や十本の足の生物のことも考えろよ」"
